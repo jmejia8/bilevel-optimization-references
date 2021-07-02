@@ -1,0 +1,43 @@
+.reference{
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: solid 1px rgb(230, 230, 230);
+}
+
+.reference:hover{
+  background: rgb(240, 240, 240);
+}
+
+
+/*****   search  *****/
+.result-title a { text-decoration: none; }
+.result-title a:hover { text-decoration: underline; }
+.result-preview { color: #808080; }
+.resultCount { color: #808080; }
+.result-query { font-weight: bold; }
+#lunrSearchForm {
+  margin-top: 1em;
+  text-align:center;
+}
+
+
+.search-input{
+  padding:10px;
+  width: 60%;
+  border: 2px solid gray;
+}
+
+.btn-search{
+  margin-top: 1em;
+  background: rgb(50,50,50);
+  padding: 10px;
+  border: 2px solid gray;
+  color:white;
+  min-width:10em;
+  cursor:pointer;
+}
+
+
+.btn-search:hover{
+  background: rgb(100,100,100);
+}
