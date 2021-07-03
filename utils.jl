@@ -76,7 +76,13 @@ function load_references()
 
   sort!(data, lt = (a, b) -> xyear(a) > xyear(b), by = x -> data[x])
 
+  MAX_RECENT_PAPERS = 3
+  i = 0
+
+  year_old = ""
   for k in keys(data)
+    
+
     entry = data[k]
 
 
@@ -85,6 +91,11 @@ function load_references()
     title = xtitle(entry) |> tex2unicode
     published_in = xin(entry) |> tex2unicode |> strip
     year = xyear(entry)
+    if year != year_old
+      println("## ", year)
+      year_old = year
+    end
+    
 
     raw_bib = """
     ~~~
@@ -98,6 +109,12 @@ function load_references()
     ~~~
     """
     println(raw_bib )
+
+
+    i += 1
+    if i > MAX_RECENT_PAPERS
+      break
+    end
   end
 
 end

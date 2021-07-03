@@ -7,9 +7,32 @@
   </div>
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Home</a>
-    <a class="sidebar-nav-item {{ispage menu1/*}}active{{end}}" href="/menu1/">Code blocks</a>
-    <a class="sidebar-nav-item {{ispage menu2/*}}active{{end}}" href="/menu2/">More goodies</a>
-    <a class="sidebar-nav-item {{ispage menu3/*}}active{{end}}" href="/menu3/">Tags</a>
+    <a class="sidebar-nav-item {{ispage A/*}}active{{end}}" href="/A/">A</a>
+    <a class="sidebar-nav-item {{ispage B/*}}active{{end}}" href="/B/">B</a>
+    <a class="sidebar-nav-item {{ispage C/*}}active{{end}}" href="/C/">C</a>
+    <a class="sidebar-nav-item {{ispage D/*}}active{{end}}" href="/D/">D</a>
+    <a class="sidebar-nav-item {{ispage E/*}}active{{end}}" href="/E/">E</a>
+    <a class="sidebar-nav-item {{ispage F/*}}active{{end}}" href="/F/">F</a>
+    <a class="sidebar-nav-item {{ispage G/*}}active{{end}}" href="/G/">G</a>
+    <a class="sidebar-nav-item {{ispage H/*}}active{{end}}" href="/H/">H</a>
+    <a class="sidebar-nav-item {{ispage I/*}}active{{end}}" href="/I/">I</a>
+    <a class="sidebar-nav-item {{ispage J/*}}active{{end}}" href="/J/">J</a>
+    <a class="sidebar-nav-item {{ispage K/*}}active{{end}}" href="/K/">K</a>
+    <a class="sidebar-nav-item {{ispage L/*}}active{{end}}" href="/L/">L</a>
+    <a class="sidebar-nav-item {{ispage M/*}}active{{end}}" href="/M/">M</a>
+    <a class="sidebar-nav-item {{ispage N/*}}active{{end}}" href="/N/">N</a>
+    <a class="sidebar-nav-item {{ispage O/*}}active{{end}}" href="/O/">O</a>
+    <a class="sidebar-nav-item {{ispage P/*}}active{{end}}" href="/P/">P</a>
+    <a class="sidebar-nav-item {{ispage Q/*}}active{{end}}" href="/Q/">Q</a>
+    <a class="sidebar-nav-item {{ispage R/*}}active{{end}}" href="/R/">R</a>
+    <a class="sidebar-nav-item {{ispage S/*}}active{{end}}" href="/S/">S</a>
+    <a class="sidebar-nav-item {{ispage T/*}}active{{end}}" href="/T/">T</a>
+    <a class="sidebar-nav-item {{ispage U/*}}active{{end}}" href="/U/">U</a>
+    <a class="sidebar-nav-item {{ispage V/*}}active{{end}}" href="/V/">V</a>
+    <a class="sidebar-nav-item {{ispage W/*}}active{{end}}" href="/W/">W</a>
+    <a class="sidebar-nav-item {{ispage X/*}}active{{end}}" href="/X/">X</a>
+    <a class="sidebar-nav-item {{ispage Y/*}}active{{end}}" href="/Y/">Y</a>
+    <a class="sidebar-nav-item {{ispage Z/*}}active{{end}}" href="/Z/">Z</a>
   </nav>
   <div class="sidebar-item">
     <p>&copy; {{fill author}}.</p>
@@ -25,6 +48,12 @@ content to avoid any CSS collisions with our real content. -->
         <a href="/" title="Home">{{fill sitename}}</a>
         <small>{{fill siteinfo}}</small>
       </h3>
+
+      <form id="lunrSearchForm" name="lunrSearchForm">
+        <input class="search-input" name="q" placeholder="Enter search term" type="text">
+        <br>
+        <input class="btn-search" type="submit" value="Search" formaction="/search/index.html">
+      </form>
     </div>
   </div>
 

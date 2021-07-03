@@ -59,6 +59,36 @@ function readHtml(root, file, fileId) {
     return data;
 }
 
+
+function readHtmlModified(root, file, fileId) {
+    var filename = path.join(root, file);
+    var txt = fs.readFileSync(filename).toString();
+    var $ = cheerio.load(txt);
+    //var title = $("title").text();
+    var h3 = $("h3", ".reference");
+    
+
+    var list = [];
+    var i = 0;
+    h3.each(function (index, element) {
+        var title = $(element).text();
+        var body = $('ul', $(element).parent()).text();
+        // node id
+        var tid = $(element).attr("id");
+        var data = {
+            "id": fileId + i,
+            "l": filename,
+            "t": title,
+            "b": body,
+            "tid": tid
+        }
+        list.push(data)
+        i += 1;
+    });
+
+    return list;
+}
+
 function buildIndex(docs) {
     var idx = lunr(function () {
         this.ref('id');
@@ -77,6 +107,7 @@ function buildPreviews(docs) {
         var doc = docs[i];
         result[doc["id"]] = {
             "t": doc["t"],
+            "tid": doc["tid"],
             "l": doc["l"].replace(/^\.\.\/\.\.\/__site/gi, '/' + PATH_PREPEND)
         }
     }
@@ -86,8 +117,17 @@ function buildPreviews(docs) {
 function main() {
     files = findHtml(HTML_FOLDER);
     var docs = [];
+    var id = 1;
     for (var i = 0; i < files.length; i++) {
-        docs.push(readHtml(HTML_FOLDER, files[i], i));
+        var data = readHtmlModified(HTML_FOLDER, files[i], id)
+        id += data.length;
+        for (var j = 0; j < data.length; j++) {
+            if (data[j] == undefined) {
+                continue;
+            }
+
+            docs.push(data[j]);
+        }
     }
     var idx  = buildIndex(docs);
     var prev = buildPreviews(docs);

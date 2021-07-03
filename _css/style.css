@@ -8,6 +8,10 @@
   background: rgb(240, 240, 240);
 }
 
+*:target {
+    background-color: yellow;
+}
+
 
 /*****   search  *****/
 .result-title a { text-decoration: none; }

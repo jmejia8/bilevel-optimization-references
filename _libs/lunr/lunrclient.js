@@ -28,8 +28,8 @@ function parseLunrResults(results) {
         var id = results[i]["ref"];
         var item = PREVIEW_LOOKUP[id]
         var title = item["t"];
-        var preview = item["p"];
-        var link = item["l"].replace("__site/", "");
+        var tid = item["tid"];
+        var link = item["l"].replace("__site/", "") + '#' + tid;
         var result = ('<li><span class="result-title"><a href="' + link + '">'
                     + title + '</a></span>');
         html.push(result);

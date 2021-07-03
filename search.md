@@ -1,6 +1,8 @@
-@def title = "Search ⋅ YourWebsite"
+@def title = "Search ⋅ Bilevel Optimization"
 
 ## Search
+
+
 
 Number of results found: ~~~<span id="resultCount"></span>~~~
 
