@@ -1,6 +1,8 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
+
+@def hasplotly = false
 +++
 author = "Jesús Mejía"
 mintoclevel = 2

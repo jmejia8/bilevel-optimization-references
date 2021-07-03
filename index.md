@@ -1,9 +1,12 @@
 @def title = "Bilevel Optimization Repository"
 @def tags = ["references"]
+@def hasplotly = true
 
 
 
+<!--
 # Recent References
+
 
 ```julia:references
 #hideall
@@ -15,3 +18,16 @@ load_references()
 ```
 
 \textoutput{references}
+-->
+
+# Interest Over Time
+
+```julia:ex1
+#hideall
+include("plot-statistics.jl")
+
+interest_over_time()
+```
+
+\textoutput{ex1}
+
