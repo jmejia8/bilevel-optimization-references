@@ -45,3 +45,13 @@
 .btn-search:hover{
   background: rgb(100,100,100);
 }
+
+/*logo*/
+.logo-container{
+  text-align:center;
+  margin-top:5em;
+}
+
+.logo-container img{
+  display: inline-block;
+}

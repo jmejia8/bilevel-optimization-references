@@ -1,8 +1,11 @@
 include("utils.jl")
 
+MD_PATH = "references"
 
 
 function main()
+  !isdir(MD_PATH) && mkdir(MD_PATH)
+
   data = import_bibtex("references-bilevel.bib")
 
   sortrule(a, b) = begin
@@ -44,8 +47,8 @@ function main()
 
     if letter != letter_old
       l = uppercase(letter_old)
-      fname = "$l.md"
-      @show fname
+      fname = joinpath(MD_PATH, "$l.md")
+      println("Generating ", fname)
 
 
       head = """
