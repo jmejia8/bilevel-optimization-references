@@ -28,9 +28,9 @@ version = "0.1.17"
 
 [[Bibliography]]
 deps = ["BibInternal", "BibParser", "DataStructures"]
-git-tree-sha1 = "4195e5fa027960704658c65c85ae1a65672d9d25"
+git-tree-sha1 = "5d1cc36d092a1996854662e2552d3d7fd495ea29"
 uuid = "f1be7e48-bf82-45af-a471-ae754a193061"
-version = "0.2.13"
+version = "0.2.14"
 
 [[BinDeps]]
 deps = ["Libdl", "Pkg", "SHA", "URIParser", "Unicode"]
@@ -117,9 +117,9 @@ version = "0.8.4"
 
 [[Franklin]]
 deps = ["Dates", "DelimitedFiles", "DocStringExtensions", "ExprTools", "FranklinTemplates", "HTTP", "Literate", "LiveServer", "Logging", "Markdown", "NodeJS", "OrderedCollections", "Pkg", "REPL", "Random"]
-git-tree-sha1 = "31ae44c9ffa9aaf6ad5889388db5c5dd75d7bac2"
+git-tree-sha1 = "6980906f1c87a38006846dd8a2ba45c63c977d1a"
 uuid = "713c75ef-9fc9-4b05-94a9-213340da978e"
-version = "0.10.40"
+version = "0.10.41"
 
 [[FranklinTemplates]]
 deps = ["LiveServer"]

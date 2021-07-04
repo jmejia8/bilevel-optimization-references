@@ -1,5 +1,7 @@
 [deps]
 Bibliography = "f1be7e48-bf82-45af-a471-ae754a193061"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
 Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
 PlotlyJS = "f0f68f2c-4968-5e81-91da-67840de0976a"
