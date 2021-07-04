@@ -1,3 +1,22 @@
+# constants
+BIB_FOLDER      = "bib-files"  # contains bib files
+MD_PATH         = "references" # Markdown files contaning references
+
+STATISTICS_FILE = "txt/stats.txt"           # contains data to gen. stats
+SAVED_DOI_URIS  = "txt/saved-doi-uris.txt"  # corresponding DOIs with bib
+BANNED_DOI_URIS = "txt/banned-doi-uris.txt" # DOIs unable to get bib
+NEW_DOI_URIS    = "txt/doi-uris.txt"        # New DOIs to be downloaded
+
+
+import Bibliography: xnames, xyear, xlink, xtitle, xin, import_bibtex
+import Bibliography
+using Unicode
+
+# engine
+include("scripts/bibs-to-md.jl")
+include("scripts/get-bib-from-doi.jl")
+include("scripts/plot-statistics.jl")
+
 function hfun_bar(vname)
   val = Meta.parse(vname[1])
   return round(sqrt(val), digits=2)
@@ -14,12 +33,6 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
-
-
-import Bibliography: xnames, xyear, xlink, xtitle, xin, import_bibtex
-import Bibliography
-using Unicode
-
 
 tex2unicode_replacements = (
     "---" => "—", # em dash needs to go first
@@ -60,6 +73,9 @@ tex2unicode_replacements = (
     # Sources : https://www.compart.com/en/unicode/U+0131 enter the unicode character into the search box
 )
 
+
+linkify(text, link) = isempty(link) ? text : "[$text]($link)"
+
 function tex2unicode(s)
     for replacement in tex2unicode_replacements
         s = replace(s, replacement)
@@ -68,54 +84,10 @@ function tex2unicode(s)
 end
 
 
-linkify(text, link) = isempty(link) ? text : "[$text]($link)"
-
 #hideall
-function load_references()
-  data = import_bibtex("references-bilevel.bib")
 
-  sort!(data, lt = (a, b) -> xyear(a) > xyear(b), by = x -> data[x])
-
-  MAX_RECENT_PAPERS = 3
-  i = 0
-
-  year_old = ""
-  for k in keys(data)
-    
-
-    entry = data[k]
-
-
-    authors = xnames(entry) |> tex2unicode
-    link = xlink(entry)
-    title = xtitle(entry) |> tex2unicode
-    published_in = xin(entry) |> tex2unicode |> strip
-    year = xyear(entry)
-    if year != year_old
-      println("## ", year)
-      year_old = year
-    end
-    
-
-    raw_bib = """
-    ~~~
-    <div class="reference">
-    ~~~
-    ### $title
-    - **Authors**: $authors
-    - **Published in**: $(linkify(published_in, link))
-    ~~~
-    </div>
-    ~~~
-    """
-    println(raw_bib )
-
-
-    i += 1
-    if i > MAX_RECENT_PAPERS
-      break
-    end
-  end
-
+function generate_content()
+  get_bib_files()
+  generate_md()
 end
 

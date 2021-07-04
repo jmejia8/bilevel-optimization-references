@@ -24,7 +24,8 @@ load_references()
 
 ```julia:ex1
 #hideall
-include("plot-statistics.jl")
+include("utils.jl")
+
 
 interest_over_time()
 ```

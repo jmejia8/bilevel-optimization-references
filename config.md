@@ -4,9 +4,9 @@ Add here global page variables to use throughout your website.
 
 @def hasplotly = false
 @def menu_items = [(c, "/references/$c/") for c in Char.(65:90)]
-
 +++
 author = "Jesús Mejía"
+author_twitter = "https://twitter.com/_jmejia"
 mintoclevel = 2
 sitename = "Bilevel Optimization"
 siteinfo = "References"
