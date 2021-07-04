@@ -2,12 +2,10 @@ using HTTP
 using Bibliography
 import DelimitedFiles: readdlm, writedlm
 
-BIB_FOLDER = "bib-files"
-
 #=
 using Pitaya
 
-res = works(query="multilevel optimization", limit=500)
+res = works(query="bilevel optimization", limit=500)
 
 for item in res["message"]["items"]
    println(item["URL"])
@@ -33,14 +31,24 @@ function move_bib_to_dirs()
 
     isdir(bib) && (continue)
 
-    dir = string(uppercase(file[1]))
-    if !(dir in dirs)
-      dir = "Z"
+    data = import_bibtex(bib)
+
+    for k in keys(data)
+      entry = data[k]
+      title = xtitle(entry) |> strip
+
+
+      dir = length(title) > 0 ? string(uppercase(title[1])) : "Z"
+      if !(dir in dirs)
+        dir = "Z"
+      end
+
+      bib_new = joinpath(BIB_FOLDER, dir, file)
+      println(bib, " --> " , bib_new)
+      mv(bib, bib_new)
+      break
     end
-    
-    bib_new = joinpath(BIB_FOLDER, dir, file)
-    println(bib, " --> " , bib_new)
-    mv(bib, bib_new)
+
   end
 
   @info "Done!"
@@ -127,13 +135,11 @@ function bib_id_to_fname(bib_id)
 end
 
 
-SAVED_DOI_URIS = "saved-doi-uris.txt"
-BANNED_DOI_URIS = "banned-doi-uris.txt"
 
 function download_save_bib()
   !isdir(BIB_FOLDER) && mkdir(BIB_FOLDER)
 
-  doi_uris = readdlm("doi-uris.txt")
+  doi_uris = readdlm(NEW_DOI_URIS)
 
   if isfile(SAVED_DOI_URIS)
     doi_uris_saved = readdlm(SAVED_DOI_URIS)[:,1]
@@ -197,11 +203,8 @@ function download_save_bib()
 
 end
 
-function main()
-  #download_save_bib()
+function get_bib_files()
+  download_save_bib()
   move_bib_to_dirs()
 end
-
-
-main()
 
