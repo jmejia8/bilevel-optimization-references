@@ -1,4 +1,4 @@
-@def title = "Search ⋅ Bilevel Optimization"
+@def title = "Search"
 
 ## Search
 

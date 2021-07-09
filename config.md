@@ -8,8 +8,10 @@ Add here global page variables to use throughout your website.
 author = "Jesús Mejía"
 author_twitter = "https://twitter.com/_jmejia"
 mintoclevel = 2
-sitename = "Bilevel Optimization"
-siteinfo = "References"
+sitename = "Bilevel Optimization Bibliography"
+siteinfo = "Thousands of bibliographic references on bi-level optimization. Bi-level optimization consists of solving an optimization problem with another optimization problem as a constraint."
+keywords = "bibliography, references,bilevel optimization"
+domain = "repository.bi-level.org"
 
 
 # Add here files or directories that should be ignored by Franklin, otherwise

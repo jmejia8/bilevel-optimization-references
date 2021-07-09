@@ -1,18 +1,41 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  {{if hasmath}} {{insert head_katex.html }}     {{end}}
-  {{if hascode}} {{insert head_highlight.html }}   {{end}}
-  {{insert style.html}}
-  {{if hasplotly}} <script src="/libs/plotly/plotly.min.js"></script> {{end}}
-  {{isdef title}} <title>{{fill title}}</title>  {{end}}
+    {{if hasmath}} {{insert head_katex.html }}     {{end}}
+    {{if hascode}} {{insert head_highlight.html }}   {{end}}
+    {{insert style.html}}
+    {{if hasplotly}} <script src="/libs/plotly/plotly.min.js"></script> {{end}}
+    {{isdef title}} <title>{{fill title}} ⋅ {{fill sitename}}</title>  {{end}}
 
 
-</head>
-<body>
+    <link rel="icon" type="image/png" sizes="32x32" href="https://bi-level.org/wp-content/themes/wp-bilevel/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://bi-level.org/wp-content/themes/wp-bilevel/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://bi-level.org/wp-content/themes/wp-bilevel/favicon-16x16.png">
+
+    <link rel="icon" href="https://bi-level.org/wp-content/themes/wp-bilevel/favicon.ico" > 
+    <link rel="shortcut icon" href="https://bi-level.org/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="https://bi-level.org/favicon.ico" type="image/x-icon">
+
+
+    <meta name="description" content="{{fill siteinfo}}"/>
+    <meta name="keywords" content="{{fill keywords}}" />
+    <meta property="og:site_name" content="{{fill title}} ⋅ {{fill sitename}}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{fill title}}" />
+    <meta property="og:description" content="{{fill siteinfo}}" />
+    <meta property="og:url" content="https://repository.bi-level.org/" />
+    <meta property="article:published_time" content="2021-07-06T00:51:49Z" />
+    <meta property="article:modified_time" content="2021-07-08T00:54:37Z" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:domain" content="{{fill domain}}" />
+    <meta property="og:image" content="https://bi-level.org/wp-content/uploads/2021/07/newplot-300x200.png"/>
+    <meta name="twitter:title" content="{{fill title}}" />
+
+  </head>
+  <body>
 
 {{insert sidebar.html}}
 <!-- Content appended here -->

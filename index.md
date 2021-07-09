@@ -1,4 +1,4 @@
-@def title = "Bilevel Optimization Repository"
+@def title = "Home"
 @def tags = ["references"]
 @def hasplotly = true
 
