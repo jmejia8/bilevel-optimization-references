@@ -289,6 +289,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Projection-based Reformulation and Decomposition Algorithm for A Class of Mixed-Integer Bilevel Linear Programs
+- **Authors**: Dajun Yue, Fengqi You
+- **Published in**: [26th European Symposium on Computer Aided Process Engineering, 481–486, 2016.](https://doi.org/10.1016/b978-0-444-63428-3.50085-0)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Pessimistic bilevel optimization model for risk-averse production-distribution planning
 - **Authors**: Yue Zheng, Guangquan Zhang, Jialin Han, Jie Lu
 - **Published in**: [Information Sciences, 372, 677–689, 2016.](https://doi.org/10.1016/j.ins.2016.08.033)
@@ -496,6 +505,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Parametric Integer Programming Algorithm for Bilevel Mixed Integer Programs
+- **Authors**: M. Köppe, M. Queyranne, C. T. Ryan
+- **Published in**: [Journal of Optimization Theory and Applications, 146(1), 137–150, 2010.](https://doi.org/10.1007/s10957-010-9668-3)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Planning Regional Water Resources System Using an Interval Fuzzy Bi-Level Programming Method
 - **Authors**: Y. Lv
 - **Published in**: [Journal of Environmental Informatics, 43–56, 2010.](https://doi.org/10.3808/jei.201000177)
@@ -589,6 +607,15 @@ hascode = false
 ### Practical Aspects of Multiscale Optimization Methods for VLSICAD
 - **Authors**: Robert Michael Lewis, Stephen G. Nash
 - **Published in**: [Multilevel Optimization in VLSICAD, 265–291, 2003.](https://doi.org/10.1007/978-1-4757-3748-6_7)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Planar Location Problems with Polyhedral Barriers
+- **Authors**: Kathrin Klamroth
+- **Published in**: [Single-Facility Location Problems with Barriers, 57–83, 2002.](https://doi.org/10.1007/0-387-22707-5_5)
 ~~~
 </div>
 ~~~

@@ -19,6 +19,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Hierarchical Facility Location Problems
+- **Authors**: Ivan Contreras, Camilo Ortiz-Astorquiza
+- **Published in**: [Location Science, 365–389, 2019.](https://doi.org/10.1007/978-3-030-32177-2_13)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### High-efficiency and broadband photonic polarization rotator based on multilevel shape optimization
 - **Authors**: Nicolas Lebbe, Alain Glière, Karim Hassan
 - **Published in**: [Optics Letters, 44(8), 1960, 2019.](https://doi.org/10.1364/ol.44.001960)
@@ -226,6 +235,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Hierarchical bilevel image compression based on cutset sampling
+- **Authors**: Shengxin Zha, Thrasyvoulos N. Pappas, David L. Neuhoff
+- **Published in**: [2012 19th IEEE International Conference on Image Processing, 2012.](https://doi.org/10.1109/icip.2012.6467410)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Hybrid Genetic Algorithm for Inventory Management Based on Postponement Strategy and Bilevel Programming Model
 - **Authors**: Bingbing Liu, Zhongping Wan
 - **Published in**: [2011 International Conference on Management and Service Science, 2011.](https://doi.org/10.1109/icmss.2011.5998250)
@@ -301,6 +319,15 @@ hascode = false
 ### High-Level Synthesis for Low Power
 - **Authors**: Anand Raghunathan, Niraj K. Jha, Sujit Dey
 - **Published in**: [High-Level Power Analysis and Optimization, 115–153, 1998.](https://doi.org/10.1007/978-1-4615-5433-2_5)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Heuristic algorithms for the bilevel origin-destination matrix estimation problem
+- **Authors**: Hai Yang
+- **Published in**: [Transportation Research Part B: Methodological, 29(4), 231–242, 1995.](https://doi.org/10.1016/0191-2615(95)00003-v)
 ~~~
 </div>
 ~~~

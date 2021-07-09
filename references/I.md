@@ -172,9 +172,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Improving the Performance of the Bilevel Solution for the Continuous Network Design Problem
+- **Authors**: Ozgur Baskan, Cenk Ozan, Mauro Dell’Orco, Mario Marinelli
+- **Published in**: [PROMET - Traffic&Transportation, 30(6), 709–720, 2018.](https://doi.org/10.7307/ptt.v30i6.2789)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Intelligent Two-Level Optimization and Model Predictive Control of Degrading Plants
 - **Authors**: Mincho Hadjiski, Alexandra Grancharova, Kosta Boshnakov
 - **Published in**: [Learning Systems: From Theory to Practice, 117–134, 2018.](https://doi.org/10.1007/978-3-319-75181-8_6)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Infinite-horizon multi-leader-follower incentive stackelberg games for linear stochastic systems with H<inf>∞</inf> constraint
+- **Authors**: Mostak Ahmed, Hiroaki Mukaidani, Tadashi Shima
+- **Published in**: [2017 56th Annual Conference of the Society of Instrument and Control Engineers of Japan (SICE), 2017.](https://doi.org/10.23919/sice.2017.8105454)
 ~~~
 </div>
 ~~~
@@ -361,6 +379,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Integrating demand response market into energy/reserve market: A bilevel approach
+- **Authors**: Javad Saebi, Mohammad Hossein Javidi, Duy Thanh Nguyen
+- **Published in**: [2014 Smart Grid Conference (SGC), 2014.](https://doi.org/10.1109/sgc.2014.7090857)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Interactive approach to bi-level integer multi-objective fractional programming problem
 - **Authors**: O.E. Emam
 - **Published in**: [Applied Mathematics and Computation, 223, 17–24, 2013.](https://doi.org/10.1016/j.amc.2013.07.085)
@@ -481,6 +508,15 @@ hascode = false
 ### INTERACTIVE FUZZY PROGRAMMING BASED ON FRACTILE CRITERION OPTIMIZATION MODEL FOR TWO-LEVEL STOCHASTIC LINEAR PROGRAMMING PROBLEMS
 - **Authors**: Masatoshi Sakawa, Hideki Katagiri
 - **Published in**: [Cybernetics and Systems, 41(7), 508–521, 2010.](https://doi.org/10.1080/01969722.2010.511547)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Integrated Bilevel Model to Explore Interaction between Land Use Allocation and Transportation
+- **Authors**: Liyuan Zhao, Zhong-Ren Peng
+- **Published in**: [Transportation Research Record: Journal of the Transportation Research Board, 2176(1), 14–25, 2010.](https://doi.org/10.3141/2176-02)
 ~~~
 </div>
 ~~~
@@ -631,6 +667,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Interactive bilevel multi-objective decision making
+- **Authors**: X Shi, H Xia
+- **Published in**: [Journal of the Operational Research Society, 48(9), 943–949, 1997.](https://doi.org/10.1038/sj.jors.2600435)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Incentive strategies with threats in dynamic constrained-stackelberg problems. a bilevel programming approach
 - **Authors**: F. Mignanego, A. Sciomachen
 - **Published in**: [Optimization, 38(3), 263–276, 1996.](https://doi.org/10.1080/02331939608844253)
@@ -643,6 +688,15 @@ hascode = false
 ### Integrated control/structure optimization by multilevel decomposition
 - **Authors**: T. A. Zeiler, M. G. Gilbert
 - **Published in**: [Structural Optimization, 6(2), 99–107, 1993.](https://doi.org/10.1007/bf01743342)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Integrated National Transport Planning Model for Mixed Economic Systems: A Bilevel Programming Approach
+- **Authors**: Tschangho John Kim, Sunduck Suh
+- **Published in**: [Advanced Transport and Spatial Systems Models, 193–198, 1990.](https://doi.org/10.1007/978-1-4612-3410-4_11)
 ~~~
 </div>
 ~~~

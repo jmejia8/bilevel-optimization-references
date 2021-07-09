@@ -64,6 +64,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Research on Leader-Follower Cooperative for Multi-Unmanned Surface Vehicles Based on Sigmoid Method
+- **Authors**: Chong Qu, Gongxing Wu, Shuli Jia, LinLing Wang
+- **Published in**: [2020 International Conference on Artificial Intelligence and Electromechanical Automation (AIEA), 2020.](https://doi.org/10.1109/aiea51086.2020.00071)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Retraction notice to “A two-level multi-objective optimization for simultaneous design and scheduling of a district energy system” [Appl. Energy 208 (2017) 1053–1070]
 - **Authors**: Mohammad Sameti, Fariborz Haghighat
 - **Published in**: [Applied Energy, 265, 114582, 2020.](https://doi.org/10.1016/j.apenergy.2020.114582)
@@ -82,9 +91,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Resource Allocation for Multi-Tenant Network Slicing: A Multi-Leader Multi-Follower Stackelberg Game Approach
+- **Authors**: Thinh Duy Tran, Long Bao Le
+- **Published in**: [IEEE Transactions on Vehicular Technology, 69(8), 8886–8899, 2020.](https://doi.org/10.1109/tvt.2020.2996966)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Reduced-cost surrogate modelling of compact microwave components by two-level kriging interpolation
 - **Authors**: Slawomir Koziel, Anna Pietrenko-Dabrowska
 - **Published in**: [Engineering Optimization, 52(6), 960–972, 2019.](https://doi.org/10.1080/0305215x.2019.1630399)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Relay-Centric Two-Hop Networks with Asymmetric Wireless Energy Transfer: A Multi-Leader-Follower Stackelberg Game
+- **Authors**: Shiyang Leng, Aylin Yener
+- **Published in**: [2018 IEEE International Conference on Communications (ICC), 2018.](https://doi.org/10.1109/icc.2018.8422085)
 ~~~
 </div>
 ~~~
@@ -154,6 +181,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Relieving the Impact of Transit Signal Priority on Passenger Cars through a Bilevel Model
+- **Authors**: Ding Wang, Wenxin Qiao, Chunfu Shao
+- **Published in**: [Journal of Advanced Transportation, 2017, 1–10, 2017.](https://doi.org/10.1155/2017/7696094)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Resource Allocation Optimization Model of Collaborative Logistics Network Based on Bilevel Programming
 - **Authors**: Xiao-feng Xu, Wei-hong Chang, Jing Liu
 - **Published in**: [Scientific Programming, 2017, 1–8, 2017.](https://doi.org/10.1155/2017/4587098)
@@ -175,6 +211,15 @@ hascode = false
 ### Resource Allocation in Multiple Product Design Projects: A Bi-level Programming Approach
 - **Authors**: Chunlong Wu, Yangjian Ji
 - **Published in**: [International Journal of Control and Automation, 9(1), 271–280, 2016.](https://doi.org/10.14257/ijca.2016.9.1.25)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Replacement of leader-follower relation in multi-period supply chain planning under demand uncertainty
+- **Authors**: Okihiro Yoshida, Tatsushi Nishi
+- **Published in**: [2016 International Symposium on Flexible Automation (ISFA), 2016.](https://doi.org/10.1109/isfa.2016.7790159)
 ~~~
 </div>
 ~~~
@@ -238,6 +283,15 @@ hascode = false
 ### Revenue- and network-constrained market clearing via bilevel programming
 - **Authors**: Ricardo Fernandez-Blanco, Jose M. Arroyo, Natalia Alguacil
 - **Published in**: [2014 Power Systems Computation Conference, 2014.](https://doi.org/10.1109/pscc.2014.7038488)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Robust identification and its properties of nonlinear bilevel multi-stage dynamic system
+- **Authors**: Zhigang Jiang, Jinlong Yuan, Enmin Feng
+- **Published in**: [Applied Mathematics and Computation, 219(12), 6979–6985, 2013.](https://doi.org/10.1016/j.amc.2012.12.082)
 ~~~
 </div>
 ~~~

@@ -19,6 +19,24 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Generating multi-objective bilevel optimization problems with multiple non-cooperative followers
+- **Authors**: Jesús-Adolfo Mejía-de-Dios, Efrén Mezura-Montes
+- **Published in**: [Proceedings of the Genetic and Evolutionary Computation Conference Companion, 2021.](https://doi.org/10.1145/3449726.3459495)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Generation expansion planning with renewable energy credit markets: A bilevel programming approach
+- **Authors**: Hieu T. Nguyen, Frank A. Felder
+- **Published in**: [Applied Energy, 276, 115472, 2020.](https://doi.org/10.1016/j.apenergy.2020.115472)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Global Search for Bilevel Optimization with Quadratic Data
 - **Authors**: Alexander S. Strekalovsky, Andrei V. Orlov
 - **Published in**: [Springer Optimization and Its Applications, 313–334, 2020.](https://doi.org/10.1007/978-3-030-52119-6_11)
@@ -82,6 +100,24 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Genetic Algorithm for FGP Model of a Multiobjective Bilevel Programming Problem in Uncertain Environment
+- **Authors**: Debjani Chakraborti, Valentina E. Balas, Bijay Baran Pal
+- **Published in**: [Advances in Computational Intelligence and Robotics, 870–888, 2016.](https://doi.org/10.4018/978-1-5225-0058-2.ch035)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Genetic Algorithm for Mixed Integer Nonlinear Bilevel Programming and Applications in Product Family Design
+- **Authors**: Chenlu Miao, Gang Du, Yi Xia, Danping Wang
+- **Published in**: [Mathematical Problems in Engineering, 2016, 1–15, 2016.](https://doi.org/10.1155/2016/1379315)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Global Solution of Bilevel Programming Problems
 - **Authors**: Sonja Steffensen
 - **Published in**: [Operations Research Proceedings 2014, 575–580, 2016.](https://doi.org/10.1007/978-3-319-28697-6_80)
@@ -118,6 +154,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Genetic Algorithm Based on Duality Principle for Bilevel Programming Problem in Steel-making Production
+- **Authors**: Shuo Lin, Fangjun Luan, Zhonghua Han, Xisheng Lü, Xiaofeng Zhou, Wei Liu
+- **Published in**: [Chinese Journal of Chemical Engineering, 22(7), 742–747, 2014.](https://doi.org/10.1016/j.cjche.2014.05.006)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Global optimization by multilevel partition
 - **Authors**: Qunfeng Liu, Jinping Zeng
 - **Published in**: [Journal of Global Optimization, 61(1), 47–69, 2014.](https://doi.org/10.1007/s10898-014-0152-8)
@@ -139,6 +184,15 @@ hascode = false
 ### Genetic algorithm for solving a class of multi-follower fractional bi-level programming problems
 - **Authors**: Cheng-juan DU, He-cheng LI
 - **Published in**: [Journal of Computer Applications, 32(11), 2998–3001, 2013.](https://doi.org/10.3724/sp.j.1087.2012.02998)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Generating Efficient Solutions in Bilevel Multi-Objective Programming Problems
+- **Authors**: Calice Olivier Pieume, Patrice Marcotte, Laure Pauline Fotso, Patrick Siarry
+- **Published in**: [American Journal of Operations Research, 03(02), 289–298, 2013.](https://doi.org/10.4236/ajor.2013.32026)
 ~~~
 </div>
 ~~~
@@ -209,9 +263,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Genetic algorithm based on simplex method for solving linear-quadratic bilevel programming problem
+- **Authors**: Guangmin Wang, Zhongping Wan, Xianjia Wang, Yibing Lv
+- **Published in**: [Computers & Mathematics with Applications, 56(10), 2550–2555, 2008.](https://doi.org/10.1016/j.camwa.2008.05.006)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Global Optimization Method Based on the Statistical Genetic Algorithm for Solving Nonlinear Bilevel Programming Problems
 - **Authors**: Hong Li, Yong-Chang Jiao, Li Zhang, Fu-Shun Zhang
 - **Published in**: [2007 International Conference on Computational Intelligence and Security (CIS 2007), 2007.](https://doi.org/10.1109/cis.2007.68)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Global solution of bilevel programs with a nonconvex inner program
+- **Authors**: Alexander Mitsos, Panayiotis Lemonidis, Paul I. Barton
+- **Published in**: [Journal of Global Optimization, 42(4), 475–513, 2007.](https://doi.org/10.1007/s10898-007-9260-z)
 ~~~
 </div>
 ~~~
@@ -275,6 +347,15 @@ hascode = false
 ### Global optimization of arborescent multilevel inventory systems
 - **Authors**: R. Gonz�lez, E. Rofman, C. Sagastiz�bal
 - **Published in**: [Journal of Global Optimization, 6(3), 269–292, 1995.](https://doi.org/10.1007/bf01099465)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Geometry and Local Optimality Conditions for Bilevel Programs with Quadratic Strictly Convex Lower Levels
+- **Authors**: Luis N. Vicente, Paul H. Calamai
+- **Published in**: [Minimax and Applications, 141–151, 1995.](https://doi.org/10.1007/978-1-4613-3557-3_10)
 ~~~
 </div>
 ~~~

@@ -55,6 +55,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Linear bilevel multiobjective optimization problem: Penalty approach
+- **Authors**: Yibing Lv, Zhongping Wan
+- **Published in**: [Journal of Industrial & Management Optimization, 13(5), 1–11, 2017.](https://doi.org/10.3934/jimo.2018092)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Low Level X Window Programming
 - **Authors**: Ross J. Maloney
 - **Published in**: [Springer International Publishing, 2017.](https://doi.org/10.1007/978-3-319-74250-2)
@@ -112,6 +121,15 @@ hascode = false
 ### Limit Analysis of Geometrically Hardening Rod Systems using Bilevel Programming
 - **Authors**: Piotr Aliawdin, Krystyna Urbańska
 - **Published in**: [Procedia Engineering, 57, 89–98, 2013.](https://doi.org/10.1016/j.proeng.2013.04.014)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Leader-Follower Strategies for Energy Management of Multi-Microgrids
+- **Authors**: Georgia E. Asimakopoulou, Aris L. Dimeas, Nikos D. Hatziargyriou
+- **Published in**: [IEEE Transactions on Smart Grid, 4(4), 1909–1916, 2013.](https://doi.org/10.1109/tsg.2013.2256941)
 ~~~
 </div>
 ~~~
@@ -199,6 +217,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Linear bilevel programs with multiple objectives at the upper level
+- **Authors**: Herminia I. Calvete, Carmen Galé
+- **Published in**: [Journal of Computational and Applied Mathematics, 234(4), 950–959, 2010.](https://doi.org/10.1016/j.cam.2008.12.010)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Local search in a quadratic-linear bilevel programming problem
 - **Authors**: A. S. Strekalovsky, A. V. Orlov, A. V. Malyshev
 - **Published in**: [Numerical Analysis and Applications, 3(1), 59–70, 2010.](https://doi.org/10.1134/s1995423910010076)
@@ -208,9 +235,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Linear bilevel multi-follower programming with independent followers
+- **Authors**: Herminia I. Calvete, Carmen Galé
+- **Published in**: [Journal of Global Optimization, 39(3), 409–417, 2007.](https://doi.org/10.1007/s10898-007-9144-2)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Lossy Coding of Error Diffused Images &#x2014; Comparison of multi-level image based method and bi-level image based method &#x2014;
 - **Authors**: Fumitaka Ono, Makoto Kitamura
 - **Published in**: [TENCON 2007 - 2007 IEEE Region 10 Conference, 2007.](https://doi.org/10.1109/tencon.2007.4428824)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Lower-order penalty methods for mathematical programs with complementarity constraints
+- **Authors**: X. Q. Yang, X. X. Huang
+- **Published in**: [Optimization Methods and Software, 19(6), 693–720, 2004.](https://doi.org/10.1080/1055678041001697659)
 ~~~
 </div>
 ~~~

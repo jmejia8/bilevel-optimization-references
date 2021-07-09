@@ -91,6 +91,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Fixed-time consensus for leader-follower nonlinear multi-agent systems with disturbance
+- **Authors**: Ya Liu, Panfeng Huang, Fan Zhang
+- **Published in**: [2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM), 2019.](https://doi.org/10.1109/icarm.2019.8834244)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Fully Integrated Asymmetric Doherty Amplifier Based on Two-Power-Level Impedance Optimization
 - **Authors**: Ryo Ishikawa, Yoichiro Takayama, Kazuhiko Honjo
 - **Published in**: [2018 48th European Microwave Conference (EuMC), 2018.](https://doi.org/10.23919/eumc.2018.8541803)
@@ -127,6 +136,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Follower distribution algorithms for leader-follower networks
+- **Authors**: Begum Senses Cannataro, Zhen Kan, Warren E. Dixon
+- **Published in**: [2016 IEEE Conference on Computer Aided Control System Design (CACSD), 2016.](https://doi.org/10.1109/cacsd.2016.7602540)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Fuzzy Bilevel Programming with Credibility Measure
 - **Authors**: Hande Günay Akdemir
 - **Published in**: [Advances in Intelligent Systems and Computing, 127–137, 2016.](https://doi.org/10.1007/978-3-319-30322-2_9)
@@ -157,6 +175,15 @@ hascode = false
 ### Fuzzy-based interactive method for solution of bi- and multi-level programming problems
 - **Authors**: Krishna Pratap Singh, Kusum Deep, M.L. Kansal
 - **Published in**: [International Journal of Information and Decision Sciences, 6(2), 166, 2014.](https://doi.org/10.1504/ijids.2014.061774)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Finding optimal strategies in a multi-period multi-leader–follower Stackelberg game using an evolutionary algorithm
+- **Authors**: Ankur Sinha, Pekka Malo, Anton Frantsev, Kalyanmoy Deb
+- **Published in**: [Computers & Operations Research, 41, 374–385, 2014.](https://doi.org/10.1016/j.cor.2013.07.010)
 ~~~
 </div>
 ~~~
@@ -247,6 +274,24 @@ hascode = false
 ### Fuzzy goal programming algorithm for solving decentralized bi-level multi-objective programming problems
 - **Authors**: Ibrahim A. Baky
 - **Published in**: [Fuzzy Sets and Systems, 160(18), 2701–2713, 2009.](https://doi.org/10.1016/j.fss.2009.02.022)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### FUZZY BILEVEL PROGRAMMING: MULTI-OBJECTIVE AND MULTI-FOLLOWER WITH SHARED VARIABLES
+- **Authors**: GUANGQUAN ZHANG, JIE LU, YA GAO
+- **Published in**: [International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 16(supp02), 105–133, 2008.](https://doi.org/10.1142/s0218488508005510)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Fuzzy bilevel programming with multiple objectives and cooperative multiple followers
+- **Authors**: Guangquan Zhang, Jie Lu
+- **Published in**: [Journal of Global Optimization, 47(3), 403–419, 2008.](https://doi.org/10.1007/s10898-008-9365-z)
 ~~~
 </div>
 ~~~

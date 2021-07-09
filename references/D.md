@@ -19,6 +19,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Driving control based on bilevel optimization and fuzzy logic
+- **Authors**: Anouer Bennajeh, Lamjed Ben Said
+- **Published in**: [International Journal of Intelligent Systems, 2021.](https://doi.org/10.1002/int.22441)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Deep convolutional neural network architecture design as a bi-level optimization problem
 - **Authors**: Hassen Louati, Slim Bechikh, Ali Louati, Chih-Cheng Hung, Lamjed Ben Said
 - **Published in**: [Neurocomputing, 439, 44–62, 2021.](https://doi.org/10.1016/j.neucom.2021.01.094)
@@ -73,6 +82,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Designing intervention scheme for vaccine market: a bilevel programming approach
+- **Authors**: Ece Zeliha Demirci, Nesim Kohen Erkip
+- **Published in**: [Flexible Services and Manufacturing Journal, 32(2), 453–485, 2019.](https://doi.org/10.1007/s10696-019-09348-5)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Differential Evolution Algorithms for Solving Bilevel Optimization Problems Using Computational Clusters
 - **Authors**: Thiago Tavares Magalhaes, Helio Jose Correa Barbosa
 - **Published in**: [2019 International Conference on Computational Science and Computational Intelligence (CSCI), 2019.](https://doi.org/10.1109/csci49370.2019.00281)
@@ -112,6 +130,15 @@ hascode = false
 ### Differential Evolution and Lemkes Algorithm in the Solution of Bilevel Programming Problems
 - **Authors**: Celio H.N. Larcher Jr., Helio J.C. Barbosa
 - **Published in**: [Proceedings XIII Brazilian Congress on Computational Inteligence, 2018.](https://doi.org/10.21528/cbic2017-120)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Duality Approach to Bilevel Programs with a Convex Lower Level
+- **Authors**: Aurelien Ouattara, Anil Aswani
+- **Published in**: [2018 Annual American Control Conference (ACC), 2018.](https://doi.org/10.23919/acc.2018.8431802)
 ~~~
 </div>
 ~~~
@@ -193,6 +220,15 @@ hascode = false
 ### Differential evolution and particle swarm optimization algorithms with two stage initialization for PID controller tuning in coupled tank liquid level system
 - **Authors**: Manasa Madhavi Puralachetty, Vinay Kumar Pamula
 - **Published in**: [2016 International Conference on Advanced Robotics and Mechatronics (ICARM), 2016.](https://doi.org/10.1109/icarm.2016.7606972)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Differential evolution to find Stackelberg-Nash equilibrium in bilevel problems with multiple followers
+- **Authors**: Jaqueline S. Angelo, Helio J. C. Barbosa
+- **Published in**: [2015 IEEE Congress on Evolutionary Computation (CEC), 2015.](https://doi.org/10.1109/cec.2015.7257088)
 ~~~
 </div>
 ~~~
@@ -289,6 +325,33 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Determination of the Skip-Stop Scheduling for a Congested Transit Line by Bilevel Genetic Algorithm
+- **Authors**: Huimin Niu
+- **Published in**: [International Journal of Computational Intelligence Systems, 4(6), 1158–1167, 2011.](https://doi.org/10.1080/18756891.2011.9727864)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Double-Layered Hybrid Neural Network Approach for Solving Mixed Integer Quadratic Bilevel Problems
+- **Authors**: Shamshul Bahar Yaakob, Junzo Watada
+- **Published in**: [Integrated Uncertainty Management and Applications, 221–230, 2010.](https://doi.org/10.1007/978-3-642-11960-6_21)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Distributed leader–follower flocking control for multi-agent dynamical systems with time-varying velocities
+- **Authors**: Wenwu Yu, Guanrong Chen, Ming Cao
+- **Published in**: [Systems & Control Letters, 59(9), 543–552, 2010.](https://doi.org/10.1016/j.sysconle.2010.06.014)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Direct search algorithm for bilevel programming problems
 - **Authors**: Ayalew Getachew Mersha, Stephan Dempe
 - **Published in**: [Computational Optimization and Applications, 49(1), 1–15, 2009.](https://doi.org/10.1007/s10589-009-9295-9)
@@ -316,9 +379,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Discrete time dynamic multi-leader-follower games with feedback perfect information
+- **Authors**: Pu-yan Nie
+- **Published in**: [International Journal of Systems Science, 38(3), 247–255, 2007.](https://doi.org/10.1080/00207720601159431)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Distributed multilevel optimization for complex structures
 - **Authors**: J. W. Wind, D. Akçay Perdahcıoğlu, A. de Boer
 - **Published in**: [Structural and Multidisciplinary Optimization, 36(1), 71–81, 2007.](https://doi.org/10.1007/s00158-007-0173-8)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Decentralized multi-objective bilevel decision making with fuzzy demands
+- **Authors**: Guangquan Zhang, Jie Lu, Tharam Dillon
+- **Published in**: [Knowledge-Based Systems, 20(5), 495–507, 2007.](https://doi.org/10.1016/j.knosys.2007.01.003)
 ~~~
 </div>
 ~~~
@@ -361,6 +442,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Decision making of transportation plan, a bilevel transportation problem approach
+- **Authors**: G.S. Liu, J.Z. Zhang
+- **Published in**: [Journal of Industrial & Management Optimization, 1(3), 305–314, 2005.](https://doi.org/10.3934/jimo.2005.1.305)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Design Optimization of Hierarchically Decomposed Multilevel Systems Under Uncertainty
 - **Authors**: Michael Kokkolaras, Zissimos P. Mourelatos, Panos Y. Papalambros
 - **Published in**: [Volume 1: 30th Design Automation Conference, 2004.](https://doi.org/10.1115/detc2004-57357)
@@ -373,6 +463,15 @@ hascode = false
 ### Decomposition and Two-level Optimization of Structures with Discrete Sizing Variables
 - **Authors**: Jaco Schutte, Raphael Haftka, Layne Watson
 - **Published in**: [45th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics &amp; Materials Conference, 2004.](https://doi.org/10.2514/6.2004-1541)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Design of FIR bilevel Laplacian-of-Gaussian filter
+- **Authors**: Soo-Chang Pei, Ji-Hwei Horng
+- **Published in**: [Signal Processing, 82(4), 677–691, 2002.](https://doi.org/10.1016/s0165-1684(02)00136-6)
 ~~~
 </div>
 ~~~
@@ -418,6 +517,15 @@ hascode = false
 ### Displacement based multilevel structural optimization - Beams, trusses, and frames
 - **Authors**: A. Striz, S. Sharma, T. Srivastava, Jaroslaw Sobieszczanski-Sobieski
 - **Published in**: [7th AIAA/USAF/NASA/ISSMO Symposium on Multidisciplinary Analysis and Optimization, 1998.](https://doi.org/10.2514/6.1998-4792)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Dependence of bilevel mathematical programs on irrelevant constraints
+- **Authors**: Charles M. Macal, Arthur P. Hurter
+- **Published in**: [Computers & Operations Research, 24(12), 1129–1140, 1997.](https://doi.org/10.1016/s0305-0548(97)00025-7)
 ~~~
 </div>
 ~~~
@@ -481,6 +589,15 @@ hascode = false
 ### Derivative evaluation and computational experience with large bilevel mathematical programs
 - **Authors**: C. D. Kolstad, L. S. Lasdon
 - **Published in**: [Journal of Optimization Theory and Applications, 65(3), 485–499, 1990.](https://doi.org/10.1007/bf00939562)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Defense Applications of Mathematical Programs with Optimization Problems in the Constraints
+- **Authors**: Jerome Bracken, James T. McGill
+- **Published in**: [Operations Research, 22(5), 1086–1096, 1974.](https://doi.org/10.1287/opre.22.5.1086)
 ~~~
 </div>
 ~~~

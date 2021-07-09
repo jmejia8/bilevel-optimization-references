@@ -28,9 +28,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multilevel multi-leader multiple-follower games with nonseparable objectives and shared constraints
+- **Authors**: Addis Belete Zewde, Semu Mitiku Kassa
+- **Published in**: [Computational Management Science, 2021.](https://doi.org/10.1007/s10287-021-00398-5)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### MultiLevel Composite Stochastic Optimization via Nested Variance Reduction
 - **Authors**: Junyu Zhang, Lin Xiao
 - **Published in**: [SIAM Journal on Optimization, 31(2), 1131–1157, 2021.](https://doi.org/10.1137/19m1285457)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-period vulnerability analysis of power grids under multiple outages: An AC-based bilevel optimization approach
+- **Authors**: Amin Abedi, Franco Romerio
+- **Published in**: [International Journal of Critical Infrastructure Protection, 30, 100365, 2020.](https://doi.org/10.1016/j.ijcip.2020.100365)
 ~~~
 </div>
 ~~~
@@ -76,6 +94,24 @@ hascode = false
 ### Methods for Multiobjective Bilevel Optimization
 - **Authors**: Gabriele Eichfelder
 - **Published in**: [Springer Optimization and Its Applications, 423–449, 2020.](https://doi.org/10.1007/978-3-030-52119-6_15)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Managing decentralized supply chain using bilevel with Nash game approach
+- **Authors**: Marjia Haque, Sanjoy Kumar Paul, Ruhul Sarker, Daryl Essam
+- **Published in**: [Journal of Cleaner Production, 266, 121865, 2020.](https://doi.org/10.1016/j.jclepro.2020.121865)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-Leader Multi-follower Stackelberg Game in Mobile Blockchain Mining
+- **Authors**: Suhan Jiang, Xinyi Li, Jie Wu
+- **Published in**: [IEEE Transactions on Mobile Computing, 1–1, 2020.](https://doi.org/10.1109/tmc.2020.3035990)
 ~~~
 </div>
 ~~~
@@ -145,6 +181,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Modeling the Techno-Economic Interactions of Infrastructure and Service Providers in 5G Networks With a Multi-Leader-Follower Game
+- **Authors**: Lorela Cano, Giuliana Carello, Matteo Cesana, Mauro Passacantando, Brunilde Sanso
+- **Published in**: [IEEE Access, 7, 162913–162940, 2019.](https://doi.org/10.1109/access.2019.2951697)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multilevel controlling of Informative systems by QR-codes
 - **Authors**: Zaza Davitadze, Gregory Kakhiani, Zurab Meskhidze
 - **Published in**: [International Congress on Human-Computer Interaction, Optimization and Robotic Applications Proceedings, 2019.](https://doi.org/10.36287/setsci.4.5.014)
@@ -166,6 +211,15 @@ hascode = false
 ### Multi-Factor Incentive Pricing Bi-Level Programming Model for Construction Project
 - **Authors**: Shuang Han, Shengxiang Sun
 - **Published in**: [2019 International Conference on Economic Management and Model Engineering (ICEMME), 2019.](https://doi.org/10.1109/icemme49371.2019.00064)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Modified NSGA-II Based Interactive Algorithm for Linear Multiobjective Bilevel Programs
+- **Authors**: Hong Li, Li Zhang, Hecheng Li
+- **Published in**: [2019 15th International Conference on Computational Intelligence and Security (CIS), 2019.](https://doi.org/10.1109/cis.2019.00095)
 ~~~
 </div>
 ~~~
@@ -262,6 +316,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multi-leader-Follower Incentive Stackelberg Game for Infinite-Horizon Markov Jump Linear Stochastic Systems with H_∞ Constraint
+- **Authors**: Hiroaki Mukaidani, Hua Xu, Tadashi Shima, Mostak Ahmed
+- **Published in**: [2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2018.](https://doi.org/10.1109/smc.2018.00671)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Minimum Energy Control of Redundant Systems Using Evolutionary Bi-Level Optimization
 - **Authors**: Uriel Nusbaum, Miri Weiss Cohen, Yoram Halevi
 - **Published in**: [Volume 4A: Dynamics, Vibration, and Control, 2018.](https://doi.org/10.1115/imece2018-88709)
@@ -307,6 +370,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Modelling Multiobjective Bilevel Programming for Environmental-Economic Power Generation and Dispatch Using Genetic Algorithm
+- **Authors**: Debjani Chakraborti, Papun Biswas, Bijay Baran Pal
+- **Published in**: [Computational Intelligence, Communications, and Business Analytics, 423–439, 2017.](https://doi.org/10.1007/978-981-10-6430-2_33)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multilevel authentication scheme for security critical networks
 - **Authors**: Aarti Gautam Dinker, Vidushi Sharma, Mansi, Neeta Singh
 - **Published in**: [Journal of Information and Optimization Sciences, 39(1), 357–367, 2017.](https://doi.org/10.1080/02522667.2017.1374745)
@@ -328,6 +400,15 @@ hascode = false
 ### Multilevel Network Theory
 - **Authors**: Elke Krahmann
 - **Published in**: [Multilevel Networks in European Foreign Policy, 17–42, 2017.](https://doi.org/10.4324/9781315197197-2)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-Leader Multi-Follower Model with Aggregative Uncertainty
+- **Authors**: Lina Mallozzi, Roberta Messalli
+- **Published in**: [Games, 8(3), 25, 2017.](https://doi.org/10.3390/g8030025)
 ~~~
 </div>
 ~~~
@@ -487,9 +568,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multiobjective differential evolution algorithm based on decomposition for a type of multiobjective bilevel programming problems
+- **Authors**: Hong Li, Qingfu Zhang, Qin Chen, Li Zhang, Yong-Chang Jiao
+- **Published in**: [Knowledge-Based Systems, 107, 271–288, 2016.](https://doi.org/10.1016/j.knosys.2016.06.018)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multi-choice stochastic bi-level programming problem in cooperative nature via fuzzy programming approach
 - **Authors**: Sumit Kumar Maiti, Sankar Kumar Roy
 - **Published in**: [Journal of Industrial Engineering International, 12(3), 287–298, 2016.](https://doi.org/10.1007/s40092-016-0153-y)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multiobjective bilevel optimisation method to solve environmental-economic power generation and dispatch problem with interval data uncertainty
+- **Authors**: Bijay Baran Pal, Mousumi Kumar
+- **Published in**: [International Journal of Convergence Computing, 2(3/4), 269, 2016.](https://doi.org/10.1504/ijconvc.2016.10010704)
 ~~~
 </div>
 ~~~
@@ -604,6 +703,24 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### MULTI-FOLLOWER TRI-LEVEL DECISION MAKING WITH UNCOOPERATIVE FOLLOWERS
+- **Authors**: JIALIN HAN, JIE LU, GUANGQUAN ZHANG, SHUYUAN MA
+- **Published in**: [Decision Making and Soft Computing, 2014.](https://doi.org/10.1142/9789814619998_0087)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-leader multi-follower game based power control for downlink heterogeneous networks
+- **Authors**: Qiaoni Han, Bo Yang, Cailian Chen, Xinping Guan
+- **Published in**: [Proceedings of the 33rd Chinese Control Conference, 2014.](https://doi.org/10.1109/chicc.2014.6895877)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multiobjective bilevel optimization for production-distribution planning problems using hybrid genetic algorithm
 - **Authors**: Liping Jia, Yuping Wang, Lei Fan
 - **Published in**: [Integrated Computer-Aided Engineering, 21(1), 77–90, 2014.](https://doi.org/10.3233/ICA-130452)
@@ -643,6 +760,15 @@ hascode = false
 ### Multilevel thresholding for image segmentation based on parallel distributed optimization
 - **Authors**: Mohamed Sandeli, Mohamed Batouche
 - **Published in**: [2014 6th International Conference of Soft Computing and Pattern Recognition (SoCPaR), 2014.](https://doi.org/10.1109/socpar.2014.7007994)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-leader multi-follower stackelberg game among Wi-Fi, small cell and macrocell networks
+- **Authors**: Huaqing Zhang, Mehdi Bennis, Luiz A. DaSilva, Zhu Han
+- **Published in**: [2014 IEEE Global Communications Conference, 2014.](https://doi.org/10.1109/glocom.2014.7037520)
 ~~~
 </div>
 ~~~
@@ -775,6 +901,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multi-objective bilevel construction material transportation scheduling in large-scale construction projects under a fuzzy random environment
+- **Authors**: Jiuping Xu, Jun Gang
+- **Published in**: [Transportation Planning and Technology, 36(4), 352–376, 2013.](https://doi.org/10.1080/03081060.2013.798486)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Model predictive torque control with duty ratio optimization for two-level inverter-fed induction motor drive
 - **Authors**: Yongchang Zhang, Haitao Yang
 - **Published in**: [2013 International Conference on Electrical Machines and Systems (ICEMS), 2013.](https://doi.org/10.1109/icems.2013.6713196)
@@ -811,6 +946,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multi-leader multi-follower Stackelberg model for cognitive radio spectrum sharing scheme
+- **Authors**: Sungwook Kim
+- **Published in**: [Computer Networks, 56(17), 3682–3692, 2012.](https://doi.org/10.1016/j.comnet.2012.08.004)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multilevel image thresholding using relative entropy and Virus Optimization Algorithm
 - **Authors**: Yun-Chia Liang, Josue R. Cuevas J.
 - **Published in**: [2012 IEEE Congress on Evolutionary Computation, 2012.](https://doi.org/10.1109/cec.2012.6256435)
@@ -820,9 +964,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Metaheuristic methods for solving the Bilevel Uncapacitated Facility Location Problem with Clients’ Preferences
+- **Authors**: Miroslav Marić, Zorica Stanimirović, Nikola Milenković
+- **Published in**: [Electronic Notes in Discrete Mathematics, 39, 43–50, 2012.](https://doi.org/10.1016/j.endm.2012.10.007)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Manufacturer–retailer supply chain coordination: A bi-level programming approach
 - **Authors**: Ali Naimi Sadigh, Marzieh Mozafari, Behrooz Karimi
 - **Published in**: [Advances in Engineering Software, 45(1), 144–152, 2012.](https://doi.org/10.1016/j.advengsoft.2011.09.008)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Mathematical Programs with Equilibrium Constraints: A Brief Survey of Methods and Optimality Conditions
+- **Authors**: Ider Tseveendorj
+- **Published in**: [Springer Optimization and Its Applications, 49–61, 2012.](https://doi.org/10.1007/978-1-4614-5131-0_4)
 ~~~
 </div>
 ~~~
@@ -1108,6 +1270,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multiobjective optimization problems with equilibrium constraints
+- **Authors**: Boris S. Mordukhovich
+- **Published in**: [Mathematical Programming, 117(1-2), 331–354, 2007.](https://doi.org/10.1007/s10107-007-0172-y)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Models and Algorithms for Fuzzy Multi-objective Multi-follower Linear Bilevel Programming in a Partial Cooperative Situation
 - **Authors**: Guangquan Zhang
 - **Published in**: [Proceedings on Intelligent Systems and Knowledge Engineering (ISKE2007), 2007.](https://doi.org/10.2991/iske.2007.29)
@@ -1135,6 +1306,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Model and algorithm for bilevel newsboy problem with fuzzy demands and discounts
+- **Authors**: Xiaoyu Ji, Zhen Shao
+- **Published in**: [Applied Mathematics and Computation, 172(1), 163–174, 2006.](https://doi.org/10.1016/j.amc.2005.01.139)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multilevel Optimization for Enterprise Driven Decision-Based Product Design
 - **Authors**: Deepak Kumar, Wei Chen, Harrison Kim
 - **Published in**: [11th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, 2006.](https://doi.org/10.2514/6.2006-6923)
@@ -1153,9 +1333,36 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Mathematical programs with equilibrium constraints: the existence of feasible point
+- **Authors**: Lai-Jiu Lin, Georg Still
+- **Published in**: [Optimization, 55(3), 205–219, 2006.](https://doi.org/10.1080/02331930600703635)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Model and extended Kuhn–Tucker approach for bilevel multi-follower decision making in a referential-uncooperative situation
+- **Authors**: Jie Lu, Chenggen Shi, Guangquan Zhang, Tharam Dillon
+- **Published in**: [Journal of Global Optimization, 38(4), 597–608, 2006.](https://doi.org/10.1007/s10898-006-9098-9)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### MULTILEVEL OPTIMIZATION FOR STRUCTURAL DESIGN OF TALL BUILDINGS
 - **Authors**: HAI GONG, TSE-YUNG P. CHANG, GUO-QIANG LI
 - **Published in**: [Tall Buildings, 2005.](https://doi.org/10.1142/9789812701480_0080)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Mathematical Programs with Vector Optimization Constraints
+- **Authors**: Y. C. Liou, X. Q. Yang, J. C. Yao
+- **Published in**: [Journal of Optimization Theory and Applications, 126(2), 345–355, 2005.](https://doi.org/10.1007/s10957-005-4720-4)
 ~~~
 </div>
 ~~~
@@ -1777,6 +1984,15 @@ hascode = false
 ### Multilevel optimization for conjunctive use of groundwater and surface water
 - **Authors**: Wanyoung Yu, Yacov Y. Haimes
 - **Published in**: [Water Resources Research, 10(4), 625–636, 1974.](https://doi.org/10.1029/wr010i004p00625)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Mathematical Programs with Optimization Problems in the Constraints
+- **Authors**: Jerome Bracken, James T. McGill
+- **Published in**: [Operations Research, 21(1), 37–44, 1973.](https://doi.org/10.1287/opre.21.1.37)
 ~~~
 </div>
 ~~~

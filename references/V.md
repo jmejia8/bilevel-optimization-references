@@ -28,6 +28,24 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Valuing water quality tradeoffs at different spatial scales: An integrated approach using bilevel optimization
+- **Authors**: Moriah Bostian, Gerald Whittaker, Brad Barnhart, Rolf Färe, Shawna Grosskopf
+- **Published in**: [Water Resources and Economics, 11, 1–12, 2015.](https://doi.org/10.1016/j.wre.2015.06.002)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Variational Inequality Formulation of a Class of Multi-Leader-Follower Games
+- **Authors**: Ming Hu, Masao Fukushima
+- **Published in**: [Journal of Optimization Theory and Applications, 151(3), 455–473, 2011.](https://doi.org/10.1007/s10957-011-9901-8)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Variational Inequalities and Optimistic Bilevel Programming Problem Via Convexifactors
 - **Authors**: Bhawna Kohli
 - **Published in**: [Topics in Nonconvex Optimization, 243–255, 2011.](https://doi.org/10.1007/978-1-4419-9640-4_15)

@@ -28,6 +28,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### On Optimistic and Pessimistic Bilevel Optimization Models for Demand Response Management
+- **Authors**: Tamás Kis, András Kovács, Csaba Mészáros
+- **Published in**: [Energies, 14(8), 2095, 2021.](https://doi.org/10.3390/en14082095)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Outer approximation for global optimization of mixed-integer quadratic bilevel problems
 - **Authors**: Thomas Kleinert, Veronika Grimm, Martin Schmidt
 - **Published in**: [Mathematical Programming, 2021.](https://doi.org/10.1007/s10107-020-01601-2)
@@ -139,6 +148,15 @@ hascode = false
 ### On the Solution of a Bilevel Electricity Market Optimization Problem
 - **Authors**: Koorosh Shomalzadeh, Jacquelien M. A. Scherpen, M. Kanat Camlibel
 - **Published in**: [2020 European Control Conference (ECC), 2020.](https://doi.org/10.23919/ecc51009.2020.9143634)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On Bilevel Optimization with Inexact Follower
+- **Authors**: M. Hosein Zare, Oleg A. Prokopyev, Denis Sauré
+- **Published in**: [Decision Analysis, 17(1), 74–95, 2020.](https://doi.org/10.1287/deca.2019.0392)
 ~~~
 </div>
 ~~~
@@ -361,6 +379,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Operational scheduling of electric vehicles parking lot integrated with renewable generation based on bilevel programming approach
+- **Authors**: Saemeh Aghajani, Mohsen Kalantar
+- **Published in**: [Energy, 139, 422–432, 2017.](https://doi.org/10.1016/j.energy.2017.08.004)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### On Single-Valuedness of Quasimonotone Set-Valued Operators
 - **Authors**: Didier Aussel
 - **Published in**: [Generalized Nash Equilibrium Problems, Bilevel Programming and MPEC, 101–124, 2017.](https://doi.org/10.1007/978-981-10-4774-9_6)
@@ -496,6 +523,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Optimality conditions for pessimistic trilevel optimization problem with middle-level problem being pessimistic
+- **Authors**: Gaoxi Li, Zhongping Wan, Jia-Wei Chen, Xiaoke Zhao
+- **Published in**: [Journal of Nonlinear Sciences and Applications, 09(06), 3864–3878, 2016.](https://doi.org/10.22436/jnsa.009.06.34)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Optimization of Multi-period Bilevel Supply Chains under Demand Uncertainty
 - **Authors**: Tatsushi Nishi, Okihiro Yoshida
 - **Published in**: [Procedia CIRP, 41, 508–513, 2016.](https://doi.org/10.1016/j.procir.2015.12.112)
@@ -613,6 +649,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Optimality conditions for nonsmooth mathematical programs with equilibrium constraints, using convexificators
+- **Authors**: A. Ansari Ardali, N. Movahedian, S. Nobakhtian
+- **Published in**: [Optimization, 65(1), 67–85, 2014.](https://doi.org/10.1080/02331934.2014.987776)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Optimization of Inventory for Two Level Multiple Retailers-Single Manufacturer Reverse Supply Chain
 - **Authors**: P. Chandiran
 - **Published in**: [Operations and Supply Chain Management: An International Journal, 32–37, 2014.](https://doi.org/10.31387/oscm0160102)
@@ -631,6 +676,42 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Optimality Conditions for Disjunctive Programs Based on Generalized Differentiation with Application to Mathematical Programs with Equilibrium Constraints
+- **Authors**: Helmut Gfrerer
+- **Published in**: [SIAM Journal on Optimization, 24(2), 898–931, 2014.](https://doi.org/10.1137/130914449)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Optimality conditions for pessimistic semivectorial bilevel programming problems
+- **Authors**: Bingbing Liu, Zhongping Wan, Jiawei Chen, Guangmin Wang
+- **Published in**: [Journal of Inequalities and Applications, 2014(1), 41, 2014.](https://doi.org/10.1186/1029-242x-2014-41)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On complexity of the bilevel location and pricing problems
+- **Authors**: A. A. Panin, A. V. Plyasunov
+- **Published in**: [Journal of Applied and Industrial Mathematics, 8(4), 574–581, 2014.](https://doi.org/10.1134/s1990478914040152)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Optimistic Stackelberg solutions to bilevel linear programming with fuzzy random variable coefficients
+- **Authors**: Aihong Ren, Yuping Wang
+- **Published in**: [Knowledge-Based Systems, 67, 206–217, 2014.](https://doi.org/10.1016/j.knosys.2014.05.010)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Optimization and Non-Optimization of H-Bridge Cascaded Multilevel Inverter
 - **Authors**: A. Sabari, R. Omar, M. Sulaiman, M. Rasheed
 - **Published in**: [3rd IET International Conference on Clean Energy and Technology (CEAT) 2014, 2014.](https://doi.org/10.1049/cp.2014.1497)
@@ -643,6 +724,15 @@ hascode = false
 ### Optimality of Bilevel Programming Problems Through Multiobjective Reformulations
 - **Authors**: Roxin Zhang
 - **Published in**: [Advances in Global Optimization, 23–31, 2014.](https://doi.org/10.1007/978-3-319-08377-3_3)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Optimality Conditions for Semivectorial Bilevel Convex Optimal Control Problems
+- **Authors**: Henri Bonnel, Jacqueline Morgan
+- **Published in**: [Springer Proceedings in Mathematics & Statistics, 45–78, 2013.](https://doi.org/10.1007/978-1-4614-7621-4_4)
 ~~~
 </div>
 ~~~
@@ -676,9 +766,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### On solving simple bilevel programs with a nonconvex lower level program
+- **Authors**: Gui-Hua Lin, Mengwei Xu, Jane J. Ye
+- **Published in**: [Mathematical Programming, 144(1-2), 277–305, 2013.](https://doi.org/10.1007/s10107-013-0633-4)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### One-level and two-level scheduling for real-time systems
 - **Authors**: Damir Poles
 - **Published in**: [Eurocon 2013, 2013.](https://doi.org/10.1109/eurocon.2013.6625038)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Oligopolistic Generation Expansion:A Multi-leader Multi-follower approach
+- **Authors**: Rigoberto Torres Avila, Rodrigo Palma Behnke
+- **Published in**: [IEEE Latin America Transactions, 11(4), 1029–1035, 2013.](https://doi.org/10.1109/tla.2013.6601746)
 ~~~
 </div>
 ~~~
@@ -748,6 +856,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### On linear bilevel problems with multiple objectives at the lower level
+- **Authors**: Herminia I. Calvete, Carmen Galé
+- **Published in**: [Omega, 39(1), 33–40, 2011.](https://doi.org/10.1016/j.omega.2010.02.002)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Optimality results for a specific bilevel optimization problem
 - **Authors**: S. Dempe, N. Gadhi
 - **Published in**: [Optimization, 60(7), 813–822, 2011.](https://doi.org/10.1080/02331931003596725)
@@ -769,6 +886,15 @@ hascode = false
 ### On calmness conditions in convex bilevel programming
 - **Authors**: R. Henrion, T. Surowiec
 - **Published in**: [Applicable Analysis, 90(6), 951–970, 2011.](https://doi.org/10.1080/00036811.2010.495339)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Optimality Conditions for Optimistic Bilevel Programming Problem Using Convexifactors
+- **Authors**: Bhawna Kohli
+- **Published in**: [Journal of Optimization Theory and Applications, 152(3), 632–651, 2011.](https://doi.org/10.1007/s10957-011-9941-0)
 ~~~
 </div>
 ~~~
@@ -838,9 +964,27 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### On bilevel machine scheduling problems
+- **Authors**: Tamás Kis, András Kovács
+- **Published in**: [OR Spectrum, 34(1), 43–68, 2010.](https://doi.org/10.1007/s00291-010-0219-y)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Optimization of power quality in cascaded multilevel inverter-genetic algorithm approach
 - **Authors**: P. Maruthu Pandi, N. Devarajan
 - **Published in**: [2010 Second International conference on Computing, Communication and Networking Technologies, 2010.](https://doi.org/10.1109/icccnt.2010.5591838)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On computational search for optimistic solutions in bilevel problems
+- **Authors**: Alexander S. Strekalovsky, Andrey V. Orlov, Anton V. Malyshev
+- **Published in**: [Journal of Global Optimization, 48(1), 159–172, 2010.](https://doi.org/10.1007/s10898-009-9514-z)
 ~~~
 </div>
 ~~~
@@ -892,6 +1036,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### On the applicability and solution of bilevel optimization models in transportation science: A study on the existence, stability and computation of optimal solutions to stochastic mathematical programs with equilibrium constraints
+- **Authors**: Michael Patriksson
+- **Published in**: [Transportation Research Part B: Methodological, 42(10), 843–860, 2008.](https://doi.org/10.1016/j.trb.2008.05.001)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Optimization of multistage flash desalination process by using a two-level factorial design
 - **Authors**: S.A. Abdul-Wahab, J. Abdo
 - **Published in**: [Applied Thermal Engineering, 27(2-3), 413–421, 2007.](https://doi.org/10.1016/j.applthermaleng.2006.07.010)
@@ -937,6 +1090,24 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### On bilevel multi-follower decision making: General framework and solutions
+- **Authors**: J LU, C SHI, G ZHANG
+- **Published in**: [Information Sciences, 176(11), 1607–1627, 2006.](https://doi.org/10.1016/j.ins.2005.04.010)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On the Guignard constraint qualification for mathematical programs with equilibrium constraints
+- **Authors**: Michael L. Flegel, Christian Kanzow
+- **Published in**: [Optimization, 54(6), 517–534, 2005.](https://doi.org/10.1080/02331930500342591)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### On the Multilevel Structure of Global Optimization Problems
 - **Authors**: M. Locatelli
 - **Published in**: [Computational Optimization and Applications, 30(1), 5–22, 2005.](https://doi.org/10.1007/s10589-005-4561-y)
@@ -976,6 +1147,15 @@ hascode = false
 ### On the indefinite quadratic bilevel programming problem
 - **Authors**: Getinet Alemayehu, Ritu Narang, S. R. Arora
 - **Published in**: [OPSEARCH, 41(4), 264–277, 2004.](https://doi.org/10.1007/bf03398849)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On the Existence of Solutions to Stochastic Mathematical Programs with Equilibrium Constraints
+- **Authors**: A. Evgrafov, M. Patriksson
+- **Published in**: [Journal of Optimization Theory and Applications, 121(1), 65–76, 2004.](https://doi.org/10.1023/b:jota.0000026131.04418.b7)
 ~~~
 </div>
 ~~~
@@ -1138,6 +1318,15 @@ hascode = false
 ### Optimal Structural Design in Nonsmooth Mechanics
 - **Authors**: Georgios E. Stavroulakis, Harald Günzel
 - **Published in**: [Nonconvex Optimization and Its Applications, 91–115, 1998.](https://doi.org/10.1007/978-1-4613-0307-7_4)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On a Special Class of Mathematical Programs with Equilibrium Constraints
+- **Authors**: J. V. Outrata
+- **Published in**: [Recent Advances in Optimization, 246–260, 1997.](https://doi.org/10.1007/978-3-642-59073-3_17)
 ~~~
 </div>
 ~~~

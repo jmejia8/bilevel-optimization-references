@@ -64,6 +64,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### New concepts and an algorithm for multiobjective bilevel programming: optimistic, pessimistic and moderate solutions
+- **Authors**: Maria João Alves, Carlos Henggeler Antunes, João Paulo Costa
+- **Published in**: [Operational Research, 2019.](https://doi.org/10.1007/s12351-019-00534-9)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### New subgradient extragradient methods for solving monotone bilevel equilibrium problems
 - **Authors**: Pham Ngoc Anh, Le Thi Hoai An
 - **Published in**: [Optimization, 68(11), 2099–2124, 2019.](https://doi.org/10.1080/02331934.2019.1656204)
@@ -100,6 +109,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Nested evolutionary algorithms for computationally expensive bilevel optimization problems: Variants and their systematic analysis
+- **Authors**: Hemant Kumar Singh, Md Monjurul Islam, Tapabrata Ray, Michael Ryan
+- **Published in**: [Swarm and Evolutionary Computation, 48, 329–344, 2019.](https://doi.org/10.1016/j.swevo.2019.05.002)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### New necessary and sufficient optimality conditions for strong bilevel programming problems
 - **Authors**: Abdelmalek Aboussoror, Samir Adly
 - **Published in**: [Journal of Global Optimization, 70(2), 309–327, 2018.](https://doi.org/10.1007/s10898-018-0606-5)
@@ -130,6 +148,15 @@ hascode = false
 ### Narrow Bandwidth Tunable Watt Level Tm:YAP Laser using Two Etalons
 - **Authors**: Uzziel Sheintop, Eytan Perez, Salman Noach
 - **Published in**: [Proceedings of the 6th International Conference on Photonics, Optics and Laser Technology, 2018.](https://doi.org/10.5220/0006721403030307)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Nonlinear dynamics of discrete time multi-level leader–follower games
+- **Authors**: Ruijia Wu, Robert A. Van Gorder
+- **Published in**: [Applied Mathematics and Computation, 320, 240–250, 2018.](https://doi.org/10.1016/j.amc.2017.09.034)
 ~~~
 </div>
 ~~~
@@ -229,6 +256,15 @@ hascode = false
 ### Neural Network Approach for Semivectorial Bilevel Programming Problem
 - **Authors**: Yibing Lv
 - **Published in**: [2012 4th International Conference on Intelligent Human-Machine Systems and Cybernetics, 2012.](https://doi.org/10.1109/ihmsc.2012.103)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Necessary Optimality Conditions for Multiobjective Bilevel Programs
+- **Authors**: Jane J. Ye
+- **Published in**: [Mathematics of Operations Research, 36(1), 165–184, 2011.](https://doi.org/10.1287/moor.1100.0480)
 ~~~
 </div>
 ~~~

@@ -136,6 +136,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Transmission Expansion Planning Outside the Box: A Bilevel Approach
+- **Authors**: Sonja Wogrin, Salvador Pineda, Diego A. Tejada-Arango, Isaac C. Gonzalez-Romero
+- **Published in**: [Transmission Expansion Planning: The Network Challenges of the Energy Transition, 153–184, 2020.](https://doi.org/10.1007/978-3-030-49428-5_7)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### The joint location-transportation model based on grey bi-level programming for early post-earthquake relief
 - **Authors**: Yufeng Zhou, Bin Zheng, Jiafu Su, Yufeng Li
 - **Published in**: [Journal of Industrial & Management Optimization, 0(0), 0, 2020.](https://doi.org/10.3934/jimo.2020142)
@@ -148,6 +157,15 @@ hascode = false
 ### Two level optimization model for multi period compounding loan of engineering project groups
 - **Authors**: Chang Chunguang, Wu Xi, Li Hongxue, Wang Xuelong
 - **Published in**: [2019 Chinese Control And Decision Conference (CCDC), 2019.](https://doi.org/10.1109/ccdc.2019.8832727)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Two‐stage nested bilevel model for generation expansion planning in combined electricity and gas markets
+- **Authors**: Hao Cong, Xu Wang, Chuanwen Jiang
+- **Published in**: [IET Generation, Transmission & Distribution, 13(15), 3443–3454, 2019.](https://doi.org/10.1049/iet-gtd.2019.0293)
 ~~~
 </div>
 ~~~
@@ -211,6 +229,15 @@ hascode = false
 ### Two level optimization model of construction safety for prefabricated construction and its artificial immune algorithm
 - **Authors**: Chang Chunguang, Wang Jiayuan
 - **Published in**: [2018 Chinese Control And Decision Conference (CCDC), 2018.](https://doi.org/10.1109/ccdc.2018.8407920)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Two-level value function approach to non-smooth optimistic and pessimistic bilevel programs
+- **Authors**: Stephan Dempe, Boris S. Mordukhovich, Alain B. Zemkoho
+- **Published in**: [Optimization, 68(2-3), 433–455, 2018.](https://doi.org/10.1080/02331934.2018.1543294)
 ~~~
 </div>
 ~~~
@@ -355,6 +382,15 @@ hascode = false
 ### Two-Level Finite Difference Methods for Simulating the High-Dimensional Lagging Models of Heat Conduction
 - **Authors**: Dingwen Deng, Yaolin Jiang
 - **Published in**: [Numerical Functional Analysis and Optimization, 38(7), 831–860, 2017.](https://doi.org/10.1080/01630563.2017.1287727)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Tri-level multi-follower decision-making in a partial-cooperative situation
+- **Authors**: Jialin Han, Shuping Wan, Jie Lu, Guangquan Zhang
+- **Published in**: [2017 12th International Conference on Intelligent Systems and Knowledge Engineering (ISKE), 2017.](https://doi.org/10.1109/iske.2017.8258802)
 ~~~
 </div>
 ~~~
@@ -559,6 +595,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### The Improvement of Optimality Test over Possible Reaction Set in Bilevel Linear Optimization with Ambiguous Objective Function of the Follower
+- **Authors**: Puchit Sariddichainunta, Masahiro Inuiguchi
+- **Published in**: [Journal of Advanced Computational Intelligence and Intelligent Informatics, 19(5), 645–654, 2015.](https://doi.org/10.20965/jaciii.2015.p0645)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Topology optimization using bi-directional evolutionary structural optimization based on the element-free Galerkin method
 - **Authors**: Vahid Shobeiri
 - **Published in**: [Engineering Optimization, 48(3), 380–396, 2015.](https://doi.org/10.1080/0305215x.2015.1012076)
@@ -571,6 +616,15 @@ hascode = false
 ### Towards Understanding Bilevel Multi-objective Optimization with Deterministic Lower Level Decisions
 - **Authors**: Ankur Sinha, Pekka Malo, Kalyanmoy Deb
 - **Published in**: [Evolutionary Multi-Criterion Optimization, 426–443, 2015.](https://doi.org/10.1007/978-3-319-15934-8_29)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Tri-level Multi-follower Decision Making
+- **Authors**: Guangquan Zhang, Jie Lu, Ya Gao
+- **Published in**: [Intelligent Systems Reference Library, 121–171, 2015.](https://doi.org/10.1007/978-3-662-46059-7_6)
 ~~~
 </div>
 ~~~
@@ -634,6 +688,15 @@ hascode = false
 ### The Two-level Optimization Model Research on Rural Water Source Location Decision
 - **Authors**: LI, ZHANG Lianying
 - **Published in**: [International Journal of Advancements in Computing Technology, 5(7), 246–253, 2013.](https://doi.org/10.4156/ijact.vol5.issue7.30)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Two-stage stochastic bilevel programming over a transportation network
+- **Authors**: S.M. Alizadeh, P. Marcotte, G. Savard
+- **Published in**: [Transportation Research Part B: Methodological, 58, 92–105, 2013.](https://doi.org/10.1016/j.trb.2013.10.002)
 ~~~
 </div>
 ~~~
@@ -910,6 +973,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### The computational complexity of bilevel assignment problems
+- **Authors**: Elisabeth Gassner, Bettina Klinz
+- **Published in**: [4OR, 7(4), 379–394, 2009.](https://doi.org/10.1007/s10288-009-0098-8)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### The bi-level programming model between the manufacture and the supplier
 - **Authors**: Chang-ying Hu
 - **Published in**: [2009 International Conference on Management Science and Engineering, 2009.](https://doi.org/10.1109/icmse.2009.5317404)
@@ -1027,6 +1099,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### The Optimal Properties of Nonlinear Bilevel Multi-stage Dynamic System
+- **Authors**: Enmin Feng, Zhigang Jiang, Yanjie Li, Zhilong Xiu
+- **Published in**: [2006 6th World Congress on Intelligent Control and Automation, 2006.](https://doi.org/10.1109/wcica.2006.1712507)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Toward Global Convergence for Strongly Nonlinear Ill-Posed Problems via a Regularizing Multilevel Approach
 - **Authors**: Barbara Kaltenbacher
 - **Published in**: [Numerical Functional Analysis and Optimization, 27(5-6), 637–665, 2006.](https://doi.org/10.1080/01630560600790835)
@@ -1093,6 +1174,15 @@ hascode = false
 ### Two-level optimization of an existing SMB for p-xylene separation
 - **Authors**: Mirjana Minceva, Alírio E. Rodrigues
 - **Published in**: [Computers & Chemical Engineering, 29(10), 2215–2228, 2005.](https://doi.org/10.1016/j.compchemeng.2005.08.001)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### The Kth-Best Approach for Linear Bilevel Multi-follower Programming
+- **Authors**: Chenggen Shi, Guangquan Zhang, Jie Lu
+- **Published in**: [Journal of Global Optimization, 33(4), 563–578, 2005.](https://doi.org/10.1007/s10898-004-7739-4)
 ~~~
 </div>
 ~~~
@@ -1561,6 +1651,15 @@ hascode = false
 ### Two level optimization of a redundant linear control system
 - **Authors**: Clyde Martin, Richard Harding
 - **Published in**: [1975 IEEE Conference on Decision and Control including the 14th Symposium on Adaptive Processes, 1975.](https://doi.org/10.1109/cdc.1975.270732)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Technical Note—The Equivalence of Two Mathematical Programs with Optimization Problems in the Constraints
+- **Authors**: Jerome Bracken, James E. Falk, James T. McGill
+- **Published in**: [Operations Research, 22(5), 1102–1104, 1974.](https://doi.org/10.1287/opre.22.5.1102)
 ~~~
 </div>
 ~~~

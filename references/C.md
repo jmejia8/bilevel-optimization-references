@@ -46,6 +46,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Coordinated scheme for expansion planning of distribution networks: a bilevel game approach
+- **Authors**: Tohid Akbari, Saeed Zolfaghari Moghaddam
+- **Published in**: [IET Generation, Transmission & Distribution, 14(14), 2839–2846, 2020.](https://doi.org/10.1049/iet-gtd.2019.1924)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Cycle length optimization through bi-level optimization
 - **Authors**: Yordanka Boneva
 - **Published in**: [IOP Conference Series: Materials Science and Engineering, 878, 012024, 2020.](https://doi.org/10.1088/1757-899x/878/1/012024)
@@ -82,6 +91,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Computational benchmarking of exact methods for the bilevel discrete network design problem
+- **Authors**: David Rey
+- **Published in**: [Transportation Research Procedia, 47, 11–18, 2020.](https://doi.org/10.1016/j.trpro.2020.03.067)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Current Harmonic Optimization of Two-Level Synchronous Symmetric SVPWM at Low Switching Frequency
 - **Authors**: Tianqing Shui
 - **Published in**: [2020 Asia Energy and Electrical Engineering Symposium (AEEES), 2020.](https://doi.org/10.1109/aeees48850.2020.9121479)
@@ -109,6 +127,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Co-evolutionary algorithms to solve hierarchized Steiner tree problems in telecommunication networks
+- **Authors**: José-Fernando Camacho-Vallejo, Cristóbal Garcia-Reyes
+- **Published in**: [Applied Soft Computing, 84, 105718, 2019.](https://doi.org/10.1016/j.asoc.2019.105718)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Comparison of Two-Level and Three-Level NPC Inverter Topologies for a PMSM Drive for Electric Vehicle Applications
 - **Authors**: Alican Madan, Emine Bostanci
 - **Published in**: [2019 International Aegean Conference on Electrical Machines and Power Electronics (ACEMP) & 2019 International Conference on Optimization of Electrical and Electronic Equipment (OPTIM), 2019.](https://doi.org/10.1109/acemp-optim44294.2019.9007197)
@@ -121,6 +148,24 @@ hascode = false
 ### Cooperation model in the electricity energy market using bi-level optimization and Shapley value
 - **Authors**: Luceny Guzmán Acuña, Diana Ramírez Ríos, Carlos Paternina Arboleda, Esneyder González Ponzón
 - **Published in**: [Operations Research Perspectives, 5, 161–168, 2018.](https://doi.org/10.1016/j.orp.2018.07.003)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Co-opetition in enhancing global port network resiliency: A multi-leader, common-follower game theoretic approach
+- **Authors**: Ali Asadabadi, Elise Miller-Hooks
+- **Published in**: [Transportation Research Part B: Methodological, 108, 281–298, 2018.](https://doi.org/10.1016/j.trb.2018.01.004)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Control Synthesis for Bilevel Linear Model Predictive Control
+- **Authors**: Yonatan Mintz, John Audie Cabrera, Jhoanna Rhodette Pedrasa, Anil Aswani
+- **Published in**: [2018 Annual American Control Conference (ACC), 2018.](https://doi.org/10.23919/acc.2018.8431884)
 ~~~
 </div>
 ~~~
@@ -229,6 +274,15 @@ hascode = false
 ### Comprehensive harmonic optimization in cascaded h-bridge multilevel inverters using variable DC sources
 - **Authors**: Reza Khamooshi, J. SH. Moghani
 - **Published in**: [The 5th Annual International Power Electronics, Drive Systems and Technologies Conference (PEDSTC 2014), 2014.](https://doi.org/10.1109/pedstc.2014.6799380)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Cellular Responses to Bio-Inspired Engineered Topography
+- **Authors**: Chelsea M. Kirschner, James F. Schumacher, Anthony B. Brennan
+- **Published in**: [Bio-inspired Materials for Biomedical Engineering, 77–97, 2014.](https://doi.org/10.1002/9781118843499.ch5)
 ~~~
 </div>
 ~~~
@@ -397,6 +451,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Competitive facility location problem with attractiveness adjustment of the follower: A bilevel programming model and its solution
+- **Authors**: Hande Küçükaydin, Necati Aras, I. Kuban Altınel
+- **Published in**: [European Journal of Operational Research, 208(3), 206–220, 2011.](https://doi.org/10.1016/j.ejor.2010.08.009)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### CMOS device design and optimization from a perspective of circuit-level energy-delay optimization
 - **Authors**: Lan Wei, Dimitri Antoniadis
 - **Published in**: [2011 International Electron Devices Meeting, 2011.](https://doi.org/10.1109/iedm.2011.6131558)
@@ -460,6 +523,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Container Transportation Network Bilevel Model Analysis
+- **Authors**: Tingfa Zhang, Luji Liu
+- **Published in**: [Logistics, 2009.](https://doi.org/10.1061/40996(330)41)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Convex two-level optimization problem
 - **Authors**: A. V. Kryazhimskii, R. A. Usachev
 - **Published in**: [Computational Mathematics and Modeling, 19(1), 73–101, 2008.](https://doi.org/10.1007/s10598-008-0007-6)
@@ -490,6 +562,15 @@ hascode = false
 ### Container Port Bilevel Programming Model
 - **Authors**: Ting Fa Zhang, Qingzhen Zhao
 - **Published in**: [2008 4th International Conference on Wireless Communications, Networking and Mobile Computing, 2008.](https://doi.org/10.1109/wicom.2008.1634)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### CATALYTIC ACTIVITY OF CYTOCHROME P‐450 USING NADP+ REDUCED BY SILICA HYDRIDE
+- **Authors**: Martha cecilia rosales Hernandez, Sandra selene Ortiz Pérez, Jose manuel Aceves, Jose Correa Basurto, Daniel Ramírez Rosales, Rafael Zamorano Ulloa, Jose Trujillo Ferrara
+- **Published in**: [The FASEB Journal, 21(5), 2007.](https://doi.org/10.1096/fasebj.21.5.a670)
 ~~~
 </div>
 ~~~
@@ -550,6 +631,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Convergence of an Inexact Smoothing Method for Mathematical Programs with Equilibrium Constraints
+- **Authors**: Zhong Wan, Yiju Wang
+- **Published in**: [Numerical Functional Analysis and Optimization, 27(3-4), 485–495, 2006.](https://doi.org/10.1080/01630560600657323)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Coordinating supply chain response-time: a bi-level programming approach
 - **Authors**: W. Yang, L. Li, S. Ma
 - **Published in**: [The International Journal of Advanced Manufacturing Technology, 31(9-10), 1034–1043, 2006.](https://doi.org/10.1007/s00170-005-0260-1)
@@ -580,6 +670,15 @@ hascode = false
 ### Computational Results
 - **Authors**: Oliver Stein
 - **Published in**: [Bi-Level Strategies in Semi-Infinite Programming, 171–185, 2003.](https://doi.org/10.1007/978-1-4419-9164-5_6)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Cone projection versus half-space projection for the bilevel optimisation of transportation networks
+- **Authors**: J. Clegg, M.J. Smith
+- **Published in**: [Transportation Research Part B: Methodological, 35(1), 71–82, 2001.](https://doi.org/10.1016/s0191-2615(00)00004-7)
 ~~~
 </div>
 ~~~

@@ -10,6 +10,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Use of a Non-nested Formulation to Improve Search for Bilevel Optimization
+- **Authors**: Md Monjurul Islam, Hemant Kumar Singh, Tapabrata Ray
+- **Published in**: [Lecture Notes in Computer Science, 106–118, 2017.](https://doi.org/10.1007/978-3-319-63004-5_9)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### User-Level Tools
 - **Authors**: Jan Newmarch
 - **Published in**: [Linux Sound Programming, 7–9, 2017.](https://doi.org/10.1007/978-1-4842-2496-0_2)
@@ -85,6 +94,15 @@ hascode = false
 ### Using genetic algorithm for solving quadratic bilevel programming problems via fuzzy goal programming
 - **Authors**: Bijay Baran Pal, Debjani Chakraborti
 - **Published in**: [International Journal of Applied Management Science, 5(2), 172, 2013.](https://doi.org/10.1504/ijams.2013.053690)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Using MOPSO to Solve Multiobjective Bilevel Linear Problems
+- **Authors**: Maria João Alves
+- **Published in**: [Swarm Intelligence, 332–339, 2012.](https://doi.org/10.1007/978-3-642-32650-9_35)
 ~~~
 </div>
 ~~~

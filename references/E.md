@@ -19,6 +19,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Enhanced Genetic Algorithm and Chaos Search for Bilevel Programming Problems
+- **Authors**: Yousria Abo-Elnaga, S. M. Nasr, I. M. El-Desoky, Z. M. Hendawy, A. A. Mousa
+- **Published in**: [The International Conference on Advanced Machine Learning Technologies and Applications (AMLTA2019), 478–487, 2019.](https://doi.org/10.1007/978-3-030-14118-9_48)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Efficient Regularization Parameter Selection for Latent Variable Graphical Models via Bi-Level Optimization
 - **Authors**: Joachim Giesen, Frank Nussbaum, Christopher Schneider
 - **Published in**: [Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, 2019.](https://doi.org/10.24963/ijcai.2019/330)
@@ -163,6 +172,15 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Equilibrium existence for multi-leader-follower generalized constrained multiobjective games in locally FC-uniform spaces
+- **Authors**: Xieping DING
+- **Published in**: [Acta Mathematica Scientia, 35(2), 339–347, 2015.](https://doi.org/10.1016/s0252-9602(15)60005-4)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Entry-Level Programming
 - **Authors**: Chris F. A. Johnson, Jayant Varma
 - **Published in**: [Pro Bash Programming, 195–207, 2015.](https://doi.org/10.1007/978-1-4842-0121-3_15)
@@ -271,9 +289,9 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Existence and iterative algorithm of solutions for a class of bilevel generalized mixed equilibrium problems in Banach spaces
+### Equilibrium existence theorems for multi-leader-follower generalized multiobjective games in FC-spaces
 - **Authors**: Xie Ping Ding
-- **Published in**: [Journal of Global Optimization, 53(3), 525–537, 2011.](https://doi.org/10.1007/s10898-011-9724-z)
+- **Published in**: [Journal of Global Optimization, 53(3), 381–390, 2011.](https://doi.org/10.1007/s10898-011-9717-y)
 ~~~
 </div>
 ~~~
@@ -328,6 +346,15 @@ hascode = false
 ### Emergency resource location and allocation model and algorithm based on bi-level programming
 - **Authors**: Wang Jing, Huang Jun, Zhang Ling
 - **Published in**: [2009 Chinese Control and Decision Conference, 2009.](https://doi.org/10.1109/ccdc.2009.5191898)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Exponential distribution-based genetic algorithm for solving mixed-integer bilevel programming problems
+- **Authors**: Li Hecheng, Wang Yuping
+- **Published in**: [Journal of Systems Engineering and Electronics, 19(6), 1157–1164, 2008.](https://doi.org/10.1016/s1004-4132(08)60213-3)
 ~~~
 </div>
 ~~~
