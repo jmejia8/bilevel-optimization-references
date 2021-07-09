@@ -176,32 +176,50 @@ function download_save_bib()
     if isnothing(bib)
       push!(doi_uris_banned, doi)
       writedlm(BANNED_DOI_URIS, doi_uris_banned)
-      @warn "Unable get valid bib"
+      @warn "Unable get valid bib\n"
       continue
     end
-
+     
 
     @info "Saving bibtext file..."
 
     try
-      fname = bib_id_to_fname(String(bib.keys[1]))
-      fname = joinpath(BIB_FOLDER, fname * "_" * string(counter)* ".bib")
-
-      Bibliography.export_bibtex(fname, bib)
+      save_bib(bib, doi_uris_saved, doi, counter)
     catch
+      push!(doi_uris_banned, doi)
+      writedlm(BANNED_DOI_URIS, doi_uris_banned)
       @warn "Error saving file [skipping]"
       continue
     end
 
-    push!(doi_uris_saved, doi)
-    @info "Done"
-    println("---")
-    writedlm(SAVED_DOI_URIS, doi_uris_saved)
     counter += 1
   end
   
 
 end
+
+function save_bib(bib, doi_uris_saved, doi, counter)
+  print(xtitle(bib[bib.keys[1]]), "\nSave bib? Yes/no: ")
+  answer = readline() |> strip |> lowercase
+  if !isempty(answer) && answer[1] == 'n'
+    @info "Ignored"
+    println("---")
+    error("ignore")
+    return
+  end
+
+  fname = bib_id_to_fname(String(bib.keys[1]))
+  fname = joinpath(BIB_FOLDER, fname * "_" * string(counter)* ".bib")
+
+  Bibliography.export_bibtex(fname, bib)
+
+  
+  push!(doi_uris_saved, doi)
+  @info "Done"
+  println("---")
+  writedlm(SAVED_DOI_URIS, doi_uris_saved)
+end
+
 
 function get_bib_files()
   download_save_bib()
