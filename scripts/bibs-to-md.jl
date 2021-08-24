@@ -63,6 +63,7 @@ function write_md(c)
   # $(uppercase(c))
   """
 
+  files = readdir(joinpath(BIB_FOLDER, c))
 
   @info "Creating MD"
   for k in keys(data)
@@ -76,13 +77,17 @@ function write_md(c)
     year = xyear(entry) |> strip
     push!(years, year)
 
+    i = findfirst( f -> issubset(k, f), files)
+
     md_txt *= """
     ~~~
     <div class="reference">
     ~~~
     ### $title
     - **Authors**: $authors
-    - **Published in**: $(linkify(published_in, link))
+    - **Published in**: $published_in
+    - **DOI**: $(linkify(link, link))
+    - [Get bib file](/bib-files/$(uppercase(c))/$(files[i]))
     ~~~
     </div>
     ~~~
