@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### Use of a Non-nested Formulation to Improve Search for Bilevel Optimization
 - **Authors**: Md Monjurul Islam, Hemant Kumar Singh, Tapabrata Ray
-- **Published in**: [Lecture Notes in Computer Science, 106–118, 2017.](https://doi.org/10.1007/978-3-319-63004-5_9)
+- **Published in**: Lecture Notes in Computer Science, 106–118, 2017.
+- **DOI**: [https://doi.org/10.1007/978-3-319-63004-5_9](https://doi.org/10.1007/978-3-319-63004-5_9)
+- [Get bib file](/bib-files/U/Islam_2017_0.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### User-Level Tools
 - **Authors**: Jan Newmarch
-- **Published in**: [Linux Sound Programming, 7–9, 2017.](https://doi.org/10.1007/978-1-4842-2496-0_2)
+- **Published in**: Linux Sound Programming, 7–9, 2017.
+- **DOI**: [https://doi.org/10.1007/978-1-4842-2496-0_2](https://doi.org/10.1007/978-1-4842-2496-0_2)
+- [Get bib file](/bib-files/U/Newmarch_2017_65.bib)
 ~~~
 </div>
 ~~~
@@ -30,7 +34,9 @@ hascode = false
 ~~~
 ### Unidirectional Kenaf Polypropylene Composites: Optimization Process by Two Level Full Factorial
 - **Authors**: Dulina Tholibon, Abu Bakar Sulong, Norhamidi Muhamad, Nur Farhani Ismail, Izdihar Tharazi, Mohd Khairul Fadzly Md Radzi
-- **Published in**: [Materials Science Forum, 894, 42–45, 2017.](https://doi.org/10.4028/www.scientific.net/msf.894.42)
+- **Published in**: Materials Science Forum, 894, 42–45, 2017.
+- **DOI**: [https://doi.org/10.4028/www.scientific.net/msf.894.42](https://doi.org/10.4028/www.scientific.net/msf.894.42)
+- [Get bib file](/bib-files/U/Tholibon_2017_240.bib)
 ~~~
 </div>
 ~~~
@@ -39,7 +45,9 @@ hascode = false
 ~~~
 ### Utilizing the Optimization Algorithm in Cascaded H-Bridge Multilevel Inverter
 - **Authors**: M.Suresh Kumar, Ramani Kannan
-- **Published in**: [TELKOMNIKA Indonesian Journal of Electrical Engineering, 13(3), 2015.](https://doi.org/10.11591/telkomnika.v13i3.7132)
+- **Published in**: TELKOMNIKA Indonesian Journal of Electrical Engineering, 13(3), 2015.
+- **DOI**: [https://doi.org/10.11591/telkomnika.v13i3.7132](https://doi.org/10.11591/telkomnika.v13i3.7132)
+- [Get bib file](/bib-files/U/Kumar_2015_199.bib)
 ~~~
 </div>
 ~~~
@@ -48,7 +56,9 @@ hascode = false
 ~~~
 ### Upper and lower bounds for the optimal values of the interval bilevel linear programming problem
 - **Authors**: H. Mishmast Nehi, F. Hamidi
-- **Published in**: [Applied Mathematical Modelling, 39(5-6), 1650–1664, 2015.](https://doi.org/10.1016/j.apm.2014.09.021)
+- **Published in**: Applied Mathematical Modelling, 39(5-6), 1650–1664, 2015.
+- **DOI**: [https://doi.org/10.1016/j.apm.2014.09.021](https://doi.org/10.1016/j.apm.2014.09.021)
+- [Get bib file](/bib-files/U/Mishmast_Nehi_2015_18.bib)
 ~~~
 </div>
 ~~~
@@ -57,7 +67,9 @@ hascode = false
 ~~~
 ### Urban Traffic Microcirculation Network Optimization Based on Bi-Level Multi-Goal Programming
 - **Authors**: Hongfei Ding, Xia Luo, Yang Song, Xu Gao
-- **Published in**: [ICLEM 2014, 2014.](https://doi.org/10.1061/9780784413753.055)
+- **Published in**: ICLEM 2014, 2014.
+- **DOI**: [https://doi.org/10.1061/9780784413753.055](https://doi.org/10.1061/9780784413753.055)
+- [Get bib file](/bib-files/U/Ding_2014_133.bib)
 ~~~
 </div>
 ~~~
@@ -66,7 +78,9 @@ hascode = false
 ~~~
 ### Unsupervised discovery of linguistic structure including two-level acoustic patterns using three cascaded stages of iterative optimization
 - **Authors**: Cheng-Tao Chung, Chun-an Chan, Lin-shan Lee
-- **Published in**: [2013 IEEE International Conference on Acoustics, Speech and Signal Processing, 2013.](https://doi.org/10.1109/icassp.2013.6639239)
+- **Published in**: 2013 IEEE International Conference on Acoustics, Speech and Signal Processing, 2013.
+- **DOI**: [https://doi.org/10.1109/icassp.2013.6639239](https://doi.org/10.1109/icassp.2013.6639239)
+- [Get bib file](/bib-files/U/Chung_2013_143.bib)
 ~~~
 </div>
 ~~~
@@ -75,7 +89,9 @@ hascode = false
 ~~~
 ### Using inexact gradients in a multilevel optimization algorithm
 - **Authors**: Robert Michael Lewis, Stephen G. Nash
-- **Published in**: [Computational Optimization and Applications, 56(1), 39–61, 2013.](https://doi.org/10.1007/s10589-013-9546-7)
+- **Published in**: Computational Optimization and Applications, 56(1), 39–61, 2013.
+- **DOI**: [https://doi.org/10.1007/s10589-013-9546-7](https://doi.org/10.1007/s10589-013-9546-7)
+- [Get bib file](/bib-files/U/Lewis_2013_85.bib)
 ~~~
 </div>
 ~~~
@@ -84,7 +100,9 @@ hascode = false
 ~~~
 ### Using Bi-level Multi-Objective Programming in Passenger Structure Optimization for Comprehensive Transportation Channel
 - **Authors**: Hongyan Li, Dong Wang, Xiaonian Sun, Zhenzhou Yuan
-- **Published in**: [Journal of Software, 8(4), 2013.](https://doi.org/10.4304/jsw.8.4.908-915)
+- **Published in**: Journal of Software, 8(4), 2013.
+- **DOI**: [https://doi.org/10.4304/jsw.8.4.908-915](https://doi.org/10.4304/jsw.8.4.908-915)
+- [Get bib file](/bib-files/U/Lewis_2013_85.bib)
 ~~~
 </div>
 ~~~
@@ -93,7 +111,9 @@ hascode = false
 ~~~
 ### Using genetic algorithm for solving quadratic bilevel programming problems via fuzzy goal programming
 - **Authors**: Bijay Baran Pal, Debjani Chakraborti
-- **Published in**: [International Journal of Applied Management Science, 5(2), 172, 2013.](https://doi.org/10.1504/ijams.2013.053690)
+- **Published in**: International Journal of Applied Management Science, 5(2), 172, 2013.
+- **DOI**: [https://doi.org/10.1504/ijams.2013.053690](https://doi.org/10.1504/ijams.2013.053690)
+- [Get bib file](/bib-files/U/Pal_2013_113.bib)
 ~~~
 </div>
 ~~~
@@ -102,7 +122,9 @@ hascode = false
 ~~~
 ### Using MOPSO to Solve Multiobjective Bilevel Linear Problems
 - **Authors**: Maria João Alves
-- **Published in**: [Swarm Intelligence, 332–339, 2012.](https://doi.org/10.1007/978-3-642-32650-9_35)
+- **Published in**: Swarm Intelligence, 332–339, 2012.
+- **DOI**: [https://doi.org/10.1007/978-3-642-32650-9_35](https://doi.org/10.1007/978-3-642-32650-9_35)
+- [Get bib file](/bib-files/U/Alves_2012_2.bib)
 ~~~
 </div>
 ~~~
@@ -111,7 +133,9 @@ hascode = false
 ~~~
 ### Unconstrained scalable test problems for single-objective bilevel optimization
 - **Authors**: Ankur Sinha, Pekka Malo, Kalyanmoy Deb
-- **Published in**: [2012 IEEE Congress on Evolutionary Computation, 2012.](https://doi.org/10.1109/cec.2012.6256557)
+- **Published in**: 2012 IEEE Congress on Evolutionary Computation, 2012.
+- **DOI**: [https://doi.org/10.1109/cec.2012.6256557](https://doi.org/10.1109/cec.2012.6256557)
+- [Get bib file](/bib-files/U/Sinha_2012_140.bib)
 ~~~
 </div>
 ~~~
@@ -120,7 +144,9 @@ hascode = false
 ~~~
 ### Using approximate secant equations in limited memory methods for multilevel unconstrained optimization
 - **Authors**: Serge Gratton, Vincent Malmedy, Philippe L. Toint
-- **Published in**: [Computational Optimization and Applications, 51(3), 967–979, 2011.](https://doi.org/10.1007/s10589-011-9393-3)
+- **Published in**: Computational Optimization and Applications, 51(3), 967–979, 2011.
+- **DOI**: [https://doi.org/10.1007/s10589-011-9393-3](https://doi.org/10.1007/s10589-011-9393-3)
+- [Get bib file](/bib-files/U/Gratton_2011_58.bib)
 ~~~
 </div>
 ~~~
@@ -129,7 +155,9 @@ hascode = false
 ~~~
 ### Uniform Design Based Hybrid Genetic Algorithm for Multiobjective Bilevel Convex Programming
 - **Authors**: Liping Jia, Yuping Wang, Lei Fan
-- **Published in**: [2011 Seventh International Conference on Computational Intelligence and Security, 2011.](https://doi.org/10.1109/cis.2011.43)
+- **Published in**: 2011 Seventh International Conference on Computational Intelligence and Security, 2011.
+- **DOI**: [https://doi.org/10.1109/cis.2011.43](https://doi.org/10.1109/cis.2011.43)
+- [Get bib file](/bib-files/U/Jia_2011_4.bib)
 ~~~
 </div>
 ~~~
@@ -138,7 +166,9 @@ hascode = false
 ~~~
 ### Using hybrid metaheuristic approaches to solve bi-level linear programming problem for supply chain management
 - **Authors**: R. J. Kuo, Y. S. Han
-- **Published in**: [2010 IEEE International Conference on Industrial Engineering and Engineering Management, 2010.](https://doi.org/10.1109/ieem.2010.5674329)
+- **Published in**: 2010 IEEE International Conference on Industrial Engineering and Engineering Management, 2010.
+- **DOI**: [https://doi.org/10.1109/ieem.2010.5674329](https://doi.org/10.1109/ieem.2010.5674329)
+- [Get bib file](/bib-files/U/Kuo_2010_58.bib)
 ~~~
 </div>
 ~~~
@@ -147,7 +177,9 @@ hascode = false
 ~~~
 ### Urban Transportation Multi-pricing Model Based on Bi-level Programming Method
 - **Authors**: Wang Jian, An Shi, Zhao Ze-bin
-- **Published in**: [2006 International Conference on Management Science and Engineering, 2006.](https://doi.org/10.1109/icmse.2006.314130)
+- **Published in**: 2006 International Conference on Management Science and Engineering, 2006.
+- **DOI**: [https://doi.org/10.1109/icmse.2006.314130](https://doi.org/10.1109/icmse.2006.314130)
+- [Get bib file](/bib-files/U/Jian_2006_21.bib)
 ~~~
 </div>
 ~~~
@@ -156,7 +188,9 @@ hascode = false
 ~~~
 ### Uncertainty Propagation Techniques in Probabilistic Design of Multilevel Systems
 - **Authors**: Byeng Dong Youn, Kyung K. Choi, Michael Kokkolaras, P. Y. Papalambros, Z. Mourelatos, David Gorsich
-- **Published in**: [10th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, 2004.](https://doi.org/10.2514/6.2004-4470)
+- **Published in**: 10th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, 2004.
+- **DOI**: [https://doi.org/10.2514/6.2004-4470](https://doi.org/10.2514/6.2004-4470)
+- [Get bib file](/bib-files/U/Youn_2004_309.bib)
 ~~~
 </div>
 ~~~
@@ -165,7 +199,9 @@ hascode = false
 ~~~
 ### Using branch-and-bound to solve bi-level geometric programming problems: A new optimization model
 - **Authors**: R.S. Segall
-- **Published in**: [Applied Mathematical Modelling, 14(5), 271–274, 1990.](https://doi.org/10.1016/0307-904x(90)90018-z)
+- **Published in**: Applied Mathematical Modelling, 14(5), 271–274, 1990.
+- **DOI**: [https://doi.org/10.1016/0307-904x(90)90018-z](https://doi.org/10.1016/0307-904x(90)90018-z)
+- [Get bib file](/bib-files/U/Segall_1990_111.bib)
 ~~~
 </div>
 ~~~
@@ -174,7 +210,9 @@ hascode = false
 ~~~
 ### Using the Generalized Reduced Gradient Method to Handle Equality Constraints Directly in a Multilevel Optimization
 - **Authors**: J. E. Renaud, G. A. Gabriele
-- **Published in**: [15th Design Automation Conference: Volume 2 — Design Optimization, 1989.](https://doi.org/10.1115/detc1989-0068)
+- **Published in**: 15th Design Automation Conference: Volume 2 — Design Optimization, 1989.
+- **DOI**: [https://doi.org/10.1115/detc1989-0068](https://doi.org/10.1115/detc1989-0068)
+- [Get bib file](/bib-files/U/Renaud_1989_57.bib)
 ~~~
 </div>
 ~~~

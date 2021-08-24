@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### Fuzzy Formalization of Individual Quality Criteria for Quality Level Evaluation by Using Two-Level Optimization Model
 - **Authors**: G. Pipiay, L. Chernenkaya, V. Mager
-- **Published in**: [Proceedings of the 6th International Conference on Industrial Engineering (ICIE 2020), 557–565, 2021.](https://doi.org/10.1007/978-3-030-54817-9_65)
+- **Published in**: Proceedings of the 6th International Conference on Industrial Engineering (ICIE 2020), 557–565, 2021.
+- **DOI**: [https://doi.org/10.1007/978-3-030-54817-9_65](https://doi.org/10.1007/978-3-030-54817-9_65)
+- [Get bib file](/bib-files/F/Pipiay_2021_288.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### Fast UAV Trajectory Optimization Using Bilevel Optimization With Analytical Gradients
 - **Authors**: Weidong Sun, Gao Tang, Kris Hauser
-- **Published in**: [IEEE Transactions on Robotics, 1–15, 2021.](https://doi.org/10.1109/tro.2021.3076454)
+- **Published in**: IEEE Transactions on Robotics, 1–15, 2021.
+- **DOI**: [https://doi.org/10.1109/tro.2021.3076454](https://doi.org/10.1109/tro.2021.3076454)
+- [Get bib file](/bib-files/F/Sun_2021_245.bib)
 ~~~
 </div>
 ~~~
@@ -30,7 +34,9 @@ hascode = false
 ~~~
 ### FB-GSA: A fuzzy bi-level programming based gravitational search algorithm for unconstrained optimization
 - **Authors**: Nitish Das, Aruna Priya P.
-- **Published in**: [Applied Intelligence, 51(4), 1857–1887, 2020.](https://doi.org/10.1007/s10489-020-01884-0)
+- **Published in**: Applied Intelligence, 51(4), 1857–1887, 2020.
+- **DOI**: [https://doi.org/10.1007/s10489-020-01884-0](https://doi.org/10.1007/s10489-020-01884-0)
+- [Get bib file](/bib-files/F/Das_2020_121.bib)
 ~~~
 </div>
 ~~~
@@ -39,7 +45,9 @@ hascode = false
 ~~~
 ### Feature construction as a bi-level optimization problem
 - **Authors**: Marwa Hammami, Slim Bechikh, Ali Louati, Mohamed Makhlouf, Lamjed Ben Said
-- **Published in**: [Neural Computing and Applications, 32(17), 13783–13804, 2020.](https://doi.org/10.1007/s00521-020-04784-z)
+- **Published in**: Neural Computing and Applications, 32(17), 13783–13804, 2020.
+- **DOI**: [https://doi.org/10.1007/s00521-020-04784-z](https://doi.org/10.1007/s00521-020-04784-z)
+- [Get bib file](/bib-files/F/Hammami_2020_208.bib)
 ~~~
 </div>
 ~~~
@@ -48,7 +56,20 @@ hascode = false
 ~~~
 ### First- and second-order optimality conditions in optimistic bilevel set-valued programming
 - **Authors**: Lahoussine Lafhim
-- **Published in**: [Optimization, 1–27, 2020.](https://doi.org/10.1080/02331934.2020.1846189)
+- **Published in**: Optimization, 1–27, 2020.
+- **DOI**: [https://doi.org/10.1080/02331934.2020.1846189](https://doi.org/10.1080/02331934.2020.1846189)
+- [Get bib file](/bib-files/F/Lafhim_2020_64.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Fuzzy Relation Bilevel Optimization Model in the Wireless Communication Station System
+- **Authors**: Jianjun Qiu, Huanbin Xue, Guanrong Li, Xiaopeng Yang
+- **Published in**: IEEE Access, 8, 60811–60823, 2020.
+- **DOI**: [https://doi.org/10.1109/access.2020.2984095](https://doi.org/10.1109/access.2020.2984095)
+- [Get bib file](/bib-files/F/Qiu_2020_0.bib)
 ~~~
 </div>
 ~~~
@@ -57,7 +78,9 @@ hascode = false
 ~~~
 ### FGP APPROACH TO BI-LEVEL MULTI-OBJECTIVE QUADRATIC FRACTIONAL PROGRAMMING WITH PARAMETRIC FUNCTIONS
 - **Authors**: N. Rani, V. Goyal, D. Gupta
-- **Published in**: [Advances in Mathematics: Scientific Journal, 9(6), 3453–3459, 2020.](https://doi.org/10.37418/amsj.9.6.25)
+- **Published in**: Advances in Mathematics: Scientific Journal, 9(6), 3453–3459, 2020.
+- **DOI**: [https://doi.org/10.37418/amsj.9.6.25](https://doi.org/10.37418/amsj.9.6.25)
+- [Get bib file](/bib-files/F/Rani_2020_197.bib)
 ~~~
 </div>
 ~~~
@@ -66,7 +89,9 @@ hascode = false
 ~~~
 ### Fast UAV Trajectory Optimization using Bilevel Optimization with Analytical Gradients
 - **Authors**: Weidong Sun, Gao Tang, Kris Hauser
-- **Published in**: [2020 American Control Conference (ACC), 2020.](https://doi.org/10.23919/acc45564.2020.9147300)
+- **Published in**: 2020 American Control Conference (ACC), 2020.
+- **DOI**: [https://doi.org/10.23919/acc45564.2020.9147300](https://doi.org/10.23919/acc45564.2020.9147300)
+- [Get bib file](/bib-files/F/Sun_2020_47.bib)
 ~~~
 </div>
 ~~~
@@ -75,7 +100,9 @@ hascode = false
 ~~~
 ### Feature selection for classification models via bilevel optimization
 - **Authors**: Joseph Agor, Osman Y. Özaltın
-- **Published in**: [Computers & Operations Research, 106, 156–168, 2019.](https://doi.org/10.1016/j.cor.2018.05.005)
+- **Published in**: Computers & Operations Research, 106, 156–168, 2019.
+- **DOI**: [https://doi.org/10.1016/j.cor.2018.05.005](https://doi.org/10.1016/j.cor.2018.05.005)
+- [Get bib file](/bib-files/F/Agor_2019_146.bib)
 ~~~
 </div>
 ~~~
@@ -84,7 +111,9 @@ hascode = false
 ~~~
 ### Fuzzy rough bi-level multi-objective nonlinear programming problems
 - **Authors**: M.A. Elsisy, M.A. El Sayed
-- **Published in**: [Alexandria Engineering Journal, 58(4), 1471–1482, 2019.](https://doi.org/10.1016/j.aej.2019.12.002)
+- **Published in**: Alexandria Engineering Journal, 58(4), 1471–1482, 2019.
+- **DOI**: [https://doi.org/10.1016/j.aej.2019.12.002](https://doi.org/10.1016/j.aej.2019.12.002)
+- [Get bib file](/bib-files/F/Elsisy_2019_108.bib)
 ~~~
 </div>
 ~~~
@@ -93,7 +122,9 @@ hascode = false
 ~~~
 ### Fixed-time consensus for leader-follower nonlinear multi-agent systems with disturbance
 - **Authors**: Ya Liu, Panfeng Huang, Fan Zhang
-- **Published in**: [2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM), 2019.](https://doi.org/10.1109/icarm.2019.8834244)
+- **Published in**: 2019 IEEE 4th International Conference on Advanced Robotics and Mechatronics (ICARM), 2019.
+- **DOI**: [https://doi.org/10.1109/icarm.2019.8834244](https://doi.org/10.1109/icarm.2019.8834244)
+- [Get bib file](/bib-files/F/Liu_2019_13.bib)
 ~~~
 </div>
 ~~~
@@ -102,7 +133,9 @@ hascode = false
 ~~~
 ### Fully Integrated Asymmetric Doherty Amplifier Based on Two-Power-Level Impedance Optimization
 - **Authors**: Ryo Ishikawa, Yoichiro Takayama, Kazuhiko Honjo
-- **Published in**: [2018 48th European Microwave Conference (EuMC), 2018.](https://doi.org/10.23919/eumc.2018.8541803)
+- **Published in**: 2018 48th European Microwave Conference (EuMC), 2018.
+- **DOI**: [https://doi.org/10.23919/eumc.2018.8541803](https://doi.org/10.23919/eumc.2018.8541803)
+- [Get bib file](/bib-files/F/Ishikawa_2018_25.bib)
 ~~~
 </div>
 ~~~
@@ -111,7 +144,9 @@ hascode = false
 ~~~
 ### Further on Inner Regularizations in Bilevel Optimization
 - **Authors**: M. Beatrice Lignola, Jacqueline Morgan
-- **Published in**: [Journal of Optimization Theory and Applications, 180(3), 1087–1097, 2018.](https://doi.org/10.1007/s10957-018-1438-7)
+- **Published in**: Journal of Optimization Theory and Applications, 180(3), 1087–1097, 2018.
+- **DOI**: [https://doi.org/10.1007/s10957-018-1438-7](https://doi.org/10.1007/s10957-018-1438-7)
+- [Get bib file](/bib-files/F/Lignola_2018_195.bib)
 ~~~
 </div>
 ~~~
@@ -120,7 +155,9 @@ hascode = false
 ~~~
 ### Finding Robust Global Optimal Values of Bilevel Polynomial Programs with Uncertain Linear Constraints
 - **Authors**: T. D. Chuong, V. Jeyakumar
-- **Published in**: [Journal of Optimization Theory and Applications, 173(2), 683–703, 2017.](https://doi.org/10.1007/s10957-017-1069-4)
+- **Published in**: Journal of Optimization Theory and Applications, 173(2), 683–703, 2017.
+- **DOI**: [https://doi.org/10.1007/s10957-017-1069-4](https://doi.org/10.1007/s10957-017-1069-4)
+- [Get bib file](/bib-files/F/Chuong_2017_368.bib)
 ~~~
 </div>
 ~~~
@@ -129,7 +166,9 @@ hascode = false
 ~~~
 ### From Mixed-Integer Linear to Mixed-Integer Bilevel Linear Programming
 - **Authors**: Matteo Fischetti
-- **Published in**: [Optimization and Decision Science: Methodologies and Applications, 21–28, 2017.](https://doi.org/10.1007/978-3-319-67308-0_3)
+- **Published in**: Optimization and Decision Science: Methodologies and Applications, 21–28, 2017.
+- **DOI**: [https://doi.org/10.1007/978-3-319-67308-0_3](https://doi.org/10.1007/978-3-319-67308-0_3)
+- [Get bib file](/bib-files/F/Fischetti_2017_304.bib)
 ~~~
 </div>
 ~~~
@@ -138,7 +177,9 @@ hascode = false
 ~~~
 ### Follower distribution algorithms for leader-follower networks
 - **Authors**: Begum Senses Cannataro, Zhen Kan, Warren E. Dixon
-- **Published in**: [2016 IEEE Conference on Computer Aided Control System Design (CACSD), 2016.](https://doi.org/10.1109/cacsd.2016.7602540)
+- **Published in**: 2016 IEEE Conference on Computer Aided Control System Design (CACSD), 2016.
+- **DOI**: [https://doi.org/10.1109/cacsd.2016.7602540](https://doi.org/10.1109/cacsd.2016.7602540)
+- [Get bib file](/bib-files/F/Cannataro_2016_30.bib)
 ~~~
 </div>
 ~~~
@@ -147,7 +188,9 @@ hascode = false
 ~~~
 ### Fuzzy Bilevel Programming with Credibility Measure
 - **Authors**: Hande Günay Akdemir
-- **Published in**: [Advances in Intelligent Systems and Computing, 127–137, 2016.](https://doi.org/10.1007/978-3-319-30322-2_9)
+- **Published in**: Advances in Intelligent Systems and Computing, 127–137, 2016.
+- **DOI**: [https://doi.org/10.1007/978-3-319-30322-2_9](https://doi.org/10.1007/978-3-319-30322-2_9)
+- [Get bib file](/bib-files/F/G_nay_Akdemir_2016_3.bib)
 ~~~
 </div>
 ~~~
@@ -156,7 +199,9 @@ hascode = false
 ~~~
 ### Foundations of Random-Like Bi-Level Decision Making
 - **Authors**: Jiuping Xu, Zongmin Li, Zhimiao Tao
-- **Published in**: [Random-Like Bi-level Decision Making, 1–75, 2016.](https://doi.org/10.1007/978-981-10-1768-1_1)
+- **Published in**: Random-Like Bi-level Decision Making, 1–75, 2016.
+- **DOI**: [https://doi.org/10.1007/978-981-10-1768-1_1](https://doi.org/10.1007/978-981-10-1768-1_1)
+- [Get bib file](/bib-files/F/Xu_2016_243.bib)
 ~~~
 </div>
 ~~~
@@ -165,7 +210,9 @@ hascode = false
 ~~~
 ### Fuzzy Bi-level Decision Making
 - **Authors**: Guangquan Zhang, Jie Lu, Ya Gao
-- **Published in**: [Intelligent Systems Reference Library, 175–205, 2015.](https://doi.org/10.1007/978-3-662-46059-7_7)
+- **Published in**: Intelligent Systems Reference Library, 175–205, 2015.
+- **DOI**: [https://doi.org/10.1007/978-3-662-46059-7_7](https://doi.org/10.1007/978-3-662-46059-7_7)
+- [Get bib file](/bib-files/F/Zhang_2015_306.bib)
 ~~~
 </div>
 ~~~
@@ -174,7 +221,9 @@ hascode = false
 ~~~
 ### Fuzzy-based interactive method for solution of bi- and multi-level programming problems
 - **Authors**: Krishna Pratap Singh, Kusum Deep, M.L. Kansal
-- **Published in**: [International Journal of Information and Decision Sciences, 6(2), 166, 2014.](https://doi.org/10.1504/ijids.2014.061774)
+- **Published in**: International Journal of Information and Decision Sciences, 6(2), 166, 2014.
+- **DOI**: [https://doi.org/10.1504/ijids.2014.061774](https://doi.org/10.1504/ijids.2014.061774)
+- [Get bib file](/bib-files/F/Singh_2014_155.bib)
 ~~~
 </div>
 ~~~
@@ -183,7 +232,9 @@ hascode = false
 ~~~
 ### Finding optimal strategies in a multi-period multi-leader–follower Stackelberg game using an evolutionary algorithm
 - **Authors**: Ankur Sinha, Pekka Malo, Anton Frantsev, Kalyanmoy Deb
-- **Published in**: [Computers & Operations Research, 41, 374–385, 2014.](https://doi.org/10.1016/j.cor.2013.07.010)
+- **Published in**: Computers & Operations Research, 41, 374–385, 2014.
+- **DOI**: [https://doi.org/10.1016/j.cor.2013.07.010](https://doi.org/10.1016/j.cor.2013.07.010)
+- [Get bib file](/bib-files/F/Sinha_2014_4.bib)
 ~~~
 </div>
 ~~~
@@ -192,7 +243,9 @@ hascode = false
 ~~~
 ### Fuzzy Bi-Level Multi-Objective Fractional Integer Programming
 - **Authors**: E. A. Youness, O. E. Emam, M. S. Hafez
-- **Published in**: [Applied Mathematics & Information Sciences, 8(6), 2857–2863, 2014.](https://doi.org/10.12785/amis/080622)
+- **Published in**: Applied Mathematics & Information Sciences, 8(6), 2857–2863, 2014.
+- **DOI**: [https://doi.org/10.12785/amis/080622](https://doi.org/10.12785/amis/080622)
+- [Get bib file](/bib-files/F/Youness_2014_237.bib)
 ~~~
 </div>
 ~~~
@@ -201,7 +254,9 @@ hascode = false
 ~~~
 ### Fuzzy random non-cooperative two-level linear programming through fractile models with possibility and necessity
 - **Authors**: Masatoshi Sakawa, Takeshi Matsui
-- **Published in**: [Engineering Optimization, 45(7), 811–833, 2013.](https://doi.org/10.1080/0305215x.2012.709512)
+- **Published in**: Engineering Optimization, 45(7), 811–833, 2013.
+- **DOI**: [https://doi.org/10.1080/0305215x.2012.709512](https://doi.org/10.1080/0305215x.2012.709512)
+- [Get bib file](/bib-files/F/Sakawa_2013_57.bib)
 ~~~
 </div>
 ~~~
@@ -210,7 +265,9 @@ hascode = false
 ~~~
 ### Feasible direction method for bilevel programming problem
 - **Authors**: Ayalew Getachew Mersha, Stephan Dempe
-- **Published in**: [Optimization, 61(5), 597–616, 2012.](https://doi.org/10.1080/02331934.2011.641546)
+- **Published in**: Optimization, 61(5), 597–616, 2012.
+- **DOI**: [https://doi.org/10.1080/02331934.2011.641546](https://doi.org/10.1080/02331934.2011.641546)
+- [Get bib file](/bib-files/F/Mersha_2012_58.bib)
 ~~~
 </div>
 ~~~
@@ -219,7 +276,9 @@ hascode = false
 ~~~
 ### Fuzzy linear fractional bi-level multi-objective programming problems
 - **Authors**: Nemat Safaei, Mansour Saraj
-- **Published in**: [International Journal of Applied Mathematical Research, 1(4), 2012.](https://doi.org/10.14419/ijamr.v1i4.416)
+- **Published in**: International Journal of Applied Mathematical Research, 1(4), 2012.
+- **DOI**: [https://doi.org/10.14419/ijamr.v1i4.416](https://doi.org/10.14419/ijamr.v1i4.416)
+- [Get bib file](/bib-files/F/Safaei_2012_15.bib)
 ~~~
 </div>
 ~~~
@@ -228,7 +287,9 @@ hascode = false
 ~~~
 ### Formal Specification as High-Level Programming: The ASSL Approach
 - **Authors**: Emil Vassev, Mike Hinchey
-- **Published in**: [Patterns, Programming and Everything, 129–146, 2012.](https://doi.org/10.1007/978-1-4471-2350-7_9)
+- **Published in**: Patterns, Programming and Everything, 129–146, 2012.
+- **DOI**: [https://doi.org/10.1007/978-1-4471-2350-7_9](https://doi.org/10.1007/978-1-4471-2350-7_9)
+- [Get bib file](/bib-files/F/Vassev_2012_73.bib)
 ~~~
 </div>
 ~~~
@@ -237,7 +298,9 @@ hascode = false
 ~~~
 ### Fuzzy Optimality Conditions for Fractional Multiobjective Bilevel Problems Under Fractional Constraints
 - **Authors**: M. Bazine, A. Bennani, N. Gadhi
-- **Published in**: [Numerical Functional Analysis and Optimization, 32(2), 126–141, 2011.](https://doi.org/10.1080/01630563.2010.532274)
+- **Published in**: Numerical Functional Analysis and Optimization, 32(2), 126–141, 2011.
+- **DOI**: [https://doi.org/10.1080/01630563.2010.532274](https://doi.org/10.1080/01630563.2010.532274)
+- [Get bib file](/bib-files/F/Bazine_2011_201.bib)
 ~~~
 </div>
 ~~~
@@ -246,7 +309,9 @@ hascode = false
 ~~~
 ### Fuzzy Sub Bi HX Group and its Bi Level Sub Bi HX Groups
 - **Authors**: R. Muthuraj, P.M. Sitharselvam, K.H. Manikandan
-- **Published in**: [International Journal of Computer Applications, 13(8), 23–26, 2011.](https://doi.org/10.5120/1800-2403)
+- **Published in**: International Journal of Computer Applications, 13(8), 23–26, 2011.
+- **DOI**: [https://doi.org/10.5120/1800-2403](https://doi.org/10.5120/1800-2403)
+- [Get bib file](/bib-files/F/Muthuraj_2011_264.bib)
 ~~~
 </div>
 ~~~
@@ -255,7 +320,9 @@ hascode = false
 ~~~
 ### Fuzzy Goal Programming Approach to Quadratic BiLevel MultiObjective Programming Problem
 - **Authors**: Surapati Pramanik, Partha Pratim Dey, Bibhas C. Giri
-- **Published in**: [International Journal of Computer Applications, 29(6), 9–14, 2011.](https://doi.org/10.5120/3571-4926)
+- **Published in**: International Journal of Computer Applications, 29(6), 9–14, 2011.
+- **DOI**: [https://doi.org/10.5120/3571-4926](https://doi.org/10.5120/3571-4926)
+- [Get bib file](/bib-files/F/Pramanik_2011_111.bib)
 ~~~
 </div>
 ~~~
@@ -264,7 +331,9 @@ hascode = false
 ~~~
 ### Fuzzy programming approach for solving bi-level multi-objective linear programming problems
 - **Authors**: Wenguang Tang, Zhao Fenxia
-- **Published in**: [2010 Seventh International Conference on Fuzzy Systems and Knowledge Discovery, 2010.](https://doi.org/10.1109/fskd.2010.5569711)
+- **Published in**: 2010 Seventh International Conference on Fuzzy Systems and Knowledge Discovery, 2010.
+- **DOI**: [https://doi.org/10.1109/fskd.2010.5569711](https://doi.org/10.1109/fskd.2010.5569711)
+- [Get bib file](/bib-files/F/Tang_2010_0.bib)
 ~~~
 </div>
 ~~~
@@ -273,7 +342,9 @@ hascode = false
 ~~~
 ### Fuzzy goal programming algorithm for solving decentralized bi-level multi-objective programming problems
 - **Authors**: Ibrahim A. Baky
-- **Published in**: [Fuzzy Sets and Systems, 160(18), 2701–2713, 2009.](https://doi.org/10.1016/j.fss.2009.02.022)
+- **Published in**: Fuzzy Sets and Systems, 160(18), 2701–2713, 2009.
+- **DOI**: [https://doi.org/10.1016/j.fss.2009.02.022](https://doi.org/10.1016/j.fss.2009.02.022)
+- [Get bib file](/bib-files/F/Baky_2009_48.bib)
 ~~~
 </div>
 ~~~
@@ -282,7 +353,9 @@ hascode = false
 ~~~
 ### FUZZY BILEVEL PROGRAMMING: MULTI-OBJECTIVE AND MULTI-FOLLOWER WITH SHARED VARIABLES
 - **Authors**: GUANGQUAN ZHANG, JIE LU, YA GAO
-- **Published in**: [International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 16(supp02), 105–133, 2008.](https://doi.org/10.1142/s0218488508005510)
+- **Published in**: International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 16(supp02), 105–133, 2008.
+- **DOI**: [https://doi.org/10.1142/s0218488508005510](https://doi.org/10.1142/s0218488508005510)
+- [Get bib file](/bib-files/F/ZHANG_2008_5.bib)
 ~~~
 </div>
 ~~~
@@ -291,7 +364,9 @@ hascode = false
 ~~~
 ### Fuzzy bilevel programming with multiple objectives and cooperative multiple followers
 - **Authors**: Guangquan Zhang, Jie Lu
-- **Published in**: [Journal of Global Optimization, 47(3), 403–419, 2008.](https://doi.org/10.1007/s10898-008-9365-z)
+- **Published in**: Journal of Global Optimization, 47(3), 403–419, 2008.
+- **DOI**: [https://doi.org/10.1007/s10898-008-9365-z](https://doi.org/10.1007/s10898-008-9365-z)
+- [Get bib file](/bib-files/F/Zhang_2008_6.bib)
 ~~~
 </div>
 ~~~
@@ -300,7 +375,9 @@ hascode = false
 ~~~
 ### Fuzzy Bi-Level Multi-Objective Programming for Supply Chain
 - **Authors**: Ying Li, Shanlin Yang
-- **Published in**: [2007 IEEE International Conference on Automation and Logistics, 2007.](https://doi.org/10.1109/ical.2007.4338941)
+- **Published in**: 2007 IEEE International Conference on Automation and Logistics, 2007.
+- **DOI**: [https://doi.org/10.1109/ical.2007.4338941](https://doi.org/10.1109/ical.2007.4338941)
+- [Get bib file](/bib-files/F/Li_2007_17.bib)
 ~~~
 </div>
 ~~~
@@ -309,7 +386,9 @@ hascode = false
 ~~~
 ### Fast Computational Method for a Class of Nonlinear Bilevel Programming Problems Using the Hybrid Genetic Algorithm
 - **Authors**: Hong Li, Yong-chang Jiao, Li Zhang, Yuping Wang
-- **Published in**: [2006 International Conference on Computational Intelligence and Security, 2006.](https://doi.org/10.1109/iccias.2006.294125)
+- **Published in**: 2006 International Conference on Computational Intelligence and Security, 2006.
+- **DOI**: [https://doi.org/10.1109/iccias.2006.294125](https://doi.org/10.1109/iccias.2006.294125)
+- [Get bib file](/bib-files/F/Lafhim_2020_64.bib)
 ~~~
 </div>
 ~~~
@@ -318,7 +397,9 @@ hascode = false
 ~~~
 ### Flexible Approximation Model Approach for Bi-Level Integrated System Synthesis
 - **Authors**: Hongman Kim, Scott Ragon, Grant Soremekun, Brett Malone, Jaroslaw Sobieszczanski-Sobieski
-- **Published in**: [10th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, 2004.](https://doi.org/10.2514/6.2004-4545)
+- **Published in**: 10th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, 2004.
+- **DOI**: [https://doi.org/10.2514/6.2004-4545](https://doi.org/10.2514/6.2004-4545)
+- [Get bib file](/bib-files/F/Kim_2004_146.bib)
 ~~~
 </div>
 ~~~
@@ -327,7 +408,9 @@ hascode = false
 ~~~
 ### Fast Resource Allocation by Bilevel Programming Problem 1
 - **Authors**: K. Stoilova
-- **Published in**: [IFAC Proceedings Volumes, 37(19), 249–254, 2004.](https://doi.org/10.1016/s1474-6670(17)30692-4)
+- **Published in**: IFAC Proceedings Volumes, 37(19), 249–254, 2004.
+- **DOI**: [https://doi.org/10.1016/s1474-6670(17)30692-4](https://doi.org/10.1016/s1474-6670(17)30692-4)
+- [Get bib file](/bib-files/F/Stoilova_2004_93.bib)
 ~~~
 </div>
 ~~~
@@ -336,7 +419,9 @@ hascode = false
 ~~~
 ### Final Remarks
 - **Authors**: Oliver Stein
-- **Published in**: [Bi-Level Strategies in Semi-Infinite Programming, 187–189, 2003.](https://doi.org/10.1007/978-1-4419-9164-5_7)
+- **Published in**: Bi-Level Strategies in Semi-Infinite Programming, 187–189, 2003.
+- **DOI**: [https://doi.org/10.1007/978-1-4419-9164-5_7](https://doi.org/10.1007/978-1-4419-9164-5_7)
+- [Get bib file](/bib-files/F/Stein_2003_26.bib)
 ~~~
 </div>
 ~~~
@@ -345,7 +430,9 @@ hascode = false
 ~~~
 ### First-Order Necessary Optimality Conditions for General Bilevel Programming Problems
 - **Authors**: S. Dempe
-- **Published in**: [Journal of Optimization Theory and Applications, 95(3), 735–739, 1997.](https://doi.org/10.1023/a:1022646611097)
+- **Published in**: Journal of Optimization Theory and Applications, 95(3), 735–739, 1997.
+- **DOI**: [https://doi.org/10.1023/a:1022646611097](https://doi.org/10.1023/a:1022646611097)
+- [Get bib file](/bib-files/F/Dempe_1997_174.bib)
 ~~~
 </div>
 ~~~
@@ -354,7 +441,9 @@ hascode = false
 ~~~
 ### Fenchel’s Unsolved Problem of Level Sets
 - **Authors**: Tamás Rapcsák
-- **Published in**: [Smooth Nonlinear Optimization in R n, 253–270, 1997.](https://doi.org/10.1007/978-1-4615-6357-0_14)
+- **Published in**: Smooth Nonlinear Optimization in R n, 253–270, 1997.
+- **DOI**: [https://doi.org/10.1007/978-1-4615-6357-0_14](https://doi.org/10.1007/978-1-4615-6357-0_14)
+- [Get bib file](/bib-files/F/Rapcs_k_1997_356.bib)
 ~~~
 </div>
 ~~~
@@ -363,7 +452,9 @@ hascode = false
 ~~~
 ### Finding an efficient solution to linear bilevel programming problem: An effective approach
 - **Authors**: Ue-Pyng Wen, Sen-Fon Lin
-- **Published in**: [Journal of Global Optimization, 8(3), 295–306, 1996.](https://doi.org/10.1007/bf00121271)
+- **Published in**: Journal of Global Optimization, 8(3), 295–306, 1996.
+- **DOI**: [https://doi.org/10.1007/bf00121271](https://doi.org/10.1007/bf00121271)
+- [Get bib file](/bib-files/F/Wen_1996_254.bib)
 ~~~
 </div>
 ~~~
@@ -372,7 +463,9 @@ hascode = false
 ~~~
 ### First-order necessary optimality conditions for general bilevel programming problems
 - **Authors**: A. Yezza
-- **Published in**: [Journal of Optimization Theory and Applications, 89(1), 189–219, 1996.](https://doi.org/10.1007/bf02192648)
+- **Published in**: Journal of Optimization Theory and Applications, 89(1), 189–219, 1996.
+- **DOI**: [https://doi.org/10.1007/bf02192648](https://doi.org/10.1007/bf02192648)
+- [Get bib file](/bib-files/F/Yezza_1996_367.bib)
 ~~~
 </div>
 ~~~
@@ -381,7 +474,9 @@ hascode = false
 ~~~
 ### Finite element multilevel approximation of a function and applications
 - **Authors**: Olivier Goubet
-- **Published in**: [Numerical Functional Analysis and Optimization, 15(3-4), 279–299, 1994.](https://doi.org/10.1080/01630569408816566)
+- **Published in**: Numerical Functional Analysis and Optimization, 15(3-4), 279–299, 1994.
+- **DOI**: [https://doi.org/10.1080/01630569408816566](https://doi.org/10.1080/01630569408816566)
+- [Get bib file](/bib-files/F/Goubet_1994_61.bib)
 ~~~
 </div>
 ~~~
@@ -390,7 +485,9 @@ hascode = false
 ~~~
 ### Figure 9: Two-level pattern.
 - **Authors**: 
-- **Published in**: [](https://doi.org/10.7717/peerj-cs.141/fig-9)
+- **Published in**: 
+- **DOI**: [https://doi.org/10.7717/peerj-cs.141/fig-9](https://doi.org/10.7717/peerj-cs.141/fig-9)
+- [Get bib file](/bib-files/F/1_265.bib)
 ~~~
 </div>
 ~~~

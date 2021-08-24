@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### Yager ranking index in fuzzy bilevel optimization
 - **Authors**: Alina Ruzíyeva, S. Dempe
-- **Published in**: [Artificial Intelligence Research, 2(1), 2012.](https://doi.org/10.5430/air.v2n1p55)
+- **Published in**: Artificial Intelligence Research, 2(1), 2012.
+- **DOI**: [https://doi.org/10.5430/air.v2n1p55](https://doi.org/10.5430/air.v2n1p55)
+- [Get bib file](/bib-files/Y/Ruz_yeva_2012_117.bib)
 ~~~
 </div>
 ~~~

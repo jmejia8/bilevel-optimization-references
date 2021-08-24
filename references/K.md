@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### K-means cluster interactive algorithm-based evolutionary approach for solving bilevel multi-objective programming problems
 - **Authors**: Y. Abo-Elnaga, S. Nasr
-- **Published in**: [Alexandria Engineering Journal, 2021.](https://doi.org/10.1016/j.aej.2021.04.098)
+- **Published in**: Alexandria Engineering Journal, 2021.
+- **DOI**: [https://doi.org/10.1016/j.aej.2021.04.098](https://doi.org/10.1016/j.aej.2021.04.098)
+- [Get bib file](/bib-files/K/Abo_Elnaga_2021_57.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### Karaoke User-Level Tools
 - **Authors**: Jan Newmarch
-- **Published in**: [Linux Sound Programming, 371–379, 2017.](https://doi.org/10.1007/978-1-4842-2496-0_23)
+- **Published in**: Linux Sound Programming, 371–379, 2017.
+- **DOI**: [https://doi.org/10.1007/978-1-4842-2496-0_23](https://doi.org/10.1007/978-1-4842-2496-0_23)
+- [Get bib file](/bib-files/K/Newmarch_2017_67.bib)
 ~~~
 </div>
 ~~~
@@ -30,7 +34,9 @@ hascode = false
 ~~~
 ### Key based Reducer Placement for Data Analytics across Data Centers Considering Bi-level Resource Provision in Cloud Computing
 - **Authors**: Jiangtao Zhang, Lingmin Zhang, Hejiao Huang, Zeo L. Jiang, Xuan Wang
-- **Published in**: [Proceedings of the International Conference on Internet of Things and Big Data, 2016.](https://doi.org/10.5220/0005894202430254)
+- **Published in**: Proceedings of the International Conference on Internet of Things and Big Data, 2016.
+- **DOI**: [https://doi.org/10.5220/0005894202430254](https://doi.org/10.5220/0005894202430254)
+- [Get bib file](/bib-files/K/Zhang_2016_376.bib)
 ~~~
 </div>
 ~~~
@@ -39,7 +45,9 @@ hascode = false
 ~~~
 ### KKT Reformulation and Necessary Conditions for Optimality in Nonsmooth Bilevel Optimization
 - **Authors**: Stephan Dempe, Alain B. Zemkoho
-- **Published in**: [SIAM Journal on Optimization, 24(4), 1639–1669, 2014.](https://doi.org/10.1137/130917715)
+- **Published in**: SIAM Journal on Optimization, 24(4), 1639–1669, 2014.
+- **DOI**: [https://doi.org/10.1137/130917715](https://doi.org/10.1137/130917715)
+- [Get bib file](/bib-files/K/Dempe_2014_190.bib)
 ~~~
 </div>
 ~~~
@@ -48,7 +56,9 @@ hascode = false
 ~~~
 ### Knowledge Discovery in Drilling Optimization for Eliminating Surprises
 - **Authors**: Xueliang Bi, Tie Yan, Shurui Zhang, Changjiang Wang
-- **Published in**: [All Days, 2005.](https://doi.org/10.2118/93187-ms)
+- **Published in**: All Days, 2005.
+- **DOI**: [https://doi.org/10.2118/93187-ms](https://doi.org/10.2118/93187-ms)
+- [Get bib file](/bib-files/K/Bi_2005_314.bib)
 ~~~
 </div>
 ~~~

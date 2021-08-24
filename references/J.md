@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### Joint Unsupervised Learning of Optical Flow and Egomotion with Bi-Level optimization
 - **Authors**: Shihao Jiang, Dylan Campbell, Miaomiao Liu, Stephen Gould, Richard Hartley
-- **Published in**: [2020 International Conference on 3D Vision (3DV), 2020.](https://doi.org/10.1109/3dv50981.2020.00078)
+- **Published in**: 2020 International Conference on 3D Vision (3DV), 2020.
+- **DOI**: [https://doi.org/10.1109/3dv50981.2020.00078](https://doi.org/10.1109/3dv50981.2020.00078)
+- [Get bib file](/bib-files/J/Jiang_2020_131.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### Joint Location-Transportation Problem for Post-earthquake Initial Stage Based on Bi-level Programming
 - **Authors**: ZHENG Bin, MA Zujun, LI Shuanglin
-- **Published in**: [International Journal of Advancements in Computing Technology, 4(22), 391–400, 2012.](https://doi.org/10.4156/ijact.vol4.issue22.44)
+- **Published in**: International Journal of Advancements in Computing Technology, 4(22), 391–400, 2012.
+- **DOI**: [https://doi.org/10.4156/ijact.vol4.issue22.44](https://doi.org/10.4156/ijact.vol4.issue22.44)
+- [Get bib file](/bib-files/J/2012_90.bib)
 ~~~
 </div>
 ~~~

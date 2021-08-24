@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### Semi-Supervised Batch Active Learning Via Bilevel Optimization
 - **Authors**: Zalan Borsos, Marco Tagliasacchi, Andreas Krause
-- **Published in**: [ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.](https://doi.org/10.1109/icassp39728.2021.9414206)
+- **Published in**: ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.
+- **DOI**: [https://doi.org/10.1109/icassp39728.2021.9414206](https://doi.org/10.1109/icassp39728.2021.9414206)
+- [Get bib file](/bib-files/S/Borsos_2021_415.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### Stochastic bilevel programming with multiple followers: a solution approach using the systematic sampling evolutionary method
 - **Authors**: Natnael Nigussie Goshu, Semu Mitiku Kassa
-- **Published in**: [Engineering Optimization, 1–14, 2021.](https://doi.org/10.1080/0305215x.2021.1912034)
+- **Published in**: Engineering Optimization, 1–14, 2021.
+- **DOI**: [https://doi.org/10.1080/0305215x.2021.1912034](https://doi.org/10.1080/0305215x.2021.1912034)
+- [Get bib file](/bib-files/S/Goshu_2021_235.bib)
 ~~~
 </div>
 ~~~
@@ -30,7 +34,9 @@ hascode = false
 ~~~
 ### Solid state transformers with multilevel inverters
 - **Authors**: Ersan Kabalcı
-- **Published in**: [Multilevel Inverters, 249–266, 2021.](https://doi.org/10.1016/b978-0-323-90217-5.00005-8)
+- **Published in**: Multilevel Inverters, 249–266, 2021.
+- **DOI**: [https://doi.org/10.1016/b978-0-323-90217-5.00005-8](https://doi.org/10.1016/b978-0-323-90217-5.00005-8)
+- [Get bib file](/bib-files/S/Kabalc__2021_243.bib)
 ~~~
 </div>
 ~~~
@@ -39,7 +45,9 @@ hascode = false
 ~~~
 ### Some new optimality conditions for semivector bilevel optimization program
 - **Authors**: Weihao Mao
-- **Published in**: [Optimization, 1–27, 2021.](https://doi.org/10.1080/02331934.2021.1873989)
+- **Published in**: Optimization, 1–27, 2021.
+- **DOI**: [https://doi.org/10.1080/02331934.2021.1873989](https://doi.org/10.1080/02331934.2021.1873989)
+- [Get bib file](/bib-files/S/Mao_2021_89.bib)
 ~~~
 </div>
 ~~~
@@ -48,7 +56,9 @@ hascode = false
 ~~~
 ### Sufficient Optimality Conditions in Bilevel Programming
 - **Authors**: Patrick Mehlitz, Alain B. Zemkoho
-- **Published in**: [Mathematics of Operations Research, 2021.](https://doi.org/10.1287/moor.2021.1122)
+- **Published in**: Mathematics of Operations Research, 2021.
+- **DOI**: [https://doi.org/10.1287/moor.2021.1122](https://doi.org/10.1287/moor.2021.1122)
+- [Get bib file](/bib-files/S/Mehlitz_2021_99.bib)
 ~~~
 </div>
 ~~~
@@ -57,7 +67,9 @@ hascode = false
 ~~~
 ### Sequential false data injection cyberattacks in water distribution systems targeting storage tanks; a bi-level optimization model
 - **Authors**: Faegheh Moazeni, Javad Khazaei
-- **Published in**: [Sustainable Cities and Society, 70, 102895, 2021.](https://doi.org/10.1016/j.scs.2021.102895)
+- **Published in**: Sustainable Cities and Society, 70, 102895, 2021.
+- **DOI**: [https://doi.org/10.1016/j.scs.2021.102895](https://doi.org/10.1016/j.scs.2021.102895)
+- [Get bib file](/bib-files/S/Moazeni_2021_180.bib)
 ~~~
 </div>
 ~~~
@@ -66,7 +78,9 @@ hascode = false
 ~~~
 ### Solving combinatorial bi-level optimization problems using multiple populations and migration schemes
 - **Authors**: Rihab Said, Maha Elarbi, Slim Bechikh, Lamjed Ben Said
-- **Published in**: [Operational Research, 2021.](https://doi.org/10.1007/s12351-020-00616-z)
+- **Published in**: Operational Research, 2021.
+- **DOI**: [https://doi.org/10.1007/s12351-020-00616-z](https://doi.org/10.1007/s12351-020-00616-z)
+- [Get bib file](/bib-files/S/Said_2020_119.bib)
 ~~~
 </div>
 ~~~
@@ -75,7 +89,9 @@ hascode = false
 ~~~
 ### Solving Bilevel Optimization Problems Using Kriging Approximations
 - **Authors**: Ankur Sinha, Vaseem Shaikh
-- **Published in**: [IEEE Transactions on Cybernetics, 1–16, 2021.](https://doi.org/10.1109/tcyb.2021.3061551)
+- **Published in**: IEEE Transactions on Cybernetics, 1–16, 2021.
+- **DOI**: [https://doi.org/10.1109/tcyb.2021.3061551](https://doi.org/10.1109/tcyb.2021.3061551)
+- [Get bib file](/bib-files/S/Singh_Chakraborty_2017_173.bib)
 ~~~
 </div>
 ~~~
@@ -84,7 +100,9 @@ hascode = false
 ~~~
 ### Solving a class of multiobjective bilevel problems by DC programming
 - **Authors**: Aicha Anzi, Mohammed Said Radjef
-- **Published in**: [International Journal of Operational Research, 37(2), 157, 2020.](https://doi.org/10.1504/ijor.2020.10027038)
+- **Published in**: International Journal of Operational Research, 37(2), 157, 2020.
+- **DOI**: [https://doi.org/10.1504/ijor.2020.10027038](https://doi.org/10.1504/ijor.2020.10027038)
+- [Get bib file](/bib-files/S/Anzi_2020_12.bib)
 ~~~
 </div>
 ~~~
@@ -93,7 +111,9 @@ hascode = false
 ~~~
 ### Switching angles calculation through Mathematical optimization in Multilevel Inverters
 - **Authors**: Ioannis Batsis, Dimitrios Bargiotas, Aspassia Daskalopulu
-- **Published in**: [2020 11th International Conference on Information, Intelligence, Systems and Applications (IISA, 2020.](https://doi.org/10.1109/iisa50023.2020.9284391)
+- **Published in**: 2020 11th International Conference on Information, Intelligence, Systems and Applications (IISA, 2020.
+- **DOI**: [https://doi.org/10.1109/iisa50023.2020.9284391](https://doi.org/10.1109/iisa50023.2020.9284391)
+- [Get bib file](/bib-files/S/Batsis_2020_212.bib)
 ~~~
 </div>
 ~~~
@@ -102,7 +122,9 @@ hascode = false
 ~~~
 ### Split and Queue Optimization in Transport Network through Bi-level Optimization
 - **Authors**: Yordanka Boneva
-- **Published in**: [Proceedings of the 21st International Conference on Computer Systems and Technologies  ’20, 2020.](https://doi.org/10.1145/3407982.3407995)
+- **Published in**: Proceedings of the 21st International Conference on Computer Systems and Technologies  ’20, 2020.
+- **DOI**: [https://doi.org/10.1145/3407982.3407995](https://doi.org/10.1145/3407982.3407995)
+- [Get bib file](/bib-files/S/Boneva_2020_280.bib)
 ~~~
 </div>
 ~~~
@@ -111,7 +133,9 @@ hascode = false
 ~~~
 ### Special issue on bilevel optimization
 - **Authors**: Luce Brotcorne, Bernard Fortz, Martine Labbé
-- **Published in**: [EURO Journal on Computational Optimization, 8(1), 1–2, 2020.](https://doi.org/10.1007/s13675-020-00122-z)
+- **Published in**: EURO Journal on Computational Optimization, 8(1), 1–2, 2020.
+- **DOI**: [https://doi.org/10.1007/s13675-020-00122-z](https://doi.org/10.1007/s13675-020-00122-z)
+- [Get bib file](/bib-files/S/Brotcorne_2020_223.bib)
 ~~~
 </div>
 ~~~
@@ -120,7 +144,9 @@ hascode = false
 ~~~
 ### Surrogate Approximation on Bilevel Multi Follower Optimization Problems
 - **Authors**: Md Monjurul Islam, ASSM Barkat Ullah, Md. Hasan Furhad, Saiba Nazah
-- **Published in**: [2020 IEEE Symposium Series on Computational Intelligence (SSCI), 2020.](https://doi.org/10.1109/ssci47803.2020.9308432)
+- **Published in**: 2020 IEEE Symposium Series on Computational Intelligence (SSCI), 2020.
+- **DOI**: [https://doi.org/10.1109/ssci47803.2020.9308432](https://doi.org/10.1109/ssci47803.2020.9308432)
+- [Get bib file](/bib-files/S/Islam_2020_309.bib)
 ~~~
 </div>
 ~~~
@@ -129,7 +155,9 @@ hascode = false
 ~~~
 ### Solution of a Bi-level Programming Problem with Inexact Parameters
 - **Authors**: Mrinal Jana, Geetanjali Panda
-- **Published in**: [Studies in Computational Intelligence, 579–597, 2020.](https://doi.org/10.1007/978-3-030-34152-7_45)
+- **Published in**: Studies in Computational Intelligence, 579–597, 2020.
+- **DOI**: [https://doi.org/10.1007/978-3-030-34152-7_45](https://doi.org/10.1007/978-3-030-34152-7_45)
+- [Get bib file](/bib-files/S/Jana_2020_140.bib)
 ~~~
 </div>
 ~~~
@@ -138,7 +166,9 @@ hascode = false
 ~~~
 ### Sufficient optimality conditions using convexifactors for optimistic bilevel programming problem
 - **Authors**: Bhawna Kohli
-- **Published in**: [Journal of Industrial & Management Optimization, 0(0), 0, 2020.](https://doi.org/10.3934/jimo.2020114)
+- **Published in**: Journal of Industrial & Management Optimization, 0(0), 0, 2020.
+- **DOI**: [https://doi.org/10.3934/jimo.2020114](https://doi.org/10.3934/jimo.2020114)
+- [Get bib file](/bib-files/S/Kalashnikov_2008_1.bib)
 ~~~
 </div>
 ~~~
@@ -147,7 +177,9 @@ hascode = false
 ~~~
 ### Securing Branch Predictors with Two-Level Encryption
 - **Authors**: Jaekyu Lee, Yasuo Ishii, Dam Sunwoo
-- **Published in**: [ACM Transactions on Architecture and Code Optimization, 17(3), 1–25, 2020.](https://doi.org/10.1145/3404189)
+- **Published in**: ACM Transactions on Architecture and Code Optimization, 17(3), 1–25, 2020.
+- **DOI**: [https://doi.org/10.1145/3404189](https://doi.org/10.1145/3404189)
+- [Get bib file](/bib-files/S/Lee_2020_118.bib)
 ~~~
 </div>
 ~~~
@@ -156,7 +188,9 @@ hascode = false
 ~~~
 ### Stability for semivectorial bilevel programs
 - **Authors**: Gaoxi Li, Liping Tang, Yingquan Huang, Xinmin Yang
-- **Published in**: [Journal of Industrial & Management Optimization, 0(0), 0, 2020.](https://doi.org/10.3934/jimo.2020161)
+- **Published in**: Journal of Industrial & Management Optimization, 0(0), 0, 2020.
+- **DOI**: [https://doi.org/10.3934/jimo.2020161](https://doi.org/10.3934/jimo.2020161)
+- [Get bib file](/bib-files/S/Lee_2020_118.bib)
 ~~~
 </div>
 ~~~
@@ -165,7 +199,9 @@ hascode = false
 ~~~
 ### Solving the Asymmetry Multi-Objective Optimization Problem in PPPs under LPVR Mechanism by Bi-Level Programing
 - **Authors**: Feiran Liu, Jun Liu, Xuedong Yan
-- **Published in**: [Symmetry, 12(10), 1667, 2020.](https://doi.org/10.3390/sym12101667)
+- **Published in**: Symmetry, 12(10), 1667, 2020.
+- **DOI**: [https://doi.org/10.3390/sym12101667](https://doi.org/10.3390/sym12101667)
+- [Get bib file](/bib-files/S/Liu_2006_370.bib)
 ~~~
 </div>
 ~~~
@@ -174,7 +210,9 @@ hascode = false
 ~~~
 ### Stimulating sustainable energy at maritime ports by hybrid economic incentives: A bilevel optimization approach
 - **Authors**: Anahita Molavi, Gino J. Lim, Jian Shi
-- **Published in**: [Applied Energy, 272, 115188, 2020.](https://doi.org/10.1016/j.apenergy.2020.115188)
+- **Published in**: Applied Energy, 272, 115188, 2020.
+- **DOI**: [https://doi.org/10.1016/j.apenergy.2020.115188](https://doi.org/10.1016/j.apenergy.2020.115188)
+- [Get bib file](/bib-files/S/Molavi_2020_42.bib)
 ~~~
 </div>
 ~~~
@@ -183,7 +221,9 @@ hascode = false
 ~~~
 ### Solving Combinatorial Multi-Objective Bi-Level Optimization Problems Using Multiple Populations and Migration Schemes
 - **Authors**: Rihab Said, Slim Bechikh, Ali Louati, Abdulaziz Aldaej, Lamjed Ben Said
-- **Published in**: [IEEE Access, 8, 141674–141695, 2020.](https://doi.org/10.1109/access.2020.3013568)
+- **Published in**: IEEE Access, 8, 141674–141695, 2020.
+- **DOI**: [https://doi.org/10.1109/access.2020.3013568](https://doi.org/10.1109/access.2020.3013568)
+- [Get bib file](/bib-files/S/Said_2020_119.bib)
 ~~~
 </div>
 ~~~
@@ -192,7 +232,9 @@ hascode = false
 ~~~
 ### Sustainable optimization of regional agricultural water use by developing a two-level optimization model
 - **Authors**: Fahimeh Shirshahi, Hossein Babazadeh, Nyazali EbrahimiPak, Mohammadreza Khaledian
-- **Published in**: [Arabian Journal of Geosciences, 13(4), 2020.](https://doi.org/10.1007/s12517-020-5175-5)
+- **Published in**: Arabian Journal of Geosciences, 13(4), 2020.
+- **DOI**: [https://doi.org/10.1007/s12517-020-5175-5](https://doi.org/10.1007/s12517-020-5175-5)
+- [Get bib file](/bib-files/S/Shirshahi_2020_76.bib)
 ~~~
 </div>
 ~~~
@@ -201,7 +243,9 @@ hascode = false
 ~~~
 ### Simultaneous distribution and sizing optimization for stiffeners with an improved genetic algorithm with two-level approximation
 - **Authors**: Shenyan Chen, Tianshan Dong, Xiaofang Shui
-- **Published in**: [Engineering Optimization, 51(11), 1845–1866, 2019.](https://doi.org/10.1080/0305215x.2018.1558444)
+- **Published in**: Engineering Optimization, 51(11), 1845–1866, 2019.
+- **DOI**: [https://doi.org/10.1080/0305215x.2018.1558444](https://doi.org/10.1080/0305215x.2018.1558444)
+- [Get bib file](/bib-files/S/Chen_2019_85.bib)
 ~~~
 </div>
 ~~~
@@ -210,7 +254,9 @@ hascode = false
 ~~~
 ### Solution of bilevel optimization problems using the KKT approach
 - **Authors**: S. Dempe, S. Franke
-- **Published in**: [Optimization, 68(8), 1471–1489, 2019.](https://doi.org/10.1080/02331934.2019.1581192)
+- **Published in**: Optimization, 68(8), 1471–1489, 2019.
+- **DOI**: [https://doi.org/10.1080/02331934.2019.1581192](https://doi.org/10.1080/02331934.2019.1581192)
+- [Get bib file](/bib-files/S/Dempe_2009_172.bib)
 ~~~
 </div>
 ~~~
@@ -219,7 +265,9 @@ hascode = false
 ~~~
 ### Solving the Bi-level Problem of a Closed Optimization of Electricity Price Zone Configurations using a Genetic Algorithm
 - **Authors**: Tim Felling
-- **Published in**: [SSRN Electronic Journal, 2019.](https://doi.org/10.2139/ssrn.3425831)
+- **Published in**: SSRN Electronic Journal, 2019.
+- **DOI**: [https://doi.org/10.2139/ssrn.3425831](https://doi.org/10.2139/ssrn.3425831)
+- [Get bib file](/bib-files/S/Felling_2019_14.bib)
 ~~~
 </div>
 ~~~
@@ -228,7 +276,9 @@ hascode = false
 ~~~
 ### Sufficient optimality conditions and duality results for a bilevel multiobjective optimization problem via a Ψ reformulation
 - **Authors**: N. Gadhi, K. Hamdaoui, M. El idrissi
-- **Published in**: [Optimization, 69(4), 681–702, 2019.](https://doi.org/10.1080/02331934.2019.1625901)
+- **Published in**: Optimization, 69(4), 681–702, 2019.
+- **DOI**: [https://doi.org/10.1080/02331934.2019.1625901](https://doi.org/10.1080/02331934.2019.1625901)
+- [Get bib file](/bib-files/S/Gadhi_2019_249.bib)
 ~~~
 </div>
 ~~~
@@ -237,7 +287,9 @@ hascode = false
 ~~~
 ### Shared Bicycle Regional Allocation Planning Model Based on Bi-Level Programming
 - **Authors**: Yu-Cong Hu, Jun-Ting Li, Zhi-Wei Chen
-- **Published in**: [CICTP 2019, 2019.](https://doi.org/10.1061/9780784482292.426)
+- **Published in**: CICTP 2019, 2019.
+- **DOI**: [https://doi.org/10.1061/9780784482292.426](https://doi.org/10.1061/9780784482292.426)
+- [Get bib file](/bib-files/S/Hu_2019_93.bib)
 ~~~
 </div>
 ~~~
@@ -246,7 +298,9 @@ hascode = false
 ~~~
 ### Shape optimization of underwater wings with a new multi-fidelity bi-level strategy
 - **Authors**: Siqing Sun, Baowei Song, Peng Wang, Huachao Dong, Xiao Chen
-- **Published in**: [Structural and Multidisciplinary Optimization, 61(1), 319–341, 2019.](https://doi.org/10.1007/s00158-019-02362-z)
+- **Published in**: Structural and Multidisciplinary Optimization, 61(1), 319–341, 2019.
+- **DOI**: [https://doi.org/10.1007/s00158-019-02362-z](https://doi.org/10.1007/s00158-019-02362-z)
+- [Get bib file](/bib-files/S/Sun_2019_286.bib)
 ~~~
 </div>
 ~~~
@@ -255,7 +309,9 @@ hascode = false
 ~~~
 ### Supply chain coordination using wholesale prices with multiple products, multiple periods, and multiple retailers: Bi-level optimization approach
 - **Authors**: Phattarasaya Tantiwattanakul, Aussadavut Dumrongsiri
-- **Published in**: [Computers & Industrial Engineering, 131, 391–407, 2019.](https://doi.org/10.1016/j.cie.2019.03.050)
+- **Published in**: Computers & Industrial Engineering, 131, 391–407, 2019.
+- **DOI**: [https://doi.org/10.1016/j.cie.2019.03.050](https://doi.org/10.1016/j.cie.2019.03.050)
+- [Get bib file](/bib-files/S/Tantiwattanakul_2019_231.bib)
 ~~~
 </div>
 ~~~
@@ -264,7 +320,9 @@ hascode = false
 ~~~
 ### Solving Stochastic and Bilevel Mixed-Integer Programs via a Generalized Value Function
 - **Authors**: Onur Tavaslıoğlu, Oleg A. Prokopyev, Andrew J. Schaefer
-- **Published in**: [Operations Research, 67(6), 1659–1677, 2019.](https://doi.org/10.1287/opre.2019.1842)
+- **Published in**: Operations Research, 67(6), 1659–1677, 2019.
+- **DOI**: [https://doi.org/10.1287/opre.2019.1842](https://doi.org/10.1287/opre.2019.1842)
+- [Get bib file](/bib-files/S/Tavasl_o_lu_2019_8.bib)
 ~~~
 </div>
 ~~~
@@ -273,7 +331,9 @@ hascode = false
 ~~~
 ### Stochastic Bilevel Program for Optimal Coordinated Energy Trading of an EV Aggregator
 - **Authors**: Yelena Vardanyan, Henrik Madsen
-- **Published in**: [Energies, 12(20), 3813, 2019.](https://doi.org/10.3390/en12203813)
+- **Published in**: Energies, 12(20), 3813, 2019.
+- **DOI**: [https://doi.org/10.3390/en12203813](https://doi.org/10.3390/en12203813)
+- [Get bib file](/bib-files/S/Vardanyan_2019_80.bib)
 ~~~
 </div>
 ~~~
@@ -282,7 +342,9 @@ hascode = false
 ~~~
 ### Sound Radiation Analysis of Constrained Layer Damping Structures Based on Two-Level Optimization
 - **Authors**: Zhang, Wu, Chen, Wang, Zheng
-- **Published in**: [Materials, 12(19), 3053, 2019.](https://doi.org/10.3390/ma12193053)
+- **Published in**: Materials, 12(19), 3053, 2019.
+- **DOI**: [https://doi.org/10.3390/ma12193053](https://doi.org/10.3390/ma12193053)
+- [Get bib file](/bib-files/S/Zhang_2019_265.bib)
 ~~~
 </div>
 ~~~
@@ -291,7 +353,9 @@ hascode = false
 ~~~
 ### Single-level reformulations of a specific non-smooth bilevel programming problem and their applications
 - **Authors**: Xide Zhu, Peijun Guo
-- **Published in**: [Optimization Letters, 14(6), 1393–1406, 2019.](https://doi.org/10.1007/s11590-019-01444-7)
+- **Published in**: Optimization Letters, 14(6), 1393–1406, 2019.
+- **DOI**: [https://doi.org/10.1007/s11590-019-01444-7](https://doi.org/10.1007/s11590-019-01444-7)
+- [Get bib file](/bib-files/S/Zhu_2019_347.bib)
 ~~~
 </div>
 ~~~
@@ -300,7 +364,9 @@ hascode = false
 ~~~
 ### Stochastic bi-level optimization models for efficient operating room planning
 - **Authors**: Amin Abedini, Wei Li, Honghan Ye
-- **Published in**: [Procedia Manufacturing, 26, 58–69, 2018.](https://doi.org/10.1016/j.promfg.2018.07.008)
+- **Published in**: Procedia Manufacturing, 26, 58–69, 2018.
+- **DOI**: [https://doi.org/10.1016/j.promfg.2018.07.008](https://doi.org/10.1016/j.promfg.2018.07.008)
+- [Get bib file](/bib-files/S/Abedini_2018_18.bib)
 ~~~
 </div>
 ~~~
@@ -309,7 +375,9 @@ hascode = false
 ~~~
 ### Soft Keyboard Performance Optimization
 - **Authors**: Xiaojun Bi, Brian Smith, Tom Ouyang, Shumin Zhai
-- **Published in**: [Oxford Scholarship Online, 2018.](https://doi.org/10.1093/oso/9780198799603.003.0006)
+- **Published in**: Oxford Scholarship Online, 2018.
+- **DOI**: [https://doi.org/10.1093/oso/9780198799603.003.0006](https://doi.org/10.1093/oso/9780198799603.003.0006)
+- [Get bib file](/bib-files/S/Bi_2018_292.bib)
 ~~~
 </div>
 ~~~
@@ -318,7 +386,9 @@ hascode = false
 ~~~
 ### Solving energy ordering problem with multiple supply-demand using Bilevel optimization approach
 - **Authors**: Abdelkader Dekdouk, Ameni Azzouz, Hiba Yahyaoui, Saoussen Krichen
-- **Published in**: [Procedia Computer Science, 130, 753–759, 2018.](https://doi.org/10.1016/j.procs.2018.04.130)
+- **Published in**: Procedia Computer Science, 130, 753–759, 2018.
+- **DOI**: [https://doi.org/10.1016/j.procs.2018.04.130](https://doi.org/10.1016/j.procs.2018.04.130)
+- [Get bib file](/bib-files/S/Dekdouk_2018_400.bib)
 ~~~
 </div>
 ~~~
@@ -327,7 +397,9 @@ hascode = false
 ~~~
 ### Sufficient Optimality Conditions for a Bilevel Semivectorial D.C. Problem
 - **Authors**: Nazih Abderrazzak Gadhi, Stephan Dempe
-- **Published in**: [Numerical Functional Analysis and Optimization, 39(15), 1622–1634, 2018.](https://doi.org/10.1080/01630563.2018.1488141)
+- **Published in**: Numerical Functional Analysis and Optimization, 39(15), 1622–1634, 2018.
+- **DOI**: [https://doi.org/10.1080/01630563.2018.1488141](https://doi.org/10.1080/01630563.2018.1488141)
+- [Get bib file](/bib-files/S/Gadhi_2018_3.bib)
 ~~~
 </div>
 ~~~
@@ -336,7 +408,9 @@ hascode = false
 ~~~
 ### Satellite Multi-Vehicle Tracking under Inconsistent Detection Conditions by Bilevel K-Shortest Paths Optimization
 - **Authors**: Junpeng Zhang, Xiuping Jia, Jiankun Hu, Kun Tan
-- **Published in**: [2018 Digital Image Computing: Techniques and Applications (DICTA), 2018.](https://doi.org/10.1109/dicta.2018.8615873)
+- **Published in**: 2018 Digital Image Computing: Techniques and Applications (DICTA), 2018.
+- **DOI**: [https://doi.org/10.1109/dicta.2018.8615873](https://doi.org/10.1109/dicta.2018.8615873)
+- [Get bib file](/bib-files/S/Zhang_2018_302.bib)
 ~~~
 </div>
 ~~~
@@ -345,7 +419,9 @@ hascode = false
 ~~~
 ### Solving Quasiconcave Bilevel Programming Problem
 - **Authors**: Dahande Balme, Laure Pauline Fotso
-- **Published in**: [American Journal of Operations Research, 07(02), 121–132, 2017.](https://doi.org/10.4236/ajor.2017.72009)
+- **Published in**: American Journal of Operations Research, 07(02), 121–132, 2017.
+- **DOI**: [https://doi.org/10.4236/ajor.2017.72009](https://doi.org/10.4236/ajor.2017.72009)
+- [Get bib file](/bib-files/S/Balme_2017_60.bib)
 ~~~
 </div>
 ~~~
@@ -354,7 +430,9 @@ hascode = false
 ~~~
 ### Structural Optimization in Multilevel Design
 - **Authors**: Antonio Caputi, Davide Russo, Caterina Rizzi
-- **Published in**: [Proceedings of CAD’17, 2017.](https://doi.org/10.14733/cadconfp.2017.90-94)
+- **Published in**: Proceedings of CAD’17, 2017.
+- **DOI**: [https://doi.org/10.14733/cadconfp.2017.90-94](https://doi.org/10.14733/cadconfp.2017.90-94)
+- [Get bib file](/bib-files/S/Caputi_2017_12.bib)
 ~~~
 </div>
 ~~~
@@ -363,7 +441,9 @@ hascode = false
 ~~~
 ### Solving the p-median bilevel problem with order through a hybrid heuristic
 - **Authors**: Martha-Selene Casas-Ramírez, José-Fernando Camacho-Vallejo
-- **Published in**: [Applied Soft Computing, 60, 73–86, 2017.](https://doi.org/10.1016/j.asoc.2017.06.026)
+- **Published in**: Applied Soft Computing, 60, 73–86, 2017.
+- **DOI**: [https://doi.org/10.1016/j.asoc.2017.06.026](https://doi.org/10.1016/j.asoc.2017.06.026)
+- [Get bib file](/bib-files/S/Casas_Ram_rez_2017_9.bib)
 ~~~
 </div>
 ~~~
@@ -372,7 +452,9 @@ hascode = false
 ~~~
 ### Solving Linear Tri-level Programming Problem Using Heuristic Method Based on Bi-section Algorithm
 - **Authors**: Eghbal Hosseini
-- **Published in**: [Asian Journal of Scientific Research, 10(3), 227–235, 2017.](https://doi.org/10.3923/ajsr.2017.227.235)
+- **Published in**: Asian Journal of Scientific Research, 10(3), 227–235, 2017.
+- **DOI**: [https://doi.org/10.3923/ajsr.2017.227.235](https://doi.org/10.3923/ajsr.2017.227.235)
+- [Get bib file](/bib-files/S/Hosseini_2017_214.bib)
 ~~~
 </div>
 ~~~
@@ -381,7 +463,9 @@ hascode = false
 ~~~
 ### Solving a supply-chain management problem using a bilevel approach
 - **Authors**: Zhichao Lu, Kalyanmoy Deb, Erik Goodman, John Wassick
-- **Published in**: [Proceedings of the Genetic and Evolutionary Computation Conference, 2017.](https://doi.org/10.1145/3071178.3071245)
+- **Published in**: Proceedings of the Genetic and Evolutionary Computation Conference, 2017.
+- **DOI**: [https://doi.org/10.1145/3071178.3071245](https://doi.org/10.1145/3071178.3071245)
+- [Get bib file](/bib-files/S/Liu_2020_176.bib)
 ~~~
 </div>
 ~~~
@@ -390,7 +474,9 @@ hascode = false
 ~~~
 ### Stochastic bi level programming with multi-choice for Stackelberg game via fuzzy programming
 - **Authors**: Sumit Kumar Maiti, Sankar Kumar Roy
-- **Published in**: [International Journal of Operational Research, 29(4), 508, 2017.](https://doi.org/10.1504/ijor.2017.10005780)
+- **Published in**: International Journal of Operational Research, 29(4), 508, 2017.
+- **DOI**: [https://doi.org/10.1504/ijor.2017.10005780](https://doi.org/10.1504/ijor.2017.10005780)
+- [Get bib file](/bib-files/S/Maiti_2017_44.bib)
 ~~~
 </div>
 ~~~
@@ -399,7 +485,9 @@ hascode = false
 ~~~
 ### Socket-Level Programming
 - **Authors**: Jan Newmarch
-- **Published in**: [Network Programming with Go, 29–55, 2017.](https://doi.org/10.1007/978-1-4842-2692-6_3)
+- **Published in**: Network Programming with Go, 29–55, 2017.
+- **DOI**: [https://doi.org/10.1007/978-1-4842-2692-6_3](https://doi.org/10.1007/978-1-4842-2692-6_3)
+- [Get bib file](/bib-files/S/Newmarch_2017_52.bib)
 ~~~
 </div>
 ~~~
@@ -408,7 +496,9 @@ hascode = false
 ~~~
 ### Swarm optimization based harmonic elimination in improved H-bridge multilevel inverter
 - **Authors**: Kaibalya Prasad Panda, Sreyasee Rout
-- **Published in**: [2017 International Conference on Inventive Systems and Control (ICISC), 2017.](https://doi.org/10.1109/icisc.2017.8068679)
+- **Published in**: 2017 International Conference on Inventive Systems and Control (ICISC), 2017.
+- **DOI**: [https://doi.org/10.1109/icisc.2017.8068679](https://doi.org/10.1109/icisc.2017.8068679)
+- [Get bib file](/bib-files/S/Panda_2017_148.bib)
 ~~~
 </div>
 ~~~
@@ -417,7 +507,9 @@ hascode = false
 ~~~
 ### Solution Strategy for Bilevel Linear Programming in Fuzzy Random Circumstances
 - **Authors**: Aihong Ren, Xingsi Xue
-- **Published in**: [2017 13th International Conference on Computational Intelligence and Security (CIS), 2017.](https://doi.org/10.1109/cis.2017.00118)
+- **Published in**: 2017 13th International Conference on Computational Intelligence and Security (CIS), 2017.
+- **DOI**: [https://doi.org/10.1109/cis.2017.00118](https://doi.org/10.1109/cis.2017.00118)
+- [Get bib file](/bib-files/S/Ren_2017_33.bib)
 ~~~
 </div>
 ~~~
@@ -426,7 +518,9 @@ hascode = false
 ~~~
 ### Stochastic bi level programming with multi-choice for Stackelberg game via fuzzy programming
 - **Authors**: Sankar Kumar Roy, Sumit Kumar Maiti
-- **Published in**: [International Journal of Operational Research, 29(4), 508, 2017.](https://doi.org/10.1504/ijor.2017.085097)
+- **Published in**: International Journal of Operational Research, 29(4), 508, 2017.
+- **DOI**: [https://doi.org/10.1504/ijor.2017.085097](https://doi.org/10.1504/ijor.2017.085097)
+- [Get bib file](/bib-files/S/Roy_2017_39.bib)
 ~~~
 </div>
 ~~~
@@ -435,7 +529,9 @@ hascode = false
 ~~~
 ### Solving bi-level programming problem with fuzzy random variable coefficients
 - **Authors**: Vishnu Pratap Singh, Debjani Chakraborty
-- **Published in**: [Journal of Intelligent & Fuzzy Systems, 32(1), 521–528, 2017.](https://doi.org/10.3233/JIFS-152354)
+- **Published in**: Journal of Intelligent & Fuzzy Systems, 32(1), 521–528, 2017.
+- **DOI**: [https://doi.org/10.3233/JIFS-152354](https://doi.org/10.3233/JIFS-152354)
+- [Get bib file](/bib-files/S/Singh_Chakraborty_2017_173.bib)
 ~~~
 </div>
 ~~~
@@ -444,7 +540,20 @@ hascode = false
 ~~~
 ### Solving bi-level optimization problems in engineering design using kriging models
 - **Authors**: Yi Xia, Xiaojie Liu, Gang Du
-- **Published in**: [Engineering Optimization, 50(5), 856–876, 2017.](https://doi.org/10.1080/0305215x.2017.1358711)
+- **Published in**: Engineering Optimization, 50(5), 856–876, 2017.
+- **DOI**: [https://doi.org/10.1080/0305215x.2017.1358711](https://doi.org/10.1080/0305215x.2017.1358711)
+- [Get bib file](/bib-files/S/Xia_2011_177.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Stackelberg-game-based modeling and optimization for supply chain design and operations: A mixed integer bilevel programming framework
+- **Authors**: Dajun Yue, Fengqi You
+- **Published in**: Computers & Chemical Engineering, 102, 81–95, 2017.
+- **DOI**: [https://doi.org/10.1016/j.compchemeng.2016.07.026](https://doi.org/10.1016/j.compchemeng.2016.07.026)
+- [Get bib file](/bib-files/S/Yue_2017_1.bib)
 ~~~
 </div>
 ~~~
@@ -453,7 +562,9 @@ hascode = false
 ~~~
 ### Seeking the Optimal Solution to Bilevel Linear Programming by Dual Problem
 - **Authors**: Yi-fan ZHAO, Shen-hua YANG, Yong-feng SUO, Li-yang ZHAO
-- **Published in**: [DEStech Transactions on Computer Science and Engineering, (mcsse), 2017.](https://doi.org/10.12783/dtcse/mcsse2016/10928)
+- **Published in**: DEStech Transactions on Computer Science and Engineering, (mcsse), 2017.
+- **DOI**: [https://doi.org/10.12783/dtcse/mcsse2016/10928](https://doi.org/10.12783/dtcse/mcsse2016/10928)
+- [Get bib file](/bib-files/S/ZHAO_2017_171.bib)
 ~~~
 </div>
 ~~~
@@ -462,7 +573,9 @@ hascode = false
 ~~~
 ### Sequential Multi-Objective Optimization for Lubrication System of Gasoline Engines With Bilevel Optimization Structure
 - **Authors**: Jizhou Zhang, Yu Qiu, Mian Li, Min Xu
-- **Published in**: [Journal of Mechanical Design, 139(2), 2017.](https://doi.org/10.1115/1.4035493)
+- **Published in**: Journal of Mechanical Design, 139(2), 2017.
+- **DOI**: [https://doi.org/10.1115/1.4035493](https://doi.org/10.1115/1.4035493)
+- [Get bib file](/bib-files/S/Liangzhi_Zhang_2010_170.bib)
 ~~~
 </div>
 ~~~
@@ -471,7 +584,9 @@ hascode = false
 ~~~
 ### Syntax, Semantics, and Pragmatics
 - **Authors**: Igor Zhirkov
-- **Published in**: [Low-Level Programming, 221–240, 2017.](https://doi.org/10.1007/978-1-4842-2403-8_12)
+- **Published in**: Low-Level Programming, 221–240, 2017.
+- **DOI**: [https://doi.org/10.1007/978-1-4842-2403-8_12](https://doi.org/10.1007/978-1-4842-2403-8_12)
+- [Get bib file](/bib-files/S/Zhirkov_2017_25.bib)
 ~~~
 </div>
 ~~~
@@ -480,7 +595,9 @@ hascode = false
 ~~~
 ### SOLUTION OF THE LARGE MINIMUM COMPLIANCE PROBLEM USING BILEVEL OPTIMIZATION
 - **Authors**: Makrizi Abdelilah, BouchaÃ¯b Radi
-- **Published in**: [JOURNAL OF ADVANCES IN MATHEMATICS, 12(2), 5928–5937, 2016.](https://doi.org/10.24297/jam.v12i2.556)
+- **Published in**: JOURNAL OF ADVANCES IN MATHEMATICS, 12(2), 5928–5937, 2016.
+- **DOI**: [https://doi.org/10.24297/jam.v12i2.556](https://doi.org/10.24297/jam.v12i2.556)
+- [Get bib file](/bib-files/S/Abdelilah_2016_120.bib)
 ~~~
 </div>
 ~~~
@@ -489,7 +606,9 @@ hascode = false
 ~~~
 ### Solving discrete linear bilevel optimization problems using the optimal value reformulation
 - **Authors**: S. Dempe, F. Mefo Kue
-- **Published in**: [Journal of Global Optimization, 68(2), 255–277, 2016.](https://doi.org/10.1007/s10898-016-0478-5)
+- **Published in**: Journal of Global Optimization, 68(2), 255–277, 2016.
+- **DOI**: [https://doi.org/10.1007/s10898-016-0478-5](https://doi.org/10.1007/s10898-016-0478-5)
+- [Get bib file](/bib-files/S/Dempe_2012_266.bib)
 ~~~
 </div>
 ~~~
@@ -498,7 +617,9 @@ hascode = false
 ~~~
 ### Study of cascaded H-Bridge multilevel inverter
 - **Authors**: Asha Gaikwad, Pallavi Appaso Arbune
-- **Published in**: [2016 International Conference on Automatic Control and Dynamic Optimization Techniques (ICACDOT), 2016.](https://doi.org/10.1109/icacdot.2016.7877574)
+- **Published in**: 2016 International Conference on Automatic Control and Dynamic Optimization Techniques (ICACDOT), 2016.
+- **DOI**: [https://doi.org/10.1109/icacdot.2016.7877574](https://doi.org/10.1109/icacdot.2016.7877574)
+- [Get bib file](/bib-files/S/Gaikwad_2016_221.bib)
 ~~~
 </div>
 ~~~
@@ -507,7 +628,9 @@ hascode = false
 ~~~
 ### Size optimization of statically loaded structures by two level multipoint constraint approximation and interior point algorithm
 - **Authors**: Saqib Mehmood, Hai Huang, Shenyan Chen
-- **Published in**: [2016 13th International Bhurban Conference on Applied Sciences and Technology (IBCAST), 2016.](https://doi.org/10.1109/ibcast.2016.7467774)
+- **Published in**: 2016 13th International Bhurban Conference on Applied Sciences and Technology (IBCAST), 2016.
+- **DOI**: [https://doi.org/10.1109/ibcast.2016.7467774](https://doi.org/10.1109/ibcast.2016.7467774)
+- [Get bib file](/bib-files/S/Mehmood_2016_175.bib)
 ~~~
 </div>
 ~~~
@@ -516,7 +639,9 @@ hascode = false
 ~~~
 ### Social spiders optimization and flower pollination algorithm for multilevel image thresholding: A performance study
 - **Authors**: Salima Ouadfel, Abdelmalik Taleb-Ahmed
-- **Published in**: [Expert Systems with Applications, 55, 566–584, 2016.](https://doi.org/10.1016/j.eswa.2016.02.024)
+- **Published in**: Expert Systems with Applications, 55, 566–584, 2016.
+- **DOI**: [https://doi.org/10.1016/j.eswa.2016.02.024](https://doi.org/10.1016/j.eswa.2016.02.024)
+- [Get bib file](/bib-files/S/Ouadfel_2016_262.bib)
 ~~~
 </div>
 ~~~
@@ -525,7 +650,9 @@ hascode = false
 ~~~
 ### Set-based Experiment Design for Model Discrimination Using Bilevel Optimization
 - **Authors**: Nadine Rudolph, Stefan Streif, Rolf Findeisen
-- **Published in**: [IFAC-PapersOnLine, 49(26), 295–299, 2016.](https://doi.org/10.1016/j.ifacol.2016.12.142)
+- **Published in**: IFAC-PapersOnLine, 49(26), 295–299, 2016.
+- **DOI**: [https://doi.org/10.1016/j.ifacol.2016.12.142](https://doi.org/10.1016/j.ifacol.2016.12.142)
+- [Get bib file](/bib-files/S/Rudolph_2016_317.bib)
 ~~~
 </div>
 ~~~
@@ -534,7 +661,9 @@ hascode = false
 ~~~
 ### Solving optimistic bilevel programs by iteratively approximating lower level optimal value function
 - **Authors**: Ankur Sinha, Pekka Malo, Kalyanmoy Deb
-- **Published in**: [2016 IEEE Congress on Evolutionary Computation (CEC), 2016.](https://doi.org/10.1109/cec.2016.7744017)
+- **Published in**: 2016 IEEE Congress on Evolutionary Computation (CEC), 2016.
+- **DOI**: [https://doi.org/10.1109/cec.2016.7744017](https://doi.org/10.1109/cec.2016.7744017)
+- [Get bib file](/bib-files/S/Sinha_2016_15.bib)
 ~~~
 </div>
 ~~~
@@ -543,7 +672,9 @@ hascode = false
 ~~~
 ### Solving Ill-posed Bilevel Programs
 - **Authors**: Alain B. Zemkoho
-- **Published in**: [Set-Valued and Variational Analysis, 24(3), 423–448, 2016.](https://doi.org/10.1007/s11228-016-0371-x)
+- **Published in**: Set-Valued and Variational Analysis, 24(3), 423–448, 2016.
+- **DOI**: [https://doi.org/10.1007/s11228-016-0371-x](https://doi.org/10.1007/s11228-016-0371-x)
+- [Get bib file](/bib-files/S/Zemkoho_2016_7.bib)
 ~~~
 </div>
 ~~~
@@ -552,7 +683,9 @@ hascode = false
 ~~~
 ### Solution algorithm of the fuzzy fractional bilevel linear programming problem
 - **Authors**: Neda Amiri, Farhad Hamidi, Hassan Mishmast Nehi
-- **Published in**: [2015 4th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS), 2015.](https://doi.org/10.1109/cfis.2015.7391679)
+- **Published in**: 2015 4th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS), 2015.
+- **DOI**: [https://doi.org/10.1109/cfis.2015.7391679](https://doi.org/10.1109/cfis.2015.7391679)
+- [Get bib file](/bib-files/S/Amiri_2015_38.bib)
 ~~~
 </div>
 ~~~
@@ -561,7 +694,9 @@ hascode = false
 ~~~
 ### Simultaneous optimization of stacking sequences and sizing with two-level approximations and a genetic algorithm
 - **Authors**: Haichao An, Shenyan Chen, Hai Huang
-- **Published in**: [Composite Structures, 123, 180–189, 2015.](https://doi.org/10.1016/j.compstruct.2014.12.041)
+- **Published in**: Composite Structures, 123, 180–189, 2015.
+- **DOI**: [https://doi.org/10.1016/j.compstruct.2014.12.041](https://doi.org/10.1016/j.compstruct.2014.12.041)
+- [Get bib file](/bib-files/S/An_2015_252.bib)
 ~~~
 </div>
 ~~~
@@ -570,7 +705,22 @@ hascode = false
 ~~~
 ### Semivectorial Bilevel Optimization on Riemannian Manifolds
 - **Authors**: Henri Bonnel, Léonard Todjihoundé, Constantin Udrişte
-- **Published in**: [Journal of Optimization Theory and Applications, 167(2), 464–486, 2015.](https://doi.org/10.1007/s10957-015-0789-6)
+- **Published in**: Journal of Optimization Theory and Applications, 167(2), 464–486, 2015.
+- **DOI**: [https://doi.org/10.1007/s10957-015-0789-6](https://doi.org/10.1007/s10957-015-0789-6)
+- [Get bib file](/bib-files/S/Bonnel_2015_228.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Second order sufficient conditions for a
+class of bilevel programs with lower level second-order cone
+programming problem
+- **Authors**: Xiaoni Chi, Zhongping Wan, Zijun Hao
+- **Published in**: Journal of Industrial & Management Optimization, 11(4), 1111–1125, 2015.
+- **DOI**: [https://doi.org/10.3934/jimo.2015.11.1111](https://doi.org/10.3934/jimo.2015.11.1111)
+- [Get bib file](/bib-files/S/Cecchini_2010_56.bib)
 ~~~
 </div>
 ~~~
@@ -579,7 +729,9 @@ hascode = false
 ~~~
 ### Solving multi-vehicle profitable tour problem via knowledge adoption in evolutionary bi-level programming
 - **Authors**: Stephanus Daniel Handoko, Lau Hoong Chuin, Abhishek Gupta, Ong Yew Soon, Heng Chen Kim, Tan Puay Siew
-- **Published in**: [2015 IEEE Congress on Evolutionary Computation (CEC), 2015.](https://doi.org/10.1109/cec.2015.7257225)
+- **Published in**: 2015 IEEE Congress on Evolutionary Computation (CEC), 2015.
+- **DOI**: [https://doi.org/10.1109/cec.2015.7257225](https://doi.org/10.1109/cec.2015.7257225)
+- [Get bib file](/bib-files/S/Daniel_Handoko_2015_94.bib)
 ~~~
 </div>
 ~~~
@@ -588,7 +740,9 @@ hascode = false
 ~~~
 ### Selective harmonics elimination PWM applied to multilevel four-legs DC/AC converter based on particle swarm optimization
 - **Authors**: A. Kouzou
-- **Published in**: [2015 4th International Conference on Electric Power and Energy Conversion Systems (EPECS), 2015.](https://doi.org/10.1109/epecs.2015.7368501)
+- **Published in**: 2015 4th International Conference on Electric Power and Energy Conversion Systems (EPECS), 2015.
+- **DOI**: [https://doi.org/10.1109/epecs.2015.7368501](https://doi.org/10.1109/epecs.2015.7368501)
+- [Get bib file](/bib-files/S/Kouzou_2015_302.bib)
 ~~~
 </div>
 ~~~
@@ -597,7 +751,9 @@ hascode = false
 ~~~
 ### Solving Linear Bilevel Programming Problems Using a Binary Differential Evolution
 - **Authors**: Hong Li, Li Zhang
-- **Published in**: [2015 11th International Conference on Computational Intelligence and Security (CIS), 2015.](https://doi.org/10.1109/cis.2015.18)
+- **Published in**: 2015 11th International Conference on Computational Intelligence and Security (CIS), 2015.
+- **DOI**: [https://doi.org/10.1109/cis.2015.18](https://doi.org/10.1109/cis.2015.18)
+- [Get bib file](/bib-files/S/Li_2015_38.bib)
 ~~~
 </div>
 ~~~
@@ -606,7 +762,9 @@ hascode = false
 ~~~
 ### Surrogate Modeling and Two-Level Infill Criteria Applied to Electromagnetic Device Optimization
 - **Authors**: Joao Miguel Lourenco, Luiz Lebensztajn
-- **Published in**: [IEEE Transactions on Magnetics, 51(3), 1–4, 2015.](https://doi.org/10.1109/tmag.2014.2362980)
+- **Published in**: IEEE Transactions on Magnetics, 51(3), 1–4, 2015.
+- **DOI**: [https://doi.org/10.1109/tmag.2014.2362980](https://doi.org/10.1109/tmag.2014.2362980)
+- [Get bib file](/bib-files/S/Lourenco_2015_243.bib)
 ~~~
 </div>
 ~~~
@@ -615,7 +773,9 @@ hascode = false
 ~~~
 ### Solving linear bilevel programs via a new neural network
 - **Authors**: Yibing Lv, Zhongping Wan
-- **Published in**: [Artificial Intelligence Research, 5(1), 2015.](https://doi.org/10.5430/air.v5n1p49)
+- **Published in**: Artificial Intelligence Research, 5(1), 2015.
+- **DOI**: [https://doi.org/10.5430/air.v5n1p49](https://doi.org/10.5430/air.v5n1p49)
+- [Get bib file](/bib-files/S/Lv_2015_17.bib)
 ~~~
 </div>
 ~~~
@@ -624,7 +784,9 @@ hascode = false
 ~~~
 ### Special issue on “Applied bilevel programming”
 - **Authors**: Patrice Marcotte, Gilles Savard
-- **Published in**: [EURO Journal on Computational Optimization, 3(3), 161–162, 2015.](https://doi.org/10.1007/s13675-015-0046-7)
+- **Published in**: EURO Journal on Computational Optimization, 3(3), 161–162, 2015.
+- **DOI**: [https://doi.org/10.1007/s13675-015-0046-7](https://doi.org/10.1007/s13675-015-0046-7)
+- [Get bib file](/bib-files/S/Marcotte_2015_261.bib)
 ~~~
 </div>
 ~~~
@@ -633,7 +795,9 @@ hascode = false
 ~~~
 ### SPARSE REGULARIZATION FOR BI-LEVEL VARIABLE SELECTION
 - **Authors**: Hidetoshi Matsui
-- **Published in**: [Journal of the Japanese Society of Computational Statistics, 28(1), 83–103, 2015.](https://doi.org/10.5183/jjscs.1502001_216)
+- **Published in**: Journal of the Japanese Society of Computational Statistics, 28(1), 83–103, 2015.
+- **DOI**: [https://doi.org/10.5183/jjscs.1502001_216](https://doi.org/10.5183/jjscs.1502001_216)
+- [Get bib file](/bib-files/S/Matsui_2015_380.bib)
 ~~~
 </div>
 ~~~
@@ -642,7 +806,9 @@ hascode = false
 ~~~
 ### Stochastic programming bilevel models for service provision with a balancing coordinator
 - **Authors**: Paolo Pisciella, Alexei A. Gaivoronski
-- **Published in**: [IMA Journal of Management Mathematics, 28(1), 131–152, 2015.](https://doi.org/10.1093/imaman/dpv023)
+- **Published in**: IMA Journal of Management Mathematics, 28(1), 131–152, 2015.
+- **DOI**: [https://doi.org/10.1093/imaman/dpv023](https://doi.org/10.1093/imaman/dpv023)
+- [Get bib file](/bib-files/S/Pisciella_2015_142.bib)
 ~~~
 </div>
 ~~~
@@ -651,7 +817,9 @@ hascode = false
 ~~~
 ### Strategies for Optimization of Mineral Nutrient Transport in Plants: Multilevel Regulation of Nutrient-Dependent Dynamics of Root Architecture and Transporter Activity
 - **Authors**: Izumi Aibara, Kyoko Miwa
-- **Published in**: [Plant and Cell Physiology, 55(12), 2027–2036, 2014.](https://doi.org/10.1093/pcp/pcu156)
+- **Published in**: Plant and Cell Physiology, 55(12), 2027–2036, 2014.
+- **DOI**: [https://doi.org/10.1093/pcp/pcu156](https://doi.org/10.1093/pcp/pcu156)
+- [Get bib file](/bib-files/S/Aibara_2014_261.bib)
 ~~~
 </div>
 ~~~
@@ -660,7 +828,9 @@ hascode = false
 ~~~
 ### Solving the Bilevel Facility Location Problem under Preferences by a Stackelberg-Evolutionary Algorithm
 - **Authors**: José-Fernando Camacho-Vallejo, Álvaro Eduardo Cordero-Franco, Rosa G. González-Ramírez
-- **Published in**: [Mathematical Problems in Engineering, 2014, 1–14, 2014.](https://doi.org/10.1155/2014/430243)
+- **Published in**: Mathematical Problems in Engineering, 2014, 1–14, 2014.
+- **DOI**: [https://doi.org/10.1155/2014/430243](https://doi.org/10.1155/2014/430243)
+- [Get bib file](/bib-files/S/Camacho_Vallejo_2014_2.bib)
 ~~~
 </div>
 ~~~
@@ -669,7 +839,9 @@ hascode = false
 ~~~
 ### Supersonic Wing–Body Two-Level Wave Drag Optimization Using Extended Far-Field Composite-Element Methodology
 - **Authors**: Xiaohui Guan
-- **Published in**: [AIAA Journal, 52(5), 981–990, 2014.](https://doi.org/10.2514/1.j052305)
+- **Published in**: AIAA Journal, 52(5), 981–990, 2014.
+- **DOI**: [https://doi.org/10.2514/1.j052305](https://doi.org/10.2514/1.j052305)
+- [Get bib file](/bib-files/S/Guan_2014_245.bib)
 ~~~
 </div>
 ~~~
@@ -678,7 +850,9 @@ hascode = false
 ~~~
 ### Structural design of a level-luffing crane through trajectory optimization and strength-based size optimization
 - **Authors**: Dong Soo Kim, Jongsoo Lee
-- **Published in**: [Structural and Multidisciplinary Optimization, 51(2), 515–531, 2014.](https://doi.org/10.1007/s00158-014-1139-2)
+- **Published in**: Structural and Multidisciplinary Optimization, 51(2), 515–531, 2014.
+- **DOI**: [https://doi.org/10.1007/s00158-014-1139-2](https://doi.org/10.1007/s00158-014-1139-2)
+- [Get bib file](/bib-files/S/Kim_2014_312.bib)
 ~~~
 </div>
 ~~~
@@ -687,7 +861,9 @@ hascode = false
 ~~~
 ### Solution for integer linear bilevel programming problems using orthogonal genetic algorithm
 - **Authors**: Hong Li, Li Zhang, Yongchang Jiao
-- **Published in**: [Journal of Systems Engineering and Electronics, 25(3), 443–451, 2014.](https://doi.org/10.1109/jsee.2014.00051)
+- **Published in**: Journal of Systems Engineering and Electronics, 25(3), 443–451, 2014.
+- **DOI**: [https://doi.org/10.1109/jsee.2014.00051](https://doi.org/10.1109/jsee.2014.00051)
+- [Get bib file](/bib-files/S/Li_2014_20.bib)
 ~~~
 </div>
 ~~~
@@ -696,7 +872,9 @@ hascode = false
 ~~~
 ### Selective harmonic elimination PWM method in two level inverter by differential evolution optimization technique
 - **Authors**: Murali Murugan, Parthiban Balaraman
-- **Published in**: [International Conference on Recent Advances and Innovations in Engineering (ICRAIE-2014), 2014.](https://doi.org/10.1109/icraie.2014.6909128)
+- **Published in**: International Conference on Recent Advances and Innovations in Engineering (ICRAIE-2014), 2014.
+- **DOI**: [https://doi.org/10.1109/icraie.2014.6909128](https://doi.org/10.1109/icraie.2014.6909128)
+- [Get bib file](/bib-files/S/Murugan_2014_193.bib)
 ~~~
 </div>
 ~~~
@@ -705,7 +883,9 @@ hascode = false
 ~~~
 ### Selective harmonic elimination PWM method using two level inverter by differential evolution optimization technique
 - **Authors**: R. Vijayakumar, C Devalalitha, Alamelu Nachiappan, R. Mazhuvendhi
-- **Published in**: [2014 International Conference on Science Engineering and Management Research (ICSEMR), 2014.](https://doi.org/10.1109/icsemr.2014.7043551)
+- **Published in**: 2014 International Conference on Science Engineering and Management Research (ICSEMR), 2014.
+- **DOI**: [https://doi.org/10.1109/icsemr.2014.7043551](https://doi.org/10.1109/icsemr.2014.7043551)
+- [Get bib file](/bib-files/S/Vijayakumar_2014_227.bib)
 ~~~
 </div>
 ~~~
@@ -714,7 +894,9 @@ hascode = false
 ~~~
 ### Spatial Targeting of Agri-Environmental Policy Using Bilevel Evolutionary Optimization
 - **Authors**: Gerald Whittaker, Rolf FFre, Shawna Grosskopf, Bradley Barnhart, Moriah B. Bostian, George Mueller-Warrant, Steven Griffith
-- **Published in**: [SSRN Electronic Journal, 2014.](https://doi.org/10.2139/ssrn.2497134)
+- **Published in**: SSRN Electronic Journal, 2014.
+- **DOI**: [https://doi.org/10.2139/ssrn.2497134](https://doi.org/10.2139/ssrn.2497134)
+- [Get bib file](/bib-files/S/Whittaker_2014_322.bib)
 ~~~
 </div>
 ~~~
@@ -723,7 +905,9 @@ hascode = false
 ~~~
 ### Some Remarks on Bi-level Vector Extremum Problems
 - **Authors**: Carla Antoni, Franco Giannessi
-- **Published in**: [Constructive Nonsmooth Analysis and Related Topics, 137–157, 2013.](https://doi.org/10.1007/978-1-4614-8615-2_9)
+- **Published in**: Constructive Nonsmooth Analysis and Related Topics, 137–157, 2013.
+- **DOI**: [https://doi.org/10.1007/978-1-4614-8615-2_9](https://doi.org/10.1007/978-1-4614-8615-2_9)
+- [Get bib file](/bib-files/S/Antoni_2013_160.bib)
 ~~~
 </div>
 ~~~
@@ -732,7 +916,9 @@ hascode = false
 ~~~
 ### Stacking sequence optimization with genetic algorithm using a two-level approximation
 - **Authors**: Shenyan Chen, Zhiwei Lin, Haichao An, Hai Huang, Changduk Kong
-- **Published in**: [Structural and Multidisciplinary Optimization, 48(4), 795–805, 2013.](https://doi.org/10.1007/s00158-013-0927-4)
+- **Published in**: Structural and Multidisciplinary Optimization, 48(4), 795–805, 2013.
+- **DOI**: [https://doi.org/10.1007/s00158-013-0927-4](https://doi.org/10.1007/s00158-013-0927-4)
+- [Get bib file](/bib-files/S/Chen_2013_75.bib)
 ~~~
 </div>
 ~~~
@@ -741,7 +927,9 @@ hascode = false
 ~~~
 ### Solving Multiobjective Bilevel Transportation-Distribution Planning Problem by Modified NSGA II
 - **Authors**: Liping Jia, Xinlei Feng, Guocheng Zou
-- **Published in**: [2013 Ninth International Conference on Computational Intelligence and Security, 2013.](https://doi.org/10.1109/cis.2013.71)
+- **Published in**: 2013 Ninth International Conference on Computational Intelligence and Security, 2013.
+- **DOI**: [https://doi.org/10.1109/cis.2013.71](https://doi.org/10.1109/cis.2013.71)
+- [Get bib file](/bib-files/S/Jia_2013_14.bib)
 ~~~
 </div>
 ~~~
@@ -750,7 +938,9 @@ hascode = false
 ~~~
 ### Study on the Bi-Level Optimization Model of Active Distribution Network
 - **Authors**: Li Ma, Yi Ping Cui, Xing Yang Zhu, Li Mei Zhou
-- **Published in**: [Applied Mechanics and Materials, 341-342, 1389–1392, 2013.](https://doi.org/10.4028/www.scientific.net/amm.341-342.1389)
+- **Published in**: Applied Mechanics and Materials, 341-342, 1389–1392, 2013.
+- **DOI**: [https://doi.org/10.4028/www.scientific.net/amm.341-342.1389](https://doi.org/10.4028/www.scientific.net/amm.341-342.1389)
+- [Get bib file](/bib-files/S/Changxi_Ma_2011_131.bib)
 ~~~
 </div>
 ~~~
@@ -759,7 +949,9 @@ hascode = false
 ~~~
 ### Solving Bi-level Programming With Multiple Linear Objectives At Lower Level Using Particle Swarm Optimization
 - **Authors**: Fatehem Matroud, Habibeh Sadeghi
-- **Published in**: [Journal of Mathematics and Computer Science, 07(03), 221–229, 2013.](https://doi.org/10.22436/jmcs.07.03.08)
+- **Published in**: Journal of Mathematics and Computer Science, 07(03), 221–229, 2013.
+- **DOI**: [https://doi.org/10.22436/jmcs.07.03.08](https://doi.org/10.22436/jmcs.07.03.08)
+- [Get bib file](/bib-files/S/Matroud_2013_51.bib)
 ~~~
 </div>
 ~~~
@@ -768,7 +960,9 @@ hascode = false
 ~~~
 ### Sequential probabilistic analytical target cascading method for hierarchical multilevel optimization under uncertainty
 - **Authors**: Qi Ouyang, Xiaoqian Chen, Wen Yao
-- **Published in**: [Structural and Multidisciplinary Optimization, 49(2), 267–280, 2013.](https://doi.org/10.1007/s00158-013-0967-9)
+- **Published in**: Structural and Multidisciplinary Optimization, 49(2), 267–280, 2013.
+- **DOI**: [https://doi.org/10.1007/s00158-013-0967-9](https://doi.org/10.1007/s00158-013-0967-9)
+- [Get bib file](/bib-files/S/Ouyang_2013_83.bib)
 ~~~
 </div>
 ~~~
@@ -777,7 +971,9 @@ hascode = false
 ~~~
 ### Shortcuts to adiabaticity in two-level systems: control and optimization
 - **Authors**: A. Ruschhaupt, J.G. Muga
-- **Published in**: [Journal of Modern Optics, 61(10), 828–832, 2013.](https://doi.org/10.1080/09500340.2013.846431)
+- **Published in**: Journal of Modern Optics, 61(10), 828–832, 2013.
+- **DOI**: [https://doi.org/10.1080/09500340.2013.846431](https://doi.org/10.1080/09500340.2013.846431)
+- [Get bib file](/bib-files/S/Ruschhaupt_2013_209.bib)
 ~~~
 </div>
 ~~~
@@ -786,7 +982,9 @@ hascode = false
 ~~~
 ### Study on Bi-Level Programming Model and Algorithm of Distribution Center Location Based on Inventory Strategy
 - **Authors**: Fei Wei, Cheng Long Ge
-- **Published in**: [Applied Mechanics and Materials, 409-410, 1067–1070, 2013.](https://doi.org/10.4028/www.scientific.net/amm.409-410.1067)
+- **Published in**: Applied Mechanics and Materials, 409-410, 1067–1070, 2013.
+- **DOI**: [https://doi.org/10.4028/www.scientific.net/amm.409-410.1067](https://doi.org/10.4028/www.scientific.net/amm.409-410.1067)
+- [Get bib file](/bib-files/S/Wei_2013_219.bib)
 ~~~
 </div>
 ~~~
@@ -795,7 +993,9 @@ hascode = false
 ~~~
 ### Solving bilevel programs with the KKT-approach
 - **Authors**: Gemayqzel Bouza Allende, Georg Still
-- **Published in**: [Mathematical Programming, 138(1-2), 309–332, 2012.](https://doi.org/10.1007/s10107-012-0535-x)
+- **Published in**: Mathematical Programming, 138(1-2), 309–332, 2012.
+- **DOI**: [https://doi.org/10.1007/s10107-012-0535-x](https://doi.org/10.1007/s10107-012-0535-x)
+- [Get bib file](/bib-files/S/Allende_2012_41.bib)
 ~~~
 </div>
 ~~~
@@ -804,7 +1004,9 @@ hascode = false
 ~~~
 ### Semivectorial Bilevel Convex Optimal Control Problems: Existence Results
 - **Authors**: Henri Bonnel, Jacqueline Morgan
-- **Published in**: [SIAM Journal on Control and Optimization, 50(6), 3224–3241, 2012.](https://doi.org/10.1137/100795450)
+- **Published in**: SIAM Journal on Control and Optimization, 50(6), 3224–3241, 2012.
+- **DOI**: [https://doi.org/10.1137/100795450](https://doi.org/10.1137/100795450)
+- [Get bib file](/bib-files/S/Bonnel_2012_389.bib)
 ~~~
 </div>
 ~~~
@@ -813,7 +1015,9 @@ hascode = false
 ~~~
 ### Solving conjectured multi-leader-follower equilibriums for electricity markets with quadratic optimization problems
 - **Authors**: Fco. Alberto Campos, Jose Villar, Cristian Diaz, Alejandro Contreras
-- **Published in**: [2012 9th International Conference on the European Energy Market, 2012.](https://doi.org/10.1109/eem.2012.6254667)
+- **Published in**: 2012 9th International Conference on the European Energy Market, 2012.
+- **DOI**: [https://doi.org/10.1109/eem.2012.6254667](https://doi.org/10.1109/eem.2012.6254667)
+- [Get bib file](/bib-files/S/Campos_2012_1.bib)
 ~~~
 </div>
 ~~~
@@ -822,7 +1026,9 @@ hascode = false
 ~~~
 ### Solution Concepts and New Optimality Conditions in Bilevel Multiobjective Programming
 - **Authors**: Francisque Fouodji Dedzo, Laure Pauline Fotso, Calice Olivier Pieume
-- **Published in**: [Applied Mathematics, 03(10), 1395–1402, 2012.](https://doi.org/10.4236/am.2012.330196)
+- **Published in**: Applied Mathematics, 03(10), 1395–1402, 2012.
+- **DOI**: [https://doi.org/10.4236/am.2012.330196](https://doi.org/10.4236/am.2012.330196)
+- [Get bib file](/bib-files/S/Dedzo_2012_59.bib)
 ~~~
 </div>
 ~~~
@@ -831,7 +1037,9 @@ hascode = false
 ~~~
 ### Sensitivity Analysis for Two-Level Value Functions with Applications to Bilevel Programming
 - **Authors**: S. Dempe, B. S. Mordukhovich, A. B. Zemkoho
-- **Published in**: [SIAM Journal on Optimization, 22(4), 1309–1343, 2012.](https://doi.org/10.1137/110845197)
+- **Published in**: SIAM Journal on Optimization, 22(4), 1309–1343, 2012.
+- **DOI**: [https://doi.org/10.1137/110845197](https://doi.org/10.1137/110845197)
+- [Get bib file](/bib-files/S/Dempe_2009_172.bib)
 ~~~
 </div>
 ~~~
@@ -840,7 +1048,9 @@ hascode = false
 ~~~
 ### Structural Optimization of Body-in-white Based on Bi-level Programming
 - **Authors**: Yunkai GAO
-- **Published in**: [Journal of Mechanical Engineering, 48(22), 98, 2012.](https://doi.org/10.3901/jme.2012.22.098)
+- **Published in**: Journal of Mechanical Engineering, 48(22), 98, 2012.
+- **DOI**: [https://doi.org/10.3901/jme.2012.22.098](https://doi.org/10.3901/jme.2012.22.098)
+- [Get bib file](/bib-files/S/GAO_2012_21.bib)
 ~~~
 </div>
 ~~~
@@ -849,7 +1059,9 @@ hascode = false
 ~~~
 ### Separating tight metric inequalities by bilevel programming
 - **Authors**: Sara Mattia
-- **Published in**: [Operations Research Letters, 40(6), 568–572, 2012.](https://doi.org/10.1016/j.orl.2012.09.009)
+- **Published in**: Operations Research Letters, 40(6), 568–572, 2012.
+- **DOI**: [https://doi.org/10.1016/j.orl.2012.09.009](https://doi.org/10.1016/j.orl.2012.09.009)
+- [Get bib file](/bib-files/S/Maiti_2017_44.bib)
 ~~~
 </div>
 ~~~
@@ -858,7 +1070,9 @@ hascode = false
 ~~~
 ### Supervised bi-level thresholding based on Particle Swarm Optimization
 - **Authors**: A. M. Nickfarjam, S. Soltaninejad, F. Tajeripour
-- **Published in**: [The 16th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP 2012), 2012.](https://doi.org/10.1109/aisp.2012.6313775)
+- **Published in**: The 16th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP 2012), 2012.
+- **DOI**: [https://doi.org/10.1109/aisp.2012.6313775](https://doi.org/10.1109/aisp.2012.6313775)
+- [Get bib file](/bib-files/S/Nickfarjam_2012_102.bib)
 ~~~
 </div>
 ~~~
@@ -867,7 +1081,9 @@ hascode = false
 ~~~
 ### Study on profit allocation of coal and electricity supply chain based on bi-level programming
 - **Authors**: Yi Qin, Dan Zhao, Qiang Hou
-- **Published in**: [Proceedings of 2012 IEEE International Conference on Service Operations and Logistics, and Informatics, 2012.](https://doi.org/10.1109/soli.2012.6273559)
+- **Published in**: Proceedings of 2012 IEEE International Conference on Service Operations and Logistics, and Informatics, 2012.
+- **DOI**: [https://doi.org/10.1109/soli.2012.6273559](https://doi.org/10.1109/soli.2012.6273559)
+- [Get bib file](/bib-files/S/Qin_2012_145.bib)
 ~~~
 </div>
 ~~~
@@ -876,7 +1092,9 @@ hascode = false
 ~~~
 ### Stochastic dynamic lot-sizing problem using bi-level programming base on artificial intelligence techniques
 - **Authors**: Jui-Tsung Wong, Chwen-Tzeng Su, Chun-Hsien Wang
-- **Published in**: [Applied Mathematical Modelling, 36(5), 2003–2016, 2012.](https://doi.org/10.1016/j.apm.2011.08.017)
+- **Published in**: Applied Mathematical Modelling, 36(5), 2003–2016, 2012.
+- **DOI**: [https://doi.org/10.1016/j.apm.2011.08.017](https://doi.org/10.1016/j.apm.2011.08.017)
+- [Get bib file](/bib-files/S/Wong_2012_199.bib)
 ~~~
 </div>
 ~~~
@@ -885,7 +1103,9 @@ hascode = false
 ~~~
 ### Selective harmonic power optimization in multilevel inverter output
 - **Authors**: Arif Al-Judi, Hussain Bierk, Ed Nowicki
-- **Published in**: [2011 IEEE Vehicle Power and Propulsion Conference, 2011.](https://doi.org/10.1109/vppc.2011.6043135)
+- **Published in**: 2011 IEEE Vehicle Power and Propulsion Conference, 2011.
+- **DOI**: [https://doi.org/10.1109/vppc.2011.6043135](https://doi.org/10.1109/vppc.2011.6043135)
+- [Get bib file](/bib-files/S/Al_Judi_2011_155.bib)
 ~~~
 </div>
 ~~~
@@ -894,7 +1114,9 @@ hascode = false
 ~~~
 ### Study on bi-level programming model of highway traffic network based on the sustainable development theory
 - **Authors**: Changxi Ma, Aixia Diao, Zhizhong Chen
-- **Published in**: [7th Advanced Forum on Transportation of China (AFTC 2011), 2011.](https://doi.org/10.1049/cp.2011.1376)
+- **Published in**: 7th Advanced Forum on Transportation of China (AFTC 2011), 2011.
+- **DOI**: [https://doi.org/10.1049/cp.2011.1376](https://doi.org/10.1049/cp.2011.1376)
+- [Get bib file](/bib-files/S/Changxi_Ma_2011_131.bib)
 ~~~
 </div>
 ~~~
@@ -903,7 +1125,9 @@ hascode = false
 ~~~
 ### Solving a reverse auction problem by bi-level distributed programming and genetic algorithm
 - **Authors**: Chi Bin Cheng, Young Jou Lai, Kun Chan
-- **Published in**: [International Journal of Revenue Management, 5(2/3), 234, 2011.](https://doi.org/10.1504/ijrm.2011.040310)
+- **Published in**: International Journal of Revenue Management, 5(2/3), 234, 2011.
+- **DOI**: [https://doi.org/10.1504/ijrm.2011.040310](https://doi.org/10.1504/ijrm.2011.040310)
+- [Get bib file](/bib-files/S/Cheng_2011_124.bib)
 ~~~
 </div>
 ~~~
@@ -912,7 +1136,9 @@ hascode = false
 ~~~
 ### Solving quadratic convex bilevel programming problems using a smoothing method
 - **Authors**: Jean Bosco Etoa Etoa
-- **Published in**: [Applied Mathematics and Computation, 217(15), 6680–6690, 2011.](https://doi.org/10.1016/j.amc.2011.01.066)
+- **Published in**: Applied Mathematics and Computation, 217(15), 6680–6690, 2011.
+- **DOI**: [https://doi.org/10.1016/j.amc.2011.01.066](https://doi.org/10.1016/j.amc.2011.01.066)
+- [Get bib file](/bib-files/S/Etoa_Etoa_2011_156.bib)
 ~~~
 </div>
 ~~~
@@ -921,7 +1147,9 @@ hascode = false
 ~~~
 ### Spinning Reserve Optimization Model Based on Bi-Level Programming
 - **Authors**: Da Wei Huang, Ming Lei
-- **Published in**: [Advanced Materials Research, 354-355, 1047–1050, 2011.](https://doi.org/10.4028/www.scientific.net/amr.354-355.1047)
+- **Published in**: Advanced Materials Research, 354-355, 1047–1050, 2011.
+- **DOI**: [https://doi.org/10.4028/www.scientific.net/amr.354-355.1047](https://doi.org/10.4028/www.scientific.net/amr.354-355.1047)
+- [Get bib file](/bib-files/S/Huang_2011_34.bib)
 ~~~
 </div>
 ~~~
@@ -930,7 +1158,9 @@ hascode = false
 ~~~
 ### Solving Bilevel Linear Multiobjective Programming Problems
 - **Authors**: Calice Olivier Pieume, Patrice Marcotte, Laure Pauline Fotso, Patrick Siarry
-- **Published in**: [American Journal of Operations Research, 01(04), 214–219, 2011.](https://doi.org/10.4236/ajor.2011.14024)
+- **Published in**: American Journal of Operations Research, 01(04), 214–219, 2011.
+- **DOI**: [https://doi.org/10.4236/ajor.2011.14024](https://doi.org/10.4236/ajor.2011.14024)
+- [Get bib file](/bib-files/S/Pieume_2011_169.bib)
 ~~~
 </div>
 ~~~
@@ -939,7 +1169,9 @@ hascode = false
 ~~~
 ### Students Reading Motivation: A Multilevel Mixture Factor Analysis
 - **Authors**: Daniele Riggi, Jeroen K. Vermunt
-- **Published in**: [Studies in Classification, Data Analysis, and Knowledge Organization, 567–573, 2011.](https://doi.org/10.1007/978-3-642-24466-7_58)
+- **Published in**: Studies in Classification, Data Analysis, and Knowledge Organization, 567–573, 2011.
+- **DOI**: [https://doi.org/10.1007/978-3-642-24466-7_58](https://doi.org/10.1007/978-3-642-24466-7_58)
+- [Get bib file](/bib-files/S/Riggi_2011_366.bib)
 ~~~
 </div>
 ~~~
@@ -948,7 +1180,9 @@ hascode = false
 ~~~
 ### Study and Application of Two-Level Optimization of Coal Blending for Power Plant Based on On-Line Coal Identification
 - **Authors**: Ji Xia, Peng Peng, Cheng Zhang, Tao Yang, Gang Chen
-- **Published in**: [ASME 2011 Power Conference, Volume 1, 2011.](https://doi.org/10.1115/power2011-55422)
+- **Published in**: ASME 2011 Power Conference, Volume 1, 2011.
+- **DOI**: [https://doi.org/10.1115/power2011-55422](https://doi.org/10.1115/power2011-55422)
+- [Get bib file](/bib-files/S/Xia_2011_177.bib)
 ~~~
 </div>
 ~~~
@@ -957,7 +1191,9 @@ hascode = false
 ~~~
 ### Solving Bilevel Quadratic Programming Problems and Its Application
 - **Authors**: Shamshul Bahar Yaakob, Junzo Watada
-- **Published in**: [Lecture Notes in Computer Science, 187–196, 2011.](https://doi.org/10.1007/978-3-642-23854-3_20)
+- **Published in**: Lecture Notes in Computer Science, 187–196, 2011.
+- **DOI**: [https://doi.org/10.1007/978-3-642-23854-3_20](https://doi.org/10.1007/978-3-642-23854-3_20)
+- [Get bib file](/bib-files/S/Yaakob_2011_136.bib)
 ~~~
 </div>
 ~~~
@@ -966,7 +1202,9 @@ hascode = false
 ~~~
 ### Solving Nonlinear Principal-Agent Problems Using Bilevel Programming
 - **Authors**: Mark Cecchini, Joseph Ecker, Michael Kupferschmid, Robert A. Leitch
-- **Published in**: [SSRN Electronic Journal, 2010.](https://doi.org/10.2139/ssrn.1657186)
+- **Published in**: SSRN Electronic Journal, 2010.
+- **DOI**: [https://doi.org/10.2139/ssrn.1657186](https://doi.org/10.2139/ssrn.1657186)
+- [Get bib file](/bib-files/S/Cecchini_2010_56.bib)
 ~~~
 </div>
 ~~~
@@ -975,7 +1213,9 @@ hascode = false
 ~~~
 ### Scale-Up, Optimization, and Control of Industrial Batch Fluidized Bed Dryers Using Multilevel Theoretical Models
 - **Authors**: Ian C. Kemp, Quentin Sohet
-- **Published in**: [Drying Technology, 28(5), 710–722, 2010.](https://doi.org/10.1080/07373931003799285)
+- **Published in**: Drying Technology, 28(5), 710–722, 2010.
+- **DOI**: [https://doi.org/10.1080/07373931003799285](https://doi.org/10.1080/07373931003799285)
+- [Get bib file](/bib-files/S/Kemp_2010_335.bib)
 ~~~
 </div>
 ~~~
@@ -984,7 +1224,9 @@ hascode = false
 ~~~
 ### Solving a type of biobjective bilevel programming problem using NSGA-II
 - **Authors**: Minqiang Li, Dan Lin, Shouyang Wang
-- **Published in**: [Computers & Mathematics with Applications, 59(2), 706–715, 2010.](https://doi.org/10.1016/j.camwa.2009.10.022)
+- **Published in**: Computers & Mathematics with Applications, 59(2), 706–715, 2010.
+- **DOI**: [https://doi.org/10.1016/j.camwa.2009.10.022](https://doi.org/10.1016/j.camwa.2009.10.022)
+- [Get bib file](/bib-files/S/Lee_2020_118.bib)
 ~~~
 </div>
 ~~~
@@ -993,7 +1235,9 @@ hascode = false
 ~~~
 ### Study on bi-level programming model for traffic control on massive activities
 - **Authors**: Liangzhi Zhang, Lutao Bai, Minai He, Lei Jia
-- **Published in**: [2010 8th World Congress on Intelligent Control and Automation, 2010.](https://doi.org/10.1109/wcica.2010.5553986)
+- **Published in**: 2010 8th World Congress on Intelligent Control and Automation, 2010.
+- **DOI**: [https://doi.org/10.1109/wcica.2010.5553986](https://doi.org/10.1109/wcica.2010.5553986)
+- [Get bib file](/bib-files/S/Liangzhi_Zhang_2010_170.bib)
 ~~~
 </div>
 ~~~
@@ -1002,7 +1246,9 @@ hascode = false
 ~~~
 ### Supplier selection model and algorithm based on gray bi-level programming
 - **Authors**: Bin Qu
-- **Published in**: [2010 Sixth International Conference on Natural Computation, 2010.](https://doi.org/10.1109/icnc.2010.5583574)
+- **Published in**: 2010 Sixth International Conference on Natural Computation, 2010.
+- **DOI**: [https://doi.org/10.1109/icnc.2010.5583574](https://doi.org/10.1109/icnc.2010.5583574)
+- [Get bib file](/bib-files/S/Qu_2010_25.bib)
 ~~~
 </div>
 ~~~
@@ -1011,7 +1257,9 @@ hascode = false
 ~~~
 ### Simulated Annealing Algorithm for Solving a Bi-level Optimization Model on High-speed Railway Station Location
 - **Authors**: Xiang Rui, Lu Gongyuan, He Dong
-- **Published in**: [2010 Third International Conference on Information and Computing, 2010.](https://doi.org/10.1109/icic.2010.134)
+- **Published in**: 2010 Third International Conference on Information and Computing, 2010.
+- **DOI**: [https://doi.org/10.1109/icic.2010.134](https://doi.org/10.1109/icic.2010.134)
+- [Get bib file](/bib-files/S/Rudolph_2016_317.bib)
 ~~~
 </div>
 ~~~
@@ -1020,7 +1268,9 @@ hascode = false
 ~~~
 ### Stackelberg solutions for fuzzy random bilevel linear programming through level sets and probability maximization
 - **Authors**: Masatoshi Sakawa, Hideki Katagiri, Takeshi Matsui
-- **Published in**: [Operational Research, 12(3), 271–286, 2010.](https://doi.org/10.1007/s12351-010-0090-2)
+- **Published in**: Operational Research, 12(3), 271–286, 2010.
+- **DOI**: [https://doi.org/10.1007/s12351-010-0090-2](https://doi.org/10.1007/s12351-010-0090-2)
+- [Get bib file](/bib-files/S/Sakawa_2010_286.bib)
 ~~~
 </div>
 ~~~
@@ -1029,7 +1279,9 @@ hascode = false
 ~~~
 ### Stackelberg Coordination of Supply Chain Optimization Based on Bilevel Programming
 - **Authors**: Jingqiong Wu, Jinqun Wu, Hongxia Guo
-- **Published in**: [ICLEM 2010, 2010.](https://doi.org/10.1061/41139(387)601)
+- **Published in**: ICLEM 2010, 2010.
+- **DOI**: [https://doi.org/10.1061/41139(387)601](https://doi.org/10.1061/41139(387)601)
+- [Get bib file](/bib-files/S/Wu_2010_119.bib)
 ~~~
 </div>
 ~~~
@@ -1038,7 +1290,9 @@ hascode = false
 ~~~
 ### Selection research on construction sub-contractor enterprises based on bilevel programming
 - **Authors**: Yan-bing Yin, Hong Zhao, Hanjun Chen
-- **Published in**: [2010 International Conference on Computer and Information Application, 2010.](https://doi.org/10.1109/iccia.2010.6141604)
+- **Published in**: 2010 International Conference on Computer and Information Application, 2010.
+- **DOI**: [https://doi.org/10.1109/iccia.2010.6141604](https://doi.org/10.1109/iccia.2010.6141604)
+- [Get bib file](/bib-files/S/Yang_2009_110.bib)
 ~~~
 </div>
 ~~~
@@ -1047,7 +1301,9 @@ hascode = false
 ~~~
 ### Study on the bi-level programming model for closed loop supply chain under competitive environment
 - **Authors**: Yang Yu-xiang, Zhou Zu-man, Zhou Gen-gui
-- **Published in**: [2010 International Conference on Logistics Systems and Intelligent Management (ICLSIM), 2010.](https://doi.org/10.1109/iclsim.2010.5461476)
+- **Published in**: 2010 International Conference on Logistics Systems and Intelligent Management (ICLSIM), 2010.
+- **DOI**: [https://doi.org/10.1109/iclsim.2010.5461476](https://doi.org/10.1109/iclsim.2010.5461476)
+- [Get bib file](/bib-files/S/Yu_xiang_2010_113.bib)
 ~~~
 </div>
 ~~~
@@ -1056,7 +1312,9 @@ hascode = false
 ~~~
 ### Study on Bi-Level Programming Model for Traffic Control on Massive Activities
 - **Authors**: Liang Zhi Zhang, Mi Nai He
-- **Published in**: [Applied Mechanics and Materials, 44-47, 3927–3931, 2010.](https://doi.org/10.4028/www.scientific.net/amm.44-47.3927)
+- **Published in**: Applied Mechanics and Materials, 44-47, 3927–3931, 2010.
+- **DOI**: [https://doi.org/10.4028/www.scientific.net/amm.44-47.3927](https://doi.org/10.4028/www.scientific.net/amm.44-47.3927)
+- [Get bib file](/bib-files/S/Liangzhi_Zhang_2010_170.bib)
 ~~~
 </div>
 ~~~
@@ -1065,7 +1323,9 @@ hascode = false
 ~~~
 ### Solving Bilevel Multi-Objective Optimization Problems Using Evolutionary Algorithms
 - **Authors**: Kalyanmoy Deb, Ankur Sinha
-- **Published in**: [Evolutionary Multi-Criterion Optimization, 110–124, 2009.](https://doi.org/10.1007/978-3-642-01020-0_13)
+- **Published in**: Evolutionary Multi-Criterion Optimization, 110–124, 2009.
+- **DOI**: [https://doi.org/10.1007/978-3-642-01020-0_13](https://doi.org/10.1007/978-3-642-01020-0_13)
+- [Get bib file](/bib-files/S/Daniel_Handoko_2015_94.bib)
 ~~~
 </div>
 ~~~
@@ -1074,7 +1334,9 @@ hascode = false
 ~~~
 ### Second order optimality conditions for bilevel set optimization problems
 - **Authors**: S. Dempe, N. Gadhi
-- **Published in**: [Journal of Global Optimization, 47(2), 233–245, 2009.](https://doi.org/10.1007/s10898-009-9468-1)
+- **Published in**: Journal of Global Optimization, 47(2), 233–245, 2009.
+- **DOI**: [https://doi.org/10.1007/s10898-009-9468-1](https://doi.org/10.1007/s10898-009-9468-1)
+- [Get bib file](/bib-files/S/Dempe_2009_172.bib)
 ~~~
 </div>
 ~~~
@@ -1083,7 +1345,9 @@ hascode = false
 ~~~
 ### Subdifferentials of value functions and optimality conditions for DC and bilevel infinite and semi-infinite programs
 - **Authors**: N. Dinh, B. Mordukhovich, T. T. A. Nghia
-- **Published in**: [Mathematical Programming, 123(1), 101–138, 2009.](https://doi.org/10.1007/s10107-009-0323-4)
+- **Published in**: Mathematical Programming, 123(1), 101–138, 2009.
+- **DOI**: [https://doi.org/10.1007/s10107-009-0323-4](https://doi.org/10.1007/s10107-009-0323-4)
+- [Get bib file](/bib-files/S/Dinh_2009_168.bib)
 ~~~
 </div>
 ~~~
@@ -1092,7 +1356,9 @@ hascode = false
 ~~~
 ### Solving convex quadratic bilevel programming problems using an enumeration sequential quadratic programming algorithm
 - **Authors**: Jean Bosco Etoa Etoa
-- **Published in**: [Journal of Global Optimization, 47(4), 615–637, 2009.](https://doi.org/10.1007/s10898-009-9482-3)
+- **Published in**: Journal of Global Optimization, 47(4), 615–637, 2009.
+- **DOI**: [https://doi.org/10.1007/s10898-009-9482-3](https://doi.org/10.1007/s10898-009-9482-3)
+- [Get bib file](/bib-files/S/Etoa_2009_273.bib)
 ~~~
 </div>
 ~~~
@@ -1101,7 +1367,9 @@ hascode = false
 ~~~
 ### Study on Logistics Center Location Bi-Level Programming Model and Algorithm Based on Competition
 - **Authors**: Xiaojun Guan, Xifu Wang, Cuihua Wang, Yana Yan
-- **Published in**: [ICCTP 2009, 2009.](https://doi.org/10.1061/41064(358)441)
+- **Published in**: ICCTP 2009, 2009.
+- **DOI**: [https://doi.org/10.1061/41064(358)441](https://doi.org/10.1061/41064(358)441)
+- [Get bib file](/bib-files/S/Guan_2009_69.bib)
 ~~~
 </div>
 ~~~
@@ -1110,7 +1378,9 @@ hascode = false
 ~~~
 ### Solving bilevel programming problems with multicriteria optimization techniques
 - **Authors**: C. O. Pieume, L. P. Fotso, P. Siarry
-- **Published in**: [OPSEARCH, 46(2), 169–183, 2009.](https://doi.org/10.1007/s12597-009-0011-4)
+- **Published in**: OPSEARCH, 46(2), 169–183, 2009.
+- **DOI**: [https://doi.org/10.1007/s12597-009-0011-4](https://doi.org/10.1007/s12597-009-0011-4)
+- [Get bib file](/bib-files/S/Pieume_2009_366.bib)
 ~~~
 </div>
 ~~~
@@ -1119,7 +1389,9 @@ hascode = false
 ~~~
 ### Studying Parameter of MEC Used to Multi-modal Optimization by Two-Level MEC
 - **Authors**: Li-ai Wang, Xu-dong Zhou, Cheng-yi Sun, Ling Chen
-- **Published in**: [2009 International Conference on Artificial Intelligence and Computational Intelligence, 2009.](https://doi.org/10.1109/aici.2009.354)
+- **Published in**: 2009 International Conference on Artificial Intelligence and Computational Intelligence, 2009.
+- **DOI**: [https://doi.org/10.1109/aici.2009.354](https://doi.org/10.1109/aici.2009.354)
+- [Get bib file](/bib-files/S/Wang_2009_236.bib)
 ~~~
 </div>
 ~~~
@@ -1128,7 +1400,9 @@ hascode = false
 ~~~
 ### Study on the Routing and Freight Traffic in Logistics Transportation System Based On Bi-Level Programming
 - **Authors**: Longhai Yang, Shi An, Haoyang Wei, Lilan Li
-- **Published in**: [Logistics, 2009.](https://doi.org/10.1061/40996(330)428)
+- **Published in**: Logistics, 2009.
+- **DOI**: [https://doi.org/10.1061/40996(330)428](https://doi.org/10.1061/40996(330)428)
+- [Get bib file](/bib-files/S/Yang_2009_110.bib)
 ~~~
 </div>
 ~~~
@@ -1137,7 +1411,9 @@ hascode = false
 ~~~
 ### Structural shape and topology optimization based on level-set modelling and the element-propagating method
 - **Authors**: Chungang Zhuang, Zhenhua Xiong, Han Ding
-- **Published in**: [Engineering Optimization, 41(6), 537–555, 2009.](https://doi.org/10.1080/03052150802687560)
+- **Published in**: Engineering Optimization, 41(6), 537–555, 2009.
+- **DOI**: [https://doi.org/10.1080/03052150802687560](https://doi.org/10.1080/03052150802687560)
+- [Get bib file](/bib-files/S/Zhuang_2009_302.bib)
 ~~~
 </div>
 ~~~
@@ -1146,7 +1422,9 @@ hascode = false
 ~~~
 ### Stable bi-level and multi-level thresholding of images using a new global transformation
 - **Authors**: E.R. Davies
-- **Published in**: [IET Computer Vision, 2(2), 60, 2008.](https://doi.org/10.1049/iet-cvi:20070071)
+- **Published in**: IET Computer Vision, 2(2), 60, 2008.
+- **DOI**: [https://doi.org/10.1049/iet-cvi:20070071](https://doi.org/10.1049/iet-cvi:20070071)
+- [Get bib file](/bib-files/S/Davies_2008_405.bib)
 ~~~
 </div>
 ~~~
@@ -1155,7 +1433,9 @@ hascode = false
 ~~~
 ### Solving Bilevel Linear Programs Using Multiple Objective Linear Programming
 - **Authors**: J. Glackin, J. G. Ecker, M. Kupferschmid
-- **Published in**: [Journal of Optimization Theory and Applications, 140(2), 197–212, 2008.](https://doi.org/10.1007/s10957-008-9467-2)
+- **Published in**: Journal of Optimization Theory and Applications, 140(2), 197–212, 2008.
+- **DOI**: [https://doi.org/10.1007/s10957-008-9467-2](https://doi.org/10.1007/s10957-008-9467-2)
+- [Get bib file](/bib-files/S/Glackin_2008_373.bib)
 ~~~
 </div>
 ~~~
@@ -1164,7 +1444,9 @@ hascode = false
 ~~~
 ### Solving Bilevel Toll Assignment Problem by Penalty Function Algorithm
 - **Authors**: Vyacheslav V. Kalashnikov, Nataliya I. Kalashnykova, José Fernando Camacho Vallejo
-- **Published in**: [2008 Eighth International Conference on Intelligent Systems Design and Applications, 2008.](https://doi.org/10.1109/isda.2008.223)
+- **Published in**: 2008 Eighth International Conference on Intelligent Systems Design and Applications, 2008.
+- **DOI**: [https://doi.org/10.1109/isda.2008.223](https://doi.org/10.1109/isda.2008.223)
+- [Get bib file](/bib-files/S/Kalashnikov_2008_1.bib)
 ~~~
 </div>
 ~~~
@@ -1173,7 +1455,9 @@ hascode = false
 ~~~
 ### Series Hybrid Powertrain Based on the Dual Two-Level Inverter
 - **Authors**: Claudio Rossi, Gabriele Grandi, Piero Corbelli
-- **Published in**: [2008 11th International Conference on Optimization of Electrical and Electronic Equipment, 2008.](https://doi.org/10.1109/optim.2008.4602421)
+- **Published in**: 2008 11th International Conference on Optimization of Electrical and Electronic Equipment, 2008.
+- **DOI**: [https://doi.org/10.1109/optim.2008.4602421](https://doi.org/10.1109/optim.2008.4602421)
+- [Get bib file](/bib-files/S/Rossi_2008_145.bib)
 ~~~
 </div>
 ~~~
@@ -1182,7 +1466,9 @@ hascode = false
 ~~~
 ### Simulink model of flying capacitor multilevel inverter
 - **Authors**: Adrian Schiop, Petre Scortaru
-- **Published in**: [2008 11th International Conference on Optimization of Electrical and Electronic Equipment, 2008.](https://doi.org/10.1109/optim.2008.4602410)
+- **Published in**: 2008 11th International Conference on Optimization of Electrical and Electronic Equipment, 2008.
+- **DOI**: [https://doi.org/10.1109/optim.2008.4602410](https://doi.org/10.1109/optim.2008.4602410)
+- [Get bib file](/bib-files/S/Schiop_2008_213.bib)
 ~~~
 </div>
 ~~~
@@ -1191,7 +1477,9 @@ hascode = false
 ~~~
 ### Solution Concepts and an Approximation Kuhn–Tucker Approach for Fuzzy Multiobjective Linear Bilevel Programming
 - **Authors**: Guangquan Zhang, Jie Lu, Tharam Dillon
-- **Published in**: [Springer Optimization and Its Applications, 457–480, 2008.](https://doi.org/10.1007/978-0-387-77247-9_17)
+- **Published in**: Springer Optimization and Its Applications, 457–480, 2008.
+- **DOI**: [https://doi.org/10.1007/978-0-387-77247-9_17](https://doi.org/10.1007/978-0-387-77247-9_17)
+- [Get bib file](/bib-files/S/Zhang_2008_369.bib)
 ~~~
 </div>
 ~~~
@@ -1200,7 +1488,9 @@ hascode = false
 ~~~
 ### Sensitivity analysis of separable traffic equilibrium equilibria with application to bilevel optimization in network design
 - **Authors**: Magnus Josefsson, Michael Patriksson
-- **Published in**: [Transportation Research Part B: Methodological, 41(1), 4–31, 2007.](https://doi.org/10.1016/j.trb.2005.12.004)
+- **Published in**: Transportation Research Part B: Methodological, 41(1), 4–31, 2007.
+- **DOI**: [https://doi.org/10.1016/j.trb.2005.12.004](https://doi.org/10.1016/j.trb.2005.12.004)
+- [Get bib file](/bib-files/S/Josefsson_2007_15.bib)
 ~~~
 </div>
 ~~~
@@ -1209,7 +1499,9 @@ hascode = false
 ~~~
 ### Solving transportation bi-level programs with Differential Evolution
 - **Authors**: Andrew Koh
-- **Published in**: [2007 IEEE Congress on Evolutionary Computation, 2007.](https://doi.org/10.1109/cec.2007.4424750)
+- **Published in**: 2007 IEEE Congress on Evolutionary Computation, 2007.
+- **DOI**: [https://doi.org/10.1109/cec.2007.4424750](https://doi.org/10.1109/cec.2007.4424750)
+- [Get bib file](/bib-files/S/Koh_2007_304.bib)
 ~~~
 </div>
 ~~~
@@ -1218,7 +1510,20 @@ hascode = false
 ~~~
 ### Synchronized Optimization Model of Regional Bus Scheduling System Based on Multilevel Programming
 - **Authors**: Zhigang Liu, Jinsheng Shen
-- **Published in**: [International Conference on Transportation Engineering 2007, 2007.](https://doi.org/10.1061/40932(246)207)
+- **Published in**: International Conference on Transportation Engineering 2007, 2007.
+- **DOI**: [https://doi.org/10.1061/40932(246)207](https://doi.org/10.1061/40932(246)207)
+- [Get bib file](/bib-files/S/Liu_2006_370.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Solving Multi-Objective Optimization Problems by a Bi-Objective Evolutionary Algorithm
+- **Authors**: Yu-Ping Wang
+- **Published in**: 2007 International Conference on Machine Learning and Cybernetics, 2007.
+- **DOI**: [https://doi.org/10.1109/icmlc.2007.4370292](https://doi.org/10.1109/icmlc.2007.4370292)
+- [Get bib file](/bib-files/S/Wang_2007_1.bib)
 ~~~
 </div>
 ~~~
@@ -1227,7 +1532,9 @@ hascode = false
 ~~~
 ### Semivectorial Bilevel Optimization Problem: Penalty Approach
 - **Authors**: H. Bonnel, J. Morgan
-- **Published in**: [Journal of Optimization Theory and Applications, 131(3), 365–382, 2006.](https://doi.org/10.1007/s10957-006-9150-4)
+- **Published in**: Journal of Optimization Theory and Applications, 131(3), 365–382, 2006.
+- **DOI**: [https://doi.org/10.1007/s10957-006-9150-4](https://doi.org/10.1007/s10957-006-9150-4)
+- [Get bib file](/bib-files/S/Bonnel_2006_227.bib)
 ~~~
 </div>
 ~~~
@@ -1236,7 +1543,9 @@ hascode = false
 ~~~
 ### Setting Performance Targets Based on Subsystem Pareto Frontiers in Multilevel Optimization
 - **Authors**: Huibin Liu, Christopher Hoyle, Xiaolei Yin, Wei Chen
-- **Published in**: [Engineering Technology Management: Engineering Business Management, Safety Engineering and Risk Analysis, Technology and Society, 2006.](https://doi.org/10.1115/imece2006-15813)
+- **Published in**: Engineering Technology Management: Engineering Business Management, Safety Engineering and Risk Analysis, Technology and Society, 2006.
+- **DOI**: [https://doi.org/10.1115/imece2006-15813](https://doi.org/10.1115/imece2006-15813)
+- [Get bib file](/bib-files/S/Liu_2006_370.bib)
 ~~~
 </div>
 ~~~
@@ -1245,7 +1554,9 @@ hascode = false
 ~~~
 ### SOLVING A NONLINEAR BILEVEL PROGRAMMING MODEL OF THE EQUILIBRIUM NETWORK DESIGN PROBLEM FOR KOREA
 - **Authors**: Sunduck Suh, T. John Kim
-- **Published in**: [Papers in Regional Science, 66(1), 47–59, 2005.](https://doi.org/10.1111/j.1435-5597.1989.tb01170.x)
+- **Published in**: Papers in Regional Science, 66(1), 47–59, 2005.
+- **DOI**: [https://doi.org/10.1111/j.1435-5597.1989.tb01170.x](https://doi.org/10.1111/j.1435-5597.1989.tb01170.x)
+- [Get bib file](/bib-files/S/Suh_2005_8.bib)
 ~~~
 </div>
 ~~~
@@ -1254,7 +1565,9 @@ hascode = false
 ~~~
 ### Solving linear fractional bilevel programs
 - **Authors**: Herminia I. Calvete, Carmen Galé
-- **Published in**: [Operations Research Letters, 32(2), 143–151, 2004.](https://doi.org/10.1016/j.orl.2003.07.003)
+- **Published in**: Operations Research Letters, 32(2), 143–151, 2004.
+- **DOI**: [https://doi.org/10.1016/j.orl.2003.07.003](https://doi.org/10.1016/j.orl.2003.07.003)
+- [Get bib file](/bib-files/S/Calvete_2004_8.bib)
 ~~~
 </div>
 ~~~
@@ -1263,7 +1576,9 @@ hascode = false
 ~~~
 ### Structural shape and topology optimization in a level-set-based framework of region representation
 - **Authors**: X. Wang, M.Y. Wang, D. Guo
-- **Published in**: [Structural and Multidisciplinary Optimization, 27(1-2), 1–19, 2004.](https://doi.org/10.1007/s00158-003-0363-y)
+- **Published in**: Structural and Multidisciplinary Optimization, 27(1-2), 1–19, 2004.
+- **DOI**: [https://doi.org/10.1007/s00158-003-0363-y](https://doi.org/10.1007/s00158-003-0363-y)
+- [Get bib file](/bib-files/S/Wang_2004_310.bib)
 ~~~
 </div>
 ~~~
@@ -1272,7 +1587,9 @@ hascode = false
 ~~~
 ### Stochastic Multilevel Interconnect Modeling and Optimization
 - **Authors**: J. Davis, R. Venkatesan, J. Meindl
-- **Published in**: [Interconnect Technology and Design for Gigascale Integration, 219–262, 2003.](https://doi.org/10.1007/978-1-4615-0461-0_6)
+- **Published in**: Interconnect Technology and Design for Gigascale Integration, 219–262, 2003.
+- **DOI**: [https://doi.org/10.1007/978-1-4615-0461-0_6](https://doi.org/10.1007/978-1-4615-0461-0_6)
+- [Get bib file](/bib-files/S/Davis_2003_216.bib)
 ~~~
 </div>
 ~~~
@@ -1281,7 +1598,9 @@ hascode = false
 ~~~
 ### Some Exact Penalty Results for Nonlinear Programs and Mathematical Programs with Equilibrium Constraints
 - **Authors**: G.H. Lin, M. Fukushima
-- **Published in**: [Journal of Optimization Theory and Applications, 118(1), 67–80, 2003.](https://doi.org/10.1023/a:1024787424532)
+- **Published in**: Journal of Optimization Theory and Applications, 118(1), 67–80, 2003.
+- **DOI**: [https://doi.org/10.1023/a:1024787424532](https://doi.org/10.1023/a:1024787424532)
+- [Get bib file](/bib-files/S/Lin_2003_4.bib)
 ~~~
 </div>
 ~~~
@@ -1290,7 +1609,9 @@ hascode = false
 ~~~
 ### System-Level Power Optimization for Wireless Multimedia Communication
 - **Authors**: 
-- **Published in**: [Kluwer Academic Publishers, 2002.](https://doi.org/10.1007/b117504)
+- **Published in**: Kluwer Academic Publishers, 2002.
+- **DOI**: [https://doi.org/10.1007/b117504](https://doi.org/10.1007/b117504)
+- [Get bib file](/bib-files/S/2002_329.bib)
 ~~~
 </div>
 ~~~
@@ -1299,7 +1620,9 @@ hascode = false
 ~~~
 ### Structural Optimization of a Spherical Parallel Manipulator Using a Two-Level Approach
 - **Authors**: Florence Bidault, Chin-Pun Teng, Jorge Angeles
-- **Published in**: [Volume 2A: 27th Design Automation Conference, 2001.](https://doi.org/10.1115/detc2001/dac-21030)
+- **Published in**: Volume 2A: 27th Design Automation Conference, 2001.
+- **DOI**: [https://doi.org/10.1115/detc2001/dac-21030](https://doi.org/10.1115/detc2001/dac-21030)
+- [Get bib file](/bib-files/S/Bidault_2001_39.bib)
 ~~~
 </div>
 ~~~
@@ -1308,7 +1631,9 @@ hascode = false
 ~~~
 ### Stochastic bilevel programming in structural optimization
 - **Authors**: S. Christiansen, M. Patriksson, L. Wynter
-- **Published in**: [Structural and Multidisciplinary Optimization, 21(5), 361–371, 2001.](https://doi.org/10.1007/s001580100115)
+- **Published in**: Structural and Multidisciplinary Optimization, 21(5), 361–371, 2001.
+- **DOI**: [https://doi.org/10.1007/s001580100115](https://doi.org/10.1007/s001580100115)
+- [Get bib file](/bib-files/S/Christiansen_2001_88.bib)
 ~~~
 </div>
 ~~~
@@ -1317,7 +1642,9 @@ hascode = false
 ~~~
 ### Successive Convex Relaxation Approach to Bilevel Quadratic Optimization Problems
 - **Authors**: Akiko Takeda, Masakazu Kojima
-- **Published in**: [Applied Optimization, 317–340, 2001.](https://doi.org/10.1007/978-1-4757-3279-5_15)
+- **Published in**: Applied Optimization, 317–340, 2001.
+- **DOI**: [https://doi.org/10.1007/978-1-4757-3279-5_15](https://doi.org/10.1007/978-1-4757-3279-5_15)
+- [Get bib file](/bib-files/S/Takeda_2001_55.bib)
 ~~~
 </div>
 ~~~
@@ -1326,7 +1653,9 @@ hascode = false
 ~~~
 ### Solving Bilevel Network Design Problem Using a Linear Reaction Function Without Nondegeneracy Assumption
 - **Authors**: Hsun-Jung Cho, Shih-Ching Lo
-- **Published in**: [Transportation Research Record: Journal of the Transportation Research Board, 1667(1), 96–106, 1999.](https://doi.org/10.3141/1667-12)
+- **Published in**: Transportation Research Record: Journal of the Transportation Research Board, 1667(1), 96–106, 1999.
+- **DOI**: [https://doi.org/10.3141/1667-12](https://doi.org/10.3141/1667-12)
+- [Get bib file](/bib-files/S/Cho_1999_36.bib)
 ~~~
 </div>
 ~~~
@@ -1335,7 +1664,9 @@ hascode = false
 ~~~
 ### Stackelberg Solutions to Multiobjective Two-Level Linear Programming Problems
 - **Authors**: I. Nishizaki, M. Sakawa
-- **Published in**: [Journal of Optimization Theory and Applications, 103(1), 161–182, 1999.](https://doi.org/10.1023/a:1021729618112)
+- **Published in**: Journal of Optimization Theory and Applications, 103(1), 161–182, 1999.
+- **DOI**: [https://doi.org/10.1023/a:1021729618112](https://doi.org/10.1023/a:1021729618112)
+- [Get bib file](/bib-files/S/Nishizaki_1999_66.bib)
 ~~~
 </div>
 ~~~
@@ -1344,7 +1675,9 @@ hascode = false
 ~~~
 ### Stability of Regularized Bilevel Programming Problems
 - **Authors**: M. B. Lignola, J. Morgan
-- **Published in**: [Journal of Optimization Theory and Applications, 93(3), 575–596, 1997.](https://doi.org/10.1023/a:1022695113803)
+- **Published in**: Journal of Optimization Theory and Applications, 93(3), 575–596, 1997.
+- **DOI**: [https://doi.org/10.1023/a:1022695113803](https://doi.org/10.1023/a:1022695113803)
+- [Get bib file](/bib-files/S/Lignola_1997_213.bib)
 ~~~
 </div>
 ~~~
@@ -1353,7 +1686,9 @@ hascode = false
 ~~~
 ### Safety-level communication in railway interlockings
 - **Authors**: Matthew J. Morley
-- **Published in**: [Science of Computer Programming, 29(1-2), 147–170, 1997.](https://doi.org/10.1016/s0167-6423(96)00033-0)
+- **Published in**: Science of Computer Programming, 29(1-2), 147–170, 1997.
+- **DOI**: [https://doi.org/10.1016/s0167-6423(96)00033-0](https://doi.org/10.1016/s0167-6423(96)00033-0)
+- [Get bib file](/bib-files/S/Morley_1997_70.bib)
 ~~~
 </div>
 ~~~
@@ -1362,7 +1697,9 @@ hascode = false
 ~~~
 ### Satisfaction Optimization Problem
 - **Authors**: Kiyotaka Shimizu, Yo Ishizuka, Jonathan F. Bard
-- **Published in**: [Nondifferentiable and Two-Level Mathematical Programming, 280–291, 1997.](https://doi.org/10.1007/978-1-4615-6305-1_10)
+- **Published in**: Nondifferentiable and Two-Level Mathematical Programming, 280–291, 1997.
+- **DOI**: [https://doi.org/10.1007/978-1-4615-6305-1_10](https://doi.org/10.1007/978-1-4615-6305-1_10)
+- [Get bib file](/bib-files/S/Shimizu_1997_43.bib)
 ~~~
 </div>
 ~~~
@@ -1371,7 +1708,9 @@ hascode = false
 ~~~
 ### Solution of multilevel structural design problems using a nonsmooth algorithm
 - **Authors**: J. Jagannath, K. Badhrinath
-- **Published in**: [6th Symposium on Multidisciplinary Analysis and Optimization, 1996.](https://doi.org/10.2514/6.1996-3986)
+- **Published in**: 6th Symposium on Multidisciplinary Analysis and Optimization, 1996.
+- **DOI**: [https://doi.org/10.2514/6.1996-3986](https://doi.org/10.2514/6.1996-3986)
+- [Get bib file](/bib-files/S/Jagannath_1996_214.bib)
 ~~~
 </div>
 ~~~
@@ -1380,7 +1719,9 @@ hascode = false
 ~~~
 ### Solving two-Level variational inequality
 - **Authors**: Vyacheslav V. Kalashnikov, Natalia I. Kalashinikova
-- **Published in**: [Journal of Global Optimization, 8(3), 289–294, 1996.](https://doi.org/10.1007/bf00121270)
+- **Published in**: Journal of Global Optimization, 8(3), 289–294, 1996.
+- **DOI**: [https://doi.org/10.1007/bf00121270](https://doi.org/10.1007/bf00121270)
+- [Get bib file](/bib-files/S/Kalashnikov_1996_122.bib)
 ~~~
 </div>
 ~~~
@@ -1389,7 +1730,9 @@ hascode = false
 ~~~
 ### Subdifferentiability, Lower Semicontinuity and Exactness of the Level Sum of Two Convex Functions on Locally Convex Spaces
 - **Authors**: S. Traore, M. Volle
-- **Published in**: [Recent Developments in Optimization, 346–356, 1995.](https://doi.org/10.1007/978-3-642-46823-0_26)
+- **Published in**: Recent Developments in Optimization, 346–356, 1995.
+- **DOI**: [https://doi.org/10.1007/978-3-642-46823-0_26](https://doi.org/10.1007/978-3-642-46823-0_26)
+- [Get bib file](/bib-files/S/Traore_1995_160.bib)
 ~~~
 </div>
 ~~~
@@ -1398,7 +1741,9 @@ hascode = false
 ~~~
 ### Squeezing in nondegenerate two-photon processes in a cavity quantum electrodynamics of a three-level and a two-level Rydberg atom
 - **Authors**: N. Nayak
-- **Published in**: [Physical Review A, 47(3), 2276–2280, 1993.](https://doi.org/10.1103/physreva.47.2276)
+- **Published in**: Physical Review A, 47(3), 2276–2280, 1993.
+- **DOI**: [https://doi.org/10.1103/physreva.47.2276](https://doi.org/10.1103/physreva.47.2276)
+- [Get bib file](/bib-files/S/Nayak_1993_320.bib)
 ~~~
 </div>
 ~~~
@@ -1407,7 +1752,9 @@ hascode = false
 ~~~
 ### Some Telecommunications Network Design Problems and the Bi-Steiner Problem
 - **Authors**: Geir Dahl
-- **Published in**: [Combinatorial Optimization, 283–286, 1992.](https://doi.org/10.1007/978-3-642-77489-8_25)
+- **Published in**: Combinatorial Optimization, 283–286, 1992.
+- **DOI**: [https://doi.org/10.1007/978-3-642-77489-8_25](https://doi.org/10.1007/978-3-642-77489-8_25)
+- [Get bib file](/bib-files/S/Dahl_1992_315.bib)
 ~~~
 </div>
 ~~~
@@ -1416,7 +1763,9 @@ hascode = false
 ~~~
 ### Solving nonlinear bilevel programming models of the equilibrium network design problem: A comparative review
 - **Authors**: Sunduck Suh, Tschangho John Kim
-- **Published in**: [Annals of Operations Research, 34(1), 203–218, 1992.](https://doi.org/10.1007/bf02098180)
+- **Published in**: Annals of Operations Research, 34(1), 203–218, 1992.
+- **DOI**: [https://doi.org/10.1007/bf02098180](https://doi.org/10.1007/bf02098180)
+- [Get bib file](/bib-files/S/Suh_1992_201.bib)
 ~~~
 </div>
 ~~~
@@ -1425,7 +1774,9 @@ hascode = false
 ~~~
 ### Some properties of the bilevel programming problem
 - **Authors**: J. F. Bard
-- **Published in**: [Journal of Optimization Theory and Applications, 68(2), 371–378, 1991.](https://doi.org/10.1007/bf00941574)
+- **Published in**: Journal of Optimization Theory and Applications, 68(2), 371–378, 1991.
+- **DOI**: [https://doi.org/10.1007/bf00941574](https://doi.org/10.1007/bf00941574)
+- [Get bib file](/bib-files/S/Bard_1991_337.bib)
 ~~~
 </div>
 ~~~
@@ -1434,7 +1785,9 @@ hascode = false
 ~~~
 ### Sequential multilevel multiobjective optimization for structures
 - **Authors**: DONG-SOO KIM, GARRET VANDERPLAATS
-- **Published in**: [32nd Structures, Structural Dynamics, and Materials Conference, 1991.](https://doi.org/10.2514/6.1991-1037)
+- **Published in**: 32nd Structures, Structural Dynamics, and Materials Conference, 1991.
+- **DOI**: [https://doi.org/10.2514/6.1991-1037](https://doi.org/10.2514/6.1991-1037)
+- [Get bib file](/bib-files/S/KIM_1991_134.bib)
 ~~~
 </div>
 ~~~
@@ -1443,7 +1796,9 @@ hascode = false
 ~~~
 ### Strategy for multilevel optimization of aircraft
 - **Authors**: T. R. Logan
-- **Published in**: [Journal of Aircraft, 27(12), 1068–1072, 1990.](https://doi.org/10.2514/3.45983)
+- **Published in**: Journal of Aircraft, 27(12), 1068–1072, 1990.
+- **DOI**: [https://doi.org/10.2514/3.45983](https://doi.org/10.2514/3.45983)
+- [Get bib file](/bib-files/S/Logan_1990_197.bib)
 ~~~
 </div>
 ~~~
@@ -1452,7 +1807,9 @@ hascode = false
 ~~~
 ### Structure of the level two Standard Modules for the affine Lie algebra
 - **Authors**: Chuanfu Xie
-- **Published in**: [Communications in Algebra, 18(8), 2397–2401, 1990.](https://doi.org/10.1080/00927879008824029)
+- **Published in**: Communications in Algebra, 18(8), 2397–2401, 1990.
+- **DOI**: [https://doi.org/10.1080/00927879008824029](https://doi.org/10.1080/00927879008824029)
+- [Get bib file](/bib-files/S/Xie_1990_335.bib)
 ~~~
 </div>
 ~~~
@@ -1461,7 +1818,9 @@ hascode = false
 ~~~
 ### Structural optimization by generalized, multilevel optimization
 - **Authors**: J. SOBIESZCZANSKI-SOBIESKI, B. JAMES, M. RILEY
-- **Published in**: [26th Structures, Structural Dynamics, and Materials Conference, 1985.](https://doi.org/10.2514/6.1985-697)
+- **Published in**: 26th Structures, Structural Dynamics, and Materials Conference, 1985.
+- **DOI**: [https://doi.org/10.2514/6.1985-697](https://doi.org/10.2514/6.1985-697)
+- [Get bib file](/bib-files/S/SOBIESZCZANSKI_SOBIESKI_1985_20.bib)
 ~~~
 </div>
 ~~~
@@ -1470,7 +1829,9 @@ hascode = false
 ~~~
 ### Structural optimization by multilevel decomposition
 - **Authors**: Jaroslaw Sobieszczanski-Sobieski, Benjamin B. James, Augustine R. Dovi
-- **Published in**: [AIAA Journal, 23(11), 1775–1782, 1985.](https://doi.org/10.2514/3.9165)
+- **Published in**: AIAA Journal, 23(11), 1775–1782, 1985.
+- **DOI**: [https://doi.org/10.2514/3.9165](https://doi.org/10.2514/3.9165)
+- [Get bib file](/bib-files/S/Sobieszczanski_Sobieski_1985_322.bib)
 ~~~
 </div>
 ~~~
@@ -1479,7 +1840,9 @@ hascode = false
 ~~~
 ### Structural optimization by multilevel decomposition
 - **Authors**: J. SOBIESZCZANSKI-SOBIESKI, B. JAMES, A. DOVI
-- **Published in**: [24th Structures, Structural Dynamics and Materials Conference, 1983.](https://doi.org/10.2514/6.1983-832)
+- **Published in**: 24th Structures, Structural Dynamics and Materials Conference, 1983.
+- **DOI**: [https://doi.org/10.2514/6.1983-832](https://doi.org/10.2514/6.1983-832)
+- [Get bib file](/bib-files/S/SOBIESZCZANSKI_SOBIESKI_1983_133.bib)
 ~~~
 </div>
 ~~~
@@ -1488,7 +1851,9 @@ hascode = false
 ~~~
 ### Stackelberg Strategies for Multilevel Systems
 - **Authors**: J. B. Cruz
-- **Published in**: [Directions in Large-Scale Systems, 139–147, 1976.](https://doi.org/10.1007/978-1-4684-2259-7_10)
+- **Published in**: Directions in Large-Scale Systems, 139–147, 1976.
+- **DOI**: [https://doi.org/10.1007/978-1-4684-2259-7_10](https://doi.org/10.1007/978-1-4684-2259-7_10)
+- [Get bib file](/bib-files/S/Cruz_1976_124.bib)
 ~~~
 </div>
 ~~~
@@ -1497,7 +1862,9 @@ hascode = false
 ~~~
 ### Single- and two-channel modes of time-to-background optimization of low-level counting
 - **Authors**: Š. Šaro
-- **Published in**: [Nuclear Instruments and Methods, 128(1), 121–124, 1975.](https://doi.org/10.1016/0029-554x(75)90781-8)
+- **Published in**: Nuclear Instruments and Methods, 128(1), 121–124, 1975.
+- **DOI**: [https://doi.org/10.1016/0029-554x(75)90781-8](https://doi.org/10.1016/0029-554x(75)90781-8)
+- [Get bib file](/bib-files/S/_aro_1975_184.bib)
 ~~~
 </div>
 ~~~

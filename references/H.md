@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### HyperFDA
 - **Authors**: Léo Souquet, Nadiya Shvai, Arcadi Llanza, Amir Nakib
-- **Published in**: [Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion, 2020.](https://doi.org/10.1145/3377929.3390056)
+- **Published in**: Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion, 2020.
+- **DOI**: [https://doi.org/10.1145/3377929.3390056](https://doi.org/10.1145/3377929.3390056)
+- [Get bib file](/bib-files/H/Souquet_2020_283.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### Hierarchical Facility Location Problems
 - **Authors**: Ivan Contreras, Camilo Ortiz-Astorquiza
-- **Published in**: [Location Science, 365–389, 2019.](https://doi.org/10.1007/978-3-030-32177-2_13)
+- **Published in**: Location Science, 365–389, 2019.
+- **DOI**: [https://doi.org/10.1007/978-3-030-32177-2_13](https://doi.org/10.1007/978-3-030-32177-2_13)
+- [Get bib file](/bib-files/H/Contreras_2019_1.bib)
 ~~~
 </div>
 ~~~
@@ -30,7 +34,9 @@ hascode = false
 ~~~
 ### High-efficiency and broadband photonic polarization rotator based on multilevel shape optimization
 - **Authors**: Nicolas Lebbe, Alain Glière, Karim Hassan
-- **Published in**: [Optics Letters, 44(8), 1960, 2019.](https://doi.org/10.1364/ol.44.001960)
+- **Published in**: Optics Letters, 44(8), 1960, 2019.
+- **DOI**: [https://doi.org/10.1364/ol.44.001960](https://doi.org/10.1364/ol.44.001960)
+- [Get bib file](/bib-files/H/Lebbe_2019_307.bib)
 ~~~
 </div>
 ~~~
@@ -39,7 +45,9 @@ hascode = false
 ~~~
 ### Harmonic-Tuned High-Efficiency GaN HEMT Doherty Power Amplifier Based on Two- Power- Level Impedance Optimization
 - **Authors**: Takuya Seshimo, Yoichiro Takayama, Ryo Ishikawa, Kazuhiko Honjo
-- **Published in**: [2019 IEEE Asia-Pacific Microwave Conference (APMC), 2019.](https://doi.org/10.1109/apmc46564.2019.9038315)
+- **Published in**: 2019 IEEE Asia-Pacific Microwave Conference (APMC), 2019.
+- **DOI**: [https://doi.org/10.1109/apmc46564.2019.9038315](https://doi.org/10.1109/apmc46564.2019.9038315)
+- [Get bib file](/bib-files/H/Seshimo_2019_241.bib)
 ~~~
 </div>
 ~~~
@@ -48,7 +56,9 @@ hascode = false
 ~~~
 ### Heuristics and metaheuristics for the bi-criterion optimization of the flexible flow shop scheduling problem with two stages
 - **Authors**: Said Aqil, Karam Allali
-- **Published in**: [2018 International Conference on Electronics, Control, Optimization and Computer Science (ICECOCS), 2018.](https://doi.org/10.1109/icecocs.2018.8610620)
+- **Published in**: 2018 International Conference on Electronics, Control, Optimization and Computer Science (ICECOCS), 2018.
+- **DOI**: [https://doi.org/10.1109/icecocs.2018.8610620](https://doi.org/10.1109/icecocs.2018.8610620)
+- [Get bib file](/bib-files/H/Aqil_2018_410.bib)
 ~~~
 </div>
 ~~~
@@ -57,7 +67,9 @@ hascode = false
 ~~~
 ### Hybrid CODBA-II Algorithm Coupling a Co-Evolutionary Decomposition-Based Algorithm with Local Search Method to Solve Bi-Level Combinatorial Optimization
 - **Authors**: Abir Chaabani, Ben Lamjed
-- **Published in**: [2018 IEEE 30th International Conference on Tools with Artificial Intelligence (ICTAI), 2018.](https://doi.org/10.1109/ictai.2018.00084)
+- **Published in**: 2018 IEEE 30th International Conference on Tools with Artificial Intelligence (ICTAI), 2018.
+- **DOI**: [https://doi.org/10.1109/ictai.2018.00084](https://doi.org/10.1109/ictai.2018.00084)
+- [Get bib file](/bib-files/H/Chaabani_2018_136.bib)
 ~~~
 </div>
 ~~~
@@ -66,7 +78,9 @@ hascode = false
 ~~~
 ### High-level parallel programming in a heterogeneous world
 - **Authors**: J. Daniel Garcia, Diego R. Llanos
-- **Published in**: [Concurrency and Computation: Practice and Experience, 31(5), e5052, 2018.](https://doi.org/10.1002/cpe.5052)
+- **Published in**: Concurrency and Computation: Practice and Experience, 31(5), e5052, 2018.
+- **DOI**: [https://doi.org/10.1002/cpe.5052](https://doi.org/10.1002/cpe.5052)
+- [Get bib file](/bib-files/H/Garcia_2018_19.bib)
 ~~~
 </div>
 ~~~
@@ -75,7 +89,9 @@ hascode = false
 ~~~
 ### Harmonic Elimination of Cascaded Multilevel Inverter using Metaheuristic Optimization Methods
 - **Authors**: Srikanta Kumar Dash, Byamakesh Nayak, Jiban Ballav Sahu, Rojalin Rout
-- **Published in**: [International Journal of Engineering & Technology, 7(4.15), 272, 2018.](https://doi.org/10.14419/ijet.v7i4.15.23005)
+- **Published in**: International Journal of Engineering & Technology, 7(4.15), 272, 2018.
+- **DOI**: [https://doi.org/10.14419/ijet.v7i4.15.23005](https://doi.org/10.14419/ijet.v7i4.15.23005)
+- [Get bib file](/bib-files/H/Kumar_Dash_2018_364.bib)
 ~~~
 </div>
 ~~~
@@ -84,7 +100,9 @@ hascode = false
 ~~~
 ### High-occupancy Vehicle Lanes and Tradable Credits Scheme for Traffic Congestion Management: A Bilevel Programming Approach
 - **Authors**: Guangzhi Zang, Meng Xu, Ziyou Gao
-- **Published in**: [PROMET - Traffic&Transportation, 30(1), 1–10, 2018.](https://doi.org/10.7307/ptt.v30i1.2300)
+- **Published in**: PROMET - Traffic&Transportation, 30(1), 1–10, 2018.
+- **DOI**: [https://doi.org/10.7307/ptt.v30i1.2300](https://doi.org/10.7307/ptt.v30i1.2300)
+- [Get bib file](/bib-files/H/Zang_2018_172.bib)
 ~~~
 </div>
 ~~~
@@ -93,7 +111,9 @@ hascode = false
 ~~~
 ### High-speed simulation of modular multilevel converters for optimization based design
 - **Authors**: Raj Sahu, Scott D. Sudhoff
-- **Published in**: [2017 IEEE Electric Ship Technologies Symposium (ESTS), 2017.](https://doi.org/10.1109/ests.2017.8069271)
+- **Published in**: 2017 IEEE Electric Ship Technologies Symposium (ESTS), 2017.
+- **DOI**: [https://doi.org/10.1109/ests.2017.8069271](https://doi.org/10.1109/ests.2017.8069271)
+- [Get bib file](/bib-files/H/Sahu_2017_165.bib)
 ~~~
 </div>
 ~~~
@@ -102,7 +122,9 @@ hascode = false
 ~~~
 ### Hybrid Biogeography-based Optimization Algorithm for Solving Nonlinear Bilevel Programming
 - **Authors**: Yuejiao Wang, Sanyang Liu, Nan Lu
-- **Published in**: [DEStech Transactions on Engineering and Technology Research, (iceta), 2017.](https://doi.org/10.12783/dtetr/iceta2016/7017)
+- **Published in**: DEStech Transactions on Engineering and Technology Research, (iceta), 2017.
+- **DOI**: [https://doi.org/10.12783/dtetr/iceta2016/7017](https://doi.org/10.12783/dtetr/iceta2016/7017)
+- [Get bib file](/bib-files/H/Wang_2017_110.bib)
 ~~~
 </div>
 ~~~
@@ -111,7 +133,9 @@ hascode = false
 ~~~
 ### High-Level Synchronization Tools
 - **Authors**: Victor Alessandrini
-- **Published in**: [Shared Memory Application Programming, 191–223, 2016.](https://doi.org/10.1016/b978-0-12-803761-4.00009-5)
+- **Published in**: Shared Memory Application Programming, 191–223, 2016.
+- **DOI**: [https://doi.org/10.1016/b978-0-12-803761-4.00009-5](https://doi.org/10.1016/b978-0-12-803761-4.00009-5)
+- [Get bib file](/bib-files/H/Alessandrini_2016_30.bib)
 ~~~
 </div>
 ~~~
@@ -120,7 +144,9 @@ hascode = false
 ~~~
 ### Harmonic elimination of multilevel inverters by moth-flame optimization algorithm
 - **Authors**: Oguzhan Ceylan
-- **Published in**: [2016 International Symposium on Industrial Electronics (INDEL), 2016.](https://doi.org/10.1109/indel.2016.7797803)
+- **Published in**: 2016 International Symposium on Industrial Electronics (INDEL), 2016.
+- **DOI**: [https://doi.org/10.1109/indel.2016.7797803](https://doi.org/10.1109/indel.2016.7797803)
+- [Get bib file](/bib-files/H/Ceylan_2016_161.bib)
 ~~~
 </div>
 ~~~
@@ -129,7 +155,9 @@ hascode = false
 ~~~
 ### Harmonic optimization of multilevel converters using Big Bang-Big Crunch optimization method
 - **Authors**: H. R. Kamath, Pawan Pandey, Iti Mahashabde
-- **Published in**: [2016 International Conference on Global Trends in Signal Processing, Information Computing and Communication (ICGTSPICC), 2016.](https://doi.org/10.1109/icgtspicc.2016.7955344)
+- **Published in**: 2016 International Conference on Global Trends in Signal Processing, Information Computing and Communication (ICGTSPICC), 2016.
+- **DOI**: [https://doi.org/10.1109/icgtspicc.2016.7955344](https://doi.org/10.1109/icgtspicc.2016.7955344)
+- [Get bib file](/bib-files/H/Kamath_2016_64.bib)
 ~~~
 </div>
 ~~~
@@ -138,7 +166,9 @@ hascode = false
 ~~~
 ### Higher-Level Programming
 - **Authors**: Syed R. Rizvi
-- **Published in**: [Microcontroller Programming, 449–478, 2016.](https://doi.org/10.1201/b11682-12)
+- **Published in**: Microcontroller Programming, 449–478, 2016.
+- **DOI**: [https://doi.org/10.1201/b11682-12](https://doi.org/10.1201/b11682-12)
+- [Get bib file](/bib-files/H/Rizvi_2016_54.bib)
 ~~~
 </div>
 ~~~
@@ -147,7 +177,9 @@ hascode = false
 ~~~
 ### Handling inverse optimal control problems using evolutionary bilevel optimization
 - **Authors**: Varun Suryan, Ankur Sinha, Pekka Malo, Kalyanmoy Deb
-- **Published in**: [2016 IEEE Congress on Evolutionary Computation (CEC), 2016.](https://doi.org/10.1109/cec.2016.7744019)
+- **Published in**: 2016 IEEE Congress on Evolutionary Computation (CEC), 2016.
+- **DOI**: [https://doi.org/10.1109/cec.2016.7744019](https://doi.org/10.1109/cec.2016.7744019)
+- [Get bib file](/bib-files/H/Suryan_2016_138.bib)
 ~~~
 </div>
 ~~~
@@ -156,7 +188,9 @@ hascode = false
 ~~~
 ### Handling decision variable uncertainty in bilevel optimization problems
 - **Authors**: Zhichao Lu, Kalyanmoy Deb, Ankur Sinha
-- **Published in**: [2015 IEEE Congress on Evolutionary Computation (CEC), 2015.](https://doi.org/10.1109/cec.2015.7257089)
+- **Published in**: 2015 IEEE Congress on Evolutionary Computation (CEC), 2015.
+- **DOI**: [https://doi.org/10.1109/cec.2015.7257089](https://doi.org/10.1109/cec.2015.7257089)
+- [Get bib file](/bib-files/H/Lu_2015_124.bib)
 ~~~
 </div>
 ~~~
@@ -165,7 +199,9 @@ hascode = false
 ~~~
 ### Hazardous Materials Transportation using Bi-level Linear Programming - Case-study of Liquid Fuel Distribution
 - **Authors**: Madalena S. Rodrigues, Marta C. Gomes, Alexandre B. Gonçalves, Sílvia Shrubsall
-- **Published in**: [Proceedings of the International Conference on Operations Research and Enterprise Systems, 2015.](https://doi.org/10.5220/0005223703760382)
+- **Published in**: Proceedings of the International Conference on Operations Research and Enterprise Systems, 2015.
+- **DOI**: [https://doi.org/10.5220/0005223703760382](https://doi.org/10.5220/0005223703760382)
+- [Get bib file](/bib-files/H/S_Rodrigues_2015_373.bib)
 ~~~
 </div>
 ~~~
@@ -174,7 +210,9 @@ hascode = false
 ~~~
 ### Harmonic distortion optimization of multilevel PWM inverter using genetic algorithms
 - **Authors**: Jorge Luis Diaz Rodriguez, Luis David Pabon Fernandez, Aldo Pardo Garcia
-- **Published in**: [2014 IEEE 5th Colombian Workshop on Circuits and Systems (CWCAS), 2014.](https://doi.org/10.1109/cwcas.2014.6994602)
+- **Published in**: 2014 IEEE 5th Colombian Workshop on Circuits and Systems (CWCAS), 2014.
+- **DOI**: [https://doi.org/10.1109/cwcas.2014.6994602](https://doi.org/10.1109/cwcas.2014.6994602)
+- [Get bib file](/bib-files/H/Diaz_Rodriguez_2014_271.bib)
 ~~~
 </div>
 ~~~
@@ -183,7 +221,9 @@ hascode = false
 ~~~
 ### Hydrothermal coordination by bi-level optimization and composite constraint handling method
 - **Authors**: Mojtaba Hajinassiry, Nima Amjady, Hossein Sharifzadeh
-- **Published in**: [International Journal of Electrical Power & Energy Systems, 62, 476–489, 2014.](https://doi.org/10.1016/j.ijepes.2014.04.038)
+- **Published in**: International Journal of Electrical Power & Energy Systems, 62, 476–489, 2014.
+- **DOI**: [https://doi.org/10.1016/j.ijepes.2014.04.038](https://doi.org/10.1016/j.ijepes.2014.04.038)
+- [Get bib file](/bib-files/H/Hajinassiry_2014_185.bib)
 ~~~
 </div>
 ~~~
@@ -192,7 +232,9 @@ hascode = false
 ~~~
 ### Hierarchical coordinated control strategy for electric vehicle based on bi-level programming
 - **Authors**: Ruoxi Dong, Xin Ai, Song Zhang, Shiwei Cui
-- **Published in**: [2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific (ITEC Asia-Pacific), 2014.](https://doi.org/10.1109/itec-ap.2014.6940661)
+- **Published in**: 2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific (ITEC Asia-Pacific), 2014.
+- **DOI**: [https://doi.org/10.1109/itec-ap.2014.6940661](https://doi.org/10.1109/itec-ap.2014.6940661)
+- [Get bib file](/bib-files/H/Ruoxi_Dong_2014_65.bib)
 ~~~
 </div>
 ~~~
@@ -201,7 +243,9 @@ hascode = false
 ~~~
 ### Heuristic for two-dimensional homogeneous two-segment cutting patterns
 - **Authors**: Yaodong Cui
-- **Published in**: [Engineering Optimization, 45(1), 89–105, 2013.](https://doi.org/10.1080/0305215x.2012.658784)
+- **Published in**: Engineering Optimization, 45(1), 89–105, 2013.
+- **DOI**: [https://doi.org/10.1080/0305215x.2012.658784](https://doi.org/10.1080/0305215x.2012.658784)
+- [Get bib file](/bib-files/H/Cui_2013_273.bib)
 ~~~
 </div>
 ~~~
@@ -210,7 +254,9 @@ hascode = false
 ~~~
 ### Harmonic Optimization of Diode-clamped Multilevel Inverter Using Teaching-learning-based Optimization Algorithm
 - **Authors**: Mohammad Mardaneh, Faranak Golestaneh
-- **Published in**: [IETE Journal of Research, 59(1), 9, 2013.](https://doi.org/10.4103/0377-2063.110616)
+- **Published in**: IETE Journal of Research, 59(1), 9, 2013.
+- **DOI**: [https://doi.org/10.4103/0377-2063.110616](https://doi.org/10.4103/0377-2063.110616)
+- [Get bib file](/bib-files/H/Mardaneh_2013_94.bib)
 ~~~
 </div>
 ~~~
@@ -219,7 +265,9 @@ hascode = false
 ~~~
 ### Harmonic elimination of Cascaded Multilevel Inverters Using Particle Swarm Optimization
 - **Authors**: T. Jeevabharathi, V. Padmathilagam
-- **Published in**: [2012 International Conference on Computing, Electronics and Electrical Technologies (ICCEET), 2012.](https://doi.org/10.1109/icceet.2012.6203775)
+- **Published in**: 2012 International Conference on Computing, Electronics and Electrical Technologies (ICCEET), 2012.
+- **DOI**: [https://doi.org/10.1109/icceet.2012.6203775](https://doi.org/10.1109/icceet.2012.6203775)
+- [Get bib file](/bib-files/H/Jeevabharathi_2012_158.bib)
 ~~~
 </div>
 ~~~
@@ -228,7 +276,9 @@ hascode = false
 ~~~
 ### Harmonic Optimization of Multilevel Inverters Using Hybrid GA/PSO
 - **Authors**: Surya Kalavathi M, K. Mahendran, B. Indhumathy
-- **Published in**: [i-manager’s Journal on Electronics Engineering, 2(3), 16–21, 2012.](https://doi.org/10.26634/jele.2.3.1765)
+- **Published in**: i-manager’s Journal on Electronics Engineering, 2(3), 16–21, 2012.
+- **DOI**: [https://doi.org/10.26634/jele.2.3.1765](https://doi.org/10.26634/jele.2.3.1765)
+- [Get bib file](/bib-files/H/M_2012_295.bib)
 ~~~
 </div>
 ~~~
@@ -237,7 +287,9 @@ hascode = false
 ~~~
 ### Hierarchical bilevel image compression based on cutset sampling
 - **Authors**: Shengxin Zha, Thrasyvoulos N. Pappas, David L. Neuhoff
-- **Published in**: [2012 19th IEEE International Conference on Image Processing, 2012.](https://doi.org/10.1109/icip.2012.6467410)
+- **Published in**: 2012 19th IEEE International Conference on Image Processing, 2012.
+- **DOI**: [https://doi.org/10.1109/icip.2012.6467410](https://doi.org/10.1109/icip.2012.6467410)
+- [Get bib file](/bib-files/H/Zha_2012_79.bib)
 ~~~
 </div>
 ~~~
@@ -246,7 +298,9 @@ hascode = false
 ~~~
 ### Hybrid Genetic Algorithm for Inventory Management Based on Postponement Strategy and Bilevel Programming Model
 - **Authors**: Bingbing Liu, Zhongping Wan
-- **Published in**: [2011 International Conference on Management and Service Science, 2011.](https://doi.org/10.1109/icmss.2011.5998250)
+- **Published in**: 2011 International Conference on Management and Service Science, 2011.
+- **DOI**: [https://doi.org/10.1109/icmss.2011.5998250](https://doi.org/10.1109/icmss.2011.5998250)
+- [Get bib file](/bib-files/H/Liu_2011_68.bib)
 ~~~
 </div>
 ~~~
@@ -255,7 +309,9 @@ hascode = false
 ~~~
 ### Higher-Order Programming and Lower Level Activity
 - **Authors**: Tom Addis, Jan Addis
-- **Published in**: [Drawing Programs: The Theory and Practice of Schematic Functional Programming, 301–341, 2010.](https://doi.org/10.1007/978-1-84882-618-2_9)
+- **Published in**: Drawing Programs: The Theory and Practice of Schematic Functional Programming, 301–341, 2010.
+- **DOI**: [https://doi.org/10.1007/978-1-84882-618-2_9](https://doi.org/10.1007/978-1-84882-618-2_9)
+- [Get bib file](/bib-files/H/Addis_2010_72.bib)
 ~~~
 </div>
 ~~~
@@ -264,7 +320,9 @@ hascode = false
 ~~~
 ### Harmonic elimination of multilevel inverters using particle swarm optimization
 - **Authors**: H. Taghizadeh, M. Tarafdar Hagh
-- **Published in**: [2008 IEEE International Symposium on Industrial Electronics, 2008.](https://doi.org/10.1109/isie.2008.4677093)
+- **Published in**: 2008 IEEE International Symposium on Industrial Electronics, 2008.
+- **DOI**: [https://doi.org/10.1109/isie.2008.4677093](https://doi.org/10.1109/isie.2008.4677093)
+- [Get bib file](/bib-files/H/Taghizadeh_2008_220.bib)
 ~~~
 </div>
 ~~~
@@ -273,7 +331,9 @@ hascode = false
 ~~~
 ### Hybrid Intelligent Algorithm for Solving the Bilevel Programming Models with Fuzzy Variables
 - **Authors**: Lin XU, Quan-sheng LI, Wan-sheng TANG
-- **Published in**: [Systems Engineering - Theory & Practice, 28(7), 100–104, 2008.](https://doi.org/10.1016/s1874-8651(09)60030-2)
+- **Published in**: Systems Engineering - Theory & Practice, 28(7), 100–104, 2008.
+- **DOI**: [https://doi.org/10.1016/s1874-8651(09)60030-2](https://doi.org/10.1016/s1874-8651(09)60030-2)
+- [Get bib file](/bib-files/H/XU_2008_183.bib)
 ~~~
 </div>
 ~~~
@@ -282,7 +342,20 @@ hascode = false
 ~~~
 ### Hierarchical multilevel optimization for reliability target allocation in probabilistic design of decomposed systems
 - **Authors**: Michael Kokkolaras
-- **Published in**: [PAMM, 7(1), 2060079–2060080, 2007.](https://doi.org/10.1002/pamm.200701095)
+- **Published in**: PAMM, 7(1), 2060079–2060080, 2007.
+- **DOI**: [https://doi.org/10.1002/pamm.200701095](https://doi.org/10.1002/pamm.200701095)
+- [Get bib file](/bib-files/H/Kokkolaras_2007_266.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Hybrid queueing systems with hysteretic bilevel control policies
+- **Authors**: J.H. Dshalalow, S. Kim, L. Tadj
+- **Published in**: Nonlinear Analysis: Theory, Methods & Applications, 65(11), 2153–2168, 2006.
+- **DOI**: [https://doi.org/10.1016/j.na.2005.12.044](https://doi.org/10.1016/j.na.2005.12.044)
+- [Get bib file](/bib-files/H/Dshalalow_2006_3.bib)
 ~~~
 </div>
 ~~~
@@ -291,7 +364,9 @@ hascode = false
 ~~~
 ### Heuristic Optimization of Two-Level Networks
 - **Authors**: Tsutomu Sasao
-- **Published in**: [Switching Theory for Logic Synthesis, 201–228, 1999.](https://doi.org/10.1007/978-1-4615-5139-3_10)
+- **Published in**: Switching Theory for Logic Synthesis, 201–228, 1999.
+- **DOI**: [https://doi.org/10.1007/978-1-4615-5139-3_10](https://doi.org/10.1007/978-1-4615-5139-3_10)
+- [Get bib file](/bib-files/H/Sasao_1999_0.bib)
 ~~~
 </div>
 ~~~
@@ -300,7 +375,9 @@ hascode = false
 ~~~
 ### Hierarchical Systems and their Management
 - **Authors**: Todor Stoilov, Krassimira Stoilova
-- **Published in**: [Noniterative Coordination in Multilevel Systems, 1–57, 1999.](https://doi.org/10.1007/978-94-009-0017-2_1)
+- **Published in**: Noniterative Coordination in Multilevel Systems, 1–57, 1999.
+- **DOI**: [https://doi.org/10.1007/978-94-009-0017-2_1](https://doi.org/10.1007/978-94-009-0017-2_1)
+- [Get bib file](/bib-files/H/Stoilov_1999_189.bib)
 ~~~
 </div>
 ~~~
@@ -309,7 +386,9 @@ hascode = false
 ~~~
 ### Heuristics
 - **Authors**: Jonathan F. Bard
-- **Published in**: [Practical Bilevel Optimization, 361–388, 1998.](https://doi.org/10.1007/978-1-4757-2836-1_9)
+- **Published in**: Practical Bilevel Optimization, 361–388, 1998.
+- **DOI**: [https://doi.org/10.1007/978-1-4757-2836-1_9](https://doi.org/10.1007/978-1-4757-2836-1_9)
+- [Get bib file](/bib-files/H/Bard_1998_21.bib)
 ~~~
 </div>
 ~~~
@@ -318,7 +397,9 @@ hascode = false
 ~~~
 ### High-Level Synthesis for Low Power
 - **Authors**: Anand Raghunathan, Niraj K. Jha, Sujit Dey
-- **Published in**: [High-Level Power Analysis and Optimization, 115–153, 1998.](https://doi.org/10.1007/978-1-4615-5433-2_5)
+- **Published in**: High-Level Power Analysis and Optimization, 115–153, 1998.
+- **DOI**: [https://doi.org/10.1007/978-1-4615-5433-2_5](https://doi.org/10.1007/978-1-4615-5433-2_5)
+- [Get bib file](/bib-files/H/Raghunathan_1998_344.bib)
 ~~~
 </div>
 ~~~
@@ -327,7 +408,9 @@ hascode = false
 ~~~
 ### Heuristic algorithms for the bilevel origin-destination matrix estimation problem
 - **Authors**: Hai Yang
-- **Published in**: [Transportation Research Part B: Methodological, 29(4), 231–242, 1995.](https://doi.org/10.1016/0191-2615(95)00003-v)
+- **Published in**: Transportation Research Part B: Methodological, 29(4), 231–242, 1995.
+- **DOI**: [https://doi.org/10.1016/0191-2615(95)00003-v](https://doi.org/10.1016/0191-2615(95)00003-v)
+- [Get bib file](/bib-files/H/Yang_1995_12.bib)
 ~~~
 </div>
 ~~~
@@ -336,7 +419,9 @@ hascode = false
 ~~~
 ### High-level Programming
 - **Authors**: Percy Mett
-- **Published in**: [Introduction to Computing, 43–98, 1990.](https://doi.org/10.1007/978-1-349-08039-7_3)
+- **Published in**: Introduction to Computing, 43–98, 1990.
+- **DOI**: [https://doi.org/10.1007/978-1-349-08039-7_3](https://doi.org/10.1007/978-1-349-08039-7_3)
+- [Get bib file](/bib-files/H/Mett_1990_63.bib)
 ~~~
 </div>
 ~~~
@@ -345,7 +430,9 @@ hascode = false
 ~~~
 ### High-level Languages
 - **Authors**: Colin Walls
-- **Published in**: [Programming Dedicated Microprocessors, 97–102, 1986.](https://doi.org/10.1007/978-1-349-08594-1_9)
+- **Published in**: Programming Dedicated Microprocessors, 97–102, 1986.
+- **DOI**: [https://doi.org/10.1007/978-1-349-08594-1_9](https://doi.org/10.1007/978-1-349-08594-1_9)
+- [Get bib file](/bib-files/H/Walls_1986_24.bib)
 ~~~
 </div>
 ~~~
@@ -354,7 +441,9 @@ hascode = false
 ~~~
 ### High-Level Programming Languages
 - **Authors**: Graham Lee
-- **Published in**: [From Hardware to Software, 368–382, 1982.](https://doi.org/10.1007/978-1-349-16786-9_22)
+- **Published in**: From Hardware to Software, 368–382, 1982.
+- **DOI**: [https://doi.org/10.1007/978-1-349-16786-9_22](https://doi.org/10.1007/978-1-349-16786-9_22)
+- [Get bib file](/bib-files/H/Lee_1982_61.bib)
 ~~~
 </div>
 ~~~
@@ -363,7 +452,9 @@ hascode = false
 ~~~
 ### High-level languages
 - **Authors**: ANDREW COLIN
-- **Published in**: [Programming for Microprocessors, 131–143, 1979.](https://doi.org/10.1016/b978-0-408-00320-9.50014-4)
+- **Published in**: Programming for Microprocessors, 131–143, 1979.
+- **DOI**: [https://doi.org/10.1016/b978-0-408-00320-9.50014-4](https://doi.org/10.1016/b978-0-408-00320-9.50014-4)
+- [Get bib file](/bib-files/H/COLIN_1979_29.bib)
 ~~~
 </div>
 ~~~
@@ -372,7 +463,9 @@ hascode = false
 ~~~
 ### High level process control language “ESPRIT” and its source level debugging system “SOLDA”
 - **Authors**: Takashi Dasai, Kunio Iharada, Takeshi Sunohara, Toshiyuki Nakamura
-- **Published in**: [Annual Review in Automatic Programming, 8, 19–28, 1977.](https://doi.org/10.1016/0066-4138(77)90005-2)
+- **Published in**: Annual Review in Automatic Programming, 8, 19–28, 1977.
+- **DOI**: [https://doi.org/10.1016/0066-4138(77)90005-2](https://doi.org/10.1016/0066-4138(77)90005-2)
+- [Get bib file](/bib-files/H/Dasai_1977_17.bib)
 ~~~
 </div>
 ~~~
@@ -381,7 +474,9 @@ hascode = false
 ~~~
 ### Horizontal competition in multilevel governmental settings
 - **Authors**: Pierre Salmon
-- **Published in**: [](https://doi.org/10.4337/9780857932297.00010)
+- **Published in**: 
+- **DOI**: [https://doi.org/10.4337/9780857932297.00010](https://doi.org/10.4337/9780857932297.00010)
+- [Get bib file](/bib-files/H/Salmon_237.bib)
 ~~~
 </div>
 ~~~

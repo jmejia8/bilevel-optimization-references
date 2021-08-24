@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### V/F control of an induction motor with THD optimization using cascaded multilevel converters
 - **Authors**: Luis David Pabon Fernandez, Jorge Luis Diaz Rodriguez, Edison Andres Caicedo Penparanda
-- **Published in**: [2017 IEEE XXIV International Conference on Electronics, Electrical Engineering and Computing (INTERCON), 2017.](https://doi.org/10.1109/intercon.2017.8079716)
+- **Published in**: 2017 IEEE XXIV International Conference on Electronics, Electrical Engineering and Computing (INTERCON), 2017.
+- **DOI**: [https://doi.org/10.1109/intercon.2017.8079716](https://doi.org/10.1109/intercon.2017.8079716)
+- [Get bib file](/bib-files/V/Pabon_Fernandez_2017_250.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### Virtual Memory
 - **Authors**: Igor Zhirkov
-- **Published in**: [Low-Level Programming, 47–61, 2017.](https://doi.org/10.1007/978-1-4842-2403-8_4)
+- **Published in**: Low-Level Programming, 47–61, 2017.
+- **DOI**: [https://doi.org/10.1007/978-1-4842-2403-8_4](https://doi.org/10.1007/978-1-4842-2403-8_4)
+- [Get bib file](/bib-files/V/Zhirkov_2017_38.bib)
 ~~~
 </div>
 ~~~
@@ -30,7 +34,9 @@ hascode = false
 ~~~
 ### Valuing water quality tradeoffs at different spatial scales: An integrated approach using bilevel optimization
 - **Authors**: Moriah Bostian, Gerald Whittaker, Brad Barnhart, Rolf Färe, Shawna Grosskopf
-- **Published in**: [Water Resources and Economics, 11, 1–12, 2015.](https://doi.org/10.1016/j.wre.2015.06.002)
+- **Published in**: Water Resources and Economics, 11, 1–12, 2015.
+- **DOI**: [https://doi.org/10.1016/j.wre.2015.06.002](https://doi.org/10.1016/j.wre.2015.06.002)
+- [Get bib file](/bib-files/V/Bostian_2015_48.bib)
 ~~~
 </div>
 ~~~
@@ -39,7 +45,9 @@ hascode = false
 ~~~
 ### Variational Inequality Formulation of a Class of Multi-Leader-Follower Games
 - **Authors**: Ming Hu, Masao Fukushima
-- **Published in**: [Journal of Optimization Theory and Applications, 151(3), 455–473, 2011.](https://doi.org/10.1007/s10957-011-9901-8)
+- **Published in**: Journal of Optimization Theory and Applications, 151(3), 455–473, 2011.
+- **DOI**: [https://doi.org/10.1007/s10957-011-9901-8](https://doi.org/10.1007/s10957-011-9901-8)
+- [Get bib file](/bib-files/V/Hu_2011_11.bib)
 ~~~
 </div>
 ~~~
@@ -48,7 +56,9 @@ hascode = false
 ~~~
 ### Variational Inequalities and Optimistic Bilevel Programming Problem Via Convexifactors
 - **Authors**: Bhawna Kohli
-- **Published in**: [Topics in Nonconvex Optimization, 243–255, 2011.](https://doi.org/10.1007/978-1-4419-9640-4_15)
+- **Published in**: Topics in Nonconvex Optimization, 243–255, 2011.
+- **DOI**: [https://doi.org/10.1007/978-1-4419-9640-4_15](https://doi.org/10.1007/978-1-4419-9640-4_15)
+- [Get bib file](/bib-files/V/Kohli_2011_54.bib)
 ~~~
 </div>
 ~~~
@@ -57,7 +67,9 @@ hascode = false
 ~~~
 ### Variational Analysis of Marginal Functions with Applications to Bilevel Programming
 - **Authors**: Boris S. Mordukhovich, Nguyen Mau Nam, Hung M. Phan
-- **Published in**: [Journal of Optimization Theory and Applications, 152(3), 557–586, 2011.](https://doi.org/10.1007/s10957-011-9940-1)
+- **Published in**: Journal of Optimization Theory and Applications, 152(3), 557–586, 2011.
+- **DOI**: [https://doi.org/10.1007/s10957-011-9940-1](https://doi.org/10.1007/s10957-011-9940-1)
+- [Get bib file](/bib-files/V/Mordukhovich_2011_361.bib)
 ~~~
 </div>
 ~~~
@@ -66,7 +78,9 @@ hascode = false
 ~~~
 ### Vehicle Routing Optimization Based on Bi-Level Programming in Distribution Center
 - **Authors**: Tie Wang, Lei Xiao
-- **Published in**: [ICTE 2011, 2011.](https://doi.org/10.1061/41184(419)389)
+- **Published in**: ICTE 2011, 2011.
+- **DOI**: [https://doi.org/10.1061/41184(419)389](https://doi.org/10.1061/41184(419)389)
+- [Get bib file](/bib-files/V/Wang_2011_15.bib)
 ~~~
 </div>
 ~~~
@@ -75,7 +89,9 @@ hascode = false
 ~~~
 ### Variational piecewise constant level set methods for shape optimization of a two-density drum
 - **Authors**: Shengfeng Zhu, Qingbiao Wu, Chunxiao Liu
-- **Published in**: [Journal of Computational Physics, 229(13), 5062–5089, 2010.](https://doi.org/10.1016/j.jcp.2010.03.026)
+- **Published in**: Journal of Computational Physics, 229(13), 5062–5089, 2010.
+- **DOI**: [https://doi.org/10.1016/j.jcp.2010.03.026](https://doi.org/10.1016/j.jcp.2010.03.026)
+- [Get bib file](/bib-files/V/Zhu_2010_107.bib)
 ~~~
 </div>
 ~~~
@@ -84,7 +100,9 @@ hascode = false
 ~~~
 ### Visual programming language for bit-level concurrent programming: APECbits
 - **Authors**: Takashi Ajiro, Kensei Tsuchida
-- **Published in**: [2008 IEEE Symposium on Visual Languages and Human-Centric Computing, 2008.](https://doi.org/10.1109/vlhcc.2008.4639069)
+- **Published in**: 2008 IEEE Symposium on Visual Languages and Human-Centric Computing, 2008.
+- **DOI**: [https://doi.org/10.1109/vlhcc.2008.4639069](https://doi.org/10.1109/vlhcc.2008.4639069)
+- [Get bib file](/bib-files/V/Ajiro_2008_71.bib)
 ~~~
 </div>
 ~~~
@@ -93,7 +111,9 @@ hascode = false
 ~~~
 ### Variational Analysis in Bilevel Programming
 - **Authors**: S. Dempe, J. Dutta, B. S. Mordukhovich
-- **Published in**: [Statistical Science and Interdisciplinary Research, 257–277, 2008.](https://doi.org/10.1142/9789812813220_0015)
+- **Published in**: Statistical Science and Interdisciplinary Research, 257–277, 2008.
+- **DOI**: [https://doi.org/10.1142/9789812813220_0015](https://doi.org/10.1142/9789812813220_0015)
+- [Get bib file](/bib-files/V/Dempe_2008_114.bib)
 ~~~
 </div>
 ~~~
@@ -102,7 +122,9 @@ hascode = false
 ~~~
 ### Variational inequalities and multilevel optimization techniques in the theory of plasticity
 - **Authors**: P.D. Panagiotopoulos
-- **Published in**: [Computers & Structures, 8(5), 649–650, 1978.](https://doi.org/10.1016/0045-7949(78)90103-7)
+- **Published in**: Computers & Structures, 8(5), 649–650, 1978.
+- **DOI**: [https://doi.org/10.1016/0045-7949(78)90103-7](https://doi.org/10.1016/0045-7949(78)90103-7)
+- [Get bib file](/bib-files/V/Panagiotopoulos_1978_176.bib)
 ~~~
 </div>
 ~~~
@@ -111,7 +133,9 @@ hascode = false
 ~~~
 ### Video for System Level Modeling and Optimization of Hybrid Vibration Energy Harvesters
 - **Authors**: 
-- **Published in**: [](https://doi.org/10.1109/iscas45731.2020.9180495/video)
+- **Published in**: 
+- **DOI**: [https://doi.org/10.1109/iscas45731.2020.9180495/video](https://doi.org/10.1109/iscas45731.2020.9180495/video)
+- [Get bib file](/bib-files/V/1_331.bib)
 ~~~
 </div>
 ~~~

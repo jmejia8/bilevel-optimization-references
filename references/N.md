@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### Numerical Results
 - **Authors**: Neculai Andrei
-- **Published in**: [A Derivative-free Two Level Random Search Method for Unconstrained Optimization, 43–60, 2021.](https://doi.org/10.1007/978-3-030-68517-1_4)
+- **Published in**: A Derivative-free Two Level Random Search Method for Unconstrained Optimization, 43–60, 2021.
+- **DOI**: [https://doi.org/10.1007/978-3-030-68517-1_4](https://doi.org/10.1007/978-3-030-68517-1_4)
+- [Get bib file](/bib-files/N/Andrei_2021_366.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### Necessary Optimality Conditions for Semi-vectorial Bi-level Optimization with Convex Lower Level: Theoretical Results and Applications to the Quadratic Case
 - **Authors**: Julien Collonge
-- **Published in**: [Journal of the Operations Research Society of China, 2020.](https://doi.org/10.1007/s40305-020-00305-w)
+- **Published in**: Journal of the Operations Research Society of China, 2020.
+- **DOI**: [https://doi.org/10.1007/s40305-020-00305-w](https://doi.org/10.1007/s40305-020-00305-w)
+- [Get bib file](/bib-files/N/Collonge_2020_271.bib)
 ~~~
 </div>
 ~~~
@@ -30,7 +34,9 @@ hascode = false
 ~~~
 ### Necessary optimality conditions for a semivectorial bilevel problem under a partial calmness condition
 - **Authors**: Stephan Dempe, Nazih Abderrazzak Gadhi, Mohammed El idrissi, Khadija Hamdaoui
-- **Published in**: [Optimization, 1–21, 2020.](https://doi.org/10.1080/02331934.2020.1763991)
+- **Published in**: Optimization, 1–21, 2020.
+- **DOI**: [https://doi.org/10.1080/02331934.2020.1763991](https://doi.org/10.1080/02331934.2020.1763991)
+- [Get bib file](/bib-files/N/Dempe_2007_170.bib)
 ~~~
 </div>
 ~~~
@@ -39,7 +45,9 @@ hascode = false
 ~~~
 ### Numerically tractable optimistic bilevel problems
 - **Authors**: Lorenzo Lampariello, Simone Sagratella
-- **Published in**: [Computational Optimization and Applications, 76(2), 277–303, 2020.](https://doi.org/10.1007/s10589-020-00178-y)
+- **Published in**: Computational Optimization and Applications, 76(2), 277–303, 2020.
+- **DOI**: [https://doi.org/10.1007/s10589-020-00178-y](https://doi.org/10.1007/s10589-020-00178-y)
+- [Get bib file](/bib-files/N/Lampariello_2020_150.bib)
 ~~~
 </div>
 ~~~
@@ -48,7 +56,9 @@ hascode = false
 ~~~
 ### Network Planning with Bilevel optimization to Address Attacks to Physical Infrastructure of SDN
 - **Authors**: Qian Lv, Jing Zhu, Fen Zhou, Zuqing Zhu
-- **Published in**: [ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020.](https://doi.org/10.1109/icc40277.2020.9149042)
+- **Published in**: ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020.
+- **DOI**: [https://doi.org/10.1109/icc40277.2020.9149042](https://doi.org/10.1109/icc40277.2020.9149042)
+- [Get bib file](/bib-files/N/Lv_2012_36.bib)
 ~~~
 </div>
 ~~~
@@ -57,7 +67,9 @@ hascode = false
 ~~~
 ### Neighbourhood Based Bi-Level Contrast Adjustment for Underwater Image Enhancement Using Modified Particle Swarm Optimization
 - **Authors**: Shouvik Paul, Sourav De, Sandip Dey
-- **Published in**: [2020 International Conference on Communication, Computing and Industry 4.0 (C2I4), 2020.](https://doi.org/10.1109/c2i451079.2020.9368902)
+- **Published in**: 2020 International Conference on Communication, Computing and Industry 4.0 (C2I4), 2020.
+- **DOI**: [https://doi.org/10.1109/c2i451079.2020.9368902](https://doi.org/10.1109/c2i451079.2020.9368902)
+- [Get bib file](/bib-files/N/Paul_2020_88.bib)
 ~~~
 </div>
 ~~~
@@ -66,7 +78,9 @@ hascode = false
 ~~~
 ### New concepts and an algorithm for multiobjective bilevel programming: optimistic, pessimistic and moderate solutions
 - **Authors**: Maria João Alves, Carlos Henggeler Antunes, João Paulo Costa
-- **Published in**: [Operational Research, 2019.](https://doi.org/10.1007/s12351-019-00534-9)
+- **Published in**: Operational Research, 2019.
+- **DOI**: [https://doi.org/10.1007/s12351-019-00534-9](https://doi.org/10.1007/s12351-019-00534-9)
+- [Get bib file](/bib-files/N/Alves_2019_1.bib)
 ~~~
 </div>
 ~~~
@@ -75,7 +89,9 @@ hascode = false
 ~~~
 ### New subgradient extragradient methods for solving monotone bilevel equilibrium problems
 - **Authors**: Pham Ngoc Anh, Le Thi Hoai An
-- **Published in**: [Optimization, 68(11), 2099–2124, 2019.](https://doi.org/10.1080/02331934.2019.1656204)
+- **Published in**: Optimization, 68(11), 2099–2124, 2019.
+- **DOI**: [https://doi.org/10.1080/02331934.2019.1656204](https://doi.org/10.1080/02331934.2019.1656204)
+- [Get bib file](/bib-files/N/Anh_2019_217.bib)
 ~~~
 </div>
 ~~~
@@ -84,7 +100,9 @@ hascode = false
 ~~~
 ### New optimality conditions for bilevel programs by using an exact separation principle
 - **Authors**: N. Gadhi, S. Dempe, M. El Idrissi
-- **Published in**: [Optimization Letters, 14(6), 1381–1392, 2019.](https://doi.org/10.1007/s11590-019-01443-8)
+- **Published in**: Optimization Letters, 14(6), 1381–1392, 2019.
+- **DOI**: [https://doi.org/10.1007/s11590-019-01443-8](https://doi.org/10.1007/s11590-019-01443-8)
+- [Get bib file](/bib-files/N/Gadhi_2019_339.bib)
 ~~~
 </div>
 ~~~
@@ -93,7 +111,9 @@ hascode = false
 ~~~
 ### Newton-type multilevel optimization method
 - **Authors**: Chin Pang Ho, Michal Kočvara, Panos Parpas
-- **Published in**: [Optimization Methods and Software, 1–34, 2019.](https://doi.org/10.1080/10556788.2019.1700256)
+- **Published in**: Optimization Methods and Software, 1–34, 2019.
+- **DOI**: [https://doi.org/10.1080/10556788.2019.1700256](https://doi.org/10.1080/10556788.2019.1700256)
+- [Get bib file](/bib-files/N/Ho_2019_45.bib)
 ~~~
 </div>
 ~~~
@@ -102,7 +122,9 @@ hascode = false
 ~~~
 ### New optimality conditions and a scalarization approach for a nonconvex semi-vectorial bilevel optimization problem
 - **Authors**: L. Lafhim
-- **Published in**: [Positivity, 24(2), 395–413, 2019.](https://doi.org/10.1007/s11117-019-00685-1)
+- **Published in**: Positivity, 24(2), 395–413, 2019.
+- **DOI**: [https://doi.org/10.1007/s11117-019-00685-1](https://doi.org/10.1007/s11117-019-00685-1)
+- [Get bib file](/bib-files/N/Lafhim_2019_307.bib)
 ~~~
 </div>
 ~~~
@@ -111,7 +133,9 @@ hascode = false
 ~~~
 ### Nested evolutionary algorithms for computationally expensive bilevel optimization problems: Variants and their systematic analysis
 - **Authors**: Hemant Kumar Singh, Md Monjurul Islam, Tapabrata Ray, Michael Ryan
-- **Published in**: [Swarm and Evolutionary Computation, 48, 329–344, 2019.](https://doi.org/10.1016/j.swevo.2019.05.002)
+- **Published in**: Swarm and Evolutionary Computation, 48, 329–344, 2019.
+- **DOI**: [https://doi.org/10.1016/j.swevo.2019.05.002](https://doi.org/10.1016/j.swevo.2019.05.002)
+- [Get bib file](/bib-files/N/Singh_2019_2.bib)
 ~~~
 </div>
 ~~~
@@ -120,7 +144,9 @@ hascode = false
 ~~~
 ### New necessary and sufficient optimality conditions for strong bilevel programming problems
 - **Authors**: Abdelmalek Aboussoror, Samir Adly
-- **Published in**: [Journal of Global Optimization, 70(2), 309–327, 2018.](https://doi.org/10.1007/s10898-018-0606-5)
+- **Published in**: Journal of Global Optimization, 70(2), 309–327, 2018.
+- **DOI**: [https://doi.org/10.1007/s10898-018-0606-5](https://doi.org/10.1007/s10898-018-0606-5)
+- [Get bib file](/bib-files/N/Aboussoror_2018_392.bib)
 ~~~
 </div>
 ~~~
@@ -129,7 +155,9 @@ hascode = false
 ~~~
 ### Necessary optimality conditions for a bilevel multiobjective programming problem via a Ψ-reformulation
 - **Authors**: L. Lafhim, N. Gadhi, K. Hamdaoui, F. Rahou
-- **Published in**: [Optimization, 67(12), 2179–2189, 2018.](https://doi.org/10.1080/02331934.2018.1523402)
+- **Published in**: Optimization, 67(12), 2179–2189, 2018.
+- **DOI**: [https://doi.org/10.1080/02331934.2018.1523402](https://doi.org/10.1080/02331934.2018.1523402)
+- [Get bib file](/bib-files/N/Lafhim_2018_211.bib)
 ~~~
 </div>
 ~~~
@@ -138,7 +166,9 @@ hascode = false
 ~~~
 ### Nondifferentiable and Bilevel Optimization
 - **Authors**: Boris S. Mordukhovich
-- **Published in**: [Springer Monographs in Mathematics, 219–258, 2018.](https://doi.org/10.1007/978-3-319-92775-6_6)
+- **Published in**: Springer Monographs in Mathematics, 219–258, 2018.
+- **DOI**: [https://doi.org/10.1007/978-3-319-92775-6_6](https://doi.org/10.1007/978-3-319-92775-6_6)
+- [Get bib file](/bib-files/N/Mordukhovich_2018_106.bib)
 ~~~
 </div>
 ~~~
@@ -147,7 +177,9 @@ hascode = false
 ~~~
 ### Narrow Bandwidth Tunable Watt Level Tm:YAP Laser using Two Etalons
 - **Authors**: Uzziel Sheintop, Eytan Perez, Salman Noach
-- **Published in**: [Proceedings of the 6th International Conference on Photonics, Optics and Laser Technology, 2018.](https://doi.org/10.5220/0006721403030307)
+- **Published in**: Proceedings of the 6th International Conference on Photonics, Optics and Laser Technology, 2018.
+- **DOI**: [https://doi.org/10.5220/0006721403030307](https://doi.org/10.5220/0006721403030307)
+- [Get bib file](/bib-files/N/Sheintop_2018_324.bib)
 ~~~
 </div>
 ~~~
@@ -156,7 +188,9 @@ hascode = false
 ~~~
 ### Nonlinear dynamics of discrete time multi-level leader–follower games
 - **Authors**: Ruijia Wu, Robert A. Van Gorder
-- **Published in**: [Applied Mathematics and Computation, 320, 240–250, 2018.](https://doi.org/10.1016/j.amc.2017.09.034)
+- **Published in**: Applied Mathematics and Computation, 320, 240–250, 2018.
+- **DOI**: [https://doi.org/10.1016/j.amc.2017.09.034](https://doi.org/10.1016/j.amc.2017.09.034)
+- [Get bib file](/bib-files/N/Wu_2018_7.bib)
 ~~~
 </div>
 ~~~
@@ -165,7 +199,9 @@ hascode = false
 ~~~
 ### Nested bilevel genetic algorithms for game-theoretic optimization of product line design considering competition
 - **Authors**: Xiaojie Liu, Gang Du, Roger J. Jiao, Yi Xia
-- **Published in**: [2017 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 2017.](https://doi.org/10.1109/ieem.2017.8290248)
+- **Published in**: 2017 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM), 2017.
+- **DOI**: [https://doi.org/10.1109/ieem.2017.8290248](https://doi.org/10.1109/ieem.2017.8290248)
+- [Get bib file](/bib-files/N/Liu_2017_286.bib)
 ~~~
 </div>
 ~~~
@@ -174,7 +210,9 @@ hascode = false
 ~~~
 ### Necessary optimality conditions for a special class of bilevel programming problems with unique lower level solution
 - **Authors**: Patrick Mehlitz
-- **Published in**: [Optimization, 66(10), 1533–1562, 2017.](https://doi.org/10.1080/02331934.2017.1349123)
+- **Published in**: Optimization, 66(10), 1533–1562, 2017.
+- **DOI**: [https://doi.org/10.1080/02331934.2017.1349123](https://doi.org/10.1080/02331934.2017.1349123)
+- [Get bib file](/bib-files/N/Mehlitz_2017_203.bib)
 ~~~
 </div>
 ~~~
@@ -183,7 +221,9 @@ hascode = false
 ~~~
 ### New Approach of Game Theory for Seller’s Price Selecting Strategies in Bi-Level Programming
 - **Authors**: Kamran Shahanaghi, Maryam Keyvani Rad
-- **Published in**: [Modern Applied Science, 10(4), 76, 2016.](https://doi.org/10.5539/mas.v10n4p76)
+- **Published in**: Modern Applied Science, 10(4), 76, 2016.
+- **DOI**: [https://doi.org/10.5539/mas.v10n4p76](https://doi.org/10.5539/mas.v10n4p76)
+- [Get bib file](/bib-files/N/Shahanaghi_2016_137.bib)
 ~~~
 </div>
 ~~~
@@ -192,7 +232,9 @@ hascode = false
 ~~~
 ### Node Placement Optimization in Wireless Powered Communication Networks
 - **Authors**: Suzhi Bi, Rui Zhang
-- **Published in**: [2015 IEEE Global Communications Conference (GLOBECOM), 2015.](https://doi.org/10.1109/glocom.2015.7417193)
+- **Published in**: 2015 IEEE Global Communications Conference (GLOBECOM), 2015.
+- **DOI**: [https://doi.org/10.1109/glocom.2015.7417193](https://doi.org/10.1109/glocom.2015.7417193)
+- [Get bib file](/bib-files/N/Bi_2015_309.bib)
 ~~~
 </div>
 ~~~
@@ -201,7 +243,9 @@ hascode = false
 ~~~
 ### Node Placement Optimization in Wireless Powered Communication Networks
 - **Authors**: Suzhi Bi, Rui Zhang
-- **Published in**: [2015 IEEE Global Communications Conference (GLOBECOM), 2014.](https://doi.org/10.1109/glocom.2014.7417193)
+- **Published in**: 2015 IEEE Global Communications Conference (GLOBECOM), 2014.
+- **DOI**: [https://doi.org/10.1109/glocom.2014.7417193](https://doi.org/10.1109/glocom.2014.7417193)
+- [Get bib file](/bib-files/N/Bi_2014_308.bib)
 ~~~
 </div>
 ~~~
@@ -210,7 +254,9 @@ hascode = false
 ~~~
 ### Necessary optimality conditions for optimistic bilevel programming problems using set-valued programming
 - **Authors**: Stephan Dempe, Maria Pilecka
-- **Published in**: [Journal of Global Optimization, 61(4), 769–788, 2014.](https://doi.org/10.1007/s10898-014-0200-4)
+- **Published in**: Journal of Global Optimization, 61(4), 769–788, 2014.
+- **DOI**: [https://doi.org/10.1007/s10898-014-0200-4](https://doi.org/10.1007/s10898-014-0200-4)
+- [Get bib file](/bib-files/N/Dempe_2012_242.bib)
 ~~~
 </div>
 ~~~
@@ -219,7 +265,9 @@ hascode = false
 ~~~
 ### Neural network for solving convex quadratic bilevel programming problems
 - **Authors**: Xing He, Chuandong Li, Tingwen Huang, Chaojie Li
-- **Published in**: [Neural Networks, 51, 17–25, 2014.](https://doi.org/10.1016/j.neunet.2013.11.015)
+- **Published in**: Neural Networks, 51, 17–25, 2014.
+- **DOI**: [https://doi.org/10.1016/j.neunet.2013.11.015](https://doi.org/10.1016/j.neunet.2013.11.015)
+- [Get bib file](/bib-files/N/He_2014_0.bib)
 ~~~
 </div>
 ~~~
@@ -228,7 +276,9 @@ hascode = false
 ~~~
 ### Necessary optimality conditions in pessimistic bilevel programming
 - **Authors**: S. Dempe, B.S. Mordukhovich, A.B. Zemkoho
-- **Published in**: [Optimization, 63(4), 505–533, 2012.](https://doi.org/10.1080/02331934.2012.696641)
+- **Published in**: Optimization, 63(4), 505–533, 2012.
+- **DOI**: [https://doi.org/10.1080/02331934.2012.696641](https://doi.org/10.1080/02331934.2012.696641)
+- [Get bib file](/bib-files/N/Dempe_2007_170.bib)
 ~~~
 </div>
 ~~~
@@ -237,7 +287,9 @@ hascode = false
 ~~~
 ### Necessary Optimality Conditions and a New Approach to Multiobjective Bilevel Optimization Problems
 - **Authors**: N. Gadhi, S. Dempe
-- **Published in**: [Journal of Optimization Theory and Applications, 155(1), 100–114, 2012.](https://doi.org/10.1007/s10957-012-0046-1)
+- **Published in**: Journal of Optimization Theory and Applications, 155(1), 100–114, 2012.
+- **DOI**: [https://doi.org/10.1007/s10957-012-0046-1](https://doi.org/10.1007/s10957-012-0046-1)
+- [Get bib file](/bib-files/N/Gadhi_2012_222.bib)
 ~~~
 </div>
 ~~~
@@ -246,7 +298,9 @@ hascode = false
 ~~~
 ### Nonlinear robust optimization via sequential convex bilevel programming
 - **Authors**: Boris Houska, Moritz Diehl
-- **Published in**: [Mathematical Programming, 142(1-2), 539–577, 2012.](https://doi.org/10.1007/s10107-012-0591-2)
+- **Published in**: Mathematical Programming, 142(1-2), 539–577, 2012.
+- **DOI**: [https://doi.org/10.1007/s10107-012-0591-2](https://doi.org/10.1007/s10107-012-0591-2)
+- [Get bib file](/bib-files/N/Houska_2012_105.bib)
 ~~~
 </div>
 ~~~
@@ -255,7 +309,20 @@ hascode = false
 ~~~
 ### Neural Network Approach for Semivectorial Bilevel Programming Problem
 - **Authors**: Yibing Lv
-- **Published in**: [2012 4th International Conference on Intelligent Human-Machine Systems and Cybernetics, 2012.](https://doi.org/10.1109/ihmsc.2012.103)
+- **Published in**: 2012 4th International Conference on Intelligent Human-Machine Systems and Cybernetics, 2012.
+- **DOI**: [https://doi.org/10.1109/ihmsc.2012.103](https://doi.org/10.1109/ihmsc.2012.103)
+- [Get bib file](/bib-files/N/Lv_2012_36.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Necessary optimality conditions for bilevel minimization problems
+- **Authors**: Alexander J. Zaslavski
+- **Published in**: Nonlinear Analysis: Theory, Methods & Applications, 75(3), 1655–1678, 2012.
+- **DOI**: [https://doi.org/10.1016/j.na.2011.03.049](https://doi.org/10.1016/j.na.2011.03.049)
+- [Get bib file](/bib-files/N/Zaslavski_2012_0.bib)
 ~~~
 </div>
 ~~~
@@ -264,7 +331,9 @@ hascode = false
 ~~~
 ### Necessary Optimality Conditions for Multiobjective Bilevel Programs
 - **Authors**: Jane J. Ye
-- **Published in**: [Mathematics of Operations Research, 36(1), 165–184, 2011.](https://doi.org/10.1287/moor.1100.0480)
+- **Published in**: Mathematics of Operations Research, 36(1), 165–184, 2011.
+- **DOI**: [https://doi.org/10.1287/moor.1100.0480](https://doi.org/10.1287/moor.1100.0480)
+- [Get bib file](/bib-files/N/Ye_2010_348.bib)
 ~~~
 </div>
 ~~~
@@ -273,7 +342,9 @@ hascode = false
 ~~~
 ### Numerical experience with a recursive trust-region method for multilevel nonlinear bound-constrained optimization
 - **Authors**: Serge Gratton, Mélodie Mouffe, Annick Sartenaer, Philippe L. Toint, Dimitri Tomanos
-- **Published in**: [Optimization Methods and Software, 25(3), 359–386, 2010.](https://doi.org/10.1080/10556780903239295)
+- **Published in**: Optimization Methods and Software, 25(3), 359–386, 2010.
+- **DOI**: [https://doi.org/10.1080/10556780903239295](https://doi.org/10.1080/10556780903239295)
+- [Get bib file](/bib-files/N/Gratton_2010_223.bib)
 ~~~
 </div>
 ~~~
@@ -282,7 +353,9 @@ hascode = false
 ~~~
 ### Natural gas cash-out problem: Bilevel stochastic optimization approach
 - **Authors**: Vyacheslav V. Kalashnikov, Gerardo A. Pérez-Valdés, Asgeir Tomasgard, Nataliya I. Kalashnykova
-- **Published in**: [European Journal of Operational Research, 206(1), 18–33, 2010.](https://doi.org/10.1016/j.ejor.2010.02.018)
+- **Published in**: European Journal of Operational Research, 206(1), 18–33, 2010.
+- **DOI**: [https://doi.org/10.1016/j.ejor.2010.02.018](https://doi.org/10.1016/j.ejor.2010.02.018)
+- [Get bib file](/bib-files/N/Kalashnikov_2010_288.bib)
 ~~~
 </div>
 ~~~
@@ -291,7 +364,9 @@ hascode = false
 ~~~
 ### New Necessary Optimality Conditions for Bilevel Programs by Combining the MPEC and Value Function Approaches
 - **Authors**: Jane J. Ye, Daoli Zhu
-- **Published in**: [SIAM Journal on Optimization, 20(4), 1885–1905, 2010.](https://doi.org/10.1137/080725088)
+- **Published in**: SIAM Journal on Optimization, 20(4), 1885–1905, 2010.
+- **DOI**: [https://doi.org/10.1137/080725088](https://doi.org/10.1137/080725088)
+- [Get bib file](/bib-files/N/Ye_2010_348.bib)
 ~~~
 </div>
 ~~~
@@ -300,7 +375,9 @@ hascode = false
 ~~~
 ### Necessary Conditions for Bilevel Multiobjective Programming Problems
 - **Authors**: Yulan Liu
-- **Published in**: [2009 International Conference on Computational Intelligence and Software Engineering, 2009.](https://doi.org/10.1109/cise.2009.5366487)
+- **Published in**: 2009 International Conference on Computational Intelligence and Software Engineering, 2009.
+- **DOI**: [https://doi.org/10.1109/cise.2009.5366487](https://doi.org/10.1109/cise.2009.5366487)
+- [Get bib file](/bib-files/N/Liu_2009_9.bib)
 ~~~
 </div>
 ~~~
@@ -309,7 +386,9 @@ hascode = false
 ~~~
 ### Nonsmooth Bilevel Programming for Hyperparameter Selection
 - **Authors**: Gregory M. Moore, Charles Bergeron, Kristin P. Bennett
-- **Published in**: [2009 IEEE International Conference on Data Mining Workshops, 2009.](https://doi.org/10.1109/icdmw.2009.74)
+- **Published in**: 2009 IEEE International Conference on Data Mining Workshops, 2009.
+- **DOI**: [https://doi.org/10.1109/icdmw.2009.74](https://doi.org/10.1109/icdmw.2009.74)
+- [Get bib file](/bib-files/N/Moore_2009_29.bib)
 ~~~
 </div>
 ~~~
@@ -318,7 +397,9 @@ hascode = false
 ~~~
 ### Necessary optimality conditions of a D.C. set-valued bilevel optimization problem
 - **Authors**: S. Dempe, N. Gadhi
-- **Published in**: [Optimization, 57(6), 777–793, 2008.](https://doi.org/10.1080/02331930701761508)
+- **Published in**: Optimization, 57(6), 777–793, 2008.
+- **DOI**: [https://doi.org/10.1080/02331930701761508](https://doi.org/10.1080/02331930701761508)
+- [Get bib file](/bib-files/N/Dempe_2008_86.bib)
 ~~~
 </div>
 ~~~
@@ -327,7 +408,9 @@ hascode = false
 ~~~
 ### Neural networks for a class of bi-level variational inequalities
 - **Authors**: M. H. Xu, M. Li, C. C. Yang
-- **Published in**: [Journal of Global Optimization, 44(4), 535–552, 2008.](https://doi.org/10.1007/s10898-008-9355-1)
+- **Published in**: Journal of Global Optimization, 44(4), 535–552, 2008.
+- **DOI**: [https://doi.org/10.1007/s10898-008-9355-1](https://doi.org/10.1007/s10898-008-9355-1)
+- [Get bib file](/bib-files/N/Xu_2008_172.bib)
 ~~~
 </div>
 ~~~
@@ -336,7 +419,9 @@ hascode = false
 ~~~
 ### New Branch-and-Cut Algorithm for Bilevel Linear Programming
 - **Authors**: C. Audet, G. Savard, W. Zghal
-- **Published in**: [Journal of Optimization Theory and Applications, 134(2), 353–370, 2007.](https://doi.org/10.1007/s10957-007-9263-4)
+- **Published in**: Journal of Optimization Theory and Applications, 134(2), 353–370, 2007.
+- **DOI**: [https://doi.org/10.1007/s10957-007-9263-4](https://doi.org/10.1007/s10957-007-9263-4)
+- [Get bib file](/bib-files/N/Audet_2007_376.bib)
 ~~~
 </div>
 ~~~
@@ -345,7 +430,9 @@ hascode = false
 ~~~
 ### New necessary optimality conditions in optimistic bilevel programming
 - **Authors**: S. Dempe, J. Dutta, B. S. Mordukhovich
-- **Published in**: [Optimization, 56(5-6), 577–604, 2007.](https://doi.org/10.1080/02331930701617551)
+- **Published in**: Optimization, 56(5-6), 577–604, 2007.
+- **DOI**: [https://doi.org/10.1080/02331930701617551](https://doi.org/10.1080/02331930701617551)
+- [Get bib file](/bib-files/N/Dempe_2007_170.bib)
 ~~~
 </div>
 ~~~
@@ -354,7 +441,9 @@ hascode = false
 ~~~
 ### Necessary Optimality Conditions for Bilevel Optimization Problems Using Convexificators
 - **Authors**: H. Babahadda, N. Gadhi
-- **Published in**: [Journal of Global Optimization, 34(4), 535–549, 2006.](https://doi.org/10.1007/s10898-005-1650-5)
+- **Published in**: Journal of Global Optimization, 34(4), 535–549, 2006.
+- **DOI**: [https://doi.org/10.1007/s10898-005-1650-5](https://doi.org/10.1007/s10898-005-1650-5)
+- [Get bib file](/bib-files/N/Babahadda_2006_221.bib)
 ~~~
 </div>
 ~~~
@@ -363,7 +452,9 @@ hascode = false
 ~~~
 ### Nondifferentiable Multiplier Rules for Optimization and Bilevel Optimization Problems
 - **Authors**: Jane J. Ye
-- **Published in**: [SIAM Journal on Optimization, 15(1), 252–274, 2004.](https://doi.org/10.1137/s1052623403424193)
+- **Published in**: SIAM Journal on Optimization, 15(1), 252–274, 2004.
+- **DOI**: [https://doi.org/10.1137/s1052623403424193](https://doi.org/10.1137/s1052623403424193)
+- [Get bib file](/bib-files/N/Ye_2004_90.bib)
 ~~~
 </div>
 ~~~
@@ -372,7 +463,9 @@ hascode = false
 ~~~
 ### Noniterative Coordination in Multilevel Systems
 - **Authors**: Todor Stoilov, Krassimira Stoilova
-- **Published in**: [Nonconvex Optimization and Its Applications, 1999.](https://doi.org/10.1007/978-94-009-0017-2)
+- **Published in**: Nonconvex Optimization and Its Applications, 1999.
+- **DOI**: [https://doi.org/10.1007/978-94-009-0017-2](https://doi.org/10.1007/978-94-009-0017-2)
+- [Get bib file](/bib-files/N/Stoilov_1999_187.bib)
 ~~~
 </div>
 ~~~
@@ -381,7 +474,9 @@ hascode = false
 ~~~
 ### Nonlinear Programming
 - **Authors**: Jonathan F. Bard
-- **Published in**: [Practical Bilevel Optimization, 137–192, 1998.](https://doi.org/10.1007/978-1-4757-2836-1_4)
+- **Published in**: Practical Bilevel Optimization, 137–192, 1998.
+- **DOI**: [https://doi.org/10.1007/978-1-4757-2836-1_4](https://doi.org/10.1007/978-1-4757-2836-1_4)
+- [Get bib file](/bib-files/N/Bard_1998_63.bib)
 ~~~
 </div>
 ~~~
@@ -390,7 +485,9 @@ hascode = false
 ~~~
 ### Necessary Conditions for Bilevel Dynamic Optimization Problems
 - **Authors**: Jane J. Ye
-- **Published in**: [SIAM Journal on Control and Optimization, 33(4), 1208–1223, 1995.](https://doi.org/10.1137/s0363012993249717)
+- **Published in**: SIAM Journal on Control and Optimization, 33(4), 1208–1223, 1995.
+- **DOI**: [https://doi.org/10.1137/s0363012993249717](https://doi.org/10.1137/s0363012993249717)
+- [Get bib file](/bib-files/N/Ye_1995_212.bib)
 ~~~
 </div>
 ~~~
@@ -399,7 +496,9 @@ hascode = false
 ~~~
 ### NONMARKET RESOURCE VALUATION: A BILEVEL OPTIMIZATION APPROACH
 - **Authors**: Hayri Önal, Vijay Muralidaran
-- **Published in**: [Natural Resource Modeling, 9(4), 341–357, 1995.](https://doi.org/10.1111/j.1939-7445.1995.tb00205.x)
+- **Published in**: Natural Resource Modeling, 9(4), 341–357, 1995.
+- **DOI**: [https://doi.org/10.1111/j.1939-7445.1995.tb00205.x](https://doi.org/10.1111/j.1939-7445.1995.tb00205.x)
+- [Get bib file](/bib-files/N/_nal_1995_283.bib)
 ~~~
 </div>
 ~~~
@@ -408,7 +507,9 @@ hascode = false
 ~~~
 ### Nonlinear integer bilevel programming
 - **Authors**: Rong-Hong Jan, Maw-Sheng Chern
-- **Published in**: [European Journal of Operational Research, 72(3), 574–587, 1994.](https://doi.org/10.1016/0377-2217(94)90424-3)
+- **Published in**: European Journal of Operational Research, 72(3), 574–587, 1994.
+- **DOI**: [https://doi.org/10.1016/0377-2217(94)90424-3](https://doi.org/10.1016/0377-2217(94)90424-3)
+- [Get bib file](/bib-files/N/Jan_1994_77.bib)
 ~~~
 </div>
 ~~~
@@ -417,7 +518,9 @@ hascode = false
 ~~~
 ### New results on approximate solution in two-level optimization
 - **Authors**: P Loridan, Jacqueline Morgan
-- **Published in**: [Optimization, 20(6), 819–836, 1989.](https://doi.org/10.1080/02331938908843503)
+- **Published in**: Optimization, 20(6), 819–836, 1989.
+- **DOI**: [https://doi.org/10.1080/02331938908843503](https://doi.org/10.1080/02331938908843503)
+- [Get bib file](/bib-files/N/Loridan_1989_299.bib)
 ~~~
 </div>
 ~~~
@@ -426,7 +529,9 @@ hascode = false
 ~~~
 ### Network design problem with congestion effects: A case of bilevel programming
 - **Authors**: P. Marcotte
-- **Published in**: [Mathematical Programming, 34(2), 142–162, 1986.](https://doi.org/10.1007/bf01580580)
+- **Published in**: Mathematical Programming, 34(2), 142–162, 1986.
+- **DOI**: [https://doi.org/10.1007/bf01580580](https://doi.org/10.1007/bf01580580)
+- [Get bib file](/bib-files/N/Marcotte_1986_5.bib)
 ~~~
 </div>
 ~~~

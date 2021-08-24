@@ -12,7 +12,9 @@ hascode = false
 ~~~
 ### Quadratic Support Functions in Quadratic Bilevel Problems
 - **Authors**: Oleg Khamisov
-- **Published in**: [Operations Research Proceedings 2017, 105–110, 2018.](https://doi.org/10.1007/978-3-319-89920-6_15)
+- **Published in**: Operations Research Proceedings 2017, 105–110, 2018.
+- **DOI**: [https://doi.org/10.1007/978-3-319-89920-6_15](https://doi.org/10.1007/978-3-319-89920-6_15)
+- [Get bib file](/bib-files/Q/Khamisov_2018_64.bib)
 ~~~
 </div>
 ~~~
@@ -21,7 +23,9 @@ hascode = false
 ~~~
 ### Quantum binary particle swarm optimization-based algorithm for solving a class of bi-level competitive facility location problems
 - **Authors**: S. A. MirHassani, S. Raeisi, A. Rahmani
-- **Published in**: [Optimization Methods and Software, 30(4), 756–768, 2015.](https://doi.org/10.1080/10556788.2014.973875)
+- **Published in**: Optimization Methods and Software, 30(4), 756–768, 2015.
+- **DOI**: [https://doi.org/10.1080/10556788.2014.973875](https://doi.org/10.1080/10556788.2014.973875)
+- [Get bib file](/bib-files/Q/MirHassani_2015_239.bib)
 ~~~
 </div>
 ~~~
@@ -30,7 +34,9 @@ hascode = false
 ~~~
 ### Quadratic Fuzzy Bilevel Chance Constrained Programming with Parameters Following Weibull Distribution
 - **Authors**: Animesh Biswas, Arnab Kumar De
-- **Published in**: [Lecture Notes in Computer Science, 406–418, 2013.](https://doi.org/10.1007/978-3-319-03756-1_37)
+- **Published in**: Lecture Notes in Computer Science, 406–418, 2013.
+- **DOI**: [https://doi.org/10.1007/978-3-319-03756-1_37](https://doi.org/10.1007/978-3-319-03756-1_37)
+- [Get bib file](/bib-files/Q/Biswas_2013_185.bib)
 ~~~
 </div>
 ~~~
@@ -39,7 +45,9 @@ hascode = false
 ~~~
 ### Quadratic Bi-level Programming Problem Based On Fuzzy Goal Programming Approach
 - **Authors**: Surapati Pramanik, Partha Pratim Dey
-- **Published in**: [International Journal of Software Engineering & Applications, 2(4), 41–59, 2011.](https://doi.org/10.5121/ijsea.2011.2405)
+- **Published in**: International Journal of Software Engineering & Applications, 2(4), 41–59, 2011.
+- **DOI**: [https://doi.org/10.5121/ijsea.2011.2405](https://doi.org/10.5121/ijsea.2011.2405)
+- [Get bib file](/bib-files/Q/Pramanik_2011_46.bib)
 ~~~
 </div>
 ~~~
@@ -48,7 +56,9 @@ hascode = false
 ~~~
 ### Quasi-variational inequalities, generalized Nash equilibria, and multi-leader-follower games
 - **Authors**: Jong-Shi Pang, Masao Fukushima
-- **Published in**: [Computational Management Science, 2(1), 21–56, 2005.](https://doi.org/10.1007/s10287-004-0010-0)
+- **Published in**: Computational Management Science, 2(1), 21–56, 2005.
+- **DOI**: [https://doi.org/10.1007/s10287-004-0010-0](https://doi.org/10.1007/s10287-004-0010-0)
+- [Get bib file](/bib-files/Q/Pang_2005_33.bib)
 ~~~
 </div>
 ~~~
@@ -57,7 +67,9 @@ hascode = false
 ~~~
 ### Quasi Convex Lower Level Problem and Applications in Two Level Optimization
 - **Authors**: P. Loridan, J. Morgan
-- **Published in**: [Lecture Notes in Economics and Mathematical Systems, 325–341, 1990.](https://doi.org/10.1007/978-3-642-46709-7_23)
+- **Published in**: Lecture Notes in Economics and Mathematical Systems, 325–341, 1990.
+- **DOI**: [https://doi.org/10.1007/978-3-642-46709-7_23](https://doi.org/10.1007/978-3-642-46709-7_23)
+- [Get bib file](/bib-files/Q/Loridan_1990_52.bib)
 ~~~
 </div>
 ~~~
