@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Detecting and solving aircraft conflicts using bilevel programming
+- **Authors**: Martina Cerulli, Claudia D’Ambrosio, Leo Liberti, Mercedes Pelegrín
+- **Published in**: Journal of Global Optimization, 81(2), 529–557, 2021.
+- **DOI**: [https://doi.org/10.1007/s10898-021-00997-1](https://doi.org/10.1007/s10898-021-00997-1)
+- [Get bib file](/bib-files/D/2021_34.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Dynamical system for solving bilevel variational inequalities
 - **Authors**: Pham Ky Anh, Trinh Ngoc Hai
 - **Published in**: Journal of Global Optimization, 2021.

@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### R-Regularity of Set-Valued Mappings Under the Relaxed Constant Positive Linear Dependence Constraint Qualification with Applications to Parametric and Bilevel Optimization
+- **Authors**: Patrick Mehlitz, Leonid I. Minchenko
+- **Published in**: Set-Valued and Variational Analysis, 2021.
+- **DOI**: [https://doi.org/10.1007/s11228-021-00578-0](https://doi.org/10.1007/s11228-021-00578-0)
+- [Get bib file](/bib-files/R/2019_65.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Research on Large-Scale Bi-Level Particle Swarm Optimization Algorithm
 - **Authors**: Jia-Jia Jiang, Wen-Xue Wei, Wan-Lu Shao, Yu-Feng Liang, Yuan-Yuan Qu
 - **Published in**: IEEE Access, 9, 56364–56375, 2021.
@@ -37,6 +48,17 @@ hascode = false
 - **Published in**: IEEE Access, 9, 48244–48253, 2021.
 - **DOI**: [https://doi.org/10.1109/access.2021.3066371](https://doi.org/10.1109/access.2021.3066371)
 - [Get bib file](/bib-files/R/Wang_2011_79.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Regularization projection method for solving bilevel variational inequality problem
+- **Authors**: Dang Van Hieu, Abdellatif Moudafi
+- **Published in**: Optimization Letters, 15(1), 205–229, 2020.
+- **DOI**: [https://doi.org/10.1007/s11590-020-01580-5](https://doi.org/10.1007/s11590-020-01580-5)
+- [Get bib file](/bib-files/R/2019_65.bib)
 ~~~
 </div>
 ~~~
@@ -114,6 +136,17 @@ hascode = false
 - **Published in**: IEEE Transactions on Vehicular Technology, 69(8), 8886–8899, 2020.
 - **DOI**: [https://doi.org/10.1109/tvt.2020.2996966](https://doi.org/10.1109/tvt.2020.2996966)
 - [Get bib file](/bib-files/R/Tran_2020_32.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Real-time algorithms for the bilevel double-deck elevator dispatching problem
+- **Authors**: Janne Sorsa
+- **Published in**: EURO Journal on Computational Optimization, 7(1), 79–122, 2019.
+- **DOI**: [https://doi.org/10.1007/s13675-018-0108-8](https://doi.org/10.1007/s13675-018-0108-8)
+- [Get bib file](/bib-files/R/2019_65.bib)
 ~~~
 </div>
 ~~~

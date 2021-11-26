@@ -307,6 +307,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Hybrid Solution Methods for Bilevel Optimal Control Problems with Time Dependent Coupling
+- **Authors**: Matthias Knauer, Christof Büskens
+- **Published in**: Recent Advances in Optimization and its Applications in Engineering, 237–246, 2010.
+- **DOI**: [https://doi.org/10.1007/978-3-642-12598-0_20](https://doi.org/10.1007/978-3-642-12598-0_20)
+- [Get bib file](/bib-files/H/2010_44.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Higher-Order Programming and Lower Level Activity
 - **Authors**: Tom Addis, Jan Addis
 - **Published in**: Drawing Programs: The Theory and Practice of Schematic Functional Programming, 301–341, 2010.

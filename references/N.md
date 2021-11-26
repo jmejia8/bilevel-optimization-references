@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Nested Bilevel Optimization for DERA Operation Strategy: A Stochastic Multiobjective IGDT Model With Hybrid Endogenous/Exogenous Scenarios
+- **Authors**: Mohsen Yazdaninejad, Nima Amjady, Nikos Hatziargyriou
+- **Published in**: IEEE Systems Journal, 1–12, 2021.
+- **DOI**: [https://doi.org/10.1109/jsyst.2021.3085987](https://doi.org/10.1109/jsyst.2021.3085987)
+- [Get bib file](/bib-files/N/2021_26.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Numerical Results
 - **Authors**: Neculai Andrei
 - **Published in**: A Derivative-free Two Level Random Search Method for Unconstrained Optimization, 43–60, 2021.

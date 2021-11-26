@@ -65,6 +65,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Well-Posedness Under Relaxed Semicontinuity for Bilevel Equilibrium and Optimization Problems with Equilibrium Constraints
+- **Authors**: L. Q. Anh, P. Q. Khanh, D. T. M. Van
+- **Published in**: Journal of Optimization Theory and Applications, 153(1), 42–59, 2011.
+- **DOI**: [https://doi.org/10.1007/s10957-011-9963-7](https://doi.org/10.1007/s10957-011-9963-7)
+- [Get bib file](/bib-files/W/2011_71.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Wirelength Optimization for Multilevel Hierachical FPGA
 - **Authors**: Xiangzhi Zeng, Qiang Zhou, Yici Cai, Xianlong Hong
 - **Published in**: 2009 WRI World Congress on Software Engineering, 2009.

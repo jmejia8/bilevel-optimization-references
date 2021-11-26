@@ -21,6 +21,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Precise Jump Planning using Centroidal Dynamics based Bilevel Optimization
+- **Authors**: Ivo Vatavuk, Zdenko Kovacic
+- **Published in**: 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021.
+- **DOI**: [https://doi.org/10.1109/icra48506.2021.9561101](https://doi.org/10.1109/icra48506.2021.9561101)
+- [Get bib file](/bib-files/P/2012_124.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Portable High-level Agent Programming with golog++
 - **Authors**: Victor Mataré, Tarik Viehmann, Till Hofmann, Gerhard Lakemeyer, Alexander Ferrein, Stefan Schiffer
 - **Published in**: Proceedings of the 13th International Conference on Agents and Artificial Intelligence, 2021.

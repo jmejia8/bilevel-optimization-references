@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bilevel-search particle swarm optimization for computationally expensive optimization problems
+- **Authors**: Yuan Yan, Qin Zhou, Shi Cheng, Qunfeng Liu, Yun Li
+- **Published in**: Soft Computing, 25(22), 14357–14374, 2021.
+- **DOI**: [https://doi.org/10.1007/s00500-021-06169-3](https://doi.org/10.1007/s00500-021-06169-3)
+- [Get bib file](/bib-files/B/1_260.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bi-Attempted Based Optimization Algorithm For Numerical Optimization Problems
 - **Authors**: Mehtap KÖSE ULUKÖK
 - **Published in**: European Journal of Science and Technology, 2021.
@@ -747,6 +758,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bilevel optimization based transmission expansion planning considering phase shifting transformer
+- **Authors**: Xiaohu Zhang, Di Shi, Zhiwei Wang, Zhe Yu, Xinan Wang, Desong Bian, Kevin Tomsovic
+- **Published in**: 2017 North American Power Symposium (NAPS), 2017.
+- **DOI**: [https://doi.org/10.1109/naps.2017.8107289](https://doi.org/10.1109/naps.2017.8107289)
+- [Get bib file](/bib-files/B/2017_45.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bilevel Models on the Competitive Facility Location Problem
 - **Authors**: Necati Aras, Hande Küçükaydın
 - **Published in**: Spatial Interaction Models, 1–19, 2017.
@@ -1214,6 +1236,17 @@ hascode = false
 - **Published in**: Information Sciences, 360, 1–20, 2016.
 - **DOI**: [https://doi.org/10.1016/j.ins.2016.03.027](https://doi.org/10.1016/j.ins.2016.03.027)
 - [Get bib file](/bib-files/B/Zhou_2016_396.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel programming for price-based electricity auctions: a revenue-constrained case
+- **Authors**: Ricardo Fernández-Blanco, JoséM. Arroyo, Natalia Alguacil
+- **Published in**: EURO Journal on Computational Optimization, 3(3), 163–195, 2015.
+- **DOI**: [https://doi.org/10.1007/s13675-015-0037-8](https://doi.org/10.1007/s13675-015-0037-8)
+- [Get bib file](/bib-files/B/2015_36.bib)
 ~~~
 </div>
 ~~~
@@ -2729,6 +2762,28 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bilevel programming in traffic planning: Models, methods and challenge
+- **Authors**: Athanasios Migdalas
+- **Published in**: Journal of Global Optimization, 7(4), 381–405, 1995.
+- **DOI**: [https://doi.org/10.1007/bf01099649](https://doi.org/10.1007/bf01099649)
+- [Get bib file](/bib-files/B/1995_42.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel and multilevel programming: A bibliography review
+- **Authors**: Lu�s N. Vicente, Paul H. Calamai
+- **Published in**: Journal of Global Optimization, 5(3), 291–306, 1994.
+- **DOI**: [https://doi.org/10.1007/bf01096458](https://doi.org/10.1007/bf01096458)
+- [Get bib file](/bib-files/B/1994_68.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bilevel Models for Optimum Designs Which Are Insensitive to Perturbations in Variables and Parameters
 - **Authors**: Krishnakumar Badhrinath, J. R. Jagannatha Rao
 - **Published in**: 20th Design Automation Conference: Volume 2 — Robust Design Applications; Decomposition and Design Optimization; Optimization Tools and Applications, 1994.
@@ -2832,7 +2887,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.1021/acs.iecr.9b04197.s001](https://doi.org/10.1021/acs.iecr.9b04197.s001)
-- [Get bib file](/bib-files/B/1_260.bib)
+- [Get bib file](/bib-files/B/1994_68.bib)
 ~~~
 </div>
 ~~~

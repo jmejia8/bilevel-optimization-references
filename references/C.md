@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Convexification Method for Bilevel Programs with a Nonconvex Follower’s Problem
+- **Authors**: Gaoxi Li, Xinmin Yang
+- **Published in**: Journal of Optimization Theory and Applications, 188(3), 724–743, 2021.
+- **DOI**: [https://doi.org/10.1007/s10957-020-01804-9](https://doi.org/10.1007/s10957-020-01804-9)
+- [Get bib file](/bib-files/C/2021_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Convergence of the Algorithm
 - **Authors**: Neculai Andrei
 - **Published in**: A Derivative-free Two Level Random Search Method for Unconstrained Optimization, 37–42, 2021.
@@ -70,6 +81,17 @@ hascode = false
 - **Published in**: 2021 IEEE Congress on Evolutionary Computation (CEC), 2021.
 - **DOI**: [https://doi.org/10.1109/cec45853.2021.9504815](https://doi.org/10.1109/cec45853.2021.9504815)
 - [Get bib file](/bib-files/C/Wang_2013_82.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Closing the gap in linear bilevel optimization: a new valid primal-dual inequality
+- **Authors**: Thomas Kleinert, Martine Labbé, Fränk Plein, Martin Schmidt
+- **Published in**: Optimization Letters, 15(4), 1027–1040, 2020.
+- **DOI**: [https://doi.org/10.1007/s11590-020-01660-6](https://doi.org/10.1007/s11590-020-01660-6)
+- [Get bib file](/bib-files/C/2020_67.bib)
 ~~~
 </div>
 ~~~

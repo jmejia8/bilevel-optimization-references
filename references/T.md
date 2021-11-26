@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### The Hammer and the Nut: Is Bilevel Optimization Really Needed to Poison Linear Classifiers?
+- **Authors**: Antonio Emanuele Cina, Sebastiano Vascon, Ambra Demontis, Battista Biggio, Fabio Roli, Marcello Pelillo
+- **Published in**: 2021 International Joint Conference on Neural Networks (IJCNN), 2021.
+- **DOI**: [https://doi.org/10.1109/ijcnn52387.2021.9533557](https://doi.org/10.1109/ijcnn52387.2021.9533557)
+- [Get bib file](/bib-files/T/2013_218.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Towards Interpretable Multi-task Learning Using Bilevel Programming
 - **Authors**: Francesco Alesiani, Shujian Yu, Ammar Shaker, Wenzhe Yin
 - **Published in**: Lecture Notes in Computer Science, 593–608, 2021.

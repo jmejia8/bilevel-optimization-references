@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Learning Data Augmentation with Online Bilevel Optimization for Image Classification
+- **Authors**: Saypraseuth Mounsaveng, Issam Laradji, Ismail Ben Ayed, David Vazquez, Marco Pedersoli
+- **Published in**: 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), 2021.
+- **DOI**: [https://doi.org/10.1109/wacv48630.2021.00173](https://doi.org/10.1109/wacv48630.2021.00173)
+- [Get bib file](/bib-files/L/2021_13.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Lossless Compression of Bilevel ROI Maps of Hyperspectral Images Using Optimization Algorithms
 - **Authors**: Reetu Hooda, W. David Pan
 - **Published in**: IEEE Geoscience and Remote Sensing Letters, 1–5, 2021.
@@ -378,6 +389,17 @@ hascode = false
 - **Published in**: Practical Bilevel Optimization, 17–75, 1998.
 - **DOI**: [https://doi.org/10.1007/978-1-4757-2836-1_2](https://doi.org/10.1007/978-1-4757-2836-1_2)
 - [Get bib file](/bib-files/L/Bard_1998_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Links Between Linear Bilevel and Mixed 0–1 Programming Problems
+- **Authors**: C. Audet, P. Hansen, B. Jaumard, G. Savard
+- **Published in**: Journal of Optimization Theory and Applications, 93(2), 273–300, 1997.
+- **DOI**: [https://doi.org/10.1023/a:1022645805569](https://doi.org/10.1023/a:1022645805569)
+- [Get bib file](/bib-files/L/1997_49.bib)
 ~~~
 </div>
 ~~~

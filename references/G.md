@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Gauss–Newton-type methods for bilevel optimization
+- **Authors**: Jörg Fliege, Andrey Tin, Alain Zemkoho
+- **Published in**: Computational Optimization and Applications, 78(3), 793–824, 2021.
+- **DOI**: [https://doi.org/10.1007/s10589-020-00254-3](https://doi.org/10.1007/s10589-020-00254-3)
+- [Get bib file](/bib-files/G/2005_41.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Generalized Hohmann, Bi-Parabolic and Bi-Elliptic Planar Impulsive Transfer Using Transformed Variables
 - **Authors**: Thomas Carter, Mayer Humi
 - **Published in**: Journal of Optimization Theory and Applications, 189(1), 117–135, 2021.
@@ -37,6 +48,17 @@ hascode = false
 - **Published in**: Proceedings of the Genetic and Evolutionary Computation Conference Companion, 2021.
 - **DOI**: [https://doi.org/10.1145/3449726.3459495](https://doi.org/10.1145/3449726.3459495)
 - [Get bib file](/bib-files/G/Mej_a_de_Dios_2021_29.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Gene Subset Selection for Transfer Learning using Bilevel Particle Swarm Optimization
+- **Authors**: Hassen Dhrif, Veronica Bolon-Canedo, Stefan Wuchty
+- **Published in**: 2020 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020.
+- **DOI**: [https://doi.org/10.1109/icmla51294.2020.00206](https://doi.org/10.1109/icmla51294.2020.00206)
+- [Get bib file](/bib-files/G/2005_41.bib)
 ~~~
 </div>
 ~~~
@@ -401,6 +423,17 @@ hascode = false
 - **Published in**: Wuhan University Journal of Natural Sciences, 12(3), 421–425, 2007.
 - **DOI**: [https://doi.org/10.1007/s11859-006-0083-4](https://doi.org/10.1007/s11859-006-0083-4)
 - [Get bib file](/bib-files/G/Wang_2007_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Global optimization of mixed-integer bilevel programming problems
+- **Authors**: Zeynep H. Gümüş, Christodoulos A. Floudas
+- **Published in**: Computational Management Science, 2(3), 181–212, 2005.
+- **DOI**: [https://doi.org/10.1007/s10287-005-0025-1](https://doi.org/10.1007/s10287-005-0025-1)
+- [Get bib file](/bib-files/G/2005_41.bib)
 ~~~
 </div>
 ~~~

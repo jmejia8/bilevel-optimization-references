@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Erratum for “Bilevel Data-Driven Modeling Framework for High-Dimensional Structural Optimization under Uncertainty Problems” by Subhrajit Dutta and Amir H. Gandomi
+- **Authors**: Subhrajit Dutta, Amir H. Gandomi
+- **Published in**: Journal of Structural Engineering, 147(7), 2021.
+- **DOI**: [https://doi.org/10.1061/(asce)st.1943-541x.0003050](https://doi.org/10.1061/(asce)st.1943-541x.0003050)
+- [Get bib file](/bib-files/E/2021_38.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Enhancement of Hosting Capacity with Soft Open Points and Distribution System Reconfiguration: Multi-Objective Bilevel Stochastic Optimization
 - **Authors**: Ibrahim Mohamed Diaaeldin, Shady H. E. Abdel Aleem, Ahmed El-Rafei, Almoataz Y. Abdelaziz, Ahmed F. Zobaa
 - **Published in**: Energies, 13(20), 5446, 2020.

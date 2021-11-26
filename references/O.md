@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Optimality conditions for nonsmooth multiobjective bilevel optimization using tangential subdifferentials
+- **Authors**: Mohsine Jennane, El Mostafa Kalmoun, Lhoussain El Fadil
+- **Published in**: RAIRO - Operations Research, 55(5), 3041–3048, 2021.
+- **DOI**: [https://doi.org/10.1051/ro/2021139](https://doi.org/10.1051/ro/2021139)
+- [Get bib file](/bib-files/O/2012_332.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### On High-Order Multilevel Optimization Strategies
 - **Authors**: Henri Calandra, Serge Gratton, Elisa Riccietti, Xavier Vasseur
 - **Published in**: SIAM Journal on Optimization, 31(1), 307–330, 2021.
@@ -92,6 +103,17 @@ hascode = false
 - **Published in**: Blanking productions in mechanical engineering (press forging, foundry and other productions), 161–163, 2021.
 - **DOI**: [https://doi.org/10.36652/1684-1107-2021-19-4-161-163](https://doi.org/10.36652/1684-1107-2021-19-4-161-163)
 - [Get bib file](/bib-files/O/Skladchikov_2021_187.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On a Solving Bilevel D.C.-Convex Optimization Problems
+- **Authors**: Andrei V. Orlov
+- **Published in**: Communications in Computer and Information Science, 179–191, 2020.
+- **DOI**: [https://doi.org/10.1007/978-3-030-58657-7_16](https://doi.org/10.1007/978-3-030-58657-7_16)
+- [Get bib file](/bib-files/O/2012_332.bib)
 ~~~
 </div>
 ~~~
@@ -499,6 +521,17 @@ hascode = false
 - **Published in**: 2018 IEEE 2nd International Electrical and Energy Conference (CIEEC), 2018.
 - **DOI**: [https://doi.org/10.1109/cieec.2018.8745962](https://doi.org/10.1109/cieec.2018.8745962)
 - [Get bib file](/bib-files/O/Zhang_2015_89.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Optimality conditions for the simple convex bilevel programming problem in Banach spaces
+- **Authors**: Susanne Franke, Patrick Mehlitz, Maria Pilecka
+- **Published in**: Optimization, 67(2), 237–268, 2017.
+- **DOI**: [https://doi.org/10.1080/02331934.2017.1394296](https://doi.org/10.1080/02331934.2017.1394296)
+- [Get bib file](/bib-files/O/2017_70.bib)
 ~~~
 </div>
 ~~~
@@ -1671,6 +1704,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Optimal Strategies For Bilevel Dynamic Problems
+- **Authors**: Jane J. Ye
+- **Published in**: SIAM Journal on Control and Optimization, 35(2), 512–531, 1997.
+- **DOI**: [https://doi.org/10.1137/s0363012993256150](https://doi.org/10.1137/s0363012993256150)
+- [Get bib file](/bib-files/O/1997_62.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### On a Special Class of Mathematical Programs with Equilibrium Constraints
 - **Authors**: J. V. Outrata
 - **Published in**: Recent Advances in Optimization, 246–260, 1997.
@@ -2071,7 +2115,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.1021/acs.iecr.5b03122.s001](https://doi.org/10.1021/acs.iecr.5b03122.s001)
-- [Get bib file](/bib-files/O/1_360.bib)
+- [Get bib file](/bib-files/O/1997_62.bib)
 ~~~
 </div>
 ~~~

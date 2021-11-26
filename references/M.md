@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### MO-BBO: Multi-Objective Bilevel Bayesian Optimization for Robot and Behavior Co-Design
+- **Authors**: Yeonju Kim, Zherong Pan, Kris Hauser
+- **Published in**: 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021.
+- **DOI**: [https://doi.org/10.1109/icra48506.2021.9561846](https://doi.org/10.1109/icra48506.2021.9561846)
+- [Get bib file](/bib-files/M/1_240.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Maximizing recyclable materials and user utility in waste collection: a linear-quadratic bilevel optimization approach
 - **Authors**: Massimiliano Caramia
 - **Published in**: Optimization Letters, 2021.
@@ -989,10 +1000,10 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Metaheuristics for Bi-level Optimization
-- **Authors**: 
-- **Published in**: Springer Berlin Heidelberg, 2013.
-- **DOI**: [https://doi.org/10.1007/978-3-642-37838-6](https://doi.org/10.1007/978-3-642-37838-6)
+### Mixed integer parametric bilevel programming for optimal strategic bidding of energy producers in day-ahead electricity markets with indivisibilities
+- **Authors**: George Kozanidis, Eftychia Kostarelou, Panagiotis Andrianesis, George Liberopoulos
+- **Published in**: Optimization, 62(8), 1045–1068, 2013.
+- **DOI**: [https://doi.org/10.1080/02331934.2013.801473](https://doi.org/10.1080/02331934.2013.801473)
 - [Get bib file](/bib-files/M/2013_156.bib)
 ~~~
 </div>

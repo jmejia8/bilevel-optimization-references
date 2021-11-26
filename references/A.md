@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### A Divide-and-Conquer Bilevel Optimization Algorithm for Jointly Pricing Computing Resources and Energy in Wireless Powered MEC
+- **Authors**: Pei-Qiu Huang, Yong Wang, Kezhi Wang
+- **Published in**: IEEE Transactions on Cybernetics, 1–13, 2021.
+- **DOI**: [https://doi.org/10.1109/tcyb.2021.3103840](https://doi.org/10.1109/tcyb.2021.3103840)
+- [Get bib file](/bib-files/A/2013_59.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### An efficient chemical reaction algorithm for multi-objective combinatorial bi-level optimization
 - **Authors**: Malek Abbassi, Abir Chaabani, Lamjed Ben Said
 - **Published in**: Engineering Optimization, 1–22, 2021.
@@ -212,7 +223,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 2020.
 - **DOI**: [https://doi.org/10.2514/6.2021-0098.vid](https://doi.org/10.2514/6.2021-0098.vid)
-- [Get bib file](/bib-files/A/2020_65.bib)
+- [Get bib file](/bib-files/A/2013_59.bib)
 ~~~
 </div>
 ~~~
@@ -1093,6 +1104,17 @@ hascode = false
 - **Published in**: Soft Computing, 23(21), 11331–11341, 2019.
 - **DOI**: [https://doi.org/10.1007/s00500-019-03888-6](https://doi.org/10.1007/s00500-019-03888-6)
 - [Get bib file](/bib-files/A/Zhao_2019_174.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### A forward–backward penalty scheme with inertial effects for monotone inclusions. Applications to convex bilevel programming
+- **Authors**: Radu Ioan Boţ, Dang-Khoa Nguyen
+- **Published in**: Optimization, 68(10), 1855–1880, 2018.
+- **DOI**: [https://doi.org/10.1080/02331934.2018.1556662](https://doi.org/10.1080/02331934.2018.1556662)
+- [Get bib file](/bib-files/A/2018_69.bib)
 ~~~
 </div>
 ~~~
@@ -2023,6 +2045,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### A splitting algorithm for a class of bilevel equilibrium problems involving nonexpansive mappings
+- **Authors**: Phung M. Duc, Le D. Muu
+- **Published in**: Optimization, 65(10), 1855–1866, 2016.
+- **DOI**: [https://doi.org/10.1080/02331934.2016.1195831](https://doi.org/10.1080/02331934.2016.1195831)
+- [Get bib file](/bib-files/A/2016_61.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### A computational study for bilevel quadratic programs using semidefinite relaxations
 - **Authors**: Pablo Adasme, Abdel Lisser
 - **Published in**: European Journal of Operational Research, 254(1), 9–18, 2016.
@@ -2402,6 +2435,17 @@ hascode = false
 - **Published in**: Optimization, 65(7), 1437–1449, 2016.
 - **DOI**: [https://doi.org/10.1080/02331934.2016.1154553](https://doi.org/10.1080/02331934.2016.1154553)
 - [Get bib file](/bib-files/A/Zheng_2015_161.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### A DC Algorithm for Solving Quadratic-linear Bilevel Optimization Problems
+- **Authors**: Aicha Anzi, Mohammed Said Radjef
+- **Published in**: Modelling, Computation and Optimization in Information Systems and Management Sciences, 119–129, 2015.
+- **DOI**: [https://doi.org/10.1007/978-3-319-18161-5_11](https://doi.org/10.1007/978-3-319-18161-5_11)
+- [Get bib file](/bib-files/A/2013_59.bib)
 ~~~
 </div>
 ~~~
@@ -2962,7 +3006,7 @@ hascode = false
 - **Authors**: 郭晓芳
 - **Published in**: Advances in Applied Mathematics, 04(01), 63–69, 2015.
 - **DOI**: [https://doi.org/10.12677/aam.2015.41008](https://doi.org/10.12677/aam.2015.41008)
-- [Get bib file](/bib-files/A/Adasme_2016_5.bib)
+- [Get bib file](/bib-files/A/2013_59.bib)
 ~~~
 </div>
 ~~~
@@ -3370,6 +3414,17 @@ hascode = false
 - **Published in**: 2014 Seventh International Joint Conference on Computational Sciences and Optimization, 2014.
 - **DOI**: [https://doi.org/10.1109/cso.2014.129](https://doi.org/10.1109/cso.2014.129)
 - [Get bib file](/bib-files/A/Xiaoyang_Zhou_2015_404.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### A projection algorithm for solving pseudomonotone equilibrium problems and it’s application to a class of bilevel equilibria
+- **Authors**: Bui Van Dinh, Le Dung Muu
+- **Published in**: Optimization, 1–17, 2013.
+- **DOI**: [https://doi.org/10.1080/02331934.2013.773329](https://doi.org/10.1080/02331934.2013.773329)
+- [Get bib file](/bib-files/A/2013_59.bib)
 ~~~
 </div>
 ~~~

@@ -175,6 +175,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Finding Reliable Solutions in Bilevel Optimization Problems Under Uncertainties
+- **Authors**: Zhichao Lu, Kalyanmoy Deb, Ankur Sinha
+- **Published in**: Proceedings of the Genetic and Evolutionary Computation Conference 2016, 2016.
+- **DOI**: [https://doi.org/10.1145/2908812.2908925](https://doi.org/10.1145/2908812.2908925)
+- [Get bib file](/bib-files/F/2016_50.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Follower distribution algorithms for leader-follower networks
 - **Authors**: Begum Senses Cannataro, Zhen Kan, Warren E. Dixon
 - **Published in**: 2016 IEEE Conference on Computer Aided Control System Design (CACSD), 2016.
@@ -323,6 +334,17 @@ hascode = false
 - **Published in**: International Journal of Computer Applications, 29(6), 9–14, 2011.
 - **DOI**: [https://doi.org/10.5120/3571-4926](https://doi.org/10.5120/3571-4926)
 - [Get bib file](/bib-files/F/Pramanik_2011_111.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Fuzzy and Exact Optimality Conditions for a Bilevel Set-Valued Problem via Extremal Principles
+- **Authors**: S. Dempe, N. A. Gadhi, L. Lafhim
+- **Published in**: Numerical Functional Analysis and Optimization, 31(8), 907–920, 2010.
+- **DOI**: [https://doi.org/10.1080/01630563.2010.505356](https://doi.org/10.1080/01630563.2010.505356)
+- [Get bib file](/bib-files/F/2010_58.bib)
 ~~~
 </div>
 ~~~

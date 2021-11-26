@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Solving a Bilevel Problem with Station Location and Vehicle Routing Using Variable Neighborhood Descent and Ant Colony Optimization
+- **Authors**: Marcos R. C. O. Leite, Heder S. Bernardino, Luciana B. Gonçalves
+- **Published in**: Lecture Notes in Computer Science, 211–223, 2021.
+- **DOI**: [https://doi.org/10.1007/978-3-030-86230-5_17](https://doi.org/10.1007/978-3-030-86230-5_17)
+- [Get bib file](/bib-files/S/2015_51.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Semi-Supervised Batch Active Learning Via Bilevel Optimization
 - **Authors**: Zalan Borsos, Marco Tagliasacchi, Andreas Krause
 - **Published in**: ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021.
@@ -675,6 +686,17 @@ hascode = false
 - **Published in**: Set-Valued and Variational Analysis, 24(3), 423–448, 2016.
 - **DOI**: [https://doi.org/10.1007/s11228-016-0371-x](https://doi.org/10.1007/s11228-016-0371-x)
 - [Get bib file](/bib-files/S/Zemkoho_2016_7.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Smoothing SQP Methods for Solving Degenerate Nonsmooth Constrained Optimization Problems with Applications to Bilevel Programs
+- **Authors**: Mengwei Xu, Jane J. Ye, Liwei Zhang
+- **Published in**: SIAM Journal on Optimization, 25(3), 1388–1410, 2015.
+- **DOI**: [https://doi.org/10.1137/140971580](https://doi.org/10.1137/140971580)
+- [Get bib file](/bib-files/S/2015_51.bib)
 ~~~
 </div>
 ~~~
