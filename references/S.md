@@ -10,11 +10,22 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Second order optimality conditions for a bilevel optimization problem in terms of approximate Hessians
+- **Authors**: S. Dempe, M. El idrissi, N. Gadhi
+- **Published in**: Journal of Mathematical Analysis and Applications, 509(1), 125932, 2022.
+- **DOI**: [https://doi.org/10.1016/j.jmaa.2021.125932](https://doi.org/10.1016/j.jmaa.2021.125932)
+- [Get bib file](/bib-files/S/2002_329.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Solving a Bilevel Problem with Station Location and Vehicle Routing Using Variable Neighborhood Descent and Ant Colony Optimization
 - **Authors**: Marcos R. C. O. Leite, Heder S. Bernardino, Luciana B. Gonçalves
 - **Published in**: Lecture Notes in Computer Science, 211–223, 2021.
 - **DOI**: [https://doi.org/10.1007/978-3-030-86230-5_17](https://doi.org/10.1007/978-3-030-86230-5_17)
-- [Get bib file](/bib-files/S/2015_51.bib)
+- [Get bib file](/bib-files/S/2014_2.bib)
 ~~~
 </div>
 ~~~
@@ -103,6 +114,17 @@ hascode = false
 - **Published in**: IEEE Transactions on Cybernetics, 1–16, 2021.
 - **DOI**: [https://doi.org/10.1109/tcyb.2021.3061551](https://doi.org/10.1109/tcyb.2021.3061551)
 - [Get bib file](/bib-files/S/Singh_Chakraborty_2017_173.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Simple bilevel programming and extensions
+- **Authors**: Stephan Dempe, Nguyen Dinh, Joydeep Dutta, Tanushree Pandit
+- **Published in**: Mathematical Programming, 188(1), 227–253, 2020.
+- **DOI**: [https://doi.org/10.1007/s10107-020-01509-x](https://doi.org/10.1007/s10107-020-01509-x)
+- [Get bib file](/bib-files/S/2002_329.bib)
 ~~~
 </div>
 ~~~
@@ -831,6 +853,17 @@ programming problem
 - **Published in**: IMA Journal of Management Mathematics, 28(1), 131–152, 2015.
 - **DOI**: [https://doi.org/10.1093/imaman/dpv023](https://doi.org/10.1093/imaman/dpv023)
 - [Get bib file](/bib-files/S/Pisciella_2015_142.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Supervised non-euclidean sparse NMF via bilevel optimization with applications to speech enhancement
+- **Authors**: Pablo Sprechmann, Alex M. Bronstein, Guillermo Sapiro
+- **Published in**: 2014 4th Joint Workshop on Hands-free Speech Communication and Microphone Arrays (HSCMA), 2014.
+- **DOI**: [https://doi.org/10.1109/hscma.2014.6843241](https://doi.org/10.1109/hscma.2014.6843241)
+- [Get bib file](/bib-files/S/2014_2.bib)
 ~~~
 </div>
 ~~~

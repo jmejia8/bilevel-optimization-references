@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Learning adaptive hyper-guidance via proxy-based bilevel optimization for image enhancement
+- **Authors**: Jiaxin Gao, Xiaokun Liu, Risheng Liu, Xin Fan
+- **Published in**: The Visual Computer, 2022.
+- **DOI**: [https://doi.org/10.1007/s00371-022-02423-3](https://doi.org/10.1007/s00371-022-02423-3)
+- [Get bib file](/bib-files/L/2021_13.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Learning Data Augmentation with Online Bilevel Optimization for Image Classification
 - **Authors**: Saypraseuth Mounsaveng, Issam Laradji, Ismail Ben Ayed, David Vazquez, Marco Pedersoli
 - **Published in**: 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), 2021.

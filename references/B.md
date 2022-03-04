@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bilevel Optimization of Taxing Strategies for Carbon Emissions Using Fuzzy Random Matrix Generators
+- **Authors**: Timothy Ganesan, Irraivan Elamvazuthi
+- **Published in**: Advances in Human Services and Public Health, 210–234, 2022.
+- **DOI**: [https://doi.org/10.4018/978-1-7998-7176-7.ch010](https://doi.org/10.4018/978-1-7998-7176-7.ch010)
+- [Get bib file](/bib-files/B/1_260.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bilevel-search particle swarm optimization for computationally expensive optimization problems
 - **Authors**: Yuan Yan, Qin Zhou, Shi Cheng, Qunfeng Liu, Yun Li
 - **Published in**: Soft Computing, 25(22), 14357–14374, 2021.
@@ -1044,6 +1055,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bilevel Fuzzy Chance Constrained Hospital Outpatient Appointment Scheduling Model
+- **Authors**: Xiaoyang Zhou, Rui Luo, Canhui Zhao, Xiaohua Xia, Benjamin Lev, Jian Chai, Richard Li
+- **Published in**: Scientific Programming, 2016, 1–14, 2016.
+- **DOI**: [https://doi.org/10.1155/2016/4795101](https://doi.org/10.1155/2016/4795101)
+- [Get bib file](/bib-files/B/1_260.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bilevel Optimal Control With Final-State-Dependent Finite-Dimensional Lower Level
 - **Authors**: F. Benita, P. Mehlitz
 - **Published in**: SIAM Journal on Optimization, 26(1), 718–752, 2016.
@@ -1445,6 +1467,17 @@ hascode = false
 - **Published in**: Intelligent Systems Reference Library, 315–324, 2015.
 - **DOI**: [https://doi.org/10.1007/978-3-662-46059-7_12](https://doi.org/10.1007/978-3-662-46059-7_12)
 - [Get bib file](/bib-files/B/Zhang_2008_15.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel stochastic linear programming problems with quantile criterion
+- **Authors**: S. V. Ivanov
+- **Published in**: Automation and Remote Control, 75(1), 107–118, 2014.
+- **DOI**: [https://doi.org/10.1134/s0005117914010081](https://doi.org/10.1134/s0005117914010081)
+- [Get bib file](/bib-files/B/2014_10.bib)
 ~~~
 </div>
 ~~~
@@ -2766,7 +2799,7 @@ hascode = false
 - **Authors**: Athanasios Migdalas
 - **Published in**: Journal of Global Optimization, 7(4), 381–405, 1995.
 - **DOI**: [https://doi.org/10.1007/bf01099649](https://doi.org/10.1007/bf01099649)
-- [Get bib file](/bib-files/B/1995_42.bib)
+- [Get bib file](/bib-files/B/1990_15.bib)
 ~~~
 </div>
 ~~~
@@ -2811,6 +2844,17 @@ hascode = false
 - **Published in**: Computers & Operations Research, 20(5), 485–501, 1993.
 - **DOI**: [https://doi.org/10.1016/0305-0548(93)90013-9](https://doi.org/10.1016/0305-0548(93)90013-9)
 - [Get bib file](/bib-files/B/Ben_Ayed_1993_76.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel programming for steady-state chemical process design—I. Fundamentals and algorithms
+- **Authors**: P.A. Clark, A.W. Westerberg
+- **Published in**: Computers & Chemical Engineering, 14(1), 87–97, 1990.
+- **DOI**: [https://doi.org/10.1016/0098-1354(90)87007-c](https://doi.org/10.1016/0098-1354(90)87007-c)
+- [Get bib file](/bib-files/B/1990_15.bib)
 ~~~
 </div>
 ~~~
@@ -2887,7 +2931,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.1021/acs.iecr.9b04197.s001](https://doi.org/10.1021/acs.iecr.9b04197.s001)
-- [Get bib file](/bib-files/B/1994_68.bib)
+- [Get bib file](/bib-files/B/1990_15.bib)
 ~~~
 </div>
 ~~~

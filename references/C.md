@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Coordinated Development of Population, Resources, Environment, Economy, and Society under Engineering Management Combined with Bilevel Optimization Model
+- **Authors**: Kai Chen, Yilin Chen
+- **Published in**: Computational Intelligence and Neuroscience, 2022, 1–12, 2022.
+- **DOI**: [https://doi.org/10.1155/2022/8589396](https://doi.org/10.1155/2022/8589396)
+- [Get bib file](/bib-files/C/2020_67.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Convexification Method for Bilevel Programs with a Nonconvex Follower’s Problem
 - **Authors**: Gaoxi Li, Xinmin Yang
 - **Published in**: Journal of Optimization Theory and Applications, 188(3), 724–743, 2021.
@@ -983,6 +994,17 @@ hascode = false
 - **Published in**: European Journal of Operational Research, 73(1), 164–166, 1994.
 - **DOI**: [https://doi.org/10.1016/0377-2217(94)90155-4](https://doi.org/10.1016/0377-2217(94)90155-4)
 - [Get bib file](/bib-files/C/Liu_1994_198.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Computational Difficulties of Bilevel Linear Programming
+- **Authors**: Omar Ben-Ayed, Charles E. Blair
+- **Published in**: Operations Research, 38(3), 556–560, 1990.
+- **DOI**: [https://doi.org/10.1287/opre.38.3.556](https://doi.org/10.1287/opre.38.3.556)
+- [Get bib file](/bib-files/C/1990_8.bib)
 ~~~
 </div>
 ~~~

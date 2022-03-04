@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Fuzzy programming for multi-choice bilevel transportation problem
+- **Authors**: Ritu Arora, Kavita Gupta
+- **Published in**: Operations Research and Decisions, 31(3), 2021.
+- **DOI**: [https://doi.org/10.37190/ord210301](https://doi.org/10.37190/ord210301)
+- [Get bib file](/bib-files/F/2010_12.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Fuzzy Formalization of Individual Quality Criteria for Quality Level Evaluation by Using Two-Level Optimization Model
 - **Authors**: G. Pipiay, L. Chernenkaya, V. Mager
 - **Published in**: Proceedings of the 6th International Conference on Industrial Engineering (ICIE 2020), 557–565, 2021.
@@ -344,7 +355,7 @@ hascode = false
 - **Authors**: S. Dempe, N. A. Gadhi, L. Lafhim
 - **Published in**: Numerical Functional Analysis and Optimization, 31(8), 907–920, 2010.
 - **DOI**: [https://doi.org/10.1080/01630563.2010.505356](https://doi.org/10.1080/01630563.2010.505356)
-- [Get bib file](/bib-files/F/2010_58.bib)
+- [Get bib file](/bib-files/F/2010_12.bib)
 ~~~
 </div>
 ~~~

@@ -10,11 +10,22 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### A bilevel-optimization approach to determine product specifications during the early phases of product development: Increase customer value and reduce design risks
+- **Authors**: Xue Ji, Qi Gao, Hao Wang
+- **Published in**: Expert Systems with Applications, 188, 116012, 2022.
+- **DOI**: [https://doi.org/10.1016/j.eswa.2021.116012](https://doi.org/10.1016/j.eswa.2021.116012)
+- [Get bib file](/bib-files/A/2004_4.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### A Divide-and-Conquer Bilevel Optimization Algorithm for Jointly Pricing Computing Resources and Energy in Wireless Powered MEC
 - **Authors**: Pei-Qiu Huang, Yong Wang, Kezhi Wang
 - **Published in**: IEEE Transactions on Cybernetics, 1–13, 2021.
 - **DOI**: [https://doi.org/10.1109/tcyb.2021.3103840](https://doi.org/10.1109/tcyb.2021.3103840)
-- [Get bib file](/bib-files/A/2013_59.bib)
+- [Get bib file](/bib-files/A/2009_14.bib)
 ~~~
 </div>
 ~~~
@@ -223,7 +234,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 2020.
 - **DOI**: [https://doi.org/10.2514/6.2021-0098.vid](https://doi.org/10.2514/6.2021-0098.vid)
-- [Get bib file](/bib-files/A/2013_59.bib)
+- [Get bib file](/bib-files/A/2004_4.bib)
 ~~~
 </div>
 ~~~
@@ -1114,7 +1125,7 @@ hascode = false
 - **Authors**: Radu Ioan Boţ, Dang-Khoa Nguyen
 - **Published in**: Optimization, 68(10), 1855–1880, 2018.
 - **DOI**: [https://doi.org/10.1080/02331934.2018.1556662](https://doi.org/10.1080/02331934.2018.1556662)
-- [Get bib file](/bib-files/A/2018_69.bib)
+- [Get bib file](/bib-files/A/2018_16.bib)
 ~~~
 </div>
 ~~~
@@ -2441,10 +2452,10 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### A DC Algorithm for Solving Quadratic-linear Bilevel Optimization Problems
-- **Authors**: Aicha Anzi, Mohammed Said Radjef
-- **Published in**: Modelling, Computation and Optimization in Information Systems and Management Sciences, 119–129, 2015.
-- **DOI**: [https://doi.org/10.1007/978-3-319-18161-5_11](https://doi.org/10.1007/978-3-319-18161-5_11)
+### A bilevel integer programming method for blended composite structures
+- **Authors**: S. Zein, M. Bruyneel
+- **Published in**: Advances in Engineering Software, 79, 1–12, 2015.
+- **DOI**: [https://doi.org/10.1016/j.advengsoft.2014.08.008](https://doi.org/10.1016/j.advengsoft.2014.08.008)
 - [Get bib file](/bib-files/A/2013_59.bib)
 ~~~
 </div>
@@ -3007,6 +3018,17 @@ hascode = false
 - **Published in**: Advances in Applied Mathematics, 04(01), 63–69, 2015.
 - **DOI**: [https://doi.org/10.12677/aam.2015.41008](https://doi.org/10.12677/aam.2015.41008)
 - [Get bib file](/bib-files/A/2013_59.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### A Fuzzy Programming Approach for Bilevel Stochastic Programming
+- **Authors**: Nilkanta Modak, Animesh Biswas
+- **Published in**: Proceedings of the Second International Conference on Soft Computing for Problem Solving (SocProS 2012), December 28-30, 2012, 125–135, 2014.
+- **DOI**: [https://doi.org/10.1007/978-81-322-1602-5_14](https://doi.org/10.1007/978-81-322-1602-5_14)
+- [Get bib file](/bib-files/A/2009_14.bib)
 ~~~
 </div>
 ~~~
@@ -4476,6 +4498,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### An interval number programming approach for bilevel linear programming problem
+- **Authors**: Samir A. Abass
+- **Published in**: International Journal of Management Science and Engineering Management, 5(6), 461–464, 2010.
+- **DOI**: [https://doi.org/10.1080/17509653.2010.10671138](https://doi.org/10.1080/17509653.2010.10671138)
+- [Get bib file](/bib-files/A/2009_14.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### A Two-Level Scheme for Network Selection and Schedule Optimization of Cargo Airlines
 - **Authors**: Manav Agarwal, Florian Maul, Rajkumar Pant
 - **Published in**: 10th AIAA Aviation Technology, Integration, and Operations (ATIO) Conference, 2010.
@@ -4789,6 +4822,17 @@ hascode = false
 - **Published in**: Journal of Applied Mathematics and Computing, 37(1-2), 207–219, 2010.
 - **DOI**: [https://doi.org/10.1007/s12190-010-0430-7](https://doi.org/10.1007/s12190-010-0430-7)
 - [Get bib file](/bib-files/A/Zheng_2010_1.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### A dynamic programming algorithm for the bilevel knapsack problem
+- **Authors**: Luce Brotcorne, Saïd Hanafi, Raïd Mansi
+- **Published in**: Operations Research Letters, 37(3), 215–218, 2009.
+- **DOI**: [https://doi.org/10.1016/j.orl.2009.01.007](https://doi.org/10.1016/j.orl.2009.01.007)
+- [Get bib file](/bib-files/A/2009_14.bib)
 ~~~
 </div>
 ~~~
@@ -5895,6 +5939,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### A bilevel programming framework for enterprise-wide process networks under uncertainty
+- **Authors**: Jun-Hyung Ryu, Vivek Dua, Efstratios N. Pistikopoulos
+- **Published in**: Computers & Chemical Engineering, 28(6–7), 1121–1129, 2004.
+- **DOI**: [https://doi.org/10.1016/j.compchemeng.2003.09.021](https://doi.org/10.1016/j.compchemeng.2003.09.021)
+- [Get bib file](/bib-files/A/2004_4.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### A PENALTY METHOD FOR SOLVING BILEVEL LINEAR FRACTIONAL/LINEAR PROGRAMMING PROBLEMS
 - **Authors**: HERMINIA I. CALVETE, CARMEN GALÉ
 - **Published in**: Asia-Pacific Journal of Operational Research, 21(02), 207–224, 2004.
@@ -6483,6 +6538,17 @@ hascode = false
 - **Published in**: Optimization, 39(4), 361–366, 1997.
 - **DOI**: [https://doi.org/10.1080/02331939708844290](https://doi.org/10.1080/02331939708844290)
 - [Get bib file](/bib-files/A/Ye_1997_48.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### A hybrid Tabu-ascent algorithm for the linear Bilevel Programming Problem
+- **Authors**: M. Gendreau, P. Marcotte, G. Savard
+- **Published in**: Journal of Global Optimization, 8(3), 217–233, 1996.
+- **DOI**: [https://doi.org/10.1007/bf00121266](https://doi.org/10.1007/bf00121266)
+- [Get bib file](/bib-files/A/1996_3.bib)
 ~~~
 </div>
 ~~~
@@ -7127,6 +7193,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### An Algorithm for Solving the General Bilevel Programming Problem
+- **Authors**: Jonathan F. Bard
+- **Published in**: Mathematics of Operations Research, 8(2), 260–272, 1983.
+- **DOI**: [https://doi.org/10.1287/moor.8.2.260](https://doi.org/10.1287/moor.8.2.260)
+- [Get bib file](/bib-files/A/1983_18.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Applying a Two-Level Optimization Technique in Material Balance Problems
 - **Authors**: G. Marro, R. Rossi, A. Tonielli
 - **Published in**: IFAC Proceedings Volumes, 13(6), 543–550, 1980.
@@ -7175,7 +7252,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.1021/acs.iecr.7b02414.s001](https://doi.org/10.1021/acs.iecr.7b02414.s001)
-- [Get bib file](/bib-files/A/1_71.bib)
+- [Get bib file](/bib-files/A/1983_18.bib)
 ~~~
 </div>
 ~~~

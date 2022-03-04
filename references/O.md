@@ -10,11 +10,22 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### On the Bilevel Optimization for Remapping Virtual Networks in an HOE-DCN
+- **Authors**: Hao Yang, Xiaoqin Pan, Sicheng Zhao, Binjie Ge, Hang Yu, Zuqing Zhu
+- **Published in**: IEEE Transactions on Network and Service Management, 1–1, 2022.
+- **DOI**: [https://doi.org/10.1109/tnsm.2022.3146984](https://doi.org/10.1109/tnsm.2022.3146984)
+- [Get bib file](/bib-files/O/2005_1.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Optimality conditions for nonsmooth multiobjective bilevel optimization using tangential subdifferentials
 - **Authors**: Mohsine Jennane, El Mostafa Kalmoun, Lhoussain El Fadil
 - **Published in**: RAIRO - Operations Research, 55(5), 3041–3048, 2021.
 - **DOI**: [https://doi.org/10.1051/ro/2021139](https://doi.org/10.1051/ro/2021139)
-- [Get bib file](/bib-files/O/2012_332.bib)
+- [Get bib file](/bib-files/O/2005_1.bib)
 ~~~
 </div>
 ~~~
@@ -113,7 +124,7 @@ hascode = false
 - **Authors**: Andrei V. Orlov
 - **Published in**: Communications in Computer and Information Science, 179–191, 2020.
 - **DOI**: [https://doi.org/10.1007/978-3-030-58657-7_16](https://doi.org/10.1007/978-3-030-58657-7_16)
-- [Get bib file](/bib-files/O/2012_332.bib)
+- [Get bib file](/bib-files/O/2005_1.bib)
 ~~~
 </div>
 ~~~
@@ -1059,7 +1070,7 @@ hascode = false
 - **Authors**: Yi Liu, Caihong Mu, Weidong Kou
 - **Published in**: International Journal of Digital Content Technology and its Applications, 6(15), 208–219, 2012.
 - **DOI**: [https://doi.org/10.4156/jdcta.vol6.issue15.25](https://doi.org/10.4156/jdcta.vol6.issue15.25)
-- [Get bib file](/bib-files/O/2012_332.bib)
+- [Get bib file](/bib-files/O/2005_1.bib)
 ~~~
 </div>
 ~~~
@@ -1423,6 +1434,17 @@ hascode = false
 - **Published in**: Information Sciences, 176(11), 1607–1627, 2006.
 - **DOI**: [https://doi.org/10.1016/j.ins.2005.04.010](https://doi.org/10.1016/j.ins.2005.04.010)
 - [Get bib file](/bib-files/O/LU_2006_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On the Solution of the Bilevel Programming Formulation of the Terrorist Threat Problem
+- **Authors**: J.M. Arroyo, F.D. Galiana
+- **Published in**: IEEE Transactions on Power Systems, 20(2), 789–797, 2005.
+- **DOI**: [https://doi.org/10.1109/tpwrs.2005.846198](https://doi.org/10.1109/tpwrs.2005.846198)
+- [Get bib file](/bib-files/O/2005_1.bib)
 ~~~
 </div>
 ~~~

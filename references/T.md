@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### The robust bilevel continuous knapsack problem with uncertain coefficients in the follower’s objective
+- **Authors**: Christoph Buchheim, Dorothee Henke
+- **Published in**: Journal of Global Optimization, 2022.
+- **DOI**: [https://doi.org/10.1007/s10898-021-01117-9](https://doi.org/10.1007/s10898-021-01117-9)
+- [Get bib file](/bib-files/T/2013_218.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### The Hammer and the Nut: Is Bilevel Optimization Really Needed to Poison Linear Classifiers?
 - **Authors**: Antonio Emanuele Cina, Sebastiano Vascon, Ambra Demontis, Battista Biggio, Fabio Roli, Marcello Pelillo
 - **Published in**: 2021 International Joint Conference on Neural Networks (IJCNN), 2021.
@@ -1946,6 +1957,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### The Mixed Integer Linear Bilevel Programming Problem
+- **Authors**: James T. Moore, Jonathan F. Bard
+- **Published in**: Operations Research, 38(5), 911–921, 1990.
+- **DOI**: [https://doi.org/10.1287/opre.38.5.911](https://doi.org/10.1287/opre.38.5.911)
+- [Get bib file](/bib-files/T/1990_13.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Two-Level Structural Optimization Method for Multi-Processor Environment
 - **Authors**: Ching-Kuo Hsiung, Mohamed E. M. El-Sayed
 - **Published in**: 16th Design Automation Conference: Volume 2 — Optimal Design and Mechanical Systems Analysis, 1990.
@@ -2126,7 +2148,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.29172/cb4dcf82-80bb-4305-94f4-12a11959d840](https://doi.org/10.29172/cb4dcf82-80bb-4305-94f4-12a11959d840)
-- [Get bib file](/bib-files/T/1_238.bib)
+- [Get bib file](/bib-files/T/1990_13.bib)
 ~~~
 </div>
 ~~~

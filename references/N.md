@@ -10,11 +10,22 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Nonlinear bilevel programming approach for decentralized supply chain using a hybrid state transition algorithm
+- **Authors**: Xiaojun Zhou, Jituo Tian, Zeyu Wang, Chunhua Yang, Tingwen Huang, Xuesong Xu
+- **Published in**: Knowledge-Based Systems, 240, 108119, 2022.
+- **DOI**: [https://doi.org/10.1016/j.knosys.2022.108119](https://doi.org/10.1016/j.knosys.2022.108119)
+- [Get bib file](/bib-files/N/2021_1.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Nested Bilevel Optimization for DERA Operation Strategy: A Stochastic Multiobjective IGDT Model With Hybrid Endogenous/Exogenous Scenarios
 - **Authors**: Mohsen Yazdaninejad, Nima Amjady, Nikos Hatziargyriou
 - **Published in**: IEEE Systems Journal, 1–12, 2021.
 - **DOI**: [https://doi.org/10.1109/jsyst.2021.3085987](https://doi.org/10.1109/jsyst.2021.3085987)
-- [Get bib file](/bib-files/N/2021_26.bib)
+- [Get bib file](/bib-files/N/2021_1.bib)
 ~~~
 </div>
 ~~~

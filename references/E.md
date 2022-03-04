@@ -10,11 +10,22 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Existence of solutions for a class of bilevel stochastic linear programs
+- **Authors**: Matthias Claus
+- **Published in**: European Journal of Operational Research, 299(2), 542–549, 2022.
+- **DOI**: [https://doi.org/10.1016/j.ejor.2021.12.004](https://doi.org/10.1016/j.ejor.2021.12.004)
+- [Get bib file](/bib-files/E/1992_20.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Erratum for “Bilevel Data-Driven Modeling Framework for High-Dimensional Structural Optimization under Uncertainty Problems” by Subhrajit Dutta and Amir H. Gandomi
 - **Authors**: Subhrajit Dutta, Amir H. Gandomi
 - **Published in**: Journal of Structural Engineering, 147(7), 2021.
 - **DOI**: [https://doi.org/10.1061/(asce)st.1943-541x.0003050](https://doi.org/10.1061/(asce)st.1943-541x.0003050)
-- [Get bib file](/bib-files/E/2021_38.bib)
+- [Get bib file](/bib-files/E/1992_20.bib)
 ~~~
 </div>
 ~~~
@@ -609,6 +620,17 @@ hascode = false
 - **Published in**: Journal of Global Optimization, 8(3), 209–215, 1996.
 - **DOI**: [https://doi.org/10.1007/bf00121265](https://doi.org/10.1007/bf00121265)
 - [Get bib file](/bib-files/E/Migdalas_1996_137.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Efficient solutions for the linear bilevel programming problem
+- **Authors**: Ue-Pyng Wen, Shuh-Tzy Hsu
+- **Published in**: European Journal of Operational Research, 62(3), 354–362, 1992.
+- **DOI**: [https://doi.org/10.1016/0377-2217(92)90124-r](https://doi.org/10.1016/0377-2217(92)90124-r)
+- [Get bib file](/bib-files/E/1992_20.bib)
 ~~~
 </div>
 ~~~

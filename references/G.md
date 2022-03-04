@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### GL-GAN: Adaptive global and local bilevel optimization for generative adversarial network
+- **Authors**: Ying Liu, Heng Fan, Xiaohui Yuan, Jinhai Xiang
+- **Published in**: Pattern Recognition, 123, 108375, 2022.
+- **DOI**: [https://doi.org/10.1016/j.patcog.2021.108375](https://doi.org/10.1016/j.patcog.2021.108375)
+- [Get bib file](/bib-files/G/2005_41.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Gauss–Newton-type methods for bilevel optimization
 - **Authors**: Jörg Fliege, Andrey Tin, Alain Zemkoho
 - **Published in**: Computational Optimization and Applications, 78(3), 793–824, 2021.

@@ -153,6 +153,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Pessimistic Bilevel Linear Optimization
+- **Authors**: S. Dempe, G. Luo, S. Franke
+- **Published in**: Journal of Nepal Mathematical Society, 1(1), 1–10, 2018.
+- **DOI**: [https://doi.org/10.3126/jnms.v1i1.42165](https://doi.org/10.3126/jnms.v1i1.42165)
+- [Get bib file](/bib-files/P/2018_19.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Performance of the Multicarrier Sinusoidal PWM-Based Multilevel Inverter With Reduced Power Loss and Fault Diagnosis Using Wavelets Transformation
 - **Authors**: Durga Prasad Garapati, Jegathesan V., Moorthy Veerasamy
 - **Published in**: Advances in Computer and Electrical Engineering, 353–397, 2018.
