@@ -2,13 +2,14 @@
 Add here global page variables to use throughout your website.
 -->
 
+@def usesearcher = true
 @def hasplotly = false
 @def menu_items = [(c, "/references/$c/") for c in Char.(65:90)]
 +++
 author = "Jesús Mejía"
 author_twitter = "https://twitter.com/_jmejia"
 mintoclevel = 2
-sitename = "Bilevel Optimization Bibliography"
+sitename = "Bilevel Optimization"
 siteinfo = "Thousands of bibliographic references on bi-level optimization. Bi-level optimization consists of solving an optimization problem with another optimization problem as a constraint."
 keywords = "bibliography, references,bilevel optimization"
 domain = "repository.bi-level.org"

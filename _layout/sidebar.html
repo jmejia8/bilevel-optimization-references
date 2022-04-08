@@ -3,16 +3,17 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>A theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>.</p>
+    <p>Repository <a href="https://bi-level.org">bi-level.org</a></p>
   </div>
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Home</a>
+    <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/software/">Software</a>
     {{for (name, link) in menu_items}}
     <a class="sidebar-nav-item {{ispage link}}active{{end}}" href="{{link}}">{{name}}</a>
     {{end}}
   </nav>
   <div class="sidebar-item">
-    <p>&copy; {{fill author}}.</p>
+    <p>&copy; All rights reserved. </p>
   </div>
 </div>
 
@@ -23,22 +24,23 @@ content to avoid any CSS collisions with our real content. -->
     <div class="container">
       <h3 class="masthead-title">
         <a href="/" title="Home">{{fill sitename}}</a>
-        <small></small>
+        <small>Repository</small>
       </h3>
-
-      <div class="logo-container">
-          <img src="/assets/bilevel-logo.png" alt="Bi-level optimization"/>
-          <p>
-            Bibliography
-          </p>
-      </div>
-
-      <form id="lunrSearchForm" name="lunrSearchForm">
-        <input class="search-input" name="q" placeholder="Enter search term" type="text">
-        <br>
-        <input class="btn-search" type="submit" value="Search" formaction="/search/index.html">
-      </form>
     </div>
   </div>
 
   <div class="container content">
+    {{if usesearcher}}
+    <div class="logo-container">
+      <img src="/assets/bilevel-logo.png" alt="Bi-level optimization"/>
+      <p>
+        Bibliography
+      </p>
+    </div>
+
+    <form id="lunrSearchForm" name="lunrSearchForm">
+      <input class="search-input" name="q" placeholder="Enter search term" type="text">
+      <br>
+      <input class="btn-search" type="submit" value="Search" formaction="/search/index.html">
+    </form>
+    {{end}}

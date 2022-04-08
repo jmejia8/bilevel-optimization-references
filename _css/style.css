@@ -8,8 +8,19 @@
   background: rgb(240, 240, 240);
 }
 
-*:target {
-    background-color: yellow;
+h3:target {
+    background-color: lightgray;
+    padding: 1em;
+    animation: blinkingText 3s;
+    padding-top: 3em;
+}
+
+@keyframes blinkingText{
+  0%		{ background-color: lightgray;}
+  10%		{ background-color: white;}
+  15%		{ background-color: lightgray;}
+  50%		{ background-color: white;}
+  100%	    { background-color: lightgray;}
 }
 
 

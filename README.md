@@ -5,6 +5,10 @@ References on bilevel optimization.
 
 Homepage: [http://repository.bi-level.org](http://repository.bi-level.org)
 
+
+[![DOI](https://zenodo.org/badge/382225034.svg)](https://zenodo.org/badge/latestdoi/382225034)
+
+
 ## Adding New References
 
 Firstly, install `Franklin.jl` on Julia (1.1 or later).
