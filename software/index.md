@@ -28,3 +28,17 @@ Some interest software related to bi-level optimization.
 - Language: [Julia](https://julialang.org/)
 - Source: [https://github.com/joaquimg/BilevelJuMP.jl](https://github.com/joaquimg/BilevelJuMP.jl)
 
+### Multiobjective Bilevel Optimization Solver
+
+- Description: A MATLAB implementation of an algorithm for solving multiobjective bilevel optimization problems (Mathematical Programming).
+- Capabilities: MOBO
+- Language: MATLAB
+- Source: [https://github.com/GEichfelder/MOBO](https://github.com/GEichfelder/MOBO) authored by  Prof. Dr. Gabriele Eichfelder.
+
+### BLEAQ2 / m-BLEAQ
+
+- Description: Bilevel Evolutionary Algorithm based on Quadratic Approximations - Version 2.
+- Capabilities: SOBO/MOBO
+- Language: MATLAB
+- Source: [https://github.com/msu-coinlab/BLEAQ2](https://github.com/msu-coinlab/BLEAQ2)
+
