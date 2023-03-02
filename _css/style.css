@@ -35,6 +35,8 @@ h3:target {
   text-align:center;
 }
 
+.result-body { font-size: 0.8em; }
+
 
 .search-input{
   padding:10px;
