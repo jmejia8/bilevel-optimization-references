@@ -8,7 +8,7 @@
 Some interest software related to bi-level optimization.
 
 - SOBO: Single-objective bi-level optimization.
-- MOBO: Single-objective bi-level optimization.
+- MOBO: Multi-objective bi-level optimization.
 
 ~~~
 <hr />
