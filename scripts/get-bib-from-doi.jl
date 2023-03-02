@@ -44,6 +44,10 @@ function move_bib_to_dirs()
       end
 
       bib_new = joinpath(BIB_FOLDER, dir, file)
+      if isfile(bib_new)
+        bib_new = joinpath(BIB_FOLDER, dir, string(time()) * file)
+      end
+      
       println(bib, " --> " , bib_new)
       mv(bib, bib_new)
       break
@@ -79,12 +83,19 @@ end
 function get_from_doiorg(doi) 
   doi = replace(doi, "dx.doi.org" => "doi.org")
   doi = replace(doi, "http:" => "https:")
-  r = HTTP.request("GET",
-                   doi,
-                   ["Accept" => "text/bibliography;style=bibtex"],
-                   status_exception=false,
-                   readtimeout = 10,
-                  )
+
+  r = nothing
+
+  try
+    r = HTTP.request("GET",
+                     doi,
+                     ["Accept" => "text/bibliography;style=bibtex"],
+                     status_exception=false,
+                     readtimeout = 10,
+                    )
+  catch
+    return
+  end
 
   if r.status != 200
     return nothing
