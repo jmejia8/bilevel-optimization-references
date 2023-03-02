@@ -73,13 +73,20 @@ function readHtmlModified(root, file, fileId) {
     h3.each(function (index, element) {
         var title = $(element).text();
         var body = $('ul', $(element).parent()).text();
+        if (body) {
+            body = body.replace(/[\r\n]/gm, '');
+            body = body.replace('Authors:', 'by');
+            body = body.replace('Published in:', ' in ');
+            body = body.replace(/(?<=DOI:).*/gm, '');
+            body = body.replace('DOI:', '');
+        }
         // node id
         var tid = $(element).attr("id");
         var data = {
             "id": fileId + i,
             "l": filename,
             "t": title,
-            "b": body,
+            "b": body === undefined ? "": body,
             "tid": tid
         }
         list.push(data)
@@ -108,6 +115,7 @@ function buildPreviews(docs) {
         result[doc["id"]] = {
             "t": doc["t"],
             "tid": doc["tid"],
+            "b": doc["b"],
             "l": doc["l"].replace(/^\.\.\/\.\.\/__site/gi, '/' + PATH_PREPEND)
         }
     }
