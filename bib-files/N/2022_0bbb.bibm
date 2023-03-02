@@ -1,0 +1,11 @@
+@article{2022,
+ publisher     = {Elsevier BV},
+ doi           = {10.1016/j.dam.2022.07.002},
+ author        = {Caramia, Massimiliano and Pizzari, Emanuele},
+ issn          = {0166-218X},
+ year          = {2022},
+ url           = {http://dx.doi.org/10.1016/j.dam.2022.07.002},
+ month         = {Jul},
+ journal       = {Discrete Applied Mathematics},
+ title         = {Novel bilevel formulations for waste management}
+}
