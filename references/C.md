@@ -10,11 +10,44 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Corrigendum: Bi-level optimization dispatch of integrated-energy systems with P2G and carbon capture
+- **Authors**: Zongnan Zhang, Jun Du, Menghan Li, Jing Guo, Zhenyang Xu, Weikang Li
+- **Published in**: Frontiers in Energy Research, 11, 2023.
+- **DOI**: [https://doi.org/10.3389/fenrg.2023.1109799](https://doi.org/10.3389/fenrg.2023.1109799)
+- [Get bib file](/bib-files/C/2022_32.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Cooperative Particle Swarm Optimization With a Bilevel Resource Allocation Mechanism for Large-Scale Dynamic Optimization
+- **Authors**: Xiao-Fang Liu, Jun Zhang, Jun Wang
+- **Published in**: {IEEE} Transactions on Cybernetics, 53(2), 1000–1011, 2023.
+- **DOI**: [https://doi.org/10.1109/tcyb.2022.3193888](https://doi.org/10.1109/tcyb.2022.3193888)
+- [Get bib file](/bib-files/C/Liu_2020_403.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Coordinated Development of Population, Resources, Environment, Economy, and Society under Engineering Management Combined with Bilevel Optimization Model
 - **Authors**: Kai Chen, Yilin Chen
 - **Published in**: Computational Intelligence and Neuroscience, 2022, 1–12, 2022.
 - **DOI**: [https://doi.org/10.1155/2022/8589396](https://doi.org/10.1155/2022/8589396)
-- [Get bib file](/bib-files/C/2020_67.bib)
+- [Get bib file](/bib-files/C/2014_0.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Comparison of Bi-level and Nonlinear Optimization for Urban Traffic Control
+- **Authors**: Krasimira Stoilova, Todor Stoilov
+- **Published in**: In 2022 13th National Conference with International Participation ({ELECTRONICA}), 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/electronica55578.2022.9874409](https://doi.org/10.1109/electronica55578.2022.9874409)
+- [Get bib file](/bib-files/C/Stoilova_2022_0.bib)
 ~~~
 </div>
 ~~~
@@ -25,7 +58,7 @@ hascode = false
 - **Authors**: Gaoxi Li, Xinmin Yang
 - **Published in**: Journal of Optimization Theory and Applications, 188(3), 724–743, 2021.
 - **DOI**: [https://doi.org/10.1007/s10957-020-01804-9](https://doi.org/10.1007/s10957-020-01804-9)
-- [Get bib file](/bib-files/C/2021_2.bib)
+- [Get bib file](/bib-files/C/2014_0.bib)
 ~~~
 </div>
 ~~~
@@ -102,7 +135,7 @@ hascode = false
 - **Authors**: Thomas Kleinert, Martine Labbé, Fränk Plein, Martin Schmidt
 - **Published in**: Optimization Letters, 15(4), 1027–1040, 2020.
 - **DOI**: [https://doi.org/10.1007/s11590-020-01660-6](https://doi.org/10.1007/s11590-020-01660-6)
-- [Get bib file](/bib-files/C/2020_67.bib)
+- [Get bib file](/bib-files/C/2014_0.bib)
 ~~~
 </div>
 ~~~
@@ -400,6 +433,17 @@ hascode = false
 - **Published in**: Journal of Scientific Research and Reports, 6(7), 549–559, 2015.
 - **DOI**: [https://doi.org/10.9734/jsrr/2015/15831](https://doi.org/10.9734/jsrr/2015/15831)
 - [Get bib file](/bib-files/C/Hosseini_2015_159.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Crowd Evacuation Optimization by Leader-follower Model
+- **Authors**: Hairong Dong, Xiang Gao, Tongxin Gao, Xubin Sun, Qianling Wang
+- **Published in**: IFAC Proceedings Volumes, 47(3), 12116–12121, 2014.
+- **DOI**: [https://doi.org/10.3182/20140824-6-za-1003.01879](https://doi.org/10.3182/20140824-6-za-1003.01879)
+- [Get bib file](/bib-files/C/2014_0.bib)
 ~~~
 </div>
 ~~~

@@ -10,11 +10,11 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Learning adaptive hyper-guidance via proxy-based bilevel optimization for image enhancement
-- **Authors**: Jiaxin Gao, Xiaokun Liu, Risheng Liu, Xin Fan
-- **Published in**: The Visual Computer, 2022.
-- **DOI**: [https://doi.org/10.1007/s00371-022-02423-3](https://doi.org/10.1007/s00371-022-02423-3)
-- [Get bib file](/bib-files/L/2021_13.bib)
+### Learning Neuro-Symbolic Relational Transition Models for Bilevel Planning
+- **Authors**: Rohan Chitnis, Tom Silver, Joshua B. Tenenbaum, Tomas Lozano-Perez, Leslie Pack Kaelbling
+- **Published in**: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.
+- **DOI**: [https://doi.org/10.1109/iros47612.2022.9981440](https://doi.org/10.1109/iros47612.2022.9981440)
+- [Get bib file](/bib-files/L/2012_3.bib)
 ~~~
 </div>
 ~~~
@@ -25,7 +25,7 @@ hascode = false
 - **Authors**: Saypraseuth Mounsaveng, Issam Laradji, Ismail Ben Ayed, David Vazquez, Marco Pedersoli
 - **Published in**: 2021 IEEE Winter Conference on Applications of Computer Vision (WACV), 2021.
 - **DOI**: [https://doi.org/10.1109/wacv48630.2021.00173](https://doi.org/10.1109/wacv48630.2021.00173)
-- [Get bib file](/bib-files/L/2021_13.bib)
+- [Get bib file](/bib-files/L/2012_3.bib)
 ~~~
 </div>
 ~~~
@@ -87,6 +87,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Leader-Follower Models in Facility Location
+- **Authors**: Tammy Drezner, Zvi Drezner
+- **Published in**: Spatial Interaction Models, 73–104, 2017.
+- **DOI**: [https://doi.org/10.1007/978-3-319-52654-6_5](https://doi.org/10.1007/978-3-319-52654-6_5)
+- [Get bib file](/bib-files/L/2017_1.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Linear bilevel multiobjective optimization problem: Penalty approach
 - **Authors**: Yibing Lv, Zhongping Wan
 - **Published in**: Journal of Industrial & Management Optimization, 13(5), 1–11, 2017.
@@ -114,6 +125,17 @@ hascode = false
 - **Published in**: Low-Level Programming, 39–46, 2017.
 - **DOI**: [https://doi.org/10.1007/978-1-4842-2403-8_3](https://doi.org/10.1007/978-1-4842-2403-8_3)
 - [Get bib file](/bib-files/L/Zhirkov_2017_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Large-scale evacuation network optimization: a bi-level control method with uncertain arterial demand
+- **Authors**: Jingyi Hua, Gang Ren, Yang Cheng, Chen Yu, Bin Ran
+- **Published in**: Transportation Planning and Technology, 38(7), 777–794, 2015.
+- **DOI**: [https://doi.org/10.1080/03081060.2015.1059123](https://doi.org/10.1080/03081060.2015.1059123)
+- [Get bib file](/bib-files/L/2015_16.bib)
 ~~~
 </div>
 ~~~
@@ -224,6 +246,17 @@ hascode = false
 - **Published in**: Negotiation Journal, 29(1), 7–21, 2013.
 - **DOI**: [https://doi.org/10.1111/nejo.12002](https://doi.org/10.1111/nejo.12002)
 - [Get bib file](/bib-files/L/Sebenius_2013_337.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Leader-follower Optimization Design of Micro-displacement Mechanism Based on the Tunneling Effect Sensing System
+- **Authors**: Yi XIA
+- **Published in**: Journal of Mechanical Engineering, 48(09), 10, 2012.
+- **DOI**: [https://doi.org/10.3901/jme.2012.09.010](https://doi.org/10.3901/jme.2012.09.010)
+- [Get bib file](/bib-files/L/2012_3.bib)
 ~~~
 </div>
 ~~~
@@ -410,7 +443,7 @@ hascode = false
 - **Authors**: C. Audet, P. Hansen, B. Jaumard, G. Savard
 - **Published in**: Journal of Optimization Theory and Applications, 93(2), 273–300, 1997.
 - **DOI**: [https://doi.org/10.1023/a:1022645805569](https://doi.org/10.1023/a:1022645805569)
-- [Get bib file](/bib-files/L/1997_49.bib)
+- [Get bib file](/bib-files/L/1997_4.bib)
 ~~~
 </div>
 ~~~

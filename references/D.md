@@ -10,11 +10,44 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Digital twin-driven robust bi-level optimisation model for COVID-19 medical waste location-transport under circular economy
+- **Authors**: Cejun Cao, Jiahui Liu, Yang Liu, Haoheng Wang, Mengjie Liu
+- **Published in**: Computers &amp; Industrial Engineering, 109107, 2023.
+- **DOI**: [https://doi.org/10.1016/j.cie.2023.109107](https://doi.org/10.1016/j.cie.2023.109107)
+- [Get bib file](/bib-files/D/2021_34.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Design of an optimal P2P energy trading market model using bilevel stochastic optimization
+- **Authors**: Kamini Singh, Rajit Gadh, Anoop Singh, Chaman Lal Dewangan
+- **Published in**: Applied Energy, 328, 120193, 2022.
+- **DOI**: [https://doi.org/10.1016/j.apenergy.2022.120193](https://doi.org/10.1016/j.apenergy.2022.120193)
+- [Get bib file](/bib-files/D/2019_14.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Decentralized non-convex optimization via bi-level {SQP} and {ADMM}
+- **Authors**: Gosta Stomberg, Alexander Engelmann, Timm Faulwasser
+- **Published in**: In 2022 {IEEE} 61st Conference on Decision and Control ({CDC}), 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/cdc51059.2022.9992379](https://doi.org/10.1109/cdc51059.2022.9992379)
+- [Get bib file](/bib-files/D/Stomberg_2022_5.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Detecting and solving aircraft conflicts using bilevel programming
 - **Authors**: Martina Cerulli, Claudia D’Ambrosio, Leo Liberti, Mercedes Pelegrín
 - **Published in**: Journal of Global Optimization, 81(2), 529–557, 2021.
 - **DOI**: [https://doi.org/10.1007/s10898-021-00997-1](https://doi.org/10.1007/s10898-021-00997-1)
-- [Get bib file](/bib-files/D/2021_34.bib)
+- [Get bib file](/bib-files/D/2019_14.bib)
 ~~~
 </div>
 ~~~
@@ -43,11 +76,44 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Decentralized Decision System for Closed-Loop Supply Chain: A Bi-Level Multi-Objective Risk-Based Robust Optimization Approach
+- **Authors**: Hêriş Golp\^{ı}ra, Ahvan Javanmardan
+- **Published in**: Computers {&}amp$\mathsemicolon$ Chemical Engineering, 154, 107472, 2021.
+- **DOI**: [https://doi.org/10.1016/j.compchemeng.2021.107472](https://doi.org/10.1016/j.compchemeng.2021.107472)
+- [Get bib file](/bib-files/D/Golp_ra_2021_50.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Deep convolutional neural network architecture design as a bi-level optimization problem
 - **Authors**: Hassen Louati, Slim Bechikh, Ali Louati, Chih-Cheng Hung, Lamjed Ben Said
 - **Published in**: Neurocomputing, 439, 44–62, 2021.
 - **DOI**: [https://doi.org/10.1016/j.neucom.2021.01.094](https://doi.org/10.1016/j.neucom.2021.01.094)
 - [Get bib file](/bib-files/D/Louati_2021_207.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Data-Driven-Based Bi-Level Optimization for the Energy Conversion Efficiency Improvement in a Photocatalytic-Hydrogen-Production System
+- **Authors**: Ting Ren, Tianzeng Ma, Sha Liu, Xin Li
+- **Published in**: {SSRN} Electronic Journal, 2021.
+- **DOI**: [https://doi.org/10.2139/ssrn.3979979](https://doi.org/10.2139/ssrn.3979979)
+- [Get bib file](/bib-files/D/Ren_2021_27.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Designing of a Mat-heuristic Algorithm for Solving Bi-level Optimization Problems
+- **Authors**: Hossein Shams Shemirani, Rashed Sahraeian, Mahdi Bashiri
+- **Published in**: Scientia Iranica, 0(0), 0–0, 2021.
+- **DOI**: [https://doi.org/10.24200/sci.2021.55147.4093](https://doi.org/10.24200/sci.2021.55147.4093)
+- [Get bib file](/bib-files/D/Shams_Shemirani_2021_18.bib)
 ~~~
 </div>
 ~~~
@@ -92,6 +158,17 @@ hascode = false
 - **Published in**: Journal of Applied Mathematics and Computation, 4(4), 147–152, 2020.
 - **DOI**: [https://doi.org/10.26855/jamc.2020.12.006](https://doi.org/10.26855/jamc.2020.12.006)
 - [Get bib file](/bib-files/D/Wang_2018_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Deterministic and Probabilistic Wind Power Forecasting Based on Bi-Level Convolutional Neural Network and Particle Swarm Optimization
+- **Authors**: Yang, Zhang, Yang, Lv
+- **Published in**: Applied Sciences, 9(9), 1794, 2019.
+- **DOI**: [https://doi.org/10.3390/app9091794](https://doi.org/10.3390/app9091794)
+- [Get bib file](/bib-files/D/2019_14.bib)
 ~~~
 </div>
 ~~~
@@ -487,7 +564,7 @@ hascode = false
 - **Authors**: Sangmun Shin, Byung Rae Cho
 - **Published in**: Engineering Optimization, 40(11), 989–1009, 2008.
 - **DOI**: [https://doi.org/10.1080/03052150802148910](https://doi.org/10.1080/03052150802148910)
-- [Get bib file](/bib-files/D/Shin_2008_318.bib)
+- [Get bib file](/bib-files/D/Shams_Shemirani_2021_18.bib)
 ~~~
 </div>
 ~~~

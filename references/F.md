@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Flexibility pricing in the active distribution network including renewable and flexibility sources as a bi-level optimization model
+- **Authors**: Mohammad Reza RaeisiNia, Shahram Javadi, Mohammad Reza Jokar, Seyed Ashkan Nejati
+- **Published in**: Sustainable Energy Technologies and Assessments, 52, 101947, 2022.
+- **DOI**: [https://doi.org/10.1016/j.seta.2021.101947](https://doi.org/10.1016/j.seta.2021.101947)
+- [Get bib file](/bib-files/F/2010_12.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Fuzzy programming for multi-choice bilevel transportation problem
 - **Authors**: Ritu Arora, Kavita Gupta
 - **Published in**: Operations Research and Decisions, 31(3), 2021.

@@ -10,11 +10,33 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Groundwater level modeling using Augmented Artificial Ecosystem Optimization
+- **Authors**: Nguyen Van Thieu, Surajit Deb Barma, To Van Lam, Ozgur Kisi, Amai Mahesha
+- **Published in**: Journal of Hydrology, 617, 129034, 2023.
+- **DOI**: [https://doi.org/10.1016/j.jhydrol.2022.129034](https://doi.org/10.1016/j.jhydrol.2022.129034)
+- [Get bib file](/bib-files/G/2023_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### GL-GAN: Adaptive global and local bilevel optimization for generative adversarial network
 - **Authors**: Ying Liu, Heng Fan, Xiaohui Yuan, Jinhai Xiang
 - **Published in**: Pattern Recognition, 123, 108375, 2022.
 - **DOI**: [https://doi.org/10.1016/j.patcog.2021.108375](https://doi.org/10.1016/j.patcog.2021.108375)
 - [Get bib file](/bib-files/G/2005_41.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Generic Structure Extraction with Bi-Level Optimization for Graph Structure Learning
+- **Authors**: Nan Yin, Zhigang Luo
+- **Published in**: Entropy, 24(9), 1228, 2022.
+- **DOI**: [https://doi.org/10.3390/e24091228](https://doi.org/10.3390/e24091228)
+- [Get bib file](/bib-files/G/Yin_2000_26.bib)
 ~~~
 </div>
 ~~~

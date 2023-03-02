@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Two effective heuristic methods of determining the numbers of fuzzy clustering centers based on bilevel programming
+- **Authors**: Kaikai Qiao, Junrong Zhang, Jiawei Chen
+- **Published in**: Applied Soft Computing, 132, 109718, 2023.
+- **DOI**: [https://doi.org/10.1016/j.asoc.2022.109718](https://doi.org/10.1016/j.asoc.2022.109718)
+- [Get bib file](/bib-files/T/Qiao_2023_4.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### The robust bilevel continuous knapsack problem with uncertain coefficients in the follower’s objective
 - **Authors**: Christoph Buchheim, Dorothee Henke
 - **Published in**: Journal of Global Optimization, 2022.
@@ -54,6 +65,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Transfer Learning Based Evolutionary Algorithm for Bi-level Optimization Problems
+- **Authors**: Lei Chen, Hai-Lin Liu
+- **Published in**: In 2021 {IEEE} Congress on Evolutionary Computation ({CEC}), 2021. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/cec45853.2021.9504861](https://doi.org/10.1109/cec45853.2021.9504861)
+- [Get bib file](/bib-files/T/Chen_2012_152.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Two-level Topology Optimization for High Definition Material Structures under the cgFEM Framework
 - **Authors**: R. Merli, E. Nadal, J. Albelda, J. Ródenas
 - **Published in**: 10th International Conference on Adaptative Modeling and Simulation, 2021.
@@ -70,6 +92,17 @@ hascode = false
 - **Published in**: 14th WCCM-ECCOMAS Congress, 2021.
 - **DOI**: [https://doi.org/10.23967/wccm-eccomas.2020.345](https://doi.org/10.23967/wccm-eccomas.2020.345)
 - [Get bib file](/bib-files/T/Troya_2021_38.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### The Bi-level Co-optimization Model for Energy and Primary Frequency Regulation Markets Incorporating Energy Storage
+- **Authors**: Xia Wang, Liming Ying, Kerui Wen
+- **Published in**: In 2021 {IEEE} 4th International Electrical and Energy Conference ({CIEEC}), 2021. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/cieec50170.2021.9510744](https://doi.org/10.1109/cieec50170.2021.9510744)
+- [Get bib file](/bib-files/T/Wang_2010_26.bib)
 ~~~
 </div>
 ~~~
@@ -444,6 +477,17 @@ hascode = false
 - **Published in**: IEEE Transactions on Magnetics, 54(11), 1–5, 2018.
 - **DOI**: [https://doi.org/10.1109/tmag.2018.2856858](https://doi.org/10.1109/tmag.2018.2856858)
 - [Get bib file](/bib-files/T/Taran_2018_162.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Traffic Signal Optimization Based on System Equilibrium and Bi-level Multi-objective Programming Model
+- **Authors**: Xiao-ting Wang, Yu-lin Chang, Peng Zhang
+- **Published in**: Lecture Notes in Electrical Engineering, 429–438, 2017.
+- **DOI**: [https://doi.org/10.1007/978-981-10-3551-7_34](https://doi.org/10.1007/978-981-10-3551-7_34)
+- [Get bib file](/bib-files/T/2017_25.bib)
 ~~~
 </div>
 ~~~

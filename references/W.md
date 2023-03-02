@@ -10,6 +10,39 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Why there is no need to use a big-M in linear bilevel optimization: a computational study of two ready-to-use approaches
+- **Authors**: Thomas Kleinert, Martin Schmidt
+- **Published in**: Computational Management Science, 20(1), 2023.
+- **DOI**: [https://doi.org/10.1007/s10287-023-00435-5](https://doi.org/10.1007/s10287-023-00435-5)
+- [Get bib file](/bib-files/W/Kleinert_2023_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Waste Management by Bilevel Optimisation: A Survey
+- **Authors**: Emanuele Pizzari, Massimiliano Caramia
+- **Published in**: International Journal of Operational Research, 1(1), 1, 2022.
+- **DOI**: [https://doi.org/10.1504/ijor.2022.10054097](https://doi.org/10.1504/ijor.2022.10054097)
+- [Get bib file](/bib-files/W/2011_71.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### WHEN SEMIVECTORIAL BILEVEL OPTIMIZATION REDUCES TO ORDINARY BILEVEL OPTIMIZATION
+- **Authors**: Henri Bonnel
+- **Published in**: Annals of the Academy of Romanian Scientists Series on Mathematics and Its Application, 12(1–2), 344–363, 2020.
+- **DOI**: [https://doi.org/10.56082/annalsarscimath.2020.1-2.344](https://doi.org/10.56082/annalsarscimath.2020.1-2.344)
+- [Get bib file](/bib-files/W/2011_71.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Whale Optimization Algorithm and Moth-Flame Optimization for multilevel thresholding image segmentation
 - **Authors**: Mohamed Abd El Aziz, Ahmed A. Ewees, Aboul Ella Hassanien
 - **Published in**: Expert Systems with Applications, 83, 242–256, 2017.

@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Joint design and compression of convolutional neural networks as a Bi-level optimization problem
+- **Authors**: Hassen Louati, Slim Bechikh, Ali Louati, Abdulaziz Aldaej, Lamjed Ben Said
+- **Published in**: Neural Computing and Applications, 34(17), 15007–15029, 2022.
+- **DOI**: [https://doi.org/10.1007/s00521-022-07331-0](https://doi.org/10.1007/s00521-022-07331-0)
+- [Get bib file](/bib-files/J/2012_90.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Joint Unsupervised Learning of Optical Flow and Egomotion with Bi-Level optimization
 - **Authors**: Shihao Jiang, Dylan Campbell, Miaomiao Liu, Stephen Gould, Richard Hartley
 - **Published in**: 2020 International Conference on 3D Vision (3DV), 2020.

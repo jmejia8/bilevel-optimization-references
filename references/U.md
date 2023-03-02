@@ -10,6 +10,28 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Uncertain random bilevel programming models and their application to shared capacity routing problem
+- **Authors**: Rong Gao, Yebao Ma
+- **Published in**: Journal of Computational and Applied Mathematics, 423, 114965, 2023.
+- **DOI**: [https://doi.org/10.1016/j.cam.2022.114965](https://doi.org/10.1016/j.cam.2022.114965)
+- [Get bib file](/bib-files/U/Gao_2023_5.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Using neural networks to solve linear bilevel problems with unknown lower level
+- **Authors**: Ioana Molan, Martin Schmidt
+- **Published in**: Optimization Letters, 2023.
+- **DOI**: [https://doi.org/10.1007/s11590-022-01958-7](https://doi.org/10.1007/s11590-022-01958-7)
+- [Get bib file](/bib-files/U/Molan_2023_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Use of a Non-nested Formulation to Improve Search for Bilevel Optimization
 - **Authors**: Md Monjurul Islam, Hemant Kumar Singh, Tapabrata Ray
 - **Published in**: Lecture Notes in Computer Science, 106–118, 2017.

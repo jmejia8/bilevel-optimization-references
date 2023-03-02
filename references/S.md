@@ -10,11 +10,33 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Second order optimality conditions for a bilevel optimization problem in terms of approximate Hessians
-- **Authors**: S. Dempe, M. El idrissi, N. Gadhi
-- **Published in**: Journal of Mathematical Analysis and Applications, 509(1), 125932, 2022.
-- **DOI**: [https://doi.org/10.1016/j.jmaa.2021.125932](https://doi.org/10.1016/j.jmaa.2021.125932)
-- [Get bib file](/bib-files/S/2002_329.bib)
+### Sensitivity analysis of combinatorial optimization problems using evolutionary bilevel optimization and data mining
+- **Authors**: Julian Schulte, Volker Nissen
+- **Published in**: Annals of Mathematics and Artificial Intelligence, 2023.
+- **DOI**: [https://doi.org/10.1007/s10472-022-09827-w](https://doi.org/10.1007/s10472-022-09827-w)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Solving discrete linear fractional bilevel programs with multiple objectives at the upper level
+- **Authors**: Fatima Fali, Moulaï
+- **Published in**: Journal of Industrial and Management Optimization, 19(4), 2639–2654, 2023.
+- **DOI**: [https://doi.org/10.3934/jimo.2022059](https://doi.org/10.3934/jimo.2022059)
+- [Get bib file](/bib-files/S/Fali_2023_7.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Solving fuzzy bilevel linear programming problem based on interval approximation
+- **Authors**: Niloofar Davoudi, Farhad Hamidi, Hassan Mishmast Nehi
+- **Published in**: 2022 9th Iranian Joint Congress on Fuzzy and Intelligent Systems (CFIS), 2022.
+- **DOI**: [https://doi.org/10.1109/cfis54774.2022.9756485](https://doi.org/10.1109/cfis54774.2022.9756485)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -25,7 +47,7 @@ hascode = false
 - **Authors**: Marcos R. C. O. Leite, Heder S. Bernardino, Luciana B. Gonçalves
 - **Published in**: Lecture Notes in Computer Science, 211–223, 2021.
 - **DOI**: [https://doi.org/10.1007/978-3-030-86230-5_17](https://doi.org/10.1007/978-3-030-86230-5_17)
-- [Get bib file](/bib-files/S/2014_2.bib)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -120,11 +142,11 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Simple bilevel programming and extensions
-- **Authors**: Stephan Dempe, Nguyen Dinh, Joydeep Dutta, Tanushree Pandit
-- **Published in**: Mathematical Programming, 188(1), 227–253, 2020.
-- **DOI**: [https://doi.org/10.1007/s10107-020-01509-x](https://doi.org/10.1007/s10107-020-01509-x)
-- [Get bib file](/bib-files/S/2002_329.bib)
+### Solving Bi-Level Linear Fractional Programming Problem with Interval Coefficients
+- **Authors**: Suvasis Nayak, Akshay Kumar Ojha
+- **Published in**: Advances in Intelligent Systems and Computing, 265–273, 2020.
+- **DOI**: [https://doi.org/10.1007/978-981-15-3215-3_25](https://doi.org/10.1007/978-981-15-3215-3_25)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -395,6 +417,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Some Aspects of the Stackelberg Leader/Follower Model
+- **Authors**: L. Mallozzi, R. Messalli, S. Patrì, A. Sacco
+- **Published in**: Springer Optimization and Its Applications, 171–181, 2018.
+- **DOI**: [https://doi.org/10.1007/978-3-319-99142-9_10](https://doi.org/10.1007/978-3-319-99142-9_10)
+- [Get bib file](/bib-files/S/2018_5.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Stochastic bi-level optimization models for efficient operating room planning
 - **Authors**: Amin Abedini, Wei Li, Honghan Ye
 - **Published in**: Procedia Manufacturing, 26, 58–69, 2018.
@@ -626,6 +659,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Solving Non-Linear Bi-Level Programming Problem Using Taylor Algorithm
+- **Authors**: Eghbal Hosseini, Isa Nakhai Kamalabadi, Fatemah Daneshfar
+- **Published in**: Advances in Computational Intelligence and Robotics, 797–810, 2016.
+- **DOI**: [https://doi.org/10.4018/978-1-4666-9644-0.ch030](https://doi.org/10.4018/978-1-4666-9644-0.ch030)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### SOLUTION OF THE LARGE MINIMUM COMPLIANCE PROBLEM USING BILEVEL OPTIMIZATION
 - **Authors**: Makrizi Abdelilah, BouchaÃ¯b Radi
 - **Published in**: JOURNAL OF ADVANCES IN MATHEMATICS, 12(2), 5928–5937, 2016.
@@ -718,7 +762,7 @@ hascode = false
 - **Authors**: Mengwei Xu, Jane J. Ye, Liwei Zhang
 - **Published in**: SIAM Journal on Optimization, 25(3), 1388–1410, 2015.
 - **DOI**: [https://doi.org/10.1137/140971580](https://doi.org/10.1137/140971580)
-- [Get bib file](/bib-files/S/2015_51.bib)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -863,7 +907,7 @@ programming problem
 - **Authors**: Pablo Sprechmann, Alex M. Bronstein, Guillermo Sapiro
 - **Published in**: 2014 4th Joint Workshop on Hands-free Speech Communication and Microphone Arrays (HSCMA), 2014.
 - **DOI**: [https://doi.org/10.1109/hscma.2014.6843241](https://doi.org/10.1109/hscma.2014.6843241)
-- [Get bib file](/bib-files/S/2014_2.bib)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -952,6 +996,17 @@ programming problem
 - **Published in**: SSRN Electronic Journal, 2014.
 - **DOI**: [https://doi.org/10.2139/ssrn.2497134](https://doi.org/10.2139/ssrn.2497134)
 - [Get bib file](/bib-files/S/Whittaker_2014_322.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Solving high dimensional bilevel multiobjective programming problem using a hybrid particle swarm optimization algorithm with crossover operator
+- **Authors**: Tao Zhang, Tiesong Hu, Xuning Guo, Zhong Chen, Yue Zheng
+- **Published in**: Knowledge-Based Systems, 53, 13–19, 2013.
+- **DOI**: [https://doi.org/10.1016/j.knosys.2013.07.015](https://doi.org/10.1016/j.knosys.2013.07.015)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -1249,6 +1304,17 @@ programming problem
 - **Published in**: Lecture Notes in Computer Science, 187–196, 2011.
 - **DOI**: [https://doi.org/10.1007/978-3-642-23854-3_20](https://doi.org/10.1007/978-3-642-23854-3_20)
 - [Get bib file](/bib-files/S/Yaakob_2011_136.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Solving multi-leader–common-follower games
+- **Authors**: Sven Leyffer, Todd Munson
+- **Published in**: Optimization Methods and Software, 25(4), 601–623, 2010.
+- **DOI**: [https://doi.org/10.1080/10556780903448052](https://doi.org/10.1080/10556780903448052)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -1666,7 +1732,7 @@ programming problem
 - **Authors**: 
 - **Published in**: Kluwer Academic Publishers, 2002.
 - **DOI**: [https://doi.org/10.1007/b117504](https://doi.org/10.1007/b117504)
-- [Get bib file](/bib-files/S/2002_329.bib)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -1777,6 +1843,17 @@ programming problem
 - **Published in**: Journal of Global Optimization, 8(3), 289–294, 1996.
 - **DOI**: [https://doi.org/10.1007/bf00121270](https://doi.org/10.1007/bf00121270)
 - [Get bib file](/bib-files/S/Kalashnikov_1996_122.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Solving a bilevel linear program when the inner decision maker controls few variables
+- **Authors**: Yi-Hsin Liu, Thomas H. Spencer
+- **Published in**: European Journal of Operational Research, 81(3), 644–651, 1995.
+- **DOI**: [https://doi.org/10.1016/0377-2217(94)00005-w](https://doi.org/10.1016/0377-2217(94)00005-w)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~
@@ -1898,6 +1975,17 @@ programming problem
 - **Published in**: 24th Structures, Structural Dynamics and Materials Conference, 1983.
 - **DOI**: [https://doi.org/10.2514/6.1983-832](https://doi.org/10.2514/6.1983-832)
 - [Get bib file](/bib-files/S/SOBIESZCZANSKI_SOBIESKI_1983_133.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Solution of Some Stochastic Quadratic Nash and Leader-Follower Games
+- **Authors**: G. P. Papavassilopoulos
+- **Published in**: SIAM Journal on Control and Optimization, 19(5), 651–666, 1981.
+- **DOI**: [https://doi.org/10.1137/0319041](https://doi.org/10.1137/0319041)
+- [Get bib file](/bib-files/S/1981_5.bib)
 ~~~
 </div>
 ~~~

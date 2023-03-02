@@ -10,11 +10,33 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### On the Bilevel Optimization for Remapping Virtual Networks in an HOE-DCN
-- **Authors**: Hao Yang, Xiaoqin Pan, Sicheng Zhao, Binjie Ge, Hang Yu, Zuqing Zhu
-- **Published in**: IEEE Transactions on Network and Service Management, 1–1, 2022.
-- **DOI**: [https://doi.org/10.1109/tnsm.2022.3146984](https://doi.org/10.1109/tnsm.2022.3146984)
-- [Get bib file](/bib-files/O/2005_1.bib)
+### On multiobjective bilevel optimization using tangential subdifferentials
+- **Authors**: Nazih Abderrazzak Gadhi, Mohamed Ohda
+- **Published in**: Journal of Industrial and Management Optimization, 19(7), 4949–4958, 2023.
+- **DOI**: [https://doi.org/10.3934/jimo.2022156](https://doi.org/10.3934/jimo.2022156)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On convex lower-level black-box constraints in bilevel optimization with an application to gas market models with chance constraints
+- **Authors**: Holger Heitsch, René Henrion, Thomas Kleinert, Martin Schmidt
+- **Published in**: Journal of Global Optimization, 84(3), 651–685, 2022.
+- **DOI**: [https://doi.org/10.1007/s10898-022-01161-z](https://doi.org/10.1007/s10898-022-01161-z)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Optimization strategies for the bilevel network design problem with affine cost functions
+- **Authors**: Alexander Krylatov, Anastasiya Raevskaya, Petr Ageev
+- **Published in**: Annals of Mathematics and Artificial Intelligence, 2022.
+- **DOI**: [https://doi.org/10.1007/s10472-022-09828-9](https://doi.org/10.1007/s10472-022-09828-9)
+- [Get bib file](/bib-files/O/Krylatov_2022_1.bib)
 ~~~
 </div>
 ~~~
@@ -25,7 +47,7 @@ hascode = false
 - **Authors**: Mohsine Jennane, El Mostafa Kalmoun, Lhoussain El Fadil
 - **Published in**: RAIRO - Operations Research, 55(5), 3041–3048, 2021.
 - **DOI**: [https://doi.org/10.1051/ro/2021139](https://doi.org/10.1051/ro/2021139)
-- [Get bib file](/bib-files/O/2005_1.bib)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~
@@ -124,7 +146,7 @@ hascode = false
 - **Authors**: Andrei V. Orlov
 - **Published in**: Communications in Computer and Information Science, 179–191, 2020.
 - **DOI**: [https://doi.org/10.1007/978-3-030-58657-7_16](https://doi.org/10.1007/978-3-030-58657-7_16)
-- [Get bib file](/bib-files/O/2005_1.bib)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~
@@ -406,11 +428,11 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### On the Performance Optimization of Two-Level Three-Phase Grid-Feeding Voltage-Source Inverters
-- **Authors**: and
-- **Published in**: Energies, 11(2), 400, 2018.
-- **DOI**: [https://doi.org/10.3390/en11020400](https://doi.org/10.3390/en11020400)
-- [Get bib file](/bib-files/O/2018_182.bib)
+### Optimal Route Driving for Leader-Follower Using Dynamic Particle Swarm Optimization
+- **Authors**: B. Tutuko, S. Nurmaini, P. Sahayu
+- **Published in**: 2018 International Conference on Electrical Engineering and Computer Science (ICECOS), 2018.
+- **DOI**: [https://doi.org/10.1109/icecos.2018.8605259](https://doi.org/10.1109/icecos.2018.8605259)
+- [Get bib file](/bib-files/O/1.677714678914506e92022_5.bib)
 ~~~
 </div>
 ~~~
@@ -542,7 +564,7 @@ hascode = false
 - **Authors**: Susanne Franke, Patrick Mehlitz, Maria Pilecka
 - **Published in**: Optimization, 67(2), 237–268, 2017.
 - **DOI**: [https://doi.org/10.1080/02331934.2017.1394296](https://doi.org/10.1080/02331934.2017.1394296)
-- [Get bib file](/bib-files/O/2017_70.bib)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~
@@ -879,6 +901,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Optimization of Bi-level Distribution Network System Based Fuzzy Multi-objective Decision-making Model Analysis
+- **Authors**: Li Sha, Liao Zhi-Gao, Huang Jie-Hong, Huang Nai-Chuan
+- **Published in**: Proceedings of the 2014 International Conference on Economic Management and Trade Cooperation, 2014.
+- **DOI**: [https://doi.org/10.2991/emtc-14.2014.1](https://doi.org/10.2991/emtc-14.2014.1)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### On the solution of Large Scale Bi-Level Linear Vector Optimization Problems through TOPSIS
 - **Authors**: Mahmoud A. Abo-Sinna, Dr Tarek Hanafi Abouelenien
 - **Published in**: International Journal of Research in Business and Technology, 5(3), 2014.
@@ -1070,7 +1103,7 @@ hascode = false
 - **Authors**: Yi Liu, Caihong Mu, Weidong Kou
 - **Published in**: International Journal of Digital Content Technology and its Applications, 6(15), 208–219, 2012.
 - **DOI**: [https://doi.org/10.4156/jdcta.vol6.issue15.25](https://doi.org/10.4156/jdcta.vol6.issue15.25)
-- [Get bib file](/bib-files/O/2005_1.bib)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~
@@ -1225,6 +1258,17 @@ hascode = false
 - **Published in**: Journal of Optimization Theory and Applications, 150(1), 1–19, 2011.
 - **DOI**: [https://doi.org/10.1007/s10957-011-9819-1](https://doi.org/10.1007/s10957-011-9819-1)
 - [Get bib file](/bib-files/O/Suneja_2011_301.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Optimization of Two-Stage Port Logistics Network of Dynamic Hinterland Based on Bi-level Programming Model
+- **Authors**: Mingjun JI, Maoying HE
+- **Published in**: Journal of Transportation Systems Engineering and Information Technology, 10(6), 89–94, 2010.
+- **DOI**: [https://doi.org/10.1016/s1570-6672(09)60076-3](https://doi.org/10.1016/s1570-6672(09)60076-3)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~
@@ -1444,7 +1488,7 @@ hascode = false
 - **Authors**: J.M. Arroyo, F.D. Galiana
 - **Published in**: IEEE Transactions on Power Systems, 20(2), 789–797, 2005.
 - **DOI**: [https://doi.org/10.1109/tpwrs.2005.846198](https://doi.org/10.1109/tpwrs.2005.846198)
-- [Get bib file](/bib-files/O/2005_1.bib)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~
@@ -1730,7 +1774,7 @@ hascode = false
 - **Authors**: Jane J. Ye
 - **Published in**: SIAM Journal on Control and Optimization, 35(2), 512–531, 1997.
 - **DOI**: [https://doi.org/10.1137/s0363012993256150](https://doi.org/10.1137/s0363012993256150)
-- [Get bib file](/bib-files/O/1997_62.bib)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~
@@ -2137,7 +2181,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.1021/acs.iecr.5b03122.s001](https://doi.org/10.1021/acs.iecr.5b03122.s001)
-- [Get bib file](/bib-files/O/1997_62.bib)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~

@@ -10,6 +10,39 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Handling Imbalanced Classification Problems With Support Vector Machines via Evolutionary Bilevel Optimization
+- **Authors**: Alejandro Rosales-Perez, Salvador Garcia, Francisco Herrera
+- **Published in**: IEEE Transactions on Cybernetics, 1–13, 2022.
+- **DOI**: [https://doi.org/10.1109/tcyb.2022.3163974](https://doi.org/10.1109/tcyb.2022.3163974)
+- [Get bib file](/bib-files/H/2010_44.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Hybrid Multi-Task Learning Framework Based on Constrained Bi-Level Gradient Optimization for Mechanical Fault Diagnosis
+- **Authors**: Laifa Tao, Xuanyuan Su, Mingliang Suo, Xuyang Pu, Chen Lu, Dengwei Song
+- **Published in**: {SSRN} Electronic Journal, 2022.
+- **DOI**: [https://doi.org/10.2139/ssrn.4129839](https://doi.org/10.2139/ssrn.4129839)
+- [Get bib file](/bib-files/H/Tao_2022_44.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Handling Sequence-dependent Setup Time Flexible Job Shop Problem with Learning and Deterioration Considerations using Evolutionary Bi-level Optimization
+- **Authors**: Ameni Azzouz, Abir Chaabani, Meriem Ennigrou, Lamjed Ben Said
+- **Published in**: Applied Artificial Intelligence, 34(6), 433–455, 2020.
+- **DOI**: [https://doi.org/10.1080/08839514.2020.1723871](https://doi.org/10.1080/08839514.2020.1723871)
+- [Get bib file](/bib-files/H/2010_44.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### HyperFDA
 - **Authors**: Léo Souquet, Nadiya Shvai, Arcadi Llanza, Amir Nakib
 - **Published in**: Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion, 2020.
@@ -235,6 +268,17 @@ hascode = false
 - **Published in**: 2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific (ITEC Asia-Pacific), 2014.
 - **DOI**: [https://doi.org/10.1109/itec-ap.2014.6940661](https://doi.org/10.1109/itec-ap.2014.6940661)
 - [Get bib file](/bib-files/H/Ruoxi_Dong_2014_65.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Hybrid particle swarm optimization and differential evolution algorithm for bi-level programming problem and its application to pricing and lot-sizing decisions
+- **Authors**: Weimin Ma, Miaomiao Wang, Xiaoxi Zhu
+- **Published in**: Journal of Intelligent Manufacturing, 26(3), 471–483, 2013.
+- **DOI**: [https://doi.org/10.1007/s10845-013-0803-5](https://doi.org/10.1007/s10845-013-0803-5)
+- [Get bib file](/bib-files/H/2013_39.bib)
 ~~~
 </div>
 ~~~

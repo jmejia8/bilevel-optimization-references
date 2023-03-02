@@ -10,6 +10,39 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Iterative optimization of a bi-level formulation to identify severe contingencies in power transmission systems
+- **Authors**: Abbas Zare Ghaleh Seyyedi, Mohammad Javad Armand, Saeid Shahmoradi, Sara Mahmoudi Rashid, Ehsan Akbari, Ali Jawad Kadhim Al-Hassanawy
+- **Published in**: International Journal of Electrical Power &amp; Energy Systems, 145, 108670, 2023.
+- **DOI**: [https://doi.org/10.1016/j.ijepes.2022.108670](https://doi.org/10.1016/j.ijepes.2022.108670)
+- [Get bib file](/bib-files/I/2023_5.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Integrated control of traffic signal and automated vehicles for mixed traffic: Platoon-based bi-level optimization approach
+- **Authors**: Yangang Zou, Fangfang Zheng, Zhichen Fan, Youhua Tang
+- **Published in**: 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC), 2022.
+- **DOI**: [https://doi.org/10.1109/itsc55140.2022.9922535](https://doi.org/10.1109/itsc55140.2022.9922535)
+- [Get bib file](/bib-files/I/2020_27.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Interaction-Aware Game-Theoretic Motion Planning for Automated Vehicles using Bi-level Optimization
+- **Authors**: Christoph Burger, Johannes Fischer, Frank Bieder, Omer Sahin Tas, Christoph Stiller
+- **Published in**: In 2022 {IEEE} 25th International Conference on Intelligent Transportation Systems ({ITSC}), 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/itsc55140.2022.9922600](https://doi.org/10.1109/itsc55140.2022.9922600)
+- [Get bib file](/bib-files/I/Burger_2022_33.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Introduction
 - **Authors**: Neculai Andrei
 - **Published in**: A Derivative-free Two Level Random Search Method for Unconstrained Optimization, 1–17, 2021.
@@ -32,6 +65,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Improved Penalty Method via Doubly Stochastic Gradients for Bilevel Hyperparameter Optimization
+- **Authors**: Wanli Shi, Bin Gu
+- **Published in**: Proceedings of the {AAAI} Conference on Artificial Intelligence, 35(11), 9621–9629, 2021.
+- **DOI**: [https://doi.org/10.1609/aaai.v35i11.17158](https://doi.org/10.1609/aaai.v35i11.17158)
+- [Get bib file](/bib-files/I/Shi_2021_0.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Investigation of butterfly optimization and gases Brownian motion optimization algorithms for optimal multilevel image thresholding
 - **Authors**: Kotte Sowjanya, Satish Kumar Injeti
 - **Published in**: Expert Systems with Applications, 182, 115286, 2021.
@@ -48,6 +92,17 @@ hascode = false
 - **Published in**: IOP Conference Series: Earth and Environmental Science, 632, 042032, 2021.
 - **DOI**: [https://doi.org/10.1088/1755-1315/632/4/042032](https://doi.org/10.1088/1755-1315/632/4/042032)
 - [Get bib file](/bib-files/I/Zhu_2021_342.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Incorporating Non-Convex Operating Characteristics Into Bi-Level Optimization Electricity Market Models
+- **Authors**: Yujian Ye, Dimitrios Papadaskalopoulos, Jalal Kazempour, Goran Strbac
+- **Published in**: IEEE Transactions on Power Systems, 35(1), 163–176, 2020.
+- **DOI**: [https://doi.org/10.1109/tpwrs.2019.2925317](https://doi.org/10.1109/tpwrs.2019.2925317)
+- [Get bib file](/bib-files/I/2020_27.bib)
 ~~~
 </div>
 ~~~
@@ -718,7 +773,7 @@ hascode = false
 - **Authors**: Elshafei, EL-Sherbeny
 - **Published in**: Trends in Applied Sciences Research, 3(2), 154–164, 2008.
 - **DOI**: [https://doi.org/10.3923/tasr.2008.154.164](https://doi.org/10.3923/tasr.2008.154.164)
-- [Get bib file](/bib-files/I/Aussel_2019_385.bib)
+- [Get bib file](/bib-files/I/2022_8.bib)
 ~~~
 </div>
 ~~~

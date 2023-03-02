@@ -10,11 +10,231 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bi-level programming model approach for electric vehicle charging stations considering user charging costs
+- **Authors**: Jiyong Li, Chengye Liu, Yasai Wang, Ran Chen, Xiaoshuai Xu
+- **Published in**: Electric Power Systems Research, 214, 108889, 2023.
+- **DOI**: [https://doi.org/10.1016/j.epsr.2022.108889](https://doi.org/10.1016/j.epsr.2022.108889)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level Multidisciplinary Design Optimization of a Wing Considering Maneuver Load Alleviation and Flutter
+- **Authors**: Bernardo Bahia Monteiro, Alasdair C. Gray, Carlos E. Cesnik, Ilya Kolmanovsky, Fabio Vetrano
+- **Published in**: In {AIAA} {SCITECH} 2023 Forum, 2023. American Institute of Aeronautics and Astronautics.
+- **DOI**: [https://doi.org/10.2514/6.2023-0728](https://doi.org/10.2514/6.2023-0728)
+- [Get bib file](/bib-files/B/Bahia_Monteiro_2023_53.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level Dynamic Optimization of Path-Constrained Switched Systems
+- **Authors**: Jun Fu, Chi Zhang
+- **Published in**: In Dynamic Optimization of Path-Constrained Switched Systems, editors, 31–60. Springer Nature Switzerland, 2023.
+- **DOI**: [https://doi.org/10.1007/978-3-031-23428-6_2](https://doi.org/10.1007/978-3-031-23428-6_2)
+- [Get bib file](/bib-files/B/Fu_2023_7.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel optimization model for sizing of battery energy storage systems in a microgrid considering their economical operation
+- **Authors**: Ryosuke Hayashi, Hirotaka Takano, Welma Mogiti Nyabuto, Hiroshi Asano, Tuyen Nguyen-Duc
+- **Published in**: Energy Reports, 9, 728–737, 2023.
+- **DOI**: [https://doi.org/10.1016/j.egyr.2022.11.069](https://doi.org/10.1016/j.egyr.2022.11.069)
+- [Get bib file](/bib-files/B/Hayashi_2023_8.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel integer linear models for ranking items and sets
+- **Authors**: Martine Labbé, Mercedes Landete, Juan F. Monge
+- **Published in**: Operations Research Perspectives, 100271, 2023.
+- **DOI**: [https://doi.org/10.1016/j.orp.2023.100271](https://doi.org/10.1016/j.orp.2023.100271)
+- [Get bib file](/bib-files/B/Labb__2023_1.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel Optimization Methods in Imaging
+- **Authors**: Juan Carlos De Reyes, David Villac\'{ı}s
+- **Published in**: In Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, editors, 909–941. Springer International Publishing, 2023.
+- **DOI**: [https://doi.org/10.1007/978-3-030-98661-2_66](https://doi.org/10.1007/978-3-030-98661-2_66)
+- [Get bib file](/bib-files/B/Reyes_2023_5.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel optimization model for maritime emissions reduction
+- **Authors**: Raymond R. Tan, Ivan Henderson V. Gue, John Frederick D. Tapia, Kathleen B. Aviso
+- **Published in**: Journal of Cleaner Production, 136589, 2023.
+- **DOI**: [https://doi.org/10.1016/j.jclepro.2023.136589](https://doi.org/10.1016/j.jclepro.2023.136589)
+- [Get bib file](/bib-files/B/Tan_2023_0.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel Fuzzy Clustering Via Adaptive Similarity Graphs Fusion
+- **Authors**: Yinping Zhao, Yongyong Chen, Chuanbin Zhang, Long Chen, Yue Zhao
+- **Published in**: {SSRN} Electronic Journal, 2023.
+- **DOI**: [https://doi.org/10.2139/ssrn.4353519](https://doi.org/10.2139/ssrn.4353519)
+- [Get bib file](/bib-files/B/Zhao_2013_52.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bilevel Optimization of Taxing Strategies for Carbon Emissions Using Fuzzy Random Matrix Generators
 - **Authors**: Timothy Ganesan, Irraivan Elamvazuthi
 - **Published in**: Advances in Human Services and Public Health, 210–234, 2022.
 - **DOI**: [https://doi.org/10.4018/978-1-7998-7176-7.ch010](https://doi.org/10.4018/978-1-7998-7176-7.ch010)
-- [Get bib file](/bib-files/B/1_260.bib)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level optimization of ship transportation by collision avoidance and fuel consumption
+- **Authors**: Blagovest Belev, Todor Stoilov, Krasimira Stoilova
+- **Published in**: In 2022 8th International Conference on Energy Efficiency and Agricultural Engineering ({EE}{&}amp$\mathsemicolon${AE}), 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/eeae53789.2022.9831290](https://doi.org/10.1109/eeae53789.2022.9831290)
+- [Get bib file](/bib-files/B/Belev_2022_43.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level multi-objective programming approach for bioenergy production optimization towards co-digestion of kitchen waste and rice straw
+- **Authors**: Yidan Huang, Jiuping Xu
+- **Published in**: Fuel, 316, 123117, 2022.
+- **DOI**: [https://doi.org/10.1016/j.fuel.2021.123117](https://doi.org/10.1016/j.fuel.2021.123117)
+- [Get bib file](/bib-files/B/Hua_ling_2006_77.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-Level Optimization Framework for Heavy-Duty Electric Truck Charging Station Design
+- **Authors**: Derek Jackson, Yue Cao, Ian Beil
+- **Published in**: In 2022 {IEEE} Transportation Electrification Conference {&}amp$\mathsemicolon$ Expo ({ITEC}), 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/itec53557.2022.9813815](https://doi.org/10.1109/itec53557.2022.9813815)
+- [Get bib file](/bib-files/B/Jackson_2022_15.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level optimization of resource allocation and appliance scheduling in residential areas using a Fog of Things ({FOT}) framework
+- **Authors**: Ankur Jain, Chandrashekar Jatoth, G. R. Gangadharan
+- **Published in**: Cluster Computing, 2022.
+- **DOI**: [https://doi.org/10.1007/s10586-022-03912-9](https://doi.org/10.1007/s10586-022-03912-9)
+- [Get bib file](/bib-files/B/Jackson_2022_15.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level Optimization of Energy Storage Considering Flexibility and New Energy Consumption
+- **Authors**: Xu Ling, Yingjie Liu, Hongkun Chen, Yuan Tian, Xiongguang Zhao, Bing Liu
+- **Published in**: In 2022 5th International Conference on Energy, Electrical and Power Engineering ({CEEPE}), 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/ceepe55110.2022.9783442](https://doi.org/10.1109/ceepe55110.2022.9783442)
+- [Get bib file](/bib-files/B/Lang_2019_58.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-Level Volt/{VAR} Optimization in Distribution Networks With Smart {PV} Inverters
+- **Authors**: Yao Long, Daniel S. Kirschen
+- **Published in**: {IEEE} Transactions on Power Systems, 37(5), 3604–3613, 2022.
+- **DOI**: [https://doi.org/10.1109/tpwrs.2022.3142105](https://doi.org/10.1109/tpwrs.2022.3142105)
+- [Get bib file](/bib-files/B/Long_2019_139.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level energy optimization model in smart integrated engineering systems using {WSN}
+- **Authors**: Ajay P., Nagaraj B., Jaya J.
+- **Published in**: Energy Reports, 8, 2490–2495, 2022.
+- **DOI**: [https://doi.org/10.1016/j.egyr.2022.01.183](https://doi.org/10.1016/j.egyr.2022.01.183)
+- [Get bib file](/bib-files/B/P__2022_13.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-objective Optimization for Energy Efficiency and Centralization Level in Virtualized {RAN}
+- **Authors**: William Pires, Gabriel Almeida, Sand Correa, Cristiano Both, Leizer Pinto, Kleber Cardoso
+- **Published in**: In {ICC} 2022 - {IEEE} International Conference on Communications, 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/icc45855.2022.9838898](https://doi.org/10.1109/icc45855.2022.9838898)
+- [Get bib file](/bib-files/B/Pires_2022_26.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-Level Dispatching Optimization Model for Photovoltaic Microgrid with Vehicle-to-Grid(V2g) Considering the Uncertainty
+- **Authors**: Ruifeng Shi, Penghui Zhang
+- **Published in**: {SSRN} Electronic Journal, 2022.
+- **DOI**: [https://doi.org/10.2139/ssrn.4060913](https://doi.org/10.2139/ssrn.4060913)
+- [Get bib file](/bib-files/B/Sa_idah_2017_103.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level Optimization Model for Power Distribution Considering Multiple Stakeholders
+- **Authors**: Mingcong Tan, Lingling Wang, Chuanwen Jiang
+- **Published in**: In 2022 China International Conference on Electricity Distribution ({CICED}), 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/ciced56215.2022.9929240](https://doi.org/10.1109/ciced56215.2022.9929240)
+- [Get bib file](/bib-files/B/Tan_2016_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level Optimization Model of {PMU} Fault Recovery Based on Observability
+- **Authors**: Fei Xue, Xiaoli Wang, Xin Ma, Hongqiang Li
+- **Published in**: Journal of Physics: Conference Series, 2401(1), 012068, 2022.
+- **DOI**: [https://doi.org/10.1088/1742-6596/2401/1/012068](https://doi.org/10.1088/1742-6596/2401/1/012068)
+- [Get bib file](/bib-files/B/Xue_2022_49.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-Level Power Management Strategies Optimization for Multi-Stack Fuel Cell System-Battery Hybrid Power Systems
+- **Authors**: Gang Zhang, Su Zhou, Lei Fan, Jianhua Gao, Zhengchun Xie
+- **Published in**: {SSRN} Electronic Journal, 2022.
+- **DOI**: [https://doi.org/10.2139/ssrn.4129107](https://doi.org/10.2139/ssrn.4129107)
+- [Get bib file](/bib-files/B/Zhang_2008_15.bib)
 ~~~
 </div>
 ~~~
@@ -25,7 +245,40 @@ hascode = false
 - **Authors**: Yuan Yan, Qin Zhou, Shi Cheng, Qunfeng Liu, Yun Li
 - **Published in**: Soft Computing, 25(22), 14357–14374, 2021.
 - **DOI**: [https://doi.org/10.1007/s00500-021-06169-3](https://doi.org/10.1007/s00500-021-06169-3)
-- [Get bib file](/bib-files/B/1_260.bib)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel Optimization Methods in Imaging
+- **Authors**: Juan Carlos De Reyes, David Villac\'{ı}s
+- **Published in**: In Handbook of Mathematical Models and Algorithms in Computer Vision and Imaging, editors, 1–34. Springer International Publishing, 2021.
+- **DOI**: [https://doi.org/10.1007/978-3-030-03009-4_66-1](https://doi.org/10.1007/978-3-030-03009-4_66-1)
+- [Get bib file](/bib-files/B/De_los_Reyes_2021_1.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level optimization model for regional energy system planning under demand response scenarios
+- **Authors**: Yan Ding, Xiaoting Wei
+- **Published in**: Journal of Cleaner Production, 323, 129009, 2021.
+- **DOI**: [https://doi.org/10.1016/j.jclepro.2021.129009](https://doi.org/10.1016/j.jclepro.2021.129009)
+- [Get bib file](/bib-files/B/Ding_2006_147.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-Level Multi-Objective Optimization Scheduling for Regional Integrated Energy Systems Based on Quantum Evolutionary Algorithm
+- **Authors**: Wen Fan, Qing Liu, Mingyu Wang
+- **Published in**: Energies, 14(16), 4740, 2021.
+- **DOI**: [https://doi.org/10.3390/en14164740](https://doi.org/10.3390/en14164740)
+- [Get bib file](/bib-files/B/Fan_2021_19.bib)
 ~~~
 </div>
 ~~~
@@ -37,6 +290,28 @@ hascode = false
 - **Published in**: European Journal of Science and Technology, 2021.
 - **DOI**: [https://doi.org/10.31590/ejosat.953349](https://doi.org/10.31590/ejosat.953349)
 - [Get bib file](/bib-files/B/K_SE_ULUK_K_2021_291.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level optimization of long-term highway work zone scheduling considering elastic demand
+- **Authors**: Yang Li, Wei Fan
+- **Published in**: Smart and Resilient Transportation, 3(2), 118–130, 2021.
+- **DOI**: [https://doi.org/10.1108/srt-01-2021-0004](https://doi.org/10.1108/srt-01-2021-0004)
+- [Get bib file](/bib-files/B/K_SE_ULUK_K_2021_291.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-Level Optimization of Multi-Regional Power System Considering Low-Carbon Oriented Synergy of Both Source and Load Sides
+- **Authors**: Wang Liao, Dong Liu, Yufeng Wu, Qiang Fan
+- **Published in**: {SSRN} Electronic Journal, 2021.
+- **DOI**: [https://doi.org/10.2139/ssrn.3974728](https://doi.org/10.2139/ssrn.3974728)
+- [Get bib file](/bib-files/B/Liao_2021_35.bib)
 ~~~
 </div>
 ~~~
@@ -59,6 +334,28 @@ hascode = false
 - **Published in**: Comparative Research on Earnings Management, Corporate Governance, and Economic Value, 104–124, 2021.
 - **DOI**: [https://doi.org/10.4018/978-1-7998-7596-3.ch006](https://doi.org/10.4018/978-1-7998-7596-3.ch006)
 - [Get bib file](/bib-files/B/Singh_2021_109.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-Level Optimization Model for Urban Traffic Control
+- **Authors**: Krasimira Stoilova, Todor Stoilov, Stanislav Dimitrov
+- **Published in**: Cybernetics and Information Technologies, 21(3), 108–126, 2021.
+- **DOI**: [https://doi.org/10.2478/cait-2021-0033](https://doi.org/10.2478/cait-2021-0033)
+- [Get bib file](/bib-files/B/Stoilova_2017_168.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level optimization approach for robust mean-variance problems
+- **Authors**: Pulak Swain, Akshay Kumar Ojha
+- **Published in**: {RAIRO} - Operations Research, 55(5), 2941–2961, 2021.
+- **DOI**: [https://doi.org/10.1051/ro/2021129](https://doi.org/10.1051/ro/2021129)
+- [Get bib file](/bib-files/B/Saranwong_2017_195.bib)
 ~~~
 </div>
 ~~~
@@ -120,11 +417,22 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bi-level scheduling optimization of integrated energy system considering waste power plant
+- **Authors**: Xueying Zhuge, Chaobo Liu, Guotian Yang, Xinli Li
+- **Published in**: In 2021 2nd International Conference on Big Data {&}amp$\mathsemicolon$ Artificial Intelligence {&}amp$\mathsemicolon$ Software Engineering ({ICBASE}), 2021. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/icbase53849.2021.00126](https://doi.org/10.1109/icbase53849.2021.00126)
+- [Get bib file](/bib-files/B/Zhuge_2021_36.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bilevel Optimization
 - **Authors**: 
 - **Published in**: Springer International Publishing, 2020.
 - **DOI**: [https://doi.org/10.1007/978-3-030-52119-6](https://doi.org/10.1007/978-3-030-52119-6)
-- [Get bib file](/bib-files/B/1_260.bib)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~
@@ -168,7 +476,7 @@ hascode = false
 - **Authors**: Benjamin E. Deloso, Thomas E. Marler
 - **Published in**: Biology, 9(10), 333, 2020.
 - **DOI**: [https://doi.org/10.3390/biology9100333](https://doi.org/10.3390/biology9100333)
-- [Get bib file](/bib-files/B/Deloso_2020_268.bib)
+- [Get bib file](/bib-files/B/De_los_Reyes_2021_1.bib)
 ~~~
 </div>
 ~~~
@@ -373,6 +681,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bi-level optimization based on fuzzy if-then rule
+- **Authors**: Vishnu Pratap Singh, Debjani Chakraborty
+- **Published in**: Croatian Operational Research Review, 10(2), 315–328, 2019.
+- **DOI**: [https://doi.org/10.17535/crorr.2019.0025](https://doi.org/10.17535/crorr.2019.0025)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### B-POP: Bi-level parametric optimization toolbox
 - **Authors**: Styliani Avraamidou, Efstratios N. Pistikopoulos
 - **Published in**: Computers & Chemical Engineering, 122, 193–202, 2019.
@@ -565,6 +884,17 @@ hascode = false
 - **Published in**: 4OR, 18(2), 151–175, 2019.
 - **DOI**: [https://doi.org/10.1007/s10288-019-00407-z](https://doi.org/10.1007/s10288-019-00407-z)
 - [Get bib file](/bib-files/B/Zhou_2016_396.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level optimization model for integrated energy system considering the thermal comfort of heat customers
+- **Authors**: Chenyu Wu, Wei Gu, Yinliang Xu, Ping Jiang, Shuai Lu, Bo Zhao
+- **Published in**: Applied Energy, 232, 607–616, 2018.
+- **DOI**: [https://doi.org/10.1016/j.apenergy.2018.09.212](https://doi.org/10.1016/j.apenergy.2018.09.212)
+- [Get bib file](/bib-files/B/1.67771370578814e92022_21.bib)
 ~~~
 </div>
 ~~~
@@ -773,7 +1103,7 @@ hascode = false
 - **Authors**: Xiaohu Zhang, Di Shi, Zhiwei Wang, Zhe Yu, Xinan Wang, Desong Bian, Kevin Tomsovic
 - **Published in**: 2017 North American Power Symposium (NAPS), 2017.
 - **DOI**: [https://doi.org/10.1109/naps.2017.8107289](https://doi.org/10.1109/naps.2017.8107289)
-- [Get bib file](/bib-files/B/2017_45.bib)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~
@@ -1059,7 +1389,7 @@ hascode = false
 - **Authors**: Xiaoyang Zhou, Rui Luo, Canhui Zhao, Xiaohua Xia, Benjamin Lev, Jian Chai, Richard Li
 - **Published in**: Scientific Programming, 2016, 1–14, 2016.
 - **DOI**: [https://doi.org/10.1155/2016/4795101](https://doi.org/10.1155/2016/4795101)
-- [Get bib file](/bib-files/B/1_260.bib)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~
@@ -1268,7 +1598,7 @@ hascode = false
 - **Authors**: Ricardo Fernández-Blanco, JoséM. Arroyo, Natalia Alguacil
 - **Published in**: EURO Journal on Computational Optimization, 3(3), 163–195, 2015.
 - **DOI**: [https://doi.org/10.1007/s13675-015-0037-8](https://doi.org/10.1007/s13675-015-0037-8)
-- [Get bib file](/bib-files/B/2015_36.bib)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~
@@ -1477,7 +1807,7 @@ hascode = false
 - **Authors**: S. V. Ivanov
 - **Published in**: Automation and Remote Control, 75(1), 107–118, 2014.
 - **DOI**: [https://doi.org/10.1134/s0005117914010081](https://doi.org/10.1134/s0005117914010081)
-- [Get bib file](/bib-files/B/2014_10.bib)
+- [Get bib file](/bib-files/B/1.67771370578814e92022_21.bib)
 ~~~
 </div>
 ~~~
@@ -1968,6 +2298,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bi-Level Optimization Model for Daily Operation with Heterogeneous Hydropower Units in Multiple Reservoirs with Application to the Three Gorges-Gezhouba Cascade Power Stations
+- **Authors**: Fangfang Li, Christine A. Shoemaker, Jiahua Wei
+- **Published in**: World Environmental and Water Resources Congress 2011, 2011.
+- **DOI**: [https://doi.org/10.1061/41173(414)307](https://doi.org/10.1061/41173(414)307)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bi-level optimization for risk-based regional hurricane evacuation planning
 - **Authors**: Pruttipong Apivatanagul, Rachel A. Davidson, Linda K. Nozick
 - **Published in**: Natural Hazards, 60(2), 567–588, 2011.
@@ -2105,6 +2446,17 @@ hascode = false
 - **Published in**: ICTE 2011, 2011.
 - **DOI**: [https://doi.org/10.1061/41184(419)534](https://doi.org/10.1061/41184(419)534)
 - [Get bib file](/bib-files/B/Zhang_2008_15.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bi-level fuzzy optimization approach for water exchange in eco-industrial parks
+- **Authors**: Kathleen B. Aviso, Raymond R. Tan, Alvin B. Culaba, Jose B. Cruz
+- **Published in**: Process Safety and Environmental Protection, 88(1), 31–40, 2010.
+- **DOI**: [https://doi.org/10.1016/j.psep.2009.11.003](https://doi.org/10.1016/j.psep.2009.11.003)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~
@@ -2531,6 +2883,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bi-level Programming Formulation and Heuristic Solution Approach for Dynamic Traffic Signal Optimization
+- **Authors**: Dazhi Sun, Rahim F. Benekohal, S. Travis Waller
+- **Published in**: Computer-Aided Civil and Infrastructure Engineering, 21(5), 321–333, 2006.
+- **DOI**: [https://doi.org/10.1111/j.1467-8667.2006.00439.x](https://doi.org/10.1111/j.1467-8667.2006.00439.x)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bilevel Negotiation Protocol for Multiagent Simulation of Housing Transactions and Market Clearing Processes
 - **Authors**: Oswald Devisch, Theo Arentze, Aloys Borgers, Harry Timmermans
 - **Published in**: Transportation Research Record: Journal of the Transportation Research Board, 1977(1), 84–92, 2006.
@@ -2623,7 +2986,7 @@ hascode = false
 - **Authors**: D. Moitre, G. Garcia, V. Sauchelli
 - **Published in**: IEEE Latin America Transactions, 3(2), 172–177, 2005.
 - **DOI**: [https://doi.org/10.1109/tla.2005.1642409](https://doi.org/10.1109/tla.2005.1642409)
-- [Get bib file](/bib-files/B/Moitre_2005_90.bib)
+- [Get bib file](/bib-files/B/Bahia_Monteiro_2023_53.bib)
 ~~~
 </div>
 ~~~
@@ -2701,6 +3064,17 @@ hascode = false
 - **Published in**: Journal of Optimization Theory and Applications, 110(2), 265–288, 2001.
 - **DOI**: [https://doi.org/10.1023/a:1017571111854](https://doi.org/10.1023/a:1017571111854)
 - [Get bib file](/bib-files/B/Dempe_2001_215.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel fractional programming$\mathsemicolon$ Farkas lemma$\mathsemicolon$ Farkas lemma: Generalizations$\mathsemicolon$ Fractional combinatorial optimization$\mathsemicolon$ Quadratic fractional programming: Dinkelbach {methodBilevel} fractional programming$\mathsemicolon$ Fractional combinatorial optimization$\mathsemicolon$ Quadratic fractional programming: Dinkelbach {methodFRACTIONAL} {PROGRAMMING}
+- **Authors**: Hans Frenk, Siegfried Schaible
+- **Published in**: In Encyclopedia of Optimization, editors, 702–712. Springer {US}, 2001.
+- **DOI**: [https://doi.org/10.1007/0-306-48332-7_145](https://doi.org/10.1007/0-306-48332-7_145)
+- [Get bib file](/bib-files/B/Frenk_2001_0.bib)
 ~~~
 </div>
 ~~~
@@ -2799,7 +3173,7 @@ hascode = false
 - **Authors**: Athanasios Migdalas
 - **Published in**: Journal of Global Optimization, 7(4), 381–405, 1995.
 - **DOI**: [https://doi.org/10.1007/bf01099649](https://doi.org/10.1007/bf01099649)
-- [Get bib file](/bib-files/B/1990_15.bib)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~
@@ -2810,7 +3184,7 @@ hascode = false
 - **Authors**: Lu�s N. Vicente, Paul H. Calamai
 - **Published in**: Journal of Global Optimization, 5(3), 291–306, 1994.
 - **DOI**: [https://doi.org/10.1007/bf01096458](https://doi.org/10.1007/bf01096458)
-- [Get bib file](/bib-files/B/1994_68.bib)
+- [Get bib file](/bib-files/B/1.67771370578814e92022_21.bib)
 ~~~
 </div>
 ~~~
@@ -2854,7 +3228,7 @@ hascode = false
 - **Authors**: P.A. Clark, A.W. Westerberg
 - **Published in**: Computers & Chemical Engineering, 14(1), 87–97, 1990.
 - **DOI**: [https://doi.org/10.1016/0098-1354(90)87007-c](https://doi.org/10.1016/0098-1354(90)87007-c)
-- [Get bib file](/bib-files/B/1990_15.bib)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~
@@ -2927,11 +3301,11 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Bi-Objective Optimization of Interplant Integration Using Pinch Analysis
+### Bi-Level Poisoning Attack Model and Countermeasure for Appliance Consumption Data of Smart Homes
 - **Authors**: 
 - **Published in**: 
-- **DOI**: [https://doi.org/10.1021/acs.iecr.9b04197.s001](https://doi.org/10.1021/acs.iecr.9b04197.s001)
-- [Get bib file](/bib-files/B/1990_15.bib)
+- **DOI**: [https://doi.org/10.37473/dac/10.3390/en14133887](https://doi.org/10.37473/dac/10.3390/en14133887)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~

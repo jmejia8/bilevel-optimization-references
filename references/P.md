@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Projection-Free Stochastic Bi-Level Optimization
+- **Authors**: Zeeshan Akhtar, Amrit Singh Bedi, Srujan Teja Thomdapu, Ketan Rajawat
+- **Published in**: IEEE Transactions on Signal Processing, 70, 6332–6347, 2022.
+- **DOI**: [https://doi.org/10.1109/tsp.2023.3234462](https://doi.org/10.1109/tsp.2023.3234462)
+- [Get bib file](/bib-files/P/2012_124.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Pseudo-feasible solutions in evolutionary bilevel optimization: Test problems and performance assessment
 - **Authors**: Jesús-Adolfo Mejía-de-Dios, Efrén Mezura-Montes, Porfirio Toledo-Hernández
 - **Published in**: Applied Mathematics and Computation, 412, 126577, 2022.
@@ -839,7 +850,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 1998.
 - **DOI**: [https://doi.org/10.1109/hips.1998](https://doi.org/10.1109/hips.1998)
-- [Get bib file](/bib-files/P/1998_58.bib)
+- [Get bib file](/bib-files/P/1983_4.bib)
 ~~~
 </div>
 ~~~
@@ -906,6 +917,17 @@ hascode = false
 - **Published in**: An Introduction to Low Level Programming for Microprocessors, 73–85, 1987.
 - **DOI**: [https://doi.org/10.1007/978-1-349-09355-7_7](https://doi.org/10.1007/978-1-349-09355-7_7)
 - [Get bib file](/bib-files/P/Cluley_1987_5.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Probabilistic prospects of Stackelberg leader and follower
+- **Authors**: A. Alkan, T. Brown, M. R. Sertel
+- **Published in**: Journal of Optimization Theory and Applications, 39(3), 379–389, 1983.
+- **DOI**: [https://doi.org/10.1007/bf00934544](https://doi.org/10.1007/bf00934544)
+- [Get bib file](/bib-files/P/1983_4.bib)
 ~~~
 </div>
 ~~~

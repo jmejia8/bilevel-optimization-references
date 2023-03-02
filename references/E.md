@@ -10,10 +10,32 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Existence of solutions for a class of bilevel stochastic linear programs
-- **Authors**: Matthias Claus
-- **Published in**: European Journal of Operational Research, 299(2), 542–549, 2022.
-- **DOI**: [https://doi.org/10.1016/j.ejor.2021.12.004](https://doi.org/10.1016/j.ejor.2021.12.004)
+### Evolutionary Bi-level Optimization via Multi-objective Transformation-Based Lower Level Search
+- **Authors**: Lei Chen, Hai-Lin Liu, Ke Li, Kay Chen Tan
+- **Published in**: {IEEE} Transactions on Evolutionary Computation, 1–1, 2023.
+- **DOI**: [https://doi.org/10.1109/tevc.2023.3236455](https://doi.org/10.1109/tevc.2023.3236455)
+- [Get bib file](/bib-files/E/Chen_2023_52.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Efficient Meta label correction based on Meta Learning and bi-level optimization
+- **Authors**: Soufiane Mallem, Abul Hasnat, Amir Nakib
+- **Published in**: Engineering Applications of Artificial Intelligence, 117, 105517, 2023.
+- **DOI**: [https://doi.org/10.1016/j.engappai.2022.105517](https://doi.org/10.1016/j.engappai.2022.105517)
+- [Get bib file](/bib-files/E/Mallem_2023_38.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Efficient Formulations for a Class of Bilevel Hub Network Interdiction Problems
+- **Authors**: Prasanna Ramamoorthy, Sachin Jayaswal, Ankur Sinha, Navneet Vidyarthi
+- **Published in**: SSRN Electronic Journal, 2022.
+- **DOI**: [https://doi.org/10.2139/ssrn.4207542](https://doi.org/10.2139/ssrn.4207542)
 - [Get bib file](/bib-files/E/1992_20.bib)
 ~~~
 </div>
@@ -48,6 +70,17 @@ hascode = false
 - **Published in**: 2020 IEEE International Conference on Robotics and Automation (ICRA), 2020.
 - **DOI**: [https://doi.org/10.1109/icra40945.2020.9196789](https://doi.org/10.1109/icra40945.2020.9196789)
 - [Get bib file](/bib-files/E/Tang_2020_342.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Estimating the geographic distribution of originating air travel demand using a bi-level optimization model
+- **Authors**: Tao Li, Yan Wan
+- **Published in**: Transportation Research Part E: Logistics and Transportation Review, 131, 267–291, 2019.
+- **DOI**: [https://doi.org/10.1016/j.tre.2019.09.018](https://doi.org/10.1016/j.tre.2019.09.018)
+- [Get bib file](/bib-files/E/1992_20.bib)
 ~~~
 </div>
 ~~~
@@ -202,6 +235,17 @@ hascode = false
 - **Published in**: Adaptation, Learning, and Optimization, 71–103, 2016.
 - **DOI**: [https://doi.org/10.1007/978-3-319-42978-6_3](https://doi.org/10.1007/978-3-319-42978-6_3)
 - [Get bib file](/bib-files/E/Sinha_2016_91.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Evolutionary multitasking in bi-level optimization
+- **Authors**: Abhishek Gupta, Jacek Mańdziuk, Yew-Soon Ong
+- **Published in**: Complex &amp; Intelligent Systems, 1(1–4), 83–95, 2015.
+- **DOI**: [https://doi.org/10.1007/s40747-016-0011-y](https://doi.org/10.1007/s40747-016-0011-y)
+- [Get bib file](/bib-files/E/2015_33.bib)
 ~~~
 </div>
 ~~~

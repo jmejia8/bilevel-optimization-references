@@ -10,11 +10,11 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Nonlinear bilevel programming approach for decentralized supply chain using a hybrid state transition algorithm
-- **Authors**: Xiaojun Zhou, Jituo Tian, Zeyu Wang, Chunhua Yang, Tingwen Huang, Xuesong Xu
-- **Published in**: Knowledge-Based Systems, 240, 108119, 2022.
-- **DOI**: [https://doi.org/10.1016/j.knosys.2022.108119](https://doi.org/10.1016/j.knosys.2022.108119)
-- [Get bib file](/bib-files/N/2021_1.bib)
+### Nonlinear optimization in bi-level selective maintenance allocation problem
+- **Authors**: Mohammad Faisal Khan, Umar Muhammad Modibbo, Naeem Ahmad, Irfan Ali
+- **Published in**: Journal of King Saud University - Science, 34(4), 101933, 2022.
+- **DOI**: [https://doi.org/10.1016/j.jksus.2022.101933](https://doi.org/10.1016/j.jksus.2022.101933)
+- [Get bib file](/bib-files/N/2017_14.bib)
 ~~~
 </div>
 ~~~
@@ -25,7 +25,7 @@ hascode = false
 - **Authors**: Mohsen Yazdaninejad, Nima Amjady, Nikos Hatziargyriou
 - **Published in**: IEEE Systems Journal, 1–12, 2021.
 - **DOI**: [https://doi.org/10.1109/jsyst.2021.3085987](https://doi.org/10.1109/jsyst.2021.3085987)
-- [Get bib file](/bib-files/N/2021_1.bib)
+- [Get bib file](/bib-files/N/2017_14.bib)
 ~~~
 </div>
 ~~~
@@ -213,6 +213,17 @@ hascode = false
 - **Published in**: Applied Mathematics and Computation, 320, 240–250, 2018.
 - **DOI**: [https://doi.org/10.1016/j.amc.2017.09.034](https://doi.org/10.1016/j.amc.2017.09.034)
 - [Get bib file](/bib-files/N/Wu_2018_7.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Nested Differential Evolution for Mixed-Integer Bi-level Optimization for Genome-Scale Metabolic Networks
+- **Authors**: Feng-Sheng Wang
+- **Published in**: Advances in Process Systems Engineering, 352–376, 2017.
+- **DOI**: [https://doi.org/10.1142/9789813207523_0012](https://doi.org/10.1142/9789813207523_0012)
+- [Get bib file](/bib-files/N/2017_14.bib)
 ~~~
 </div>
 ~~~

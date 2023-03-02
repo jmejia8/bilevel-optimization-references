@@ -10,11 +10,66 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multi-objective robust optimal bidding strategy for a data center operator based on bi-level optimization
+- **Authors**: Boyu Chen, Yanbo Che, Zhihao Zheng, Shuaijun Zhao
+- **Published in**: Energy, 269, 126761, 2023.
+- **DOI**: [https://doi.org/10.1016/j.energy.2023.126761](https://doi.org/10.1016/j.energy.2023.126761)
+- [Get bib file](/bib-files/M/2003_6.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Modeling 5g Shared Base Station Planning Problemusing an Evolutionary Bi-Level Optimizationalgorithm
+- **Authors**: Lei Chen, Kuntao Li, Hai-Lin Liu
+- **Published in**: SSRN Electronic Journal, 2022.
+- **DOI**: [https://doi.org/10.2139/ssrn.4124949](https://doi.org/10.2139/ssrn.4124949)
+- [Get bib file](/bib-files/M/1_240.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi {VPP} bi-level optimization scheduling method based on complementary water-light-storage system
+- **Authors**: Haoran Ge, Yu Xia, Wenjin Zou, Shaofei Hao, Gang Ma
+- **Published in**: In 2022 {IEEE} 3rd China International Youth Conference on Electrical Engineering ({CIYCEE}), 2022. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/ciycee55749.2022.9959016](https://doi.org/10.1109/ciycee55749.2022.9959016)
+- [Get bib file](/bib-files/M/Ge_2022_41.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Model Predictive Traffic Control by Bi-Level Optimization
+- **Authors**: Krasimira Stoilova, Todor Stoilov
+- **Published in**: Applied Sciences, 12(9), 4147, 2022.
+- **DOI**: [https://doi.org/10.3390/app12094147](https://doi.org/10.3390/app12094147)
+- [Get bib file](/bib-files/M/Stoilova_2022_17.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### MO-BBO: Multi-Objective Bilevel Bayesian Optimization for Robot and Behavior Co-Design
 - **Authors**: Yeonju Kim, Zherong Pan, Kris Hauser
 - **Published in**: 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021.
 - **DOI**: [https://doi.org/10.1109/icra48506.2021.9561846](https://doi.org/10.1109/icra48506.2021.9561846)
 - [Get bib file](/bib-files/M/1_240.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-modal urban transit network design considering reliability: multi-objective bi-level optimization
+- **Authors**: Amir Hossein Barahimi, Alireza Eydi, Abdolah Aghaie
+- **Published in**: Reliability Engineering {&}amp$\mathsemicolon$ System Safety, 216, 107922, 2021.
+- **DOI**: [https://doi.org/10.1016/j.ress.2021.107922](https://doi.org/10.1016/j.ress.2021.107922)
+- [Get bib file](/bib-files/M/Barahimi_2021_47.bib)
 ~~~
 </div>
 ~~~
@@ -142,6 +197,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Modified Tseng{\textquotesingle}s extragradient methods with self-adaptive step size for solving bilevel split variational inequality problems
+- **Authors**: Pham Van Huy, Le Huynh My Van, Nguyen Duc Hien, Tran Viet Anh
+- **Published in**: Optimization, 71(6), 1721–1748, 2020.
+- **DOI**: [https://doi.org/10.1080/02331934.2020.1834557](https://doi.org/10.1080/02331934.2020.1834557)
+- [Get bib file](/bib-files/M/Huy_2020_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multi-Leader Multi-follower Stackelberg Game in Mobile Blockchain Mining
 - **Authors**: Suhan Jiang, Xinyi Li, Jie Wu
 - **Published in**: IEEE Transactions on Mobile Computing, 1–1, 2020.
@@ -197,10 +263,10 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Multilevel and Multiobjective Optimization
-- **Authors**: 
-- **Published in**: 2019.
-- **DOI**: [https://doi.org/10.1002/9781119454816.ch16](https://doi.org/10.1002/9781119454816.ch16)
+### Market-Based Customer Reliability Provision in Distribution Systems Based on Game Theory: A Bi-Level Optimization Approach
+- **Authors**: Rahim Mohammadi, Habib Rajabi Mashhadi, Mohammad Shahidehpour
+- **Published in**: IEEE Transactions on Smart Grid, 10(4), 3840–3848, 2019.
+- **DOI**: [https://doi.org/10.1109/tsg.2018.2839598](https://doi.org/10.1109/tsg.2018.2839598)
 - [Get bib file](/bib-files/M/2019_5.bib)
 ~~~
 </div>
@@ -466,6 +532,17 @@ hascode = false
 - **Published in**: IOP Conference Series: Materials Science and Engineering, 381, 012145, 2018.
 - **DOI**: [https://doi.org/10.1088/1757-899x/381/1/012145](https://doi.org/10.1088/1757-899x/381/1/012145)
 - [Get bib file](/bib-files/M/Wang_2018_336.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Modelling diffusion for multi-generational product planning strategies using bi-level optimization
+- **Authors**: Zhineng Hu, Ning Ma, Wen Gao, Chengwei Lv, Liming Yao
+- **Published in**: Knowledge-Based Systems, 123, 254–266, 2017.
+- **DOI**: [https://doi.org/10.1016/j.knosys.2017.02.022](https://doi.org/10.1016/j.knosys.2017.02.022)
+- [Get bib file](/bib-files/M/2017_55.bib)
 ~~~
 </div>
 ~~~
@@ -895,6 +972,17 @@ hascode = false
 - **Published in**: China Ocean Engineering, 29(4), 599–610, 2015.
 - **DOI**: [https://doi.org/10.1007/s13344-015-0042-y](https://doi.org/10.1007/s13344-015-0042-y)
 - [Get bib file](/bib-files/M/Zhao_2015_54.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-Objective Mechanism Design Using a Bi-Level Game Theoretic Formulation
+- **Authors**: Ehsan Ghotbi
+- **Published in**: Volume 5B: 38th Mechanisms and Robotics Conference, 2014.
+- **DOI**: [https://doi.org/10.1115/detc2014-34561](https://doi.org/10.1115/detc2014-34561)
+- [Get bib file](/bib-files/M/1_240.bib)
 ~~~
 </div>
 ~~~

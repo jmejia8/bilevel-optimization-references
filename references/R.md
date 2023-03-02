@@ -10,11 +10,55 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Revised solution technique for a bi-level location-inventory-routing problem under uncertainty of demand and perishability of products
+- **Authors**: Fezzeh Partovi, Mehdi Seifbarghy, Maryam Esmaeili
+- **Published in**: Applied Soft Computing, 133, 109899, 2023.
+- **DOI**: [https://doi.org/10.1016/j.asoc.2022.109899](https://doi.org/10.1016/j.asoc.2022.109899)
+- [Get bib file](/bib-files/R/2013_43.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Resolvent-Mann-type algorithm for bilevel problems with split feasibility problem constraint
+- **Authors**: Anteneh Getachew Gebrie
+- **Published in**: Computational and Applied Mathematics, 42(1), 2023.
+- **DOI**: [https://doi.org/10.1007/s40314-022-02176-8](https://doi.org/10.1007/s40314-022-02176-8)
+- [Get bib file](/bib-files/R/Gebrie_2023_0.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Robust Solution Approach for Bilevel Demand Response Game at Distribution Level
+- **Authors**: Yang Chen, Kadir Amasyali, Mohammed Olama, Byungkwon Park
+- **Published in**: 2022 IEEE Power &amp; Energy Society General Meeting (PESGM), 2022.
+- **DOI**: [https://doi.org/10.1109/pesgm48719.2022.9916764](https://doi.org/10.1109/pesgm48719.2022.9916764)
+- [Get bib file](/bib-files/R/2011_7.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Realization of bi-level optimization of adaptive building envelope with a finite-difference model featuring short execution time and versatility
+- **Authors**: Zhaoyun Zeng, Godfried Augenbroe, Jianli Chen
+- **Published in**: Energy, 243, 122778, 2022.
+- **DOI**: [https://doi.org/10.1016/j.energy.2021.122778](https://doi.org/10.1016/j.energy.2021.122778)
+- [Get bib file](/bib-files/R/Zeng_2022_34.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### R-Regularity of Set-Valued Mappings Under the Relaxed Constant Positive Linear Dependence Constraint Qualification with Applications to Parametric and Bilevel Optimization
 - **Authors**: Patrick Mehlitz, Leonid I. Minchenko
 - **Published in**: Set-Valued and Variational Analysis, 2021.
 - **DOI**: [https://doi.org/10.1007/s11228-021-00578-0](https://doi.org/10.1007/s11228-021-00578-0)
-- [Get bib file](/bib-files/R/2019_65.bib)
+- [Get bib file](/bib-files/R/2011_7.bib)
 ~~~
 </div>
 ~~~
@@ -54,11 +98,33 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Regularization projection method for solving bilevel variational inequality problem
-- **Authors**: Dang Van Hieu, Abdellatif Moudafi
-- **Published in**: Optimization Letters, 15(1), 205–229, 2020.
-- **DOI**: [https://doi.org/10.1007/s11590-020-01580-5](https://doi.org/10.1007/s11590-020-01580-5)
-- [Get bib file](/bib-files/R/2019_65.bib)
+### Robust Watermarking for Deep Neural Networks via Bi-level Optimization
+- **Authors**: Peng Yang, Yingjie Lao, Ping Li
+- **Published in**: In 2021 {IEEE}/{CVF} International Conference on Computer Vision ({ICCV}), 2021. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/iccv48922.2021.01457](https://doi.org/10.1109/iccv48922.2021.01457)
+- [Get bib file](/bib-files/R/Yang_2018_135.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Research on Energy Community Planning Based on Bi-Level optimization
+- **Authors**: Wenbin Zhao, Li Liu, Tianhe Sun, Duo Wang
+- **Published in**: In 2021 China International Conference on Electricity Distribution ({CICED}), 2021. {IEEE}.
+- **DOI**: [https://doi.org/10.1109/ciced50259.2021.9556827](https://doi.org/10.1109/ciced50259.2021.9556827)
+- [Get bib file](/bib-files/R/Zhao_2021_9.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Real-Coded Quantum Optimization-Based Bi-Level Dispatching Strategy of Integrated Power and Heat systems
+- **Authors**: Bofu Deng, Yun Teng, Qian Hui, Tieyan Zhang, Xiaoyi Qian
+- **Published in**: IEEE Access, 8, 47888–47899, 2020.
+- **DOI**: [https://doi.org/10.1109/access.2020.2978622](https://doi.org/10.1109/access.2020.2978622)
+- [Get bib file](/bib-files/R/2011_7.bib)
 ~~~
 </div>
 ~~~
@@ -146,7 +212,7 @@ hascode = false
 - **Authors**: Janne Sorsa
 - **Published in**: EURO Journal on Computational Optimization, 7(1), 79–122, 2019.
 - **DOI**: [https://doi.org/10.1007/s13675-018-0108-8](https://doi.org/10.1007/s13675-018-0108-8)
-- [Get bib file](/bib-files/R/2019_65.bib)
+- [Get bib file](/bib-files/R/2016_49.bib)
 ~~~
 </div>
 ~~~
@@ -285,6 +351,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Route Optimization of the Road Transportation of Dangerous Goods Based on Bi-Level Programming
+- **Authors**: Yang Song, Ruo-yu Wang
+- **Published in**: Journal of Highway and Transportation Research and Development (English Edition), 10(2), 92–97, 2016.
+- **DOI**: [https://doi.org/10.1061/jhtrcq.0000508](https://doi.org/10.1061/jhtrcq.0000508)
+- [Get bib file](/bib-files/R/2016_4.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Research on Multi-Level Optimization of A/C Bi-Rotary Milling Head Using TRIZ
 - **Authors**: Special Issues Editor
 - **Published in**: International Journal of Simulation: Systems, Science & Technology, 2016.
@@ -395,6 +472,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Research on the Bi-level Programming Model for Ticket Fare Pricing of Urban Rail Transit based on Particle Swarm Optimization Algorithm
+- **Authors**: Zhao Xueyu, Yang Jiaqi
+- **Published in**: Procedia - Social and Behavioral Sciences, 96, 633–642, 2013.
+- **DOI**: [https://doi.org/10.1016/j.sbspro.2013.08.074](https://doi.org/10.1016/j.sbspro.2013.08.074)
+- [Get bib file](/bib-files/R/2013_43.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Robust identification and its properties of nonlinear bilevel multi-stage dynamic system
 - **Authors**: Zhigang Jiang, Jinlong Yuan, Enmin Feng
 - **Published in**: Applied Mathematics and Computation, 219(12), 6979–6985, 2013.
@@ -444,6 +532,17 @@ hascode = false
 - **Published in**: 2012 8th International Conference on Natural Computation, 2012.
 - **DOI**: [https://doi.org/10.1109/icnc.2012.6234677](https://doi.org/10.1109/icnc.2012.6234677)
 - [Get bib file](/bib-files/R/Zou_2012_35.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Research on allocation and optimization of passenger structure within comprehensive transportation corridor based on bi-level multi-objective programming
+- **Authors**: Li Yanhong, Wang Dong, Sun Xiaonian, Yuan Zhenzhou
+- **Published in**: Proceedings 2011 International Conference on Transportation, Mechanical, and Electrical Engineering (TMEE), 2011.
+- **DOI**: [https://doi.org/10.1109/tmee.2011.6199189](https://doi.org/10.1109/tmee.2011.6199189)
+- [Get bib file](/bib-files/R/2011_7.bib)
 ~~~
 </div>
 ~~~
