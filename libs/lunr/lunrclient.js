@@ -28,15 +28,18 @@ function parseLunrResults(results) {
         var id = results[i]["ref"];
         var item = PREVIEW_LOOKUP[id]
         var title = item["t"];
+        var bb = item["b"] === undefined ? "No description." : item["b"];
         var tid = item["tid"];
         var link = item["l"].replace("__site/", "") + '#' + tid;
-        var result = ('<li><span class="result-title"><a href="' + link + '">'
-                    + title + '</a></span>');
+        console.log(link);
+        var result = ('<span class="result-title"><a href="' + link + '">'
+            + title + '</a></span><p class="result-body">' + bb + '</p>');
         html.push(result);
     }
     if (html.length) {
-        html.join("");
-        return '<ul>'+html+'</ul>'
+        // html.join('');
+        // console.log(html);
+        return html.join('');
     }
     else {
         return "";
@@ -84,5 +87,9 @@ window.onload = function() {
         // empty query: show 0 results (no query)
         showResultCount("0 (empty query)");
     }
-    document.getElementById("focus").focus();
+
+    var fcs = document.getElementById("focus");
+    if (fcs) {
+        fcs.focus();
+    }
 };
