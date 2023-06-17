@@ -10,11 +10,11 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Corrigendum: Bi-level optimization dispatch of integrated-energy systems with P2G and carbon capture
-- **Authors**: Zongnan Zhang, Jun Du, Menghan Li, Jing Guo, Zhenyang Xu, Weikang Li
-- **Published in**: Frontiers in Energy Research, 11, 2023.
-- **DOI**: [https://doi.org/10.3389/fenrg.2023.1109799](https://doi.org/10.3389/fenrg.2023.1109799)
-- [Get bib file](/bib-files/C/2022_32.bib)
+### Convergences for robust bilevel polynomial programmes with applications
+- **Authors**: Thai Doan Chuong, Xinghuo Yu, Andrew Eberhard, Chaojie Li, Chen Liu
+- **Published in**: Optimization Methods and Software, 1–34, 2023.
+- **DOI**: [https://doi.org/10.1080/10556788.2023.2189719](https://doi.org/10.1080/10556788.2023.2189719)
+- [Get bib file](/bib-files/C/2013_3.bib)
 ~~~
 </div>
 ~~~
@@ -36,7 +36,7 @@ hascode = false
 - **Authors**: Kai Chen, Yilin Chen
 - **Published in**: Computational Intelligence and Neuroscience, 2022, 1–12, 2022.
 - **DOI**: [https://doi.org/10.1155/2022/8589396](https://doi.org/10.1155/2022/8589396)
-- [Get bib file](/bib-files/C/2014_0.bib)
+- [Get bib file](/bib-files/C/2013_3.bib)
 ~~~
 </div>
 ~~~
@@ -58,7 +58,7 @@ hascode = false
 - **Authors**: Gaoxi Li, Xinmin Yang
 - **Published in**: Journal of Optimization Theory and Applications, 188(3), 724–743, 2021.
 - **DOI**: [https://doi.org/10.1007/s10957-020-01804-9](https://doi.org/10.1007/s10957-020-01804-9)
-- [Get bib file](/bib-files/C/2014_0.bib)
+- [Get bib file](/bib-files/C/2013_3.bib)
 ~~~
 </div>
 ~~~
@@ -135,7 +135,7 @@ hascode = false
 - **Authors**: Thomas Kleinert, Martine Labbé, Fränk Plein, Martin Schmidt
 - **Published in**: Optimization Letters, 15(4), 1027–1040, 2020.
 - **DOI**: [https://doi.org/10.1007/s11590-020-01660-6](https://doi.org/10.1007/s11590-020-01660-6)
-- [Get bib file](/bib-files/C/2014_0.bib)
+- [Get bib file](/bib-files/C/2013_3.bib)
 ~~~
 </div>
 ~~~
@@ -443,7 +443,7 @@ hascode = false
 - **Authors**: Hairong Dong, Xiang Gao, Tongxin Gao, Xubin Sun, Qianling Wang
 - **Published in**: IFAC Proceedings Volumes, 47(3), 12116–12121, 2014.
 - **DOI**: [https://doi.org/10.3182/20140824-6-za-1003.01879](https://doi.org/10.3182/20140824-6-za-1003.01879)
-- [Get bib file](/bib-files/C/2014_0.bib)
+- [Get bib file](/bib-files/C/2013_46.bib)
 ~~~
 </div>
 ~~~
@@ -499,6 +499,17 @@ hascode = false
 - **Published in**: 2014 IEEE Conference and Expo Transportation Electrification Asia-Pacific (ITEC Asia-Pacific), 2014.
 - **DOI**: [https://doi.org/10.1109/itec-ap.2014.6941128](https://doi.org/10.1109/itec-ap.2014.6941128)
 - [Get bib file](/bib-files/C/Tianyang_Zhao_2014_178.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Considering decision decentralizations to solve bi-level multi-objective decision-making problems: A fuzzy approach
+- **Authors**: Liang-Hsuan Chen, Hsin-Hung Chen
+- **Published in**: Applied Mathematical Modelling, 37(10–11), 6884–6898, 2013.
+- **DOI**: [https://doi.org/10.1016/j.apm.2013.02.012](https://doi.org/10.1016/j.apm.2013.02.012)
+- [Get bib file](/bib-files/C/2013_3.bib)
 ~~~
 </div>
 ~~~

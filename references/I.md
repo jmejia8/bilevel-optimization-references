@@ -14,7 +14,7 @@ hascode = false
 - **Authors**: Abbas Zare Ghaleh Seyyedi, Mohammad Javad Armand, Saeid Shahmoradi, Sara Mahmoudi Rashid, Ehsan Akbari, Ali Jawad Kadhim Al-Hassanawy
 - **Published in**: International Journal of Electrical Power &amp; Energy Systems, 145, 108670, 2023.
 - **DOI**: [https://doi.org/10.1016/j.ijepes.2022.108670](https://doi.org/10.1016/j.ijepes.2022.108670)
-- [Get bib file](/bib-files/I/2023_5.bib)
+- [Get bib file](/bib-files/I/1.687026357486329e92022_5.bib)
 ~~~
 </div>
 ~~~
@@ -25,7 +25,7 @@ hascode = false
 - **Authors**: Yangang Zou, Fangfang Zheng, Zhichen Fan, Youhua Tang
 - **Published in**: 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC), 2022.
 - **DOI**: [https://doi.org/10.1109/itsc55140.2022.9922535](https://doi.org/10.1109/itsc55140.2022.9922535)
-- [Get bib file](/bib-files/I/2020_27.bib)
+- [Get bib file](/bib-files/I/1.687026357486329e92022_5.bib)
 ~~~
 </div>
 ~~~
@@ -102,7 +102,7 @@ hascode = false
 - **Authors**: Yujian Ye, Dimitrios Papadaskalopoulos, Jalal Kazempour, Goran Strbac
 - **Published in**: IEEE Transactions on Power Systems, 35(1), 163–176, 2020.
 - **DOI**: [https://doi.org/10.1109/tpwrs.2019.2925317](https://doi.org/10.1109/tpwrs.2019.2925317)
-- [Get bib file](/bib-files/I/2020_27.bib)
+- [Get bib file](/bib-files/I/1.687026357486329e92022_5.bib)
 ~~~
 </div>
 ~~~
@@ -279,6 +279,17 @@ hascode = false
 - **Published in**: Learning Systems: From Theory to Practice, 117–134, 2018.
 - **DOI**: [https://doi.org/10.1007/978-3-319-75181-8_6](https://doi.org/10.1007/978-3-319-75181-8_6)
 - [Get bib file](/bib-files/I/Hadjiski_2018_140.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Implementation of the  - Constraint Method in Special Class of Multi-objective Fuzzy Bi-Level Nonlinear Problems
+- **Authors**: Azza Hassan Amer
+- **Published in**: Pakistan Journal of Statistics and Operation Research, 13(4), 739, 2017.
+- **DOI**: [https://doi.org/10.18187/pjsor.v13i4.1698](https://doi.org/10.18187/pjsor.v13i4.1698)
+- [Get bib file](/bib-files/I/1.687026357486329e92022_5.bib)
 ~~~
 </div>
 ~~~
@@ -773,7 +784,7 @@ hascode = false
 - **Authors**: Elshafei, EL-Sherbeny
 - **Published in**: Trends in Applied Sciences Research, 3(2), 154–164, 2008.
 - **DOI**: [https://doi.org/10.3923/tasr.2008.154.164](https://doi.org/10.3923/tasr.2008.154.164)
-- [Get bib file](/bib-files/I/2022_8.bib)
+- [Get bib file](/bib-files/I/1.687026357486329e92022_5.bib)
 ~~~
 </div>
 ~~~
@@ -960,7 +971,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.1021/acs.jpcc.0c10037.s001](https://doi.org/10.1021/acs.jpcc.0c10037.s001)
-- [Get bib file](/bib-files/I/1_253.bib)
+- [Get bib file](/bib-files/I/1.687026357486329e92022_5.bib)
 ~~~
 </div>
 ~~~

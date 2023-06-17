@@ -14,18 +14,18 @@ hascode = false
 - **Authors**: Boyu Chen, Yanbo Che, Zhihao Zheng, Shuaijun Zhao
 - **Published in**: Energy, 269, 126761, 2023.
 - **DOI**: [https://doi.org/10.1016/j.energy.2023.126761](https://doi.org/10.1016/j.energy.2023.126761)
-- [Get bib file](/bib-files/M/2003_6.bib)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
 ~~~
 <div class="reference">
 ~~~
-### Modeling 5g Shared Base Station Planning Problemusing an Evolutionary Bi-Level Optimizationalgorithm
-- **Authors**: Lei Chen, Kuntao Li, Hai-Lin Liu
-- **Published in**: SSRN Electronic Journal, 2022.
-- **DOI**: [https://doi.org/10.2139/ssrn.4124949](https://doi.org/10.2139/ssrn.4124949)
-- [Get bib file](/bib-files/M/1_240.bib)
+### MO-PSO Based Bi-level Multi-objective Optimal Configuration of Energy Storage System in Distribution Network
+- **Authors**: Zhengguang Fu, Xiaoye Sun, Danyang Li, Bo Yang
+- **Published in**: 2022 5th International Conference on Energy, Electrical and Power Engineering (CEEPE), 2022.
+- **DOI**: [https://doi.org/10.1109/ceepe55110.2022.9783353](https://doi.org/10.1109/ceepe55110.2022.9783353)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -58,7 +58,7 @@ hascode = false
 - **Authors**: Yeonju Kim, Zherong Pan, Kris Hauser
 - **Published in**: 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021.
 - **DOI**: [https://doi.org/10.1109/icra48506.2021.9561846](https://doi.org/10.1109/icra48506.2021.9561846)
-- [Get bib file](/bib-files/M/1_240.bib)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -114,6 +114,17 @@ hascode = false
 - **Published in**: SIAM Journal on Optimization, 31(2), 1131–1157, 2021.
 - **DOI**: [https://doi.org/10.1137/19m1285457](https://doi.org/10.1137/19m1285457)
 - [Get bib file](/bib-files/M/Yongchang_Zhang_2013_139.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Modeling operation problem of active distribution networks with retailers and microgrids: A multi-objective bi-level approach
+- **Authors**: Hadi Fateh, Salah Bahramara, Amin Safari
+- **Published in**: Applied Soft Computing, 94, 106484, 2020.
+- **DOI**: [https://doi.org/10.1016/j.asoc.2020.106484](https://doi.org/10.1016/j.asoc.2020.106484)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -267,7 +278,7 @@ hascode = false
 - **Authors**: Rahim Mohammadi, Habib Rajabi Mashhadi, Mohammad Shahidehpour
 - **Published in**: IEEE Transactions on Smart Grid, 10(4), 3840–3848, 2019.
 - **DOI**: [https://doi.org/10.1109/tsg.2018.2839598](https://doi.org/10.1109/tsg.2018.2839598)
-- [Get bib file](/bib-files/M/2019_5.bib)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -389,6 +400,17 @@ hascode = false
 - **Published in**: 2019 IEEE Innovative Smart Grid Technologies - Asia (ISGT Asia), 2019.
 - **DOI**: [https://doi.org/10.1109/isgt-asia.2019.8881572](https://doi.org/10.1109/isgt-asia.2019.8881572)
 - [Get bib file](/bib-files/M/Yongchang_Zhang_2013_139.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-Objective Bi-Level Programming for the Energy-Aware Integration of Flexible Job Shop Scheduling and Multi-Row Layout
+- **Authors**: Hongliang Zhang, Haijiang Ge, Ruilin Pan, Yujuan Wu
+- **Published in**: Algorithms, 11(12), 210, 2018.
+- **DOI**: [https://doi.org/10.3390/a11120210](https://doi.org/10.3390/a11120210)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -542,7 +564,7 @@ hascode = false
 - **Authors**: Zhineng Hu, Ning Ma, Wen Gao, Chengwei Lv, Liming Yao
 - **Published in**: Knowledge-Based Systems, 123, 254–266, 2017.
 - **DOI**: [https://doi.org/10.1016/j.knosys.2017.02.022](https://doi.org/10.1016/j.knosys.2017.02.022)
-- [Get bib file](/bib-files/M/2017_55.bib)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -736,6 +758,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multi-objective Multi-level Filling Evolutionary Algorithm for the 3D Cutting Stock Problem
+- **Authors**: Yanira Gonzalez, Gara Miranda, Coromoto Leon
+- **Published in**: Procedia Computer Science, 96, 355–364, 2016.
+- **DOI**: [https://doi.org/10.1016/j.procs.2016.08.148](https://doi.org/10.1016/j.procs.2016.08.148)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multicore and data-level optimization
 - **Authors**: Jason D. Bakos
 - **Published in**: Embedded Systems, 49–103, 2016.
@@ -873,6 +906,17 @@ hascode = false
 - **Published in**: 17th AIAA/ISSMO Multidisciplinary Analysis and Optimization Conference, 2016.
 - **DOI**: [https://doi.org/10.2514/6.2016-3672](https://doi.org/10.2514/6.2016-3672)
 - [Get bib file](/bib-files/M/Wang_2016_77.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-objective Evolutionary Method for Dynamic Vehicle Routing and Scheduling Problem with Customers’ Satisfaction Level
+- **Authors**: Seyed Farid Ghannadpour, Mohsen Hooshfar
+- **Published in**: Proceedings of the International Conference on Operations Research and Enterprise Systems, 2015.
+- **DOI**: [https://doi.org/10.5220/0005172600910098](https://doi.org/10.5220/0005172600910098)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -1092,7 +1136,7 @@ hascode = false
 - **Authors**: George Kozanidis, Eftychia Kostarelou, Panagiotis Andrianesis, George Liberopoulos
 - **Published in**: Optimization, 62(8), 1045–1068, 2013.
 - **DOI**: [https://doi.org/10.1080/02331934.2013.801473](https://doi.org/10.1080/02331934.2013.801473)
-- [Get bib file](/bib-files/M/2013_156.bib)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -1357,6 +1401,17 @@ hascode = false
 - **Published in**: Springer Optimization and Its Applications, 49–61, 2012.
 - **DOI**: [https://doi.org/10.1007/978-1-4614-5131-0_4](https://doi.org/10.1007/978-1-4614-5131-0_4)
 - [Get bib file](/bib-files/M/Tseveendorj_2012_13.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Multi-level multi-objective decision problem through fuzzy random regression based objective function
+- **Authors**: Nureize Arbaiy, Junzo Watada
+- **Published in**: 2011 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2011), 2011.
+- **DOI**: [https://doi.org/10.1109/fuzzy.2011.6007355](https://doi.org/10.1109/fuzzy.2011.6007355)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -1917,7 +1972,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: Springer {US}, 2003.
 - **DOI**: [https://doi.org/10.1007/978-1-4757-3748-6](https://doi.org/10.1007/978-1-4757-3748-6)
-- [Get bib file](/bib-files/M/2003_6.bib)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -2012,6 +2067,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Model and interactive algorithm of bi-level multi-objective decision-making with multiple interconnected decision makers
+- **Authors**: Xinping Shi, Hong Sheng Xia
+- **Published in**: Journal of Multi-Criteria Decision Analysis, 10(1), 27–34, 2001.
+- **DOI**: [https://doi.org/10.1002/mcda.285](https://doi.org/10.1002/mcda.285)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### MULTILEVEL OPTIMIZATION OF LAMINATED COMPOSITE STRUCTURES
 - **Authors**: NASR N., NEGM M.
 - **Published in**: International Conference on Aerospace Sciences and Aviation Technology, 9(ASAT CONFERENCE), 1–16, 2001.
@@ -2049,7 +2115,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: Springer {US}, 1998.
 - **DOI**: [https://doi.org/10.1007/978-1-4613-0307-7](https://doi.org/10.1007/978-1-4613-0307-7)
-- [Get bib file](/bib-files/M/1998_22.bib)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~
@@ -2610,7 +2676,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.4337/9780857939258.00015](https://doi.org/10.4337/9780857939258.00015)
-- [Get bib file](/bib-files/M/1998_22.bib)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>
 ~~~

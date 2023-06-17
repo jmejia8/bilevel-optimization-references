@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Exploring the Impact of Regional Integrated Energy Systems Performance by Energy Storage Devices Based on a Bi-Level Dynamic Optimization Model
+- **Authors**: Baohong Jin, Zhichao Liu, Yichuan Liao
+- **Published in**: Energies, 16(6), 2629, 2023.
+- **DOI**: [https://doi.org/10.3390/en16062629](https://doi.org/10.3390/en16062629)
+- [Get bib file](/bib-files/E/1.687023086205471e92023_12.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Evolutionary Bi-level Optimization via Multi-objective Transformation-Based Lower Level Search
 - **Authors**: Lei Chen, Hai-Lin Liu, Ke Li, Kay Chen Tan
 - **Published in**: {IEEE} Transactions on Evolutionary Computation, 1–1, 2023.
@@ -32,11 +43,11 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Efficient Formulations for a Class of Bilevel Hub Network Interdiction Problems
-- **Authors**: Prasanna Ramamoorthy, Sachin Jayaswal, Ankur Sinha, Navneet Vidyarthi
-- **Published in**: SSRN Electronic Journal, 2022.
-- **DOI**: [https://doi.org/10.2139/ssrn.4207542](https://doi.org/10.2139/ssrn.4207542)
-- [Get bib file](/bib-files/E/1992_20.bib)
+### Efficient bi-level multi objective approach for budget-constrained dynamic Bag-of-Tasks scheduling problem in heterogeneous multi-cloud environment
+- **Authors**: Mouna Karaja, Abir Chaabani, Ameni Azzouz, Lamjed Ben Said
+- **Published in**: Applied Intelligence, 53(8), 9009–9037, 2022.
+- **DOI**: [https://doi.org/10.1007/s10489-022-03942-1](https://doi.org/10.1007/s10489-022-03942-1)
+- [Get bib file](/bib-files/E/1.687023086205471e92023_12.bib)
 ~~~
 </div>
 ~~~
@@ -47,7 +58,7 @@ hascode = false
 - **Authors**: Subhrajit Dutta, Amir H. Gandomi
 - **Published in**: Journal of Structural Engineering, 147(7), 2021.
 - **DOI**: [https://doi.org/10.1061/(asce)st.1943-541x.0003050](https://doi.org/10.1061/(asce)st.1943-541x.0003050)
-- [Get bib file](/bib-files/E/1992_20.bib)
+- [Get bib file](/bib-files/E/1.687023086205471e92023_12.bib)
 ~~~
 </div>
 ~~~
@@ -80,7 +91,7 @@ hascode = false
 - **Authors**: Tao Li, Yan Wan
 - **Published in**: Transportation Research Part E: Logistics and Transportation Review, 131, 267–291, 2019.
 - **DOI**: [https://doi.org/10.1016/j.tre.2019.09.018](https://doi.org/10.1016/j.tre.2019.09.018)
-- [Get bib file](/bib-files/E/1992_20.bib)
+- [Get bib file](/bib-files/E/1.687023086205471e92023_12.bib)
 ~~~
 </div>
 ~~~
@@ -230,6 +241,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Evolutionary multi-level robust solution search for noisy multi-objective optimisation problems with different noise levels
+- **Authors**: Hiroyuki Sato, Tomohisa Hashimoto
+- **Published in**: International Journal of Automation and Logistics, 2(1/2), 4, 2016.
+- **DOI**: [https://doi.org/10.1504/ijal.2016.074906](https://doi.org/10.1504/ijal.2016.074906)
+- [Get bib file](/bib-files/E/1.687023086205471e92023_12.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Evolutionary Bilevel Optimization: An Introduction and Recent Advances
 - **Authors**: Ankur Sinha, Pekka Malo, Kalyanmoy Deb
 - **Published in**: Adaptation, Learning, and Optimization, 71–103, 2016.
@@ -245,7 +267,7 @@ hascode = false
 - **Authors**: Abhishek Gupta, Jacek Mańdziuk, Yew-Soon Ong
 - **Published in**: Complex &amp; Intelligent Systems, 1(1–4), 83–95, 2015.
 - **DOI**: [https://doi.org/10.1007/s40747-016-0011-y](https://doi.org/10.1007/s40747-016-0011-y)
-- [Get bib file](/bib-files/E/2015_33.bib)
+- [Get bib file](/bib-files/E/1.687023086205471e92023_12.bib)
 ~~~
 </div>
 ~~~
@@ -674,7 +696,7 @@ hascode = false
 - **Authors**: Ue-Pyng Wen, Shuh-Tzy Hsu
 - **Published in**: European Journal of Operational Research, 62(3), 354–362, 1992.
 - **DOI**: [https://doi.org/10.1016/0377-2217(92)90124-r](https://doi.org/10.1016/0377-2217(92)90124-r)
-- [Get bib file](/bib-files/E/1992_20.bib)
+- [Get bib file](/bib-files/E/1.687023086205471e92023_12.bib)
 ~~~
 </div>
 ~~~

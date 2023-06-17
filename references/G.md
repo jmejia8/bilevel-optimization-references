@@ -14,17 +14,17 @@ hascode = false
 - **Authors**: Nguyen Van Thieu, Surajit Deb Barma, To Van Lam, Ozgur Kisi, Amai Mahesha
 - **Published in**: Journal of Hydrology, 617, 129034, 2023.
 - **DOI**: [https://doi.org/10.1016/j.jhydrol.2022.129034](https://doi.org/10.1016/j.jhydrol.2022.129034)
-- [Get bib file](/bib-files/G/2023_2.bib)
+- [Get bib file](/bib-files/G/2021_3.bib)
 ~~~
 </div>
 ~~~
 ~~~
 <div class="reference">
 ~~~
-### GL-GAN: Adaptive global and local bilevel optimization for generative adversarial network
-- **Authors**: Ying Liu, Heng Fan, Xiaohui Yuan, Jinhai Xiang
-- **Published in**: Pattern Recognition, 123, 108375, 2022.
-- **DOI**: [https://doi.org/10.1016/j.patcog.2021.108375](https://doi.org/10.1016/j.patcog.2021.108375)
+### GA/PD: a genetic algorithm based on problem decomposition for solving interval linear bilevel programming problems
+- **Authors**: Hecheng Li, Hong Li
+- **Published in**: Engineering Optimization, 55(4), 564–579, 2022.
+- **DOI**: [https://doi.org/10.1080/0305215x.2021.2014829](https://doi.org/10.1080/0305215x.2021.2014829)
 - [Get bib file](/bib-files/G/2005_41.bib)
 ~~~
 </div>

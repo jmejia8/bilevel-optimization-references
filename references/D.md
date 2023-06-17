@@ -10,11 +10,11 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Digital twin-driven robust bi-level optimisation model for COVID-19 medical waste location-transport under circular economy
-- **Authors**: Cejun Cao, Jiahui Liu, Yang Liu, Haoheng Wang, Mengjie Liu
-- **Published in**: Computers &amp; Industrial Engineering, 109107, 2023.
-- **DOI**: [https://doi.org/10.1016/j.cie.2023.109107](https://doi.org/10.1016/j.cie.2023.109107)
-- [Get bib file](/bib-files/D/2021_34.bib)
+### Data-adaptive M-estimators for robust regression via bi-level optimization
+- **Authors**: Ceyao Zhang, Tianjian Zhang, Feng Yin, Abdelhak M. Zoubir
+- **Published in**: Signal Processing, 210, 109063, 2023.
+- **DOI**: [https://doi.org/10.1016/j.sigpro.2023.109063](https://doi.org/10.1016/j.sigpro.2023.109063)
+- [Get bib file](/bib-files/D/1.687023611720663e92023_5.bib)
 ~~~
 </div>
 ~~~
@@ -25,7 +25,7 @@ hascode = false
 - **Authors**: Kamini Singh, Rajit Gadh, Anoop Singh, Chaman Lal Dewangan
 - **Published in**: Applied Energy, 328, 120193, 2022.
 - **DOI**: [https://doi.org/10.1016/j.apenergy.2022.120193](https://doi.org/10.1016/j.apenergy.2022.120193)
-- [Get bib file](/bib-files/D/2019_14.bib)
+- [Get bib file](/bib-files/D/1.687023611720663e92023_5.bib)
 ~~~
 </div>
 ~~~
@@ -47,7 +47,7 @@ hascode = false
 - **Authors**: Martina Cerulli, Claudia D’Ambrosio, Leo Liberti, Mercedes Pelegrín
 - **Published in**: Journal of Global Optimization, 81(2), 529–557, 2021.
 - **DOI**: [https://doi.org/10.1007/s10898-021-00997-1](https://doi.org/10.1007/s10898-021-00997-1)
-- [Get bib file](/bib-files/D/2019_14.bib)
+- [Get bib file](/bib-files/D/1.687023611720663e92023_5.bib)
 ~~~
 </div>
 ~~~
@@ -168,7 +168,7 @@ hascode = false
 - **Authors**: Yang, Zhang, Yang, Lv
 - **Published in**: Applied Sciences, 9(9), 1794, 2019.
 - **DOI**: [https://doi.org/10.3390/app9091794](https://doi.org/10.3390/app9091794)
-- [Get bib file](/bib-files/D/2019_14.bib)
+- [Get bib file](/bib-files/D/1.687023611720663e92023_5.bib)
 ~~~
 </div>
 ~~~
@@ -334,6 +334,17 @@ hascode = false
 - **Published in**: Information Technologies and Control, 15(4), 2–9, 2017.
 - **DOI**: [https://doi.org/10.1515/itc-2017-0031](https://doi.org/10.1515/itc-2017-0031)
 - [Get bib file](/bib-files/D/Pavlova_2017_37.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Differential evolution with double-level archives for bi-objective cloud task scheduling
+- **Authors**: Fei-Long He, Wei-Neng Chen, Xiao-Min Hu
+- **Published in**: 2016 IEEE Congress on Evolutionary Computation (CEC), 2016.
+- **DOI**: [https://doi.org/10.1109/cec.2016.7744161](https://doi.org/10.1109/cec.2016.7744161)
+- [Get bib file](/bib-files/D/1.687023611720663e92023_5.bib)
 ~~~
 </div>
 ~~~
@@ -850,7 +861,7 @@ hascode = false
 - **Authors**: 
 - **Published in**: 
 - **DOI**: [https://doi.org/10.1021/acs.chemmater.9b00410.s001](https://doi.org/10.1021/acs.chemmater.9b00410.s001)
-- [Get bib file](/bib-files/D/1_313.bib)
+- [Get bib file](/bib-files/D/1.687023611720663e92023_5.bib)
 ~~~
 </div>
 ~~~

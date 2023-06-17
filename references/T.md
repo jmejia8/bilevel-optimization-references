@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### The New Solution Concept to Ill-Posed Bilevel Programming: Non-Antagonistic Pessimistic Solution
+- **Authors**: Xiang Li, Tiesong Hu, Xin Wang, Ali Mahmoud, Xiang Zeng
+- **Published in**: Mathematics, 11(6), 1422, 2023.
+- **DOI**: [https://doi.org/10.3390/math11061422](https://doi.org/10.3390/math11061422)
+- [Get bib file](/bib-files/T/2013_218.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Two effective heuristic methods of determining the numbers of fuzzy clustering centers based on bilevel programming
 - **Authors**: Kaikai Qiao, Junrong Zhang, Jiawei Chen
 - **Published in**: Applied Soft Computing, 132, 109718, 2023.
@@ -334,6 +345,17 @@ hascode = false
 - **Published in**: 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019.
 - **DOI**: [https://doi.org/10.1109/iros40897.2019.8968104](https://doi.org/10.1109/iros40897.2019.8968104)
 - [Get bib file](/bib-files/T/Tang_2019_351.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Tactical Plan Optimisation for Large Multi-Skilled Workforces Using a Bi-Level Model
+- **Authors**: Russell Ainslie, John McCall, Sid Shakya, Gilbert Owusu
+- **Published in**: 2018 IEEE Congress on Evolutionary Computation (CEC), 2018.
+- **DOI**: [https://doi.org/10.1109/cec.2018.8477701](https://doi.org/10.1109/cec.2018.8477701)
+- [Get bib file](/bib-files/T/2013_218.bib)
 ~~~
 </div>
 ~~~

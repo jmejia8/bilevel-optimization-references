@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Focus programming: a bi‐level programming approach to static stochastic optimization problems
+- **Authors**: Peijun Guo, Xide Zhu
+- **Published in**: International Transactions in Operational Research, 2023.
+- **DOI**: [https://doi.org/10.1111/itor.13322](https://doi.org/10.1111/itor.13322)
+- [Get bib file](/bib-files/F/2022_43.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Flexibility pricing in the active distribution network including renewable and flexibility sources as a bi-level optimization model
 - **Authors**: Mohammad Reza RaeisiNia, Shahram Javadi, Mohammad Reza Jokar, Seyed Ashkan Nejati
 - **Published in**: Sustainable Energy Technologies and Assessments, 52, 101947, 2022.

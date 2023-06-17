@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Location Optimization for Community Smart Parcel Lockers Based on Bilevel Programming
+- **Authors**: Xia Yang, Chenyang Wang, Xiaozheng He, Hedi Zhang, Guangming Xu
+- **Published in**: Journal of Advanced Transportation, 2023, 1–18, 2023.
+- **DOI**: [https://doi.org/10.1155/2023/1998188](https://doi.org/10.1155/2023/1998188)
+- [Get bib file](/bib-files/L/2012_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Learning Neuro-Symbolic Relational Transition Models for Bilevel Planning
 - **Authors**: Rohan Chitnis, Tom Silver, Joshua B. Tenenbaum, Tomas Lozano-Perez, Leslie Pack Kaelbling
 - **Published in**: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022.

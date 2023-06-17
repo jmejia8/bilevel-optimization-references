@@ -10,10 +10,10 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### On multiobjective bilevel optimization using tangential subdifferentials
-- **Authors**: Nazih Abderrazzak Gadhi, Mohamed Ohda
-- **Published in**: Journal of Industrial and Management Optimization, 19(7), 4949–4958, 2023.
-- **DOI**: [https://doi.org/10.3934/jimo.2022156](https://doi.org/10.3934/jimo.2022156)
+### Optimization design of crude oil distillation unit using bi-level surrogate model
+- **Authors**: Yingjian Xiong, Xuhua Shi, Yongjian Ma, Yifan Chen
+- **Published in**: Frontiers in Control Engineering, 4, 2023.
+- **DOI**: [https://doi.org/10.3389/fcteg.2023.1162318](https://doi.org/10.3389/fcteg.2023.1162318)
 - [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
@@ -1016,6 +1016,17 @@ hascode = false
 - **Published in**: Advances in Global Optimization, 23–31, 2014.
 - **DOI**: [https://doi.org/10.1007/978-3-319-08377-3_3](https://doi.org/10.1007/978-3-319-08377-3_3)
 - [Get bib file](/bib-files/O/Zhang_2014_259.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### On the computation of relaxed pessimistic solutions to MPECs
+- **Authors**: M. Červinka, C. Matonoha, J. V. Outrata
+- **Published in**: Optimization Methods and Software, 28(1), 186–206, 2013.
+- **DOI**: [https://doi.org/10.1080/10556788.2011.627585](https://doi.org/10.1080/10556788.2011.627585)
+- [Get bib file](/bib-files/O/1.677711304593316e92021_24.bib)
 ~~~
 </div>
 ~~~

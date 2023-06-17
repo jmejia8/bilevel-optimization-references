@@ -421,7 +421,7 @@ hascode = false
 - **Authors**: L. Mallozzi, R. Messalli, S. Patrì, A. Sacco
 - **Published in**: Springer Optimization and Its Applications, 171–181, 2018.
 - **DOI**: [https://doi.org/10.1007/978-3-319-99142-9_10](https://doi.org/10.1007/978-3-319-99142-9_10)
-- [Get bib file](/bib-files/S/2018_5.bib)
+- [Get bib file](/bib-files/S/2018_27.bib)
 ~~~
 </div>
 ~~~
@@ -1101,6 +1101,17 @@ programming problem
 ~~~
 <div class="reference">
 ~~~
+### Solving Bilevel Multiobjective Programming Problem by Elite Quantum Behaved Particle Swarm Optimization
+- **Authors**: Tao Zhang, Tiesong Hu, Jia-wei Chen, Zhongping Wan, Xuning Guo
+- **Published in**: Abstract and Applied Analysis, 2012, 1–20, 2012.
+- **DOI**: [https://doi.org/10.1155/2012/102482](https://doi.org/10.1155/2012/102482)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Solving bilevel programs with the KKT-approach
 - **Authors**: Gemayqzel Bouza Allende, Georg Still
 - **Published in**: Mathematical Programming, 138(1-2), 309–332, 2012.
@@ -1436,6 +1447,17 @@ programming problem
 - **Published in**: Applied Mechanics and Materials, 44-47, 3927–3931, 2010.
 - **DOI**: [https://doi.org/10.4028/www.scientific.net/amm.44-47.3927](https://doi.org/10.4028/www.scientific.net/amm.44-47.3927)
 - [Get bib file](/bib-files/S/Liangzhi_Zhang_2010_170.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Study on the Location of Distribution Centers: A Bi-Level Multi-Objective Approach
+- **Authors**: Jifeng Wang, Huapu Lu
+- **Published in**: Logistics, 2009.
+- **DOI**: [https://doi.org/10.1061/40996(330)448](https://doi.org/10.1061/40996(330)448)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
 ~~~
 </div>
 ~~~

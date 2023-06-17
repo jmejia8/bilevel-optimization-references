@@ -307,6 +307,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Robust mutant strain design by pessimistic optimization
+- **Authors**: Meltem Apaydin, Liang Xu, Bo Zeng, Xiaoning Qian
+- **Published in**: BMC Genomics, 18(S6), 2017.
+- **DOI**: [https://doi.org/10.1186/s12864-017-4025-7](https://doi.org/10.1186/s12864-017-4025-7)
+- [Get bib file](/bib-files/R/2011_7.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Reduction of the bilevel stochastic optimization problem with quantile objective function to a mixed-integer problem
 - **Authors**: Stephan Dempe, Sergey Ivanov, Andrey Naumov
 - **Published in**: Applied Stochastic Models in Business and Industry, 33(5), 544–554, 2017.

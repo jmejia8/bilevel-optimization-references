@@ -2287,10 +2287,10 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### A splitting algorithm for a class of bilevel equilibrium problems involving nonexpansive mappings
-- **Authors**: Phung M. Duc, Le D. Muu
-- **Published in**: Optimization, 65(10), 1855–1866, 2016.
-- **DOI**: [https://doi.org/10.1080/02331934.2016.1195831](https://doi.org/10.1080/02331934.2016.1195831)
+### An efficient two-level swarm intelligence approach for RNA secondary structure prediction with bi-objective minimum free energy scores
+- **Authors**: Soniya Lalwani, Rajesh Kumar, Nilama Gupta
+- **Published in**: Swarm and Evolutionary Computation, 27, 68–79, 2016.
+- **DOI**: [https://doi.org/10.1016/j.swevo.2015.09.008](https://doi.org/10.1016/j.swevo.2015.09.008)
 - [Get bib file](/bib-files/A/1.677708239946661e92022_2.bib)
 ~~~
 </div>
@@ -6494,6 +6494,17 @@ hascode = false
 - **Published in**: 9th AIAA/ISSMO Symposium on Multidisciplinary Analysis and Optimization, 2002.
 - **DOI**: [https://doi.org/10.2514/6.2002-5426](https://doi.org/10.2514/6.2002-5426)
 - [Get bib file](/bib-files/A/Utturwar_2002_55.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### A Bi-Level Non-Linear Multi-Objective Decision Making under Fuzziness
+- **Authors**: Mahmoud A. Abo-Sinna
+- **Published in**: OPSEARCH, 38(5), 484–495, 2001.
+- **DOI**: [https://doi.org/10.1007/bf03398652](https://doi.org/10.1007/bf03398652)
+- [Get bib file](/bib-files/A/1.677708239946661e92022_2.bib)
 ~~~
 </div>
 ~~~

@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### K-means monarchy butterfly optimization for feature selection and Bi-LSTM for arrhythmia classification
+- **Authors**: Ravindar Mogili, G. Narsimha
+- **Published in**: Soft Computing, 2023.
+- **DOI**: [https://doi.org/10.1007/s00500-023-08579-x](https://doi.org/10.1007/s00500-023-08579-x)
+- [Get bib file](/bib-files/K/2023_20.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### K-means cluster interactive algorithm-based evolutionary approach for solving bilevel multi-objective programming problems
 - **Authors**: Y. Abo-Elnaga, S. Nasr
 - **Published in**: Alexandria Engineering Journal, 2021.

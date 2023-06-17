@@ -10,6 +10,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### 6G shared base station planning using an evolutionary bi-level multi-objective optimization algorithm
+- **Authors**: Kuntao Li, Weizhong Wang, Hai-Lin Liu
+- **Published in**: Information Sciences, 642, 119224, 2023.
+- **DOI**: [https://doi.org/10.1016/j.ins.2023.119224](https://doi.org/10.1016/j.ins.2023.119224)
+- [Get bib file](/bib-files/Z/2023_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Z-Level Programming Language
 - **Authors**: Bradford Chamberlain
 - **Published in**: Encyclopedia of Parallel Computing, 2161–2161, 2011.

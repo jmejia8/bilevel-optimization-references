@@ -32,10 +32,10 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### WHEN SEMIVECTORIAL BILEVEL OPTIMIZATION REDUCES TO ORDINARY BILEVEL OPTIMIZATION
-- **Authors**: Henri Bonnel
-- **Published in**: Annals of the Academy of Romanian Scientists Series on Mathematics and Its Application, 12(1–2), 344–363, 2020.
-- **DOI**: [https://doi.org/10.56082/annalsarscimath.2020.1-2.344](https://doi.org/10.56082/annalsarscimath.2020.1-2.344)
+### Web service design defects detection: A bi-level multi-objective approach
+- **Authors**: Soumaya Rebai, Marouane Kessentini, Hanzhang Wang, Bruce Maxim
+- **Published in**: Information and Software Technology, 121, 106255, 2020.
+- **DOI**: [https://doi.org/10.1016/j.infsof.2019.106255](https://doi.org/10.1016/j.infsof.2019.106255)
 - [Get bib file](/bib-files/W/2011_71.bib)
 ~~~
 </div>

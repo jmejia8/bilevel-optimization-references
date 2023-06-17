@@ -10,10 +10,10 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Projection-Free Stochastic Bi-Level Optimization
-- **Authors**: Zeeshan Akhtar, Amrit Singh Bedi, Srujan Teja Thomdapu, Ketan Rajawat
-- **Published in**: IEEE Transactions on Signal Processing, 70, 6332–6347, 2022.
-- **DOI**: [https://doi.org/10.1109/tsp.2023.3234462](https://doi.org/10.1109/tsp.2023.3234462)
+### Pseudo-feasible solutions in evolutionary bilevel optimization: Test problems and performance assessment
+- **Authors**: Jesús-Adolfo Mejía-de-Dios, Efrén Mezura-Montes, Porfirio Toledo-Hernández
+- **Published in**: Applied Mathematics and Computation, 412, 126577, 2022.
+- **DOI**: [https://doi.org/10.1016/j.amc.2021.126577](https://doi.org/10.1016/j.amc.2021.126577)
 - [Get bib file](/bib-files/P/2012_124.bib)
 ~~~
 </div>
