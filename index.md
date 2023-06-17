@@ -20,6 +20,13 @@ load_references()
 \textoutput{references}
 -->
 
+
+# Explore
+
+- [New articles](/search/index.html?q=2023)
+- [Software](/software)
+- [PhD theses](/thesis)
+
 # Interest Over Time
 
 ```julia:ex1
