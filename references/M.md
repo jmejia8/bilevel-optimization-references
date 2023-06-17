@@ -21,6 +21,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Multiobjective Bilevel Optimization: A Survey of the State-of-the-Art
+- **Authors**: Jesús-Adolfo Mejía-de-Dios, Alejandro Rodríguez-Molina, Efrén Mezura-Montes
+- **Published in**: IEEE Transactions on Systems, Man, and Cybernetics: Systems, 1-0, 2023.
+- **DOI**: [https://doi.org/10.1109/TSMC.2023.3271125](https://doi.org/10.1109/TSMC.2023.3271125)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### MO-PSO Based Bi-level Multi-objective Optimal Configuration of Energy Storage System in Distribution Network
 - **Authors**: Zhengguang Fu, Xiaoye Sun, Danyang Li, Bo Yang
 - **Published in**: 2022 5th International Conference on Energy, Electrical and Power Engineering (CEEPE), 2022.
@@ -1638,6 +1649,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Mixed Integer Nonlinear Bilevel Programming: Deterministic Global Optimization
+- **Authors**: Zeynep H. Gümüş, Christodoulos A. Floudas
+- **Published in**: Encyclopedia of Optimization, 2225–2230, 2008.
+- **DOI**: [https://doi.org/10.1007/978-0-387-74759-0_392](https://doi.org/10.1007/978-0-387-74759-0_392)
+- [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Multilevel thresholding algorithm based on particle swarm optimization for image segmentation
 - **Authors**: Chen Wei, Fang Kangling
 - **Published in**: 2008 27th Chinese Control Conference, 2008.
@@ -2067,10 +2089,10 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
-### Model and interactive algorithm of bi-level multi-objective decision-making with multiple interconnected decision makers
-- **Authors**: Xinping Shi, Hong Sheng Xia
-- **Published in**: Journal of Multi-Criteria Decision Analysis, 10(1), 27–34, 2001.
-- **DOI**: [https://doi.org/10.1002/mcda.285](https://doi.org/10.1002/mcda.285)
+### Multilevel Methods For Optimal Design
+- **Authors**: Natalia M. Alexandrov
+- **Published in**: Encyclopedia of Optimization, 1618–1627, 2001.
+- **DOI**: [https://doi.org/10.1007/0-306-48332-7_321](https://doi.org/10.1007/0-306-48332-7_321)
 - [Get bib file](/bib-files/M/1.687021865528298e92023_2.bib)
 ~~~
 </div>

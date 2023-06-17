@@ -2562,6 +2562,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Bi-Level Generalized Quasi-Convex Optimization in Ecologic-Economic Efficiency
+- **Authors**: Gabriela Cristescu, Laurenţiu Jitaru, Silviu-Gabriel Szentesi, George Venkov, Ralitza Kovacheva, Vesela Pasheva
+- **Published in**: AIP Conference Proceedings, 2009.
+- **DOI**: [https://doi.org/10.1063/1.3271623](https://doi.org/10.1063/1.3271623)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Bilevel optimization formulation for parameter estimation in vapor–liquid(–liquid) phase equilibrium problems
 - **Authors**: George M. Bollas, Paul I. Barton, Alexander Mitsos
 - **Published in**: Chemical Engineering Science, 64(8), 1768–1783, 2009.
@@ -2688,6 +2699,17 @@ hascode = false
 - **Published in**: Journal of Systems Science and Complexity, 22(3), 446–459, 2009.
 - **DOI**: [https://doi.org/10.1007/s11424-009-9177-3](https://doi.org/10.1007/s11424-009-9177-3)
 - [Get bib file](/bib-files/B/Zhang_2008_194.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel Programming Framework for Enterprise-Wide Process Networks Under Uncertainty
+- **Authors**: Efstratios N. Pistikopoulos, Nuno P. Faísca, Pedro M. Saraiva, Berç Rustem
+- **Published in**: Encyclopedia of Optimization, 248–255, 2008.
+- **DOI**: [https://doi.org/10.1007/978-0-387-74759-0_42](https://doi.org/10.1007/978-0-387-74759-0_42)
+- [Get bib file](/bib-files/B/1.67771370578814e92022_21.bib)
 ~~~
 </div>
 ~~~
@@ -3042,6 +3064,17 @@ hascode = false
 - **Published in**: 9th AIAA/ISSMO Symposium on Multidisciplinary Analysis and Optimization, 2002.
 - **DOI**: [https://doi.org/10.2514/6.2002-5409](https://doi.org/10.2514/6.2002-5409)
 - [Get bib file](/bib-files/B/Sobieszczanski_Sobieski_1999_120.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
+### Bilevel Programming: Optimality Conditions and Duality
+- **Authors**: S. Zlobec
+- **Published in**: Encyclopedia of Optimization, 180–185, 2001.
+- **DOI**: [https://doi.org/10.1007/0-306-48332-7_39](https://doi.org/10.1007/0-306-48332-7_39)
+- [Get bib file](/bib-files/B/1.677712602357119e92022_3.bib)
 ~~~
 </div>
 ~~~

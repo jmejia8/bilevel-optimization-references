@@ -1847,6 +1847,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### A Review on Bilevel Optimization: From Classical to Evolutionary Approaches and Applications
+- **Authors**: Ankur Sinha, Pekka Malo, Kalyanmoy Deb
+- **Published in**: IEEE Transactions on Evolutionary Computation, 22(2), 276-295, 2018.
+- **DOI**: [https://doi.org/10.1109/TEVC.2017.2712906](https://doi.org/10.1109/TEVC.2017.2712906)
+- [Get bib file](/bib-files/A/1.677708239950344e92022_23.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### A bi-level optimization for an HVAC system
 - **Authors**: Luping Zhuang, Xi Chen, Xiaohong Guan
 - **Published in**: Cluster Computing, 20(4), 3237–3249, 2017.

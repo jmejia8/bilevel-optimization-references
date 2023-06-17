@@ -131,6 +131,17 @@ hascode = false
 ~~~
 <div class="reference">
 ~~~
+### Generation rescheduling using multiobjective bilevel optimization
+- **Authors**: Kiran Babu VAKKAPATLA, Srinivasa Varma PINNI
+- **Published in**: TURKISH JOURNAL OF ELECTRICAL ENGINEERING &amp; COMPUTER SCIENCES, 27(3), 2186–2196, 2019.
+- **DOI**: [https://doi.org/10.3906/elk-1804-77](https://doi.org/10.3906/elk-1804-77)
+- [Get bib file](/bib-files/G/2017_94.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Global optimization of multilevel electricity market models including network design and graph partitioning
 - **Authors**: Thomas Kleinert, Martin Schmidt
 - **Published in**: Discrete Optimization, 33, 43–69, 2019.

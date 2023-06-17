@@ -1761,6 +1761,17 @@ programming problem
 ~~~
 <div class="reference">
 ~~~
+### Stochastic Bilevel Programs
+- **Authors**: Laura Wynter
+- **Published in**: Encyclopedia of Optimization, 2464–2471, 2001.
+- **DOI**: [https://doi.org/10.1007/0-306-48332-7_490](https://doi.org/10.1007/0-306-48332-7_490)
+- [Get bib file](/bib-files/S/1.677711304591663e92021_22.bib)
+~~~
+</div>
+~~~
+~~~
+<div class="reference">
+~~~
 ### Structural Optimization of a Spherical Parallel Manipulator Using a Two-Level Approach
 - **Authors**: Florence Bidault, Chin-Pun Teng, Jorge Angeles
 - **Published in**: Volume 2A: 27th Design Automation Conference, 2001.
